@@ -1,0 +1,188 @@
+```
+## Product Requirements Document: TxDMV.gov - Buying or Selling a Vehicle Page
+
+**1. Introduction**
+
+This document details the content requirements for the "Buying or Selling a Vehicle" page on the TxDMV.gov website. It provides specifications for implementing the page's core content, focusing on accuracy and clarity to ensure user comprehension.
+
+**2. Goals**
+
+*   Provide clear and concise information to motorists about the process of buying or selling a vehicle in Texas.
+*   Offer guidance and resources to ensure a smooth and legal transaction.
+*   Direct users to relevant forms, online services, and contact information.
+
+**3. Content Specifications**
+
+### 3.1. Main Page Content
+
+#### 3.1.1. Temporary Tag Replacement Notice
+
+*   **Content:** "Effective July 1, 2025, temporary tags will be replaced with metal license plates. Visit [link to `/HB718`] House Bill 718 Implementation for more details."
+*   **Note:** The link needs to be to `/HB718`.
+
+#### 3.1.2. Tabbed Content
+
+The main content is organized into three tabs: "Selling a Vehicle," "Buying a Vehicle," and "Special Situations."
+
+##### 3.1.2.1. Selling a Vehicle Tab
+
+*   **Content:**
+    *   **Vehicle Transfer Notification Call to Action:**
+        *   "Submit a Vehicle Transfer Notification"
+        *   Link to: `https://webdealer.txdmv.gov/title/publicVehicleTransfer`
+    *   **Column 1 Content:**
+        *   "Vehicles are required to be titled in the buyer's name within 30 days from the date of sale. Failing to properly transfer a vehicle into the buyer's name could result in the seller being held responsible for tickets, toll violations or even crimes committed with the vehicle. To ensure this doesn't happen to you, **accompany the buyer to your county tax office to ensure a vehicle title application is filed**. A dealer is not required to title in the dealership’s name if you sell or trade-in your vehicle to a licensed motor vehicle dealer. The vehicle stays in your name until it is sold to an individual, which may take months or in some cases, years. To protect yourself, file a Vehicle Transfer Notification. When a vehicle transfer notification is received, TxDMV updates the motor vehicle record to show the vehicle as sold. When you file the notification within 30 days from the date of sale, you cannot be held responsible for parking tickets and toll violations that have been committed by the person who purchased the vehicle."
+    *   **Column 2 Content:**
+        *   "Find Your Local Tax Office & DMV"
+        *   DMV Locator form (Select County)
+    *   "If you submit a Vehicle Transfer Notification and are still receiving parking tickets and/or tolls, you may contact the department for a confirmation email or submit a [link to `/sites/default/files/form_files/VTR-275.pdf`]Request for Texas Motor Vehicle Information (Form VTR-275), that shows the month and year the vehicle was transferred."
+    *   "**Provide the buyer with the following:**"
+        *   "A properly signed title, including the date of sale and odometer reading"
+        *   "Signed [link to `/sites/default/files/form_files/130-U.pdf`]Application for Texas Title and/or Registration (Form 130-U) with the sales price clearly shown."
+    *   "A seller should keep detailed written records of any transaction, including contact information for the buyer, the date of sale and information on the vehicle, including the Vehicle Identification Number (VIN)."
+    *   "The seller has the option to remove their license plates and registration sticker from the vehicle. There are three options for removed license plates:"
+        *   "The seller may transfer their license plates to a vehicle to be purchased, if the vehicle classification is the same."
+        *   "The seller may keep their license plates for future transfer to another vehicle, but the registration sticker is not transferred."
+        *   "If the seller does not transfer or keep their license plates, the license plates must be disposed of by defacing the front of the plates, either with permanent black ink or another method in order to prevent fraudulent use."
+    *   "For more information about vehicle title transfers, please call us at (888) 368-4689 or (512) 465-3000, or send us an [link to `mailto:askDMV@txdmv.gov`]e-mail."
+
+##### 3.1.2.2. Buying a Vehicle Tab
+
+*   **Content:**
+    *   **Title Check Call to Action:**
+        *   "Title Check - look before you buy"
+        *   Link to: `/motorists/buying-or-selling-a-vehicle/title-check-look-before-you-buy`
+    *   "## Buying From a Dealer"
+        *   "If you buy your vehicle from a dealer, the dealer is required to file the title application on your behalf, so you will not have to visit the tax office. Make sure the dealer provides you with a receipt showing the vehicle has been titled in your name."
+    *   "## Buying From an Individual"
+    *   **Column 1 Content:**
+        *   "If buying from an individual, **have the seller accompany you to the county tax office to avoid unwanted surprises**. Before submitting the title application, a tax office representative can tell you if the title being signed over to you is correct and if it has any salvage or legal issues. You can also use [link to `/motorists/buying-or-selling-a-vehicle/title-check-look-before-you-buy`]Title Check to see if the title of the vehicle you are thinking about buying has any issues impacting its value."
+        *   "In addition to the title, ask the seller to provide you with:"
+            *   "The signed vehicle title"
+            *   "[link to `/sites/default/files/form_files/130-U.pdf`]Application for Texas Title and/or Registration (Form 130-U)"
+            *   "Any other supporting documents, such as release of lien or power of attorney"
+    *   **Column 2 Content:**
+        *   "Find Your Local Tax Office & DMV"
+        *   DMV Locator form
+    *   "Instructions for Completing the Application for Texas Title and/or Registration"
+        *   Link to: `/sites/default/files/form_files/VTR-130-UIF.pdf`
+    *   "Keep a written record that includes the name and address of the seller, date of sale and vehicle information, including the VIN. Failure to title a vehicle within 30 days from the date of sale may result in delinquent transfer penalties."
+    *   "You must provide proof of liability insurance when you title and register your vehicle. If you do not provide proof of insurance, you may apply for ‘title only’."
+    *   "The Vehicle Inspection Report (VIR), which is proof of a safety inspection (commercial vehicle) or emissions inspection, must be provided if a record of current inspection is not in the state database. Ask the seller for a copy of the latest VIR if it is available."
+    *   "Non-Commercial vehicles registered in one of the following 17 counties are not required to obtain a passing safety inspection, but must still obtain a passing emissions inspection prior to registration: Brazoria, Collin, Dallas, Denton, El Paso, Ellis, Fort Bend, Galveston, Harris, Johnson, Kaufman, Montgomery, Parker, Rockwall, Tarrant, Travis, Williamson."
+    *   "All commercial vehicles must continue to obtain a passing commercial inspection regardless of county of residence."
+    *   **Vehicle Transit Permit Call to Action:**
+        *   "Get a Vehicle Transit Permit"
+        *   Link to: `https://permit.txdmv.gov/Permit/VTPermit`
+    *   "## Trailers"
+        *   "Registration is required for all non-farm trailers operating on public highways. Registration and titling requirements vary according to trailer type and weight. Visit the link below for more information about trailers, including requirements for assembled trailers."
+        *   "Additional Information for Trailers"
+        *   Link to: `/motorists/buying-or-selling-a-vehicle/trailers`
+    *   "## Out of State and Imported Vehicles"
+        *   "If you did not purchase your vehicle in Texas, learn more about purchasing out-of-state or imported vehicles."
+        *   "Out of State and Imported Vehicles"
+        *   Link to: `/motorists/buying-or-selling-a-vehicle/out-of-state-and-foreign-vehicles`
+    *   "## Fees"
+        *   "If buying from an individual, a motor vehicle sales tax (6.25 percent) on either the purchase price or standard presumptive value (whichever is the highest value), must be paid when the vehicle is titled. The title, registration and local fees are also due. Contact your county tax office to estimate the amount of sales tax due and to learn which forms of payment are accepted. Acceptable forms of payment vary by county."
+    *   "## Title Application Processing Time"
+        *   "Please allow a minimum of 20 business days for processing of your title application. If there is a lien on the vehicle, the lienholder will receive the title. If you have not received your title within 30 business days, please contact us."
+    *   "## Title Correction"
+        *   "If you receive your title and notice that your name is misspelled, please contact your local county tax office."
+            *   "If the department or the county made the error, the error can be corrected at no charge."
+            *   "If the department issued the title based on the information contained in the title application, you or your lienholder (if applicable) will need to submit a new application and fee to your county tax office to correct the error."
+    *   "## Vehicle Color"
+        *   "TxDMV collects vehicle color information. Please refer to the Vehicle Color Chart when completing a vehicle title application."
+        *   "Vehicle Color Chart"
+        *    Link to:`/sites/default/files/body-files/vehiclecolorchart.pdf`
+    *   "## Avoid Buying a Stolen Vehicle"
+        *   "Many stolen vehicles are sold to unsuspecting buyers. If you knowingly buy a stolen car, you can be arrested. If you buy a stolen car unknowingly, you could lose the car and your money. To avoid becoming the car thief's second victim, we urge you to keep these tips in mind:"
+        *   "When buying from a private individual, make sure the title and registration match the name and address of the person selling the car."
+        *   "Be cautious of a seller with no fixed address, place of employment or phone number."
+        *   "Ask the seller for references about past financing and insurance on the vehicle. Verify the information with the bank, finance company or agent."
+        *   "Ensure the vehicle identification number (VIN) on the automobile's dash is present, secure and unaltered."
+        *   "Check to ensure the VIN plate has not been repainted and the numbers stamped in the plate appear to be the original factory numbers."
+        *   "If in doubt about plate authenticity, check with a new car dealer who handles the same model, or contact a law enforcement agency. (Thieves may remove the VIN plate and replace it with one from a similar wrecked vehicle.)"
+        *   "Be suspicious of any deal that seems "too good to be true."
+
+##### 3.1.2.3. Special Situations Tab
+
+*   **Content:**
+    *   "Out of State and Imported Vehicles"
+        *   Link to: `/motorists/buying-or-selling-a-vehicle/out-of-state-and-foreign-vehicles`
+    *   **Column 1 Content:**
+        *   "## Gifting a Vehicle"
+            *   "To give a vehicle as a gift to a relative or qualifying [link to `https://comptroller.texas.gov/taxes/exempt/501(c)-exemptions-1.php`]501(c)(3):"
+                *   "The signed negotiable title and completed [link to `/sites/default/files/form_files/130-U.pdf`]Application for Texas Title and/or Registration (Form 130-U), must be provided to the county tax office to title the vehicle."
+                *   "The title application must be accompanied by [link to `/sites/default/files/form_files/14-317.pdf`]Affidavit of Motor Vehicle Gift Transfer (Texas Comptroller of Public Accounts Form 14-317)."
+                *   "The Donor and Recipient must both sign the affidavit and title application."
+                *   "Either the donor or recipient must submit all forms and documents in person to the county tax office."
+    *   **Column 2 Content:**
+        *   "Find Your Local Tax Office & DMV"
+        *   DMV Locator form
+    *   "Instructions for Completing the Application for Texas Title and/or Registration"
+        *   Link to: `/sites/default/files/form_files/VTR-130-UIF.pdf`
+    *   "A $10 gift tax applies to a person who receives the vehicle from a: spouse, parent or stepparent, grandparent or grandchild, child or stepchild, sibling, guardian, decedent’s estate, or a non-profit 501(c)(3)."
+    *   "## Divorce"
+        *   "If a vehicle is awarded as a result of a divorce decree, give a certified copy of the decree to your county tax office and apply for title. If the decree does not award the vehicle, a properly assigned title (where your ex-spouse signed the title over to you) will be required."
+    *   "## Death of Spouse"
+        *   "If your spouse had a will, the vehicle becomes part of the probate process. If your spouse did not have a will, you can fill out an [link to `/sites/default/files/form_files/VTR-262.pdf`]Affidavit of Heirship for a Motor Vehicle (Form VTR-262)."
+    *   "For more information about vehicle title transfers, please call us at (888) 368-4689 and (512) 465-3000, or send us an [link to `mailto:askDMV@txdmv.gov`]e-mail."
+
+### 3.2. Featured Bottom Section
+
+*   "View Motorist FAQ"
+    *   Link to: `/faq/motorists`
+
+### 3.3. Footer
+
+*   The footer contains standard links to various resources and contact information. These are not specific to this page and should be implemented according to the overall site's footer structure.
+*   **Resources:**
+    *   "Cobrowse" - Link to `/`
+    *   "Media" - Link to `/about-us/txdmv-media`
+    *   "Open Records" - Link to `/open-records`
+    *   "Reports & Data" - Link to `/about-us/reports-and-data`
+    *   "Texas.gov" - Link to `https://www.texas.gov`
+    *   "Texas by Texas (TxT)" - Link to `https://txt.texas.gov/dmv/vehicle-registration-renewal?utm_source=txdmv&utm_medium=footer&utm_campaign=txt`
+    *   "Texas by Texas (TxT) - Español" - Link to `https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm_source=txdmv&utm_medium=footer&utm_campaign=txt`
+    *   "Troops & Veterans" - Link to `/motorists/for-our-troops`
+
+*   **Work with Us:**
+    *   "Careers" - Link to `/careers`
+    *   "Contractors/Vendors" - Link to `/tax-assessor-collectors/contractors-vendors`
+    *   "Lienholders" - Link to `/dealers/lienholders`
+    *   "MVCPA Grantees" - Link to `/about-us/MVCPA/grantees`
+    *   "Law Enforcement Data Assistance" - Link to `/open-records/law-enforcement-data-assistance-processes`
+    *   "Regional Service Centers" - Link to `/regional-service-centers`
+    *   "Tax Assessor-Collectors" - Link to `/tax-assessor-collectors`
+
+*   **Connect with Us:**
+    *   Facebook - Link to `http://www.facebook.com/TxDMV`
+    *   Get Email Updates - Link to `https://public.govdelivery.com/accounts/TXDMV/subscriber/new`
+    *   Twitter - Link to `http://x.com/txdmv`
+
+*   Footer Blue Links:
+    *   "Compact With Texans" - Link to `/sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf`
+    *   "Disclaimer" - Link to `/site-policies/disclaimer`
+    *   "Driver's Privacy Protection Act" - Link to `/site-policies/drivers-privacy-protection-act`
+    *   "Report Fraud, Waste or Abuse" - Link to `https://sao.fraud.texas.gov/`
+    *   "Site Policies" - Link to `/site-policies`
+    *   "Texas Veterans Portal" - Link to `https://veterans.portal.texas.gov/`
+    *   "Border Programs Team" - Link to `https://gov.texas.gov/organization/hsgd`
+    *   "Statewide Search" - Link to `https://www.tsl.texas.gov/trail/index.html`
+    *   "Transparency" - Link to `https://comptroller.texas.gov/transparency/`
+
+**4. Out of Scope**
+
+*   Design elements (CSS, styling, layout)
+*   Global site features (navigation, search, footer structure)
+*   Mobile responsiveness
+*   Accessibility considerations (beyond semantic HTML)
+
+**5. Notes**
+
+*   All links must be functional and point to the correct destination.
+*   Text should be rendered accurately, including bolding and bullet points.
+*   Pay special attention to legal disclaimers and contact information.
+*   DMV Locator form is a key feature and functionality must be accurate.
+
+```

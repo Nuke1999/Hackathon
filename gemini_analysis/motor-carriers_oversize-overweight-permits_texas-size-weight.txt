@@ -1,0 +1,359 @@
+```
+## Product Requirements Document: TxDMV Texas Size/Weight Limits Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "Texas Size/Weight Limits" page on the TxDMV website.  The goal is to provide a clear and concise specification for an AI implementation.
+
+**2. Target Audience**
+
+*   Motor carriers
+*   Truck drivers
+*   Transportation professionals
+*   Anyone needing information on Texas size and weight regulations for vehicles.
+
+**3. Page Title:** Texas Size/Weight Limits
+
+**4. Breadcrumbs:**
+    *   Home
+    *   Motor Carriers
+    *   Oversize/Overweight Permits
+
+**5. Main Content Elements:**
+
+   **5.1 Introduction Paragraphs:**
+
+   *   **Text:** "Texas has established size and weight limits for vehicles and loads moving with or without an oversize and/or overweight permit on Texas roadways and bridges."
+   *   **Bullet Points:**
+        *   "Width is measured from the outside points of the widest extremities, excluding safety devices."
+        *   "Height is measured from the roadbed to the highest point of the load or vehicle, whichever is higher."
+        *   "Length is measured from the foremost point of the vehicle or load, whichever extends further, to the rearmost point of the vehicle or load, whichever extends further."
+        *   "Weight includes the weight of the vehicle or combination, plus the weight of the load being transported."
+
+   **5.2 Blue-Grey Box with Links:**
+
+   *   **Link 1:** Route Inspections for Oversize/Overweight Permits
+        *   **Link URL:** /oversize-weight-permits/route-inspections
+   *   **Link 2:** Length Limits for Vehicles and Vehicle Combinations
+        *   **Link URL:** /sites/default/files/body-files/DMV-length\_brochure.pdf
+
+   **5.3 Accordion Sections:**
+
+   **5.3.1 Legal Size and Weight Limits**
+
+   *   **Accordion Title:** Legal Size and Weight Limits
+   *   **Content:**
+        *   **Paragraph:** "The following maximum dimensions may be operated on Texas’ highways **without a permit**."
+        *   **Subheading:** Width
+        *   **Bullet Points:**
+            *   "Passenger vehicle (and its load) - 8'"
+            *   "All other vehicles (and loads) - 8'6""
+        *   **Subheading:** Height
+        *   **Paragraph:** "All vehicles: 14’"
+        *   **Subheading:** Length
+        *   **Table:**
+
+            | Vehicle Type                                      | Length Limit |
+            | :------------------------------------------------ | :----------- |
+            | Single motor vehicle                              | 45 feet      |
+            | Truck-tractor                                     | Unlimited    |
+            | Semitrailer, of two-vehicle combination           | 59 feet      |
+            | Two-vehicle combination, other than a truck-tractor combination <sup>1</sup> | 65 feet      |
+            | Three-Vehicle combination other than truck-tractor combination <sup>2</sup>| 65 feet      |
+            | Each trailer or semitrailer of a twin-trailer combination| 28.5 feet      |
+            | Stinger-steered auto/boat or traditional auto/boat transporter (truck-tractor) <sup>3</sup> | Unlimited      |
+            | Truck towing a trailer transporting boats| 65 feet      |
+            | Front overhang | 3 feet      |
+            | Rear overhang  | 4 feet      |
+
+        *   **Subheading:** Weight<sup>4</sup>
+        *   **Bullet Points:**
+            *   "Gross - 80,000 pounds maximum"
+            *   "Single axle - 20,000 pounds"
+            *   "Tandem axle group - 34,000 pounds <sup>5</sup>"
+            *   "Triple axle group - 42,000 pounds <sup>5</sup>"
+            *   "Quad axle group - 50,000 pounds <sup>5</sup>"
+        *   **Footnotes:**
+            *   "<sup>1</sup> Length limit may only be increased with a permit if the vehicle combination complies with the permit requirements both with and without a load"
+            *   "<sup>2</sup> Length may not be increase with a permit"
+            *   "<sup>3</sup> Semitrailer length may not be increased with a permit"
+            *   "<sup>4</sup> The basis for maximum legal weight is the number of axles. This information, in conjunction with the Permissible Weight Table, is used to determine maximum legal weight for a vehicle."
+            *   "<sup>5</sup> An axle group must have a minimum spacing of 40 inches between axles within the group"
+            *   "The basic for maximum legal weight is the number of axles. This information, in conjunction with the Texas Permissible Weight Table, is used to determine maximum legal weight for a vehicle. An axle group must have a minimum spacing of 40 inches between axles with the group."
+        *   **CTA Box:**
+            *   **Text:** Texas Permissible Weight Table
+            *   **Link URL:** /motor-carriers/oversize-overweight-permits/permissible-weight-table
+
+   **5.3.2 Size Limits for Movement with a Texas Permit**
+
+   *   **Accordion Title:** Size Limits for Movement with a Texas Permit
+   *   **Content:**
+        *   **Paragraph:** "The following maximum dimensions may be operated on Texas highways **with a permit**:"
+        *   **Subheading:** Width Limits
+        *   **Table:**
+
+            |                                                                               |             |
+            | :---------------------------------------------------------------------------- | :---------- |
+            | Maximum width permitted on holidays                                           | 14 feet, except for manufactured housing |
+            | Maximum width permitted on controlled access highways (Interstate Highway System) | 16 feet, except for manufactured housing |
+            | Maximum width permitted without a route inspection certification by applicant on file  | 20 feet        |
+        *   **Subheading:** Height Limits
+        *   **Table:**
+
+            |                                                                               |             |
+            | :---------------------------------------------------------------------------- | :---------- |
+            | Maximum height permitted on holidays                                           | 16 feet |
+            | Maximum height permitted without a route inspection certification by applicant on file | 18 feet, 11 inches         |
+        *   **Subheading:** Length Limits
+        *   **Table:**
+
+            |                                                                               |             |
+            | :---------------------------------------------------------------------------- | :---------- |
+            | Maximum length permitted on holidays                                           | 110 feet |
+            | Truck or single vehicle | 75 feet  |
+            | Front overhang            | 25 feet |
+            | Rear overhang | 30 feet |
+            | Maximum length permitted without a route inspection certification by applicant on file | 125 feet         |
+
+   **5.3.3 Weight Limits for Movement with a Texas Permit**
+
+   *   **Accordion Title:** Weight Limits for Movement with a Texas Permit
+   *   **Content:**
+        *   **Paragraph:** "The maximum permit weight for an axle or axle group is based on 650 pounds per inch of tire width or the following axle or axle group weight, whichever is the lesser limit."
+        *   **Table:**
+
+            | Axle Group        | Maximum        |
+            | :---------------- | :------------- |
+            | Single            | 25,000 pounds  |
+            | Tandem (two axle) | 46,000 pounds  |
+            | Tridem (three axle)| 60,000 pounds  |
+            | Quadrem (four axle) | 70,000 pounds |
+            | Quint (five axle) | 81,400 pounds  |
+            | Six or more axles | Determined by MCD based on engineering study of the equipment and measurements. |
+
+        *   **Bullet Points:**
+            *   "An axle group must have a minimum spacing of 40 inches between axles within the group."
+            *   "Weight may not exceed the manufacturer’s rated tire carrying capacity."
+            *   "The weight of two or more consecutive axle groups with an axle spacing of less than 12 feet between groups, will be reduced by 2.5% for each foot less than 12 feet."
+            *   "The weight for an axle group should be distributed equally between axles in the group to not allow more than a 10% weight difference between any two axles in the group."
+        *   **Paragraph:** "Trunnion axles may have up to 30,000 pounds per axle if the trunnion configuration has two axles, eight tires per axle, the axles are at least 10-feet wide and there is at least five feet of spacing between the axles, but not more than six feet."
+        *   **Paragraph:** "Travel on load-restricted roads requires that the axle and axle group weights be load-zoned. Load-zoned weight is 10% less than the maximum permitted. For example, load-zoned weight on a tandem is 41,400 pounds."
+        *   **Paragraph:** "Vehicles and loads with axle, axle group and gross weight that exceed these limits may qualify for a Super Heavy permit."
+        *   **Paragraph:** "Note: Some unladen lift equipment motor vehicle and oil well servicing unit related permit types allow weight in excess of 650 pounds per inch on the steer axle(s)."
+        *   **CTA Box:**
+            *   **Text:** Super Heavy Single-Trip Permits
+            *   **Link URL:** /motor-carriers/oversize-weight-permits/super-heavy-single-trip
+
+   **5.3.4 Size and Weight Exemptions and Exceptions**
+
+   *   **Accordion Title:** Size and Weight Exemptions and Exceptions
+   *   **Content:**
+
+        *   **Subheading:** Alternatively Fueled Vehicles
+        *   **Paragraph:** A vehicle that is powered by an engine fueled primarily by natural gas or powered primarily by electric battery power may exceed the maximum gross weight for the vehicle by up to 2,000 pounds. The maximum gross weight of the vehicle may not exceed 82,000 pounds. This does not apply to vehicles powered by hydrogen.
+        *   **Paragraph:** The vehicle may only exceed the gross weight limitation under Transportation Code, Section 621.101, for the vehicle by up to 2,000 pounds. This statute does not allow the vehicle to exceed the weight limits allowed by any overweight permit.
+
+        *   **Subheading:** Ready-Mixed Concrete Trucks
+        *   **Paragraph:** Ready-mixed concrete truck and concrete pump trucks may operate on Texas roadways without a permit, provided the vehicle does not exceed:
+        *   **Bullet Points:**
+            * 23,000 pounds on a single axle
+            * 46,000 pounds on a tandem axle
+        *   **Paragraph:** Local regulations and bond requirements apply as well as restrictions on interstate highway movement. See Texas Transportation Code, Chapter 622, Subchapter B, for additional information.
+        *   **Paragraph:** TxDMV issues an Annual Ready-Mixed Concrete Truck Permit that allows for additional weight. Visit https://www.txdmv.gov/motor-carriers/oversize-weight-permits/rmct-permit for additional information.
+
+        *   **Subheading:** Vehicles Transporting Milk
+        *   **Paragraph:** Vehicles used exclusively to transport milk may operate on Texas roadways if the distance between the front wheel of the forward tandem axle group and the rear wheel of the rear tandem axle group is 28 feet or more and no axle group exceeds 68,000 pounds.
+        *   **Paragraph:** Vehicles may not be operated on interstate highways.
+        *   **Paragraph:** TxDMV issues an Annual Fluid Milk Transport Permit that allows for additional weight and interstate highway travel. Visit https://www.txdmv.gov/motor-carriers/oversize-weight-permits/fluid-milk-transport-permit for additional information.
+
+        *   **Subheading:** Vehicles Transporting Timber or Timber Products
+        *   **Paragraph:** Vehicles or vehicle combinations used exclusively to transport poles, piling, or unrefined timber from the forest where the timber is felled to a wood processing mill may operate on Texas roadways provided the length does not exceed 90 feet, including the load. The distance between the point of origin and the destination may not exceed 125 miles. The vehicles and vehicle combinations are exempt from legal limits on rear overhang. This limit does not apply to a truck-tractor or truck-tractor combination.
+        *   **Paragraph:** A vehicle or vehicle combination, transporting raw wood products, that has an outer bridge distance of 39 feet or more may have a maximum gross weight of 80,000 pounds.
+        *   **Paragraph:** Additional requirements related to time of movement, vehicle markings and interstate highway movement apply, See Texas Transportation Code, Chapter 622, Subchapter D, for additional information.
+        *   **Paragraph:** TxDMV issues an Annual Timber Permit that allows for weight in excess of legal limits. Visit https://www.txdmv.gov/motor-carriers/oversize-weight-permits/timber-permit for additional information. Note: this size exception above cannot be used in conjunction with the permit.
+
+        *   **Subheading:** Vehicles Transporting Poles or Pipe
+        *   **Paragraph:** Vehicles or vehicle combinations used exclusively for the transport of poles or pipe may operate on Texas roadways provided the length does not exceed 65 feet, including the load. This limit does not apply to a truck-tractor or truck-tractor combination.
+        *   **Paragraph:** Additional requirements related to time of movement and lighting apply, See Texas Transportation Code, Chapter 622, Subchapter F, for additional information.
+
+        *   **Subheading:** Cotton, Chile Pepper and Related Equipment
+        *   **Paragraph:** Single motor vehicles used exclusively to transport chile pepper modules, seed cotton, cotton, cotton burrs, or equipment used to transport or process chile pepper modules or cotton, including a motor vehicle or burr spreader, may operate on Texas roadways without a permit, provided the vehicle does not exceed:
+        *   **Bullet Points:**
+            * 10 feet wide
+            * 48 feet long
+            * 14 feet-6 inches high
+            * 64,000 pounds gross weight – seed cotton or equipment used to transport or process seed cotton
+            * 54,000 pounds gross weight – chile pepper modules or equipment used to transport or process chile pepper modules
+        *   **Paragraph:** These vehicles may not operate on interstate highways.
+        *   **Paragraph:** A truck-tractor and semitrailer combination used to transport seed cotton or cotton may operate on Texas roadways without a permit provided it does not exceed 14 feet-6 inches in height.
+        *   **Paragraph:** A single motor vehicle transporting these products must be registered under Texas Transportation Code, Section 504.505.
+
+        *   **Subheading:** Vehicles Transporting Recyclable Materials
+        *   **Paragraph:** A single motor vehicle, equipped with a container roll-off unit or a front-end loader, used exclusively to transport recyclable materials may operate on Texas roadways provided the vehicle does not exceed:
+        *   **Bullet Points:**
+            * 21,000 pounds on a single axle
+            * 44,000 pounds on a tandem axle
+            * 64,000 pounds gross weight
+        *   **Paragraph:** Surety bond and interstate highway restrictions apply, see Texas Transportation Code, Chapter 622, Subchapter J, for additional information.
+
+        *   **Subheading:** Vehicles Transporting Solid Waste
+        *   **Paragraph:** A single motor vehicle used exclusively to transport solid waste may operate on Texas roadways provided the vehicle does not exceed:
+        *   **Bullet Points:**
+            * 21,000 pounds on a single axle
+            * 44,000 pounds on a tandem axle
+            * 64,000 pounds gross weight
+        *   **Paragraph:** Surety bond and interstate highway restrictions apply, see Texas Transportation Code, Chapter 623, Subchapter H, for additional information.
+
+        *   **Subheading:** Highway Building or Maintenance Machinery
+        *   **Paragraph:** Legal width limits do not apply to highway building or maintenance machinery that is traveling during daylight on Texas roadways. Travel on the interstate highway system is limited to 50 miles.
+
+        *   **Subheading:** Farm Tractors and Implements of Husbandry
+        *   **Paragraph:** Legal width limits do not apply to farm tractors or implements of husbandry traveling during daylight on Texas roadways.
+        *   **Paragraph:** Legal width limits do not apply to a vehicle or vehicle combination transporting a farm tractor, implement of husbandry, or equipment used in the harvesting and production of timber, if it is being transported during daylight on Texas roadways by the owner or by an agent or employee of the owner provided the transport is:
+        *   **Bullet Points:**
+            * To deliver the load to a new owner
+            * To transport the load to or from a mechanic for maintenance or repair
+            * During an agricultural or forestry operation
+            * Not between dealers
+        *   **Paragraph:** Travel on interstate highways is limited to 50 miles.
+
+        *   **Subheading:** Water Well Drilling Machinery
+        *   **Paragraph:** Legal width limits do not apply to machinery used solely for drilling water wells, whether the machinery is a unit or mounted unit provided the movement is during daylight on Texas roadways. Travel on the interstate highway system is limited to 50 miles.
+        *   **Paragraph:** Legal length limits do not apply to this machinery.
+
+        *   **Subheading:** Fire Department Vehicles
+        *   **Paragraph:** Legal width, length, and weight limits do not apply to vehicles owned or operated by a public, private or volunteer fire department. The vehicle may not be heavier than the manufacturer’s gross vehicle weight capacity of axle design rating.
+
+        *   **Subheading:** Fertilizer Transport and Spreading Vehicles
+        *   **Paragraph:** Legal width limits do not apply to motor vehicles used exclusively to transport and spread fertilizer provided the vehicle is registered under Texas Transportation Code, Section 502.431.
+
+        *   **Subheading:** Recreational Vehicles
+        *   **Paragraph:** Legal width limits do not apply to recreational vehicles, as defined by Texas Transportation Code, Section 522.004. provided the width in excess of legal limits is attributable to an appurtenance (including an awning, grab handle, lighting equipment or vent) that extends six inches or less beyond a fender on one of both sides of the vehicle.
+
+        *   **Subheading:** Natural Gas or Petroleum Machinery
+        *   **Paragraph:** Legal length limits do not apply to a truck-tractor, truck-tractor combination, or truck-trailer combination exclusively transporting machinery, materials, and equipment used in the construction, operation, and maintenance of facilities, including pipelines, that are used for the discovery, production, and processing of natural gas or petroleum.
+
+        *   **Subheading:** Drive-Away Saddlemount Combinations
+        *   **Paragraph:** Legal length limits do not apply to a drive-away saddlemount vehicle transporter combination or a drive-away saddlemount with fullmount vehicle transporter combination provided the overall length does not exceed 97 feet and the combination does not have more than three saddlemounted vehicles if the combination does not include more than one fullmount vehicle.
+
+        *   **Subheading:** Tow Truck
+        *   **Paragraph:** Legal length and weight limits do not apply if towing to the nearest authorized place of repair, terminal, or destination of unloading a vehicle or vehicle combination that cannot be normally or safely driven or that was abandoned on a highway. Tow truck may not operate on interstate highways under this weight exception when exceeding legal weight limits.
+
+        *   **Subheading:** Custom Harvesting Operations
+        *   **Paragraph:** Legal length limits do not apply to vehicles or vehicle combinations used to transport a harvest machine that is used in custom harvesting operations on a farm. The overall length may be up to:
+        *   **Bullet Points:**
+            * 75 feet overall length if traveling on interstate highways
+            * 81 ½ feet overall length if not traveling on interstate highways
+        *   **Paragraph:** A truck-tractor operated in combination with both a semitrailer and trailer or a semitrailer and semitrailer maybe up to 81 ½ feet overall length provided it does not travel on the interstate highway system and is traveling within a county with a population of less than 300,000.
+
+        *   **Subheading:** Idle Reduction Systems
+        *   **Paragraph:** The maximum gross weight and axle weight limits of a vehicle or vehicle combination equipped with an idle reduction system can be increased by an amount necessary to compensate for the additional weight of the system but not more than 400 pounds.
+        *   **Paragraph:** On the request of law enforcement, the vehicle operator must provide proof that the idle reduction technology is fully functional, and the weight increase is not being used for any other purpose.
+
+   *   **CTA Box:**
+        *   **Text:** Apply for Oversize/Overweight Permits
+        *   **Link URL:** /motor-carriers/oversize-overweight-permits
+
+   **5.4 Cards Section:**
+
+   *   **Card 1:** Motor Carrier Toolbox
+        *   **Title:** Motor Carrier Toolbox
+        *   **Bullet Points/Links:**
+            *   File a Complaint - /complaints
+            *   Forms - /forms
+            *   Statutes & Rules - /statutes-and-rules
+            *   Reports & Data - /reports-and-data
+            *   Publications & Manuals - /publications
+
+   *   **Card 2:** Records
+        *   **Title:** Records
+        *   **Bullet Points/Links:**
+            *   Manufactured Housing Permits Records - https://txpros.txdmv.gov/mhreports.aspx
+            *   Open Records Requests - /open-records
+            *   Safety Records - /motorcarriers/safety-records
+            *   Weight Tolerance Permits By County - https://txpros.txdmv.gov/County1547.aspx
+
+   *   **Card 3:** Roadway Information
+        *   **Title:** Roadway Information
+        *   **Bullet Points/Links:**
+            *   Hazardous Materials Routing - https://www.txdot.gov/inside-txdot/forms-publications/publications/nrhm.html
+            *   Load-Restricted Bridge Map - http://apps3.txdot.gov/apps/gis/lrbm/
+            *   Load-Zoned Roads - https://www.txdot.gov/apps/gis/loadzone/
+            *   Permit Restrictions by County & District - /motorcarriers/permit-restrictions
+            *   Structures with Low Vertical Clearance - /motorcarriers/low-clearance
+
+**6. Footer call to action link**
+      *   View Motor Carrier FAQ  - /faq/motor-carriers
+
+**7. Feedback Form**
+   *   **Feedback Form Title:** We Value Your Feedback
+   *   **Feedback Form SubTitle:** Your message will go to our web team. Thank you for helping us to serve you better!<br/>
+    If you want to contact a specific department and get a response, please go to the <a href="/about-us">About Us page</a>.
+   *   **Form Fields:**
+        *   Email (required, email type)
+        *   Message (required, textarea)
+        *   Middle (hidden field)
+   *   **Button:** Send message
+
+**8. External Links:**
+
+*   https://www.dps.texas.gov/section/driver-license (Renew Driver License at DPS)
+*   http://twostepsonesticker.com (Two Steps, One Sticker)
+*   https://www.myplates.com (Specialty License Plates)
+*   https://texasdmv.my.salesforce-sites.com/dealers (Dealer License Lookup)
+*   https://webdealer.txdmv.gov/title/login.do (webDEALER | eTAG Login/Password Reset)
+*   https://mvinet.txdmv.gov (Motor Vehicle Inquiry)
+*   https://www.txdot.gov/inside-txdot/forms-publications/publications/nrhm.html (Hazardous Materials Routing)
+*   http://apps3.txdot.gov/apps/gis/lrbm/ (Load-Restricted Bridge Map)
+*   https://www.txdot.gov/apps/gis/loadzone/ (Load-Zoned Roads)
+*   https://txpros.txdmv.gov/mhreports.aspx (Manufactured Housing Permits Records)
+*   https://txpros.txdmv.gov/County1547.aspx (Weight Tolerance Permits By County)
+*   https://www.texas.gov (Texas.gov)
+*   https://txt.texas.gov/dmv/vehicle-registration-renewal?utm_source=txdmv&amp;utm_medium=footer&amp;utm_campaign=txt (Texas by Texas (TxT))
+*   https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm_source=txdmv&amp;utm_medium=footer&amp;utm_campaign=txt (Texas by Texas (TxT) - Español)
+*   https://sao.fraud.texas.gov/ (Report Fraud, Waste or Abuse)
+*   https://veterans.portal.texas.gov/ (Texas Veterans Portal)
+*   https://gov.texas.gov/organization/hsgd (Border Programs Team)
+*   https://www.tsl.texas.gov/trail/index.html (Statewide Search)
+*   https://comptroller.texas.gov/transparency/ (Transparency)
+
+**9. Internal Links:**
+*  /motorists/oversize-weight-permits/route-inspections
+*  /sites/default/files/body-files/DMV-length\_brochure.pdf
+* /motor-carriers/oversize-overweight-permits/permissible-weight-table
+* /motor-carriers/oversize-weight-permits/super-heavy-single-trip
+* https://www.txdmv.gov/motor-carriers/oversize-weight-permits/rmct-permit
+* https://www.txdmv.gov/motor-carriers/oversize-weight-permits/fluid-milk-transport-permit
+* https://www.txdmv.gov/motor-carriers/oversize-weight-permits/timber-permit
+* /complaints
+* /forms
+* /statutes-and-rules
+* /reports-and-data
+* /publications
+* /open-records
+* /motorcarriers/safety-records
+* /motorcarriers/permit-restrictions
+* /motorcarriers/low-clearance
+* /motor-carriers/oversize-overweight-permits
+* /careers
+* /tax-assessor-collectors/contractors-vendors
+* /dealers/lienholders
+* /about-us/MVCPA/grantees
+* /open-records/law-enforcement-data-assistance-processes
+* /regional-service-centers
+* /tax-assessor-collectors
+* /site-policies/disclaimer
+* /site-policies/drivers-privacy-protection-act
+* /site-policies
+* /motorists/for-our-troops
+* /about-us
+* /faq/motor-carriers
+
+**10. Considerations:**
+
+*   This document focuses on the *content* of the page.  Styling, layout, and interactive elements (beyond the accordion functionality) are outside the scope of this specification.
+*   The term "CTA Box" refers to a visual call-to-action element (button or similar).
+*   Superscript numbers in the legal size and weight table indicate footnotes, which should be displayed below the table.
+* All https://, http:// and / links should be considered internal, unless specified.
+
+```

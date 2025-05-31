@@ -1,0 +1,329 @@
+```
+# Product Requirements Document: TxDMV.gov Quick Start Guide
+
+## 1. Introduction
+
+This document details the content requirements for recreating the "Quick Start Guide" page on the TxDMV.gov website. This document focuses solely on the text and structural content of the page, excluding design elements.
+
+## 2. Goal
+
+The goal of this page is to provide users with a guide to using the TxPROS system for Oversize/Overweight permits.
+
+## 3. Page Title
+
+"Quick Start Guide"
+
+## 4. Breadcrumbs
+
+Home > Motor Carriers > Oversize/Overweight Permits
+
+## 5. Main Content
+
+### 5.1. Creating a New Account?
+
+**Text:**
+
+Creating a New Account?
+<ol>
+<li>Click the create a new company account link at the top of the page.</li>
+<li>On the New Company Account Page screen, enter all company information.</li>
+<li>Once finished, click the Submit button to save the information to TxPROS.
+	<ol style="list-style-type: upper-alpha;">
+<li>If your account set up is successful, you will be redirected to the Login Page where you will sign in each time you enter the <a href="https://txpros.txdmv.gov/">TxPROS application</a>.</li>
+<li>If the login was not successful, you should contact MCD for assistance.</li>
+</ol>
+</li>
+</ol>
+
+### 5.2 Tabs
+
+The main content is organized into the following tabs:
+
+*   **Navigating TxPROS**
+*   **Customer Dashboard**
+*   **Order a Permit**
+*   **Route Points**
+*   **Help with my Route**
+
+#### 5.2.1 Navigating TxPROS Tab
+
+**Text:**
+
+<h6>Home Page</h6>
+<p>Click the Home button to navigate to the home page or Customer Dashboard.</p>
+<h6>Permit Wizard</h6>
+<p>Click the Permit Wizard button to initiate the Permit Wizard. The Permit Wizard is a series of questions to help determine the permit that best fits your needs for the load you have.</p>
+<h6>Page Help</h6>
+<p>Click the "?" In the top right corner to access Help for the page you are currently on in TxPROS.</p>
+<h6>Section Help</h6>
+<p>Hover over  <img alt="help" data-entity-type="" data-entity-uuid="" height="20" src="/images/oversize-overweight/txpros-quick-start-guide/help.png" width="18"/> to access Help for the section you are currently on in TxPROS. These Help items will explain the purpose of that section or provide explanation to help you determine what information you need to provide.</p>
+<p>For information on adding, editing or deleting customer information, please refer to the TxPROS Online Customer Interface - User Guide.</p>
+
+**Link:**
+
+TxPROS User Guide - [TxPROS User Guide](https://www.txdmv.gov/sites/default/files/body-files/txpros-user_guide.pdf)
+
+**Text:**
+
+<h6>Permit Notes</h6>
+<p>Click the Permit Notes button to add or read any notes for this permit application. Customers and MCD can add and view notes for the permit application.</p>
+<h6>Expand/Collapse</h6>
+<p>On the Enter a Route page, you can expand and collapse the Enter Trip box to show or hide your routing points. To edit your route, expand the box to change any of your routing points. Some reporting screens also have the expand/collapse function in TxPROS.<br/>
+
+#### 5.2.2 Customer Dashboard Tab
+
+**Text:**
+
+<h6>Permits Panel</h6>
+<p>The Permits Panel provides a list of all the permits, active and expired, for a particular company and is also the starting point for beginning a new permit application.</p>
+<h6>Messages Panel</h6>
+<p>The Messages Panel is used to display any messages to your particular company from MCD as well as messages or announcements sent to all customers or a group of customers.</p>
+<h6>Statistics Panel</h6>
+<p>The Statistics Panel will display basic information about the company's Escrow, Hub Closeouts and 1547 permits.</p>
+<h6>Administrative Panel</h6>
+<p>The Administrative Panel allows each company to define and alter their account information.</p>
+<h6>Company Data</h6>
+<p>The Company Data button opens the Company Information Screen where you can add, edit, and delete items from your Company Assets.</p>
+<h6>Contacts</h6>
+<p>Any person that will need access to the TxPROS system, or any person that might need to be contacted by TxDMV at any step of the permitting process should be added into the system as a Contact.</p>
+<h5>Adding a new contact, address, or yard:</h5>
+<ol>
+<li>Click the Company Data button in the Administrative Panel.</li>
+<li>Click the New button to the right of the information you want to add. (Contacts, Address, Yard).</li>
+<li>Enter the appropriate data for the contact you are adding.</li>
+<li>Click the Insert button to save or the Cancel button to discard changes.</li>
+<li>The new information will appear in the appropriate dropdown list.</li>
+</ol>
+<p>For information on adding, editing or deleting customer information, please refer to the TxPROS Online Customer Interface - User Guide.</p>
+
+**Link:**
+
+TxPROS User Guide - [TxPROS User Guide](https://www.txdmv.gov/sites/default/files/body-files/txpros-user_guide.pdf)
+
+**Text:**
+
+<h6><strong>Company Users</strong></h6>
+<p>TxPROS users will have the ability to log in to the TxPROS website and order permits.</p>
+<p><strong>Adding, or Editing Company Users:</strong></p>
+<ol>
+<li>Click the Company Data button in the Administrative Panel.</li>
+<li>Click the New or Edit button to the right of User.</li>
+<li>Enter or modify the appropriate data for the user.</li>
+<li>Click the Insert button to save or the Cancel button to discard changes for new User. If editing an existing User, click the Update button to save of the Cancel button to discard changes.</li>
+</ol>
+<h6>Vehicles</h6>
+<p>A company can choose to keep a listing of its vehicle inventory which can be used to populate information on the permit application.</p>
+<p><strong>Adding or Editing a Company Vehicle: </strong></p>
+<ol>
+<li>Click the Company Data button in the Administrative Panel.</li>
+<li>Click the New or Edit button to the right of Vehicles.</li>
+<li>Enter or modify the appropriate data for the vehicle.</li>
+<li>Click the Insert button to save or the Cancel button to discard changes for new vehicles. If editing an existing vehicle, click the Update button to save of the Cancel button to discard changes.</li>
+</ol>
+
+#### 5.2.3 Order a Permit Tab
+
+**Text:**
+
+<p>The TxPROS Customer Interface allows customers to create permit applications for OS/OW within the state of Texas. If the parameters of the load are within limits set by MCD, the permit can be self issued by the customer. However, if the permit exceeds these limits it will be submitted to the Permit Office for issuing.</p>
+<h6>Starting a Permit Order Application</h6>
+<ol>
+<li>Click the New Permit link at the top left of the Permits Panel.</li>
+<li>If you know what type of permit you need, choose I know which permit I need. Otherwise, select I need help choosing the permit. Choosing I need help choosing the permit will open the Permit Wizard which will ask you several questions to help determine what permit best fits your needs.</li>
+<li>If you are ordering a permit for your company, the information entered and saved from the Company Information screen will be filled in for you on the Order Permit page. If you are a wire service and the permit is being issued for another company, search for the company information in the Search By box.</li>
+<li>Choose a primary (and additional if desired) delivery method from the drop down menus. If the delivery method information does not auto populate from the saved customer information, enter the necessary information. If the information does auto populate and you want to change it for this permit, enter the updated information.</li>
+<li>You may enter a Customer Reference for this permit. This is an optional field on the permit application that enables you to associate a permit to a particular job, job number, or some other internal tracking. This option is not required and has been provided as a service to MCD customers. If information is entered for the Customer Reference, you will be able to search on that information and generate a report for all permits associated to that reference. This reference will also print on the permit.</li>
+<li>Select the type of permit that you need by choosing it from the Permit Type dropdown list. After choosing a permit type, the Next and Cancel buttons appear at the bottom.</li>
+<li>Enter the start date for the permit by clicking in the Start Date box and choosing a date from the calendar.</li>
+<li>Click the Next button to proceed with the permit or Cancel to cancel to cancel the permit application.</li>
+<li>Choose the Operating Authority information by selecting the Operating Authority you will use for this permit. Operating Authority options will be different based on the particular permit selected. If an Operating Authority is not required for the permit type selected, this screen will not be shown.</li>
+<li>Click the Next button to proceed with the order process, or the Save and Exit button to save your progress and resume the application later.</li>
+</ol>
+<h6>Entering Vehicle and Load Information</h6>
+<ol>
+<li>Enter information about your load in the Vehicle and Load Information screen.</li>
+<li>Click the Enter Weights button to enter the appropriate axle weights and spacings if the loaded weight exceeds legal.</li>
+<li>Enter information about the axle dimensions and axle weights of your load.</li>
+<li>Click Validate Weights and Close.</li>
+<li>Click the Next button to continue.</li>
+<li>The Enter a Route screen is displayed.</li>
+</ol>
+<h6>Entering a Route</h6>
+<ol>
+<li>Choose your origins and destinations to be any combination of specific addresses, intersections, border crossing, and latitude/longitude of a location selected on the map.</li>
+<li>When you have made all your routing selections, click Validate and Run.</li>
+<li>Once the trip looks satisfactory click the Next button on the top-right of the map.</li>
+<li>Review the cost, route directions, and view any notes regarding this application. Click the Permit Notes button in the Navigation Bar to review these notes.</li>
+<li>If there are any documents that need to be attached, click New Document and add a PDF of the document you would like included with the permit application.</li>
+<li>Click Save and Exit to resume the permit application at a later time or click Payment to continue to the payment page or click Cancel to cancel the permit application.</li>
+<li>If you clicked Payment, select the payment method to purchase the permit. If Cash is selected you must also identify which location you will pay for and pick up your permit.</li>
+<li>Once the payment is processed, you will get a Permit Submission Successful message. You can click the Permit listed under Permit Number to print a copy of your permit and driving directions. You can also Return to the Dashboard and locate this same permit on the Permits Panel and print the permit. You can Order another permit from this screen or from the Customer Dashboard.</li>
+</ol>
+<p>For more information regarding ordering a permit, please refer to the TxPROS Online Customer Interface - User Guide.</p>
+
+**Link:**
+
+TxPROS User Guide - [TxPROS User Guide](https://www.txdmv.gov/sites/default/files/body-files/txpros-user_guide.pdf)
+
+**Text:**
+
+<h6>Resuming a Permit Application</h6>
+<ol>
+<li>Locate the Unfinished permit application you wish to edit on the Permits Panel on the Customer Dashboard.</li>
+<li>In the Action column, click Select then Resume Permit.</li>
+</ol>
+<h6>Editing a Permit Application</h6>
+<ol>
+<li>Locate the Pending permit application you wish to edit on the Permits Panel.</li>
+<li>In the Action column, click Select then Edit Permit.</li>
+<li>Make any additional changes that are required and click Save and Exit to continue at a later time or continue through the permit application process.</li>
+</ol>
+<h6>Cancelling or Deleting a Permit Application</h6>
+<ol>
+<li>Locate the Pending or Unfinished permit application you wish to cancel on the Permits Panel.</li>
+<li>In the Action column, click Select then Cancel Permit. They system will ask you to confirm that you wish to delete this permit.</li>
+<li>Click OK to cancel or delete this permit application.</li>
+</ol>
+
+#### 5.2.4 Route Points Tab
+
+**Text:**
+
+<h6>Types of Routes</h6>
+<p>The following types of routes can be generated:</p>
+<ul>
+<li>From one location to another location</li>
+<li>From one location to another location through specified via points selected on the map</li>
+<li>From one location to another location along specified roadways</li>
+</ul>
+<p> You can use the above options to do any or all of the following:</p>
+<ul>
+<li>Generate a route to Continue loaded trip after non-state maintained travel.</li>
+<li>Add a leg to the beginning of the route for the unladen vehicle to pick up the load</li>
+<li>Add a leg to the end to route the unloaded vehicle to a storage yard</li>
+</ul>
+<h6>Enter a Route Screen</h6>
+<p>This screen is used to enter the following details about routes to be generated:</p>
+<ul>
+<li>The origin/destination of the route</li>
+<li>Path conditions of the route such as the VIA points it should pass through or the roadways it should attempt to use</li>
+<li>Whether the permit needs to include getting the vehicle to the load or return the vehicle to yard</li>
+</ul>
+<h6>Selecting an Origin and Destination</h6>
+<p>When generating a route, you can enter the details of the origin or destination using a variety of methods. The methods are:</p>
+<ul>
+<li>Specific address</li>
+<li>Intersection</li>
+<li>Border Crossing</li>
+<li>Location select on a map's Lat/Lon/Map</li>
+</ul>
+<h6>Entering a specific address of an origin or destination</h6>
+<ol>
+<li>On the Enter a Route screen, in an Origin or Destination field, select Address.</li>
+<li>Enter a street address in the Address field.</li>
+<li>Enter the city and/or Zip code of the address in the City and Zip fields.</li>
+<li>Enter the rest of your origin and destination and click Validate and Run.</li>
+<li>Click Validate and Run.</li>
+</ol>
+<p>The Trip Results screen displays your route.</p>
+<h6>Selecting an origin or destination using an intersection:</h6>
+<ol>
+<li>On the Enter a Route screen, in an Origin or Destination field, select Intersection.</li>
+<li>Click the Find Intersection link beneath Origin or Destination.</li>
+<li>A map panel will open to the right.</li>
+<li>Enter the two street locations in the Street 1 and Street 2 boxes. You can also enter a city, but it is not required.</li>
+<li>Click the Go button.</li>
+<li>Zoom in and click the pushpin that marks the location that you wish to use. That location will be added to the Origin or Destination box to the left.</li>
+<li>Enter the rest of your origin and destination and click Validate and Run.</li>
+</ol>
+<p>The Trip Results screen displays your route.</p>
+
+<h6>Selecting an origin or destination at a border crossing</h6>
+<ol>
+<li>On the Enter a Route screen, in an Origin or Destination field, select Border Crossing.</li>
+<li>From the dropdown box beneath the Origin or Destination box, select the proper border crossing.</li>
+<li>Enter the rest of your origin and destination, and click Validate and Run.</li>
+</ol>
+<p>The Trip Results screen displays your route.</p>
+<p>For more information regarding routing methods, please refer to the TxPROS Online Customer Interface - User Guide.</p>
+
+**Link:**
+
+TxPROS User Guide - [TxPROS User Guide](https://www.txdmv.gov/sites/default/files/body-files/txpros-user_guide.pdf)
+
+**Text:**
+
+<h6>Selecting an origin or destination by clicking on a location on the map</h6>
+<ol>
+<li>In the Enter A Route screen, in an Origin or Destination field, select Lat/Lon /Map.</li>
+<li>If you know the actual latitude and longitude location of the location to be used, enter that information into the Lat and Lon boxes. If you do not know the latitude and longitude locations, click the Find link to the right of the Lat and Lon boxes.</li>
+<li>The Find Lat Lon on Map screen is displayed to the right.</li>
+<li>Use the Find Lat Lon on Map screen to select a routing origin or destination by clicking on a map.</li>
+<li>Use the Zoom tool and the Focus City tool to locate the origin or destination location.</li>
+<li>Choose the Select option.</li>
+<li>Click a location on the map.</li>
+<li>Enter the rest of your origin and destination, and click Validate and Run.</li>
+</ol>
+<p>The Trip Results screen displays your routes.</p>
+
+#### 5.2.5 Help with my Route Tab
+
+**Text:**
+
+<p>After entering the origin and destination and clicking Validate and Run, check the box above the map that says I have a problem with the route and would like it reviewed. This will send your application to the Permit Office for review and assistance.</p>
+<h6>Trip Results</h6>
+<p>The Trip Results screen displays the route generated based on:</p>
+<ol>
+<li>Information the user entered about the load</li>
+<li>Permit type for which the user is applying</li>
+<li>The origin and destination required by the user</li>
+<li>Restrictions on the available roadways between the origin and destination</li>
+</ol>
+<p>This Trip Results screen consists of the following elements:</p>
+<ul>
+<li>Route Overview Area</li>
+<li>Route Details Area</li>
+<li>Load Dimensions Used During Routing</li>
+<li>Turn-by-Turn Driving Directions</li>
+</ul>
+<p>For more information regarding trip results, please refer to the TxPROS Online Customer Interface - User Guide.</p>
+
+**Link:**
+
+TxPROS User Guide - [TxPROS User Guide](https://www.txdmv.gov/sites/default/files/body-files/txpros-user_guide.pdf)
+
+### 5.3 Motor Carrier Toolbox
+
+**Text:**
+
+Motor Carrier Toolbox
+
+*   [File a Complaint](/complaints)
+*   [Forms](/forms)
+*   [Statutes & Rules](/statutes-and-rules)
+*   [Reports & Data](/reports-and-data)
+*   [Publications & Manuals](/publications)
+
+### 5.4 Records
+
+**Text:**
+
+Records
+
+*   [Manufactured Housing Permits Records](https://txpros.txdmv.gov/mhreports.aspx)
+*   [Open Records Requests](/open-records)
+*   [Safety Records](/motorcarriers/safety-records)
+*   [Weight Tolerance Permits By County](https://txpros.txdmv.gov/County1547.aspx)
+
+### 5.5 Roadway Information
+
+**Text:**
+
+Roadway Information
+
+*   [Hazardous Materials Routing](https://www.txdot.gov/inside-txdot/forms-publications/publications/nrhm.html)
+*   [Load-Restricted Bridge Map](http://apps3.txdot.gov/apps/gis/lrbm/)
+*   [Load-Zoned Roads](https://www.txdot.gov/apps/gis/loadzone/)
+*   [Permit Restrictions by County & District](/motorcarriers/permit-restrictions)
+*   [Structures with Low Vertical Clearance](/motorcarriers/low-clearance)
+```

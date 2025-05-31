@@ -1,0 +1,79 @@
+```json
+{
+  "product_requirements_document": {
+    "title": "Site Policies",
+    "sections": [
+      {
+        "title": "Accessibility Policy",
+        "content": [
+          "We are committed to making our Web site accessible to all users. To make the site more accessible, we include several features designed to improve accessibility for users with disabilities.",
+          "We are committed to making its Web site accessible according to the standards set forth by the World Wide Web Consortium (W3C). To improve the accessibility of our Web site, we test any major redesign with several screen readers and other Web tools. The results of these reviews are incorporated into the Web site.",
+          "We welcome comments on how to improve the site's accessibility for users with disabilities. If you use assistive technology and the format of any material on our Web site interferes with your ability to access the information, please contact us so that we may ensure you can access the materials and information you need. To enable us to respond in a manner most helpful to you, please indicate the nature of your accessibility request, the preferred format in which to receive the material, the Web address of the requested material and your contact information.",
+          "Additional information about accessibility programs in Texas is available from the Governor's Committee on People with Disabilities.",
+          "[Link to Electronic and Information Resources Accessibility Policy](/sites/default/files/body-files/TxDMV_EIR_AccessibilityPolicy.pdf)",
+          "[Link to Notice Under Title II of the Americans With Disabilities Act](/sites/default/files/body-files/Notice-Under-Title-II-of-the-Americans-with-Disabilities-Act.pdf)"
+        ]
+      },
+      {
+        "title": "Privacy and Security Policy",
+        "content": [
+          "This web site is an official Texas Department of Motor Vehicles (TxDMV) computer system operated for authorized use only and provided as a public service. This policy describes TxDMV's privacy and security practices regarding information collected from visitors to the site, including what information is collected and how that information is used.",
+          "Regardless of the information being transmitted to TxDMV, we will protect all such information consistent with applicable law. The privacy of our customers and the security of this site are of utmost importance to TxDMV. This policy applies to all pages beginning with www.txdmv.gov and www.dmv.state.tx.us.",
+          "Note: This policy does not apply whenever visitors leave the TxDMV domains and follow a link to another site, including the sites of state agencies and local governments.",
+          "Notice of Monitored Use",
+          "This site is monitored to ensure proper operation, to verify the function of applicable security features and for similar purposes. Unauthorized attempts to upload information, change information on this site, or otherwise cause damage are strictly prohibited and may be punishable under Texas Penal Code Chapters 33 (Computer Crimes) or 33A (Telecommunications Crimes).",
+          "Information We Collect Automatically",
+          "If you visit a TxDMV site to read or download information:",
+          "Your web browser automatically sends us (and we may retain) information such as the:",
+          "Internet domain through which you access the Internet;",
+          "Internet Protocol address of the computer you are using;",
+          "type of browser software and operating system you are using;",
+          "date and time you access our site; and",
+          "Internet address of the site from which you linked directly to our site.",
+          "We will use this information as aggregate data to help us maintain this site, e.g., to determine the number of visitors to different sections of our site, to ensure the site is working properly, and to help us make our site more accessible and useful.",
+          "We will not use this information to identify individuals, except for site security or law enforcement purposes.",
+          "We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information.",
+          "Other Information We Collect",
+          "If you choose to identify yourself (or otherwise provide us with personal information) when you use our online forms:",
+          "We will collect (and may retain) any personally identifying information, such as your name, street address, email address, and phone number, and any other information you provide. We will use this information to try to fulfill your request and may use it provide you with additional information at a later time. We will not disclose such information to third parties, except as specified in this privacy policy.",
+          "If you request information, services, or assistance, we may disclose your personal information to those third parties that (in our judgment) are appropriate in order to fulfill your request. If, when you provide us with such information, you specify that you do not want us to disclose the information to third parties, we will honor your request. Note, however, that if you do not provide such information, it may be impossible for us to refer, respond to or fulfill your request.",
+          "If your communication relates to a law enforcement matter, we may disclose the information to law enforcement agencies that we deem appropriate.",
+          "Note: An individual who chooses to submit information in electronic format through this website is entitled, on request, to receive and review the information TxDMV collects about the individual, and to have TxDMV correct the information. Please contact TxDMV with your request.",
+          "Cookies",
+          "The TxDMV site may use cookies to provide interactive pages, such as web-based forms and surveys. TxDMV does not use cookies for other purposes. These cookies are not required for site functionality. Additionally, third-party widgets such as Google Analytics or YouTube may install cookies depending on their configuration. You are not required to accept any cookies to use this site.",
+          "Google Analytics",
+          "We use the “Google Analytics” tool to collect information about use of the TxDMV site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics in the aggregate and only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the Google Analytics Terms of Use (as amended for government websites) and the Google Privacy Policy. You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser.",
+          "Release of Information",
+          "All information collected or maintained by TxDMV is subject to the provisions of the Texas Public Information Act (Chapter 552, Texas Government Code). The identity of most members of the public who communicate with state agencies through the Internet is confidential under Texas law. Exceptions to confidentiality may be reviewed at Texas Government code, Section 552.137.",
+          "TxDMV complies with the State Web Site Link and Privacy Policy. TxDMV encourages organizations that link to this web site to comply with the provisions of the State Web Site Link and Privacy Policy, especially regarding protection of the privacy rights of individuals, and to make reasonable efforts to provide accessible sites."
+        ]
+      },
+      {
+        "title": "Browser Support & Web Development Policies",
+        "content": [
+          "TxDMV is committed to making our website easily accessible and consistent across supported browsers and platforms. Because it is not always possible or practical for us to fully test and validate our website using every available operating system and browser combination, we have implemented these policies to ensure support for the majority of our users.",
+          "Supported Browsers",
+          "To maximize our ability to successfully support our constituents' needs, and to enable our engineering teams to make use of new capabilities available in modern, up-to-date browsers, we made the decision to support only modern browsers, which also provide improved security and performance.",
+          "TxDMV also uses statistical data from web visitors and registered users to identify the browsers used by our target audience. We regularly review this data to determine which browsers to support. Our current policy covers over 95% of our users.",
+          "We support the latest version of Google Chrome (which automatically updates whenever it detects that a new version of the browser is available). We support the current and previous major releases of Firefox, Edge, and Safari (on macOS & iOS) on a rolling basis.",
+          "Internet Explorer (IE) is an outdated browser that does not fully support the latest web standards and has a number of security concerns. Microsoft replaced IE11 - the last version released - with Edge as the default browser in 2015. While most of our websites will function correctly with IE11, we recommend using a modern browser (see list of supported browsers above) to ensure a secure and fully functional experience."
+        ]
+      },
+          {
+        "title": "Links",
+        "content": [
+          "[World Wide Web Consortium](http://www.w3.org/)",
+          "[Governor's Committee on People with Disabilities](https://gov.texas.gov/organization/disabilities)",
+          "[Google Analytics Terms of Use](http://www.google.com/analytics/tos.html)",
+          "[Google Analytics Terms of Use (amended for government websites)](https://www.archives.gov/files/social-media/terms-of-service/tos-googleanalytics.pdf)",
+          "[Google Privacy Policy](http://www.google.com/privacypolicy.html)",
+          "[Disabling Cookies](http://www.usa.gov/optout_instructions.shtml)",
+          "[State Web Site Link and Privacy Policy](http://publishingext.dir.texas.gov/portal/internal/resources/DocumentLibrary/State%20Website%20Linking%20and%20Privacy%20Policy.pdf)",
+          "[Please contact us so that we may ensure you can access the materials and information you need](mailto:Accessibility@TxDMV.gov)",
+          "[contact TxDMV](mailto:webteam@TxDMV.gov)"
+        ]
+      }
+    ]
+  }
+}
+```

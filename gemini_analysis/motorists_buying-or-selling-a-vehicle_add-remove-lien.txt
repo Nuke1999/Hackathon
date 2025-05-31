@@ -1,0 +1,69 @@
+```text
+## Product Requirements Document: Add/Remove a Lien on a Vehicle Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "Add/Remove a Lien on a Vehicle" page on the TxDMV.gov website. This document focuses solely on the text and linked content within the main content area of the page.
+
+**2. Goal**
+
+The goal of this page is to provide motorists with clear instructions on how to add or remove a lien on their vehicle title in Texas.
+
+**3. Content Requirements**
+
+**3.1 Main Heading:**
+
+*   Text: Add/Remove a Lien on a Vehicle
+
+**3.2 Introductory Paragraph:**
+
+*   Text: "To add or remove a lien on your vehicle title, visit your local county tax office. The title fee is $28 or $33, depending on your county, and must be paid at time of application. Please contact your local county tax office for the exact cost."
+
+**3.3 Add a Lien Section:**
+
+*   **Heading:** Add a Lien
+*   Text: "To add a lien on a title, you will need: the vehicle title, and a completed "
+*   Link:
+    *   Text: Application for Texas Title and/or Registration (Form 130-U)
+    *   URL: /sites/default/files/form_files/130-U.pdf
+
+**3.4 Add an Additional Lien Section:**
+
+*   **Heading:** Add an Additional Lien
+*   Text: "To add another lienholder on the vehicle title, you will need the vehicle title, "
+*   Link:
+    *   Text: Application for Texas Title and/or Registration (Form 130-U)
+    *   URL: /sites/default/files/form_files/130-U.pdf
+*   Text: " and an "
+*   Link:
+    *   Text: Additional Lien Statement (Form VTR-267)
+    *   URL: /sites/default/files/form_files/VTR-267.pdf
+
+**3.5 Remove a Lien Section:**
+
+*   **Heading:** Remove a Lien
+*   Text: "After the lien on a vehicle is paid off, the lienholder has 10 days after receipt of payment to release the lien."
+*   Bulleted List:
+    *   "If the lien was recorded on a paper title, the lienholder mails the title to you."
+    *   "If your lien was recorded electronically, the title record is maintained electronically by TxDMV and the lienholder notifies you the lien has been removed."
+*   Text: "To remove a lien recorded on a paper title, you will need:"
+*   Numbered List:
+    1.  "the vehicle title"
+    2.  "a release of lien letter and/or other notifications from the lienholder(s) currently named on the vehicle title"
+    3.  "a completed "
+        *   Link:
+            *   Text: Application for Texas Title and/or Registration (Form 130-U)
+            *   URL: /sites/default/files/form_files/130-U.pdf
+*   Text: "If your lien was recorded electronically, the lienholder coordinates with us to remove the lien from our records. No action is required on your part."
+
+**3.6 Call to Action Box:**
+
+*   Link:
+    *   Text: Instructions for Application for Texas Title and/or Registration (Form VTR-130-UIF)
+    *   URL: /sites/default/files/form_files/VTR-130-UIF.pdf
+
+**3.7 Obtain a Paper Title for an Electronic Record Section:**
+
+*   **Heading:** Obtain a Paper Title for an Electronic Record
+*   Text: "When the department receives an electronic release of lien notification from a lienholder, the electronic record is automatically converted from an e-Title to a paper title and mailed to the recorded owner or third party."
+```

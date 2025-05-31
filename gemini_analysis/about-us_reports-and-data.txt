@@ -1,0 +1,130 @@
+## Product Requirements Document: TxDMV.gov - Reports and Data Page
+
+**1.  Introduction**
+
+This document outlines the content requirements for recreating the "Reports and Data" page on the TxDMV.gov website. It focuses on accurately representing the information presented on the original page.
+
+**2.  Page Title**
+
+*   **Text:** Reports and Data
+
+**3.  Breadcrumbs**
+
+*   Home
+*   About Us
+
+**4.  Report Listing and Filtering**
+
+The core of the page is a filterable table displaying reports and data.
+
+*   **Filter:**
+    *   **Label:** Category
+    *   **Type:** Select Dropdown
+    *   **Options:**
+        *   Value: "All", Display Text: "- Any -"
+        *   Value: "608", Display Text: "Reports & Data", Selected: Yes
+        *   Value: "609", Display Text: "-Annual Reports"
+        *   Value: "611", Display Text: "-Finance"
+        *   Value: "612", Display Text: "-Internal Audit"
+        *   Value: "610", Display Text: "-Motor Vehicle Crime Prevention Authority"
+        *   Value: "613", Display Text: "-Motor Carriers"
+        *   Value: "606", Display Text: "--Commercial Fleet Services / TxIRP"
+        *   Value: "605", Display Text: "--Operating Authority / UCR"
+        *   Value: "607", Display Text: "--OS/OW Permits"
+        *   Value: "3224", Display Text: "-Specialty License Plates"
+        *   Value: "3225", Display Text: "-Vehicles Registered by Registration Class"
+        *   Value: "3226", Display Text: "-Vehicles Registered and License Fees by County and Regional Office"
+        *   Value: "3223", Display Text: "-Vehicle Titles and Registration Data"
+        *   Value: "3229", Display Text: "-Vehicle Titles and Registration Fact Sheets"
+        *   Value: "3341", Display Text: "-Vehicle Titles Issued and Title Fees Collected by County"
+    *   **Button:**
+        *   **Text:** Search Reports
+
+*   **Table:**
+    *   The table displays reports based on the selected filter (or all reports if "Any" is selected).
+    *   **Columns:**
+        *   **Category:** The title of the Report Category. Should link to the report category page (e.g.,  link to "/node/3702" with the display text "Reports &amp; Data").
+        *   **Report:** A list of links to the reports
+
+    *   **Report Listing (Example - using 'Reports & Data' category)**
+        *   **Category:**  Reports &amp; Data (Link to /node/3702)
+        *   **Report:**
+            *   2025-2029 TxDMV Strategic Plan (Link to "/sites/default/files/report-files/TxDMV-FY2025-2029-Strategic-Plan-x.pdf")
+            *   84th Legislative Session Final Report (Link to "/sites/default/files/report-files/84th_Legislative_Session_Final_Report.pdf")
+            *   85th Legislative Agenda (Link to "/sites/default/files/report-files/85th_Legislative_Agenda.pdf")
+            *   Alternatively Fueled Vehicles Study December 2020 per SB 604 (86R) (Link to "/sites/default/files/report-files/SB_604_AFV-Report_120120.pdf")
+            *   HB1959 Alternative Registration Technology - Interim Study (Link to "/sites/default/files/report-files/HB1959_Alternative_Registration_Technology_Report.pdf")
+            *   Studies on Vehicle Titling, Registration, and Inspection Processes as Required by SB 2076, 85th Texas Legislature (Link to "/sites/default/files/report-files/SB2076-85R_TxDMV-DPS_Report_Combined.pdf")
+            *   TxDMV Compact With Texans (Link to "/sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf")
+            *   TxDMV Sunset Self-Evaluation Report, September 2017 (Link to "/sites/default/files/report-files/TxDMV_SER_2018-2019.pdf")
+
+**5. Page Improvement Feedback**
+
+*   **Button Text:** How can we make this page better for you?
+*   **Feedback Form**
+    *   **Header Text:** We Value Your Feedback
+    *   **Paragraph Text:** Your message will go to our web team. Thank you for helping us to serve you better!<br/>
+        If you want to contact a specific department and get a response, please go to the [About Us page]( /about-us).
+    *   **Form Fields:**
+        *   **Email:**
+            *   Label: Email
+            *   Type: Email
+            *   Required: Yes
+            *   Placeholder: Email
+        *   **Message:**
+            *   Label: Message
+            *   Type: Textarea
+            *   Required: Yes
+            *   Placeholder: Your Message
+        *   **"Bot Trap" Field**
+            *   Label: Leave this field blank
+            *   Type: Text
+            *   Purpose: Hidden field to detect bots (should not be visible to users).
+    *   **Button:**
+        *   Text: Send Message
+
+**6.  Footer Content**
+
+*   **Contact**
+    *   TxDMV Business Hours
+    *   Mon to Fri, 8AM-5PM (Central Time)
+    *   [View Detailed Contact Information]( /contact-us)
+*   **Resources**
+    *   [Cobrowse]( /)
+    *   [Media]( /about-us/txdmv-media)
+    *   [Open Records]( /open-records)
+    *   [Reports &amp; Data]( /about-us/reports-and-data)
+    *   [Texas.gov](https://www.texas.gov)
+    *   [Texas by Texas (TxT)](https://txt.texas.gov/dmv/vehicle-registration-renewal?utm_source=txdmv&utm_medium=footer&utm_campaign=txt)
+    *   [Texas by Texas (TxT) - Español](https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm_source=txdmv&utm_medium=footer&utm_campaign=txt)
+    *   [Troops &amp; Veterans]( /motorists/for-our-troops)
+*   **Work With Us**
+    *   [Careers]( /careers)
+    *   [Contractors/Vendors]( /tax-assessor-collectors/contractors-vendors)
+    *   [Lienholders]( /dealers/lienholders)
+    *   [MVCPA Grantees]( /about-us/MVCPA/grantees)
+    *   [Law Enforcement Data Assistance]( /open-records/law-enforcement-data-assistance-processes)
+    *   [Regional Service Centers]( /regional-service-centers)
+    *   [Tax Assessor-Collectors]( /tax-assessor-collectors)
+*   **Connect With Us**
+    *   [Facebook](http://www.facebook.com/TxDMV)
+    *   [Get Email Updates](https://public.govdelivery.com/accounts/TXDMV/subscriber/new)
+    *   [@TxDMV](http://x.com/txdmv)
+*   **Blue Links**
+    *   [Compact With Texans]( /sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf)
+    *   [Disclaimer]( /site-policies/disclaimer)
+    *   [Driver's Privacy Protection Act]( /site-policies/drivers-privacy-protection-act)
+    *   [Report Fraud, Waste or Abuse](https://sao.fraud.texas.gov/)
+    *   [Site Policies]( /site-policies)
+    *   [Texas Veterans Portal](https://veterans.portal.texas.gov/)
+    *   [Border Programs Team](https://gov.texas.gov/organization/hsgd)
+    *   [Statewide Search](https://www.tsl.texas.gov/trail/index.html)
+    *   [Transparency](https://comptroller.texas.gov/transparency/)
+*   **Copyright**
+    *   © 2025 Texas Department of Motor Vehicles. All rights reserved.
+
+**Notes:**
+
+*   All URLs are relative to the base URL "txdmv.gov" unless explicitly specified as an external link.
+*   This document focuses solely on content.  Design elements, styling, and precise layout are not included.
+*   External links should open in a new tab or window.

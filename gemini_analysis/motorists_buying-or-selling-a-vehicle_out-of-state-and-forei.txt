@@ -1,0 +1,117 @@
+```text
+## Product Requirements Document: TxDMV Out-of-State and Imported Vehicles Page
+
+**1. Introduction**
+
+This document outlines the content requirements for the "Out of State and Imported Vehicles" page on the TxDMV.gov website. It provides detailed specifications to enable accurate recreation of the page's information architecture and content.
+
+**2. Goal**
+
+To provide clear and concise information to users about the process of titling and registering vehicles purchased out of state or imported from outside the United States.
+
+**3. Page Title**
+
+*   **Text:** Out of State and Imported Vehicles
+
+**4. Breadcrumbs**
+
+*   Home > Motorists > Buying or Selling a Vehicle
+
+**5. Main Content**
+
+*   **Introductory Text:** "If you did not purchase your vehicle in Texas, please choose the scenario that best fits your situation."
+
+**6. Tabbed Content**
+
+The main content is divided into two tabs:
+
+    *   Tab 1: Purchased a Vehicle Outside of Texas
+    *   Tab 2: Purchased a Vehicle Outside of the United States
+
+**6.1 Tab 1: Purchased a Vehicle Outside of Texas**
+
+*   **Introductory Text:**
+    *   "A vehicle must be titled in your name within 30 days of the date of sale to avoid delinquent transfer penalties. Additionally, you must register the vehicle within 30 days of bringing the vehicle to Texas."
+    *   "All commercial vehicles must obtain a passing safety inspection prior to registration, regardless of county of residence."
+    *   "Non-Commercial vehicles registered in one of the following 17 counties are not required to obtain a passing safety inspection, but are required to obtain a passing emissions inspection prior to registration: Brazoria, Collin, Dallas, Denton, El Paso, Ellis, Fort Bend, Galveston, Harris, Johnson, Kaufman, Montgomery, Parker, Rockwall, Tarrant, Travis, Williamson."
+    *   "After obtaining all applicable vehicle inspections, take the following to your county tax office to title and register the vehicle:"
+
+*   **List of Required Items:**
+    *   Proof of Inspection (Vehicle Inspection Report), if applicable
+    *   Proof of liability insurance meeting State of Texas minimum requirements
+    *   The vehicle's odometer reading if it is required
+    *   An original out of state title or other valid ownership evidence
+    *   Proof of sales tax payment or current foreign/military ownership document
+    *   Completed Application for Texas Title and/or Registration (Form 130-U)
+        *   If the vehicle is not subject to a commercial or emissions inspection, self-certify the vehicle identification number on the form
+        *   Link to Form 130-U: "/sites/default/files/form_files/130-U.pdf"
+    *   The following fees:
+        *   Registration fee (base fee of $50.75 for passenger vehicles and light trucks),
+        *   Title application fee of $28 or $33, depending on the county,
+        *   State portion of the vehicle inspection fee (up to $30.75)
+        *   Local county fees (up to $31.50)
+        *   6.25% vehicle sales tax,
+        *   $1 Insurance verification fee
+        *   $4.75 processing and handling fee
+
+*   **Call to Action Box:**
+    *   Text: "Instructions for Completing the Application for Texas Title and/or Registration"
+    *   Link: "/sites/default/files/form_files/VTR-130-UIF.pdf"
+
+**6.2 Tab 2: Purchased a Vehicle Outside of the United States**
+
+*   **Introductory Text:** "The vehicle must meet all federal and state importation requirements prior to titling and/or registering the vehicle in Texas."
+
+*   **Step 1: Properly import your vehicle**
+    *   "Your vehicle must meet the Federal Motor Vehicle Safety Standards (FMVSS) established by the National Highway Traffic Safety Administration (NHTSA)."
+    *   Link to NHTSA: "https://icsw.nhtsa.gov/cars/rules/import/"
+    *   "More information concerning customs matters is available from U.S. Customs and Border Protection."
+    *   Link to U.S. Customs and Border Protection: "http://www.cbp.gov/"
+
+*   **Step 2: Obtain a passing applicable vehicle inspection**
+    *   "Obtain a Texas vehicle safety inspection (commercial vehicle) at any state inspection station within your new county of residence."
+    *   "If you live in one of the following emissions counties, you will need to obtain a passing vehicle emissions inspection prior to registering your vehicle: Brazoria, Collin, Dallas, Denton, El Paso, Ellis, Fort Bend, Galveston, Harris, Johnson, Kaufman, Montgomery, Parker, Rockwall, Tarrant, Travis, Williamson."
+    *   "Proof of vehicle insurance will be required at the time of inspection."
+    *   "You can have your vehicle inspected at any Texas-certified Safety Inspection Station. The inspection station will provide you with an original Vehicle Inspection Report (VIR) signed by the inspector."
+    *   Link to Safety Inspection Station Locator: "https://www.dps.texas.gov/apps/rsd/vi/VIactiveStationLocator/Default.aspx"
+
+*   **Step 3: Obtain a VIN inspection**
+    *   "The vehicle must be inspected by a trained auto theft investigator who is a law enforcement officer of this state or a political subdivision of this state. Contact local law enforcement to determine if they have a trained auto theft investigator or contact a Motor Vehicle Crime Prevention Authority Grantee to find a trained investigator."
+    *   Link to Motor Vehicle Crime Prevention Authority Grantee: "/mvcpa-grantees"
+    *   "Note: An authorized employee of the National Insurance Crime Bureau (NICB) may also perform these inspections."
+    *   "Upon completion of this VIN inspection, you will be provided with an original Law Enforcement Identification Number Inspection (Form VTR-68-A) signed by the investigator."
+
+*   **Step 4: Apply for Texas title/registration**
+    *   "After your vehicle passes customs, federal and state inspection, take the following forms, along with proof of insurance, to your county tax office:"
+    *   List of required documents:
+        *   "U.S. Department of Transportation Form HS-7, or any other document establishing customs entry/clearance and compliance with, or exemption from, federal safety standards"
+            *   Link to U.S. Department of Transportation: "http://www.dot.gov/"
+        *   "If the imported vehicle is under bond, an original bond release letter from the U.S. Department of Transportation"
+        *   "Vehicle Inspection Report (VIR), if applicable"
+        *   "The inspection report on the bottom of Form VTR-68-A completed by a law enforcement agency's auto theft unit. Note: U.S. military personnel, including immediate family members, returning to Texas military bases are not required to submit a completed form VTR-68-A. Please refer to our Military Packet for more information."
+            *   Link to Military Packet: "/sites/default/files/body-files/military-packet.pdf"
+        *   "A completed Application for Texas Title and/or Registration (Form 130-U)"
+        *   Link to Form 130-U: "/sites/default/files/form_files/130-U.pdf"
+        *   "Provide the vehicle's odometer reading if it is required."
+        *   "Present the ownership document. You must provide a certified English translation of any document printed in any language other than English."
+
+*   **Call to Action Box:**
+    *   Text: "Instructions for Completing the Application for Texas Title and/or Registration"
+    *   Link: "/sites/default/files/form_files/VTR-130-UIF.pdf"
+
+**7. "How can we make this page better for you?" Feedback Form**
+
+*   **Heading:** We Value Your Feedback
+*   **Introductory Text:**
+    *   "Your message will go to our web team. Thank you for helping us to serve you better!"
+    *   "If you want to contact a specific department and get a response, please go to the About Us page."
+        *   Link to "About Us page": "/about-us"
+
+*   **Form Fields:**
+    *   Email (required)
+    *   Message (required)
+
+*   **Submit Button:** Send message
+
+**8. Disclaimer:** This specification focuses solely on the content and information architecture of the "Out of State and Imported Vehicles" page. It does not include any design or layout specifications.
+```

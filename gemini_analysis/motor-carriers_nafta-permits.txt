@@ -1,0 +1,155 @@
+```
+## Product Requirements Document: TxDMV NAFTA Permits Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "NAFTA Permits" page on the TxDMV website. It focuses on replicating the page's information architecture and textual content.
+
+**2. Goal**
+
+To provide clear and accurate information regarding NAFTA permits for motor carriers, including application procedures, requirements, and exceptions.
+
+**3. Scope**
+
+This document covers the core content areas of the NAFTA Permits page, specifically:
+
+*   About NAFTA Permits
+*   How to Apply for NAFTA Permits
+*   Registration Insignia
+*   Exceptions & Exemptions
+*   More Information
+
+**4. Detailed Requirements**
+
+**4.1. Main Content Area:**
+
+The primary content is structured using a tabbed interface. Each tab contains specific information as follows:
+
+**4.1.1. Tab: About**
+
+*   **Content:**
+    Mexican vehicles traveling on Texas highways beyond the border commercial zones are required to have one of three registration permits:
+    *   North American Free Trade Agreement (NAFTA) annual permit issued by the TxDMV,
+    *   72-hour permit displayed on each vehicle, or
+    *   144-hour permit displayed on each vehicle.
+    Mexican vehicles that stay within the border commercial zones do not need the additional registration.
+    The NAFTA annual permit is legal Texas registration for foreign commercial motor vehicles, trailers, or semitrailers that are not authorized to travel on Texas highways either due to lack of registration or because the country or state where the vehicle is registered does not have a reciprocal agreement with the State of Texas.
+    If you are from any foreign country, you may purchase a NAFTA annual permit. However, NAFTA annual permits will not be issued to Mexican commercial vehicles that will travel outside the border zones until the U.S. Department of Transportation lifts the border moratorium.
+    The same limitations apply to foreign vehicles and Texas vehicles. Your vehicle or combination of vehicles, including the load being carried, may not exceed a 80,000 pounds gross weight, unless operating under an oversize/overweight permit issued by the TxDMV.
+    **Note:** Please check back frequently to ensure you have the most up-to-date information. Further implementation of NAFTA is currently under review.
+    Once fully implemented, the North American Free Trade Agreement (NAFTA) will impact cross-border traffic. It will allow Mexican commercial vehicles to travel in the United States if they meet all local, state and federal requirements. A moratorium, imposed by the U.S. Department of Transportation (USDOT), has been in effect since December 1995. When the cross border moratorium is lifted, this means that Mexican commercial vehicle operators will be able to travel in the United States.
+
+**4.1.2. Tab: How to Apply**
+
+*   **Content:**
+
+    NAFTA Annual Permit
+    The NAFTA annual permit is available from select VTR Regional Service Centers in the El Paso, Pharr and San Antonio regions. 
+    Follow these steps to apply:
+
+    1.  Submit a [Texas Annual Permit Application (Form VTR-29)](/sites/default/files/form_files/VTR-29.pdf) for up to ten vehicles;
+    2.  Provide proof of insurance that meets minimum levels required in Texas. Policies must be issued by an insurance company or surety company authorized to write motor vehicle liability insurance in Texas;
+    3.  If you are registered as a motor carrier through TxDMV's Motor Carrier Division, include your current registration listing indicating that the vehicle is in compliance; and
+    4.  Pay required fees in cash, postal money order or certified check.
+
+    72 or 144-hour Permit
+    The 72-hour and 144-hour permits provide full temporary registration for movement of commercial vehicles, trailers, semitrailers, and motor buses owned by residents of the United States, Canada or Mexico.
+    The permits are available at the VTR regional offices, the state's county tax assessor-collector offices, and by contacting TxDMV's Motor Carrier Division at (800) 299-1700. A completed application, proof of insurance and fees are required for these permits.
+    A 72-hour permit costs US $25, and a 144-hour permit costs US $50, by payment of cash, postal money order or certified check. The Motor Carrier Division accepts a credit cards or escrow account for qualified customers.
+    Note: Permits are only valid in the commercial zone for Foreign Motor Carriers.
+    Insurance Requirements
+    All Texas financial responsibility requirements applying to the vehicle must be satisfied.
+    Fees and Payment Information
+    The fees for a NAFTA annual permit are based on your vehicle's registration class. For example, if you purchase a NAFTA annual permit for a truck tractor with a combined gross weight of 80,000 lbs., the fee would be the same as for a truck with a gross weight of 80,000 lbs. displaying a combination plate - US $840.30.
+    If a NAFTA annual permit is sold for a diesel truck, the 11-percent diesel fee is collected. NAFTA annual permits are not subject to the local county road and bridge fees or child safety fees.
+
+**4.1.3. Tab: Registration Insignia**
+
+*   **Content:**
+
+    For trucks and truck tractors, you will receive a NAFTA permit license receipt, annual permit windshield validation sticker, and NAFTA annual permit license plate. This sticker is designed with a black border and should be displayed in the lower left corner of the windshield.
+    For trailers or semitrailers, you will receive a validated NAFTA annual permit license plate, and a NAFTA annual permit license receipt.
+    A receipt is issued for each annual permit as evidence of registration and must be carried in the vehicle during the time the NAFTA permit is valid. If the receipt is lost or destroyed, you must obtain a duplicate from the TxDMV. The fee for a duplicate receipt is US $2.
+    Replacement Plates and Windshield Validation Stickers
+    You should apply directly to the department or county tax office in writing for the issuance of a replacement NAFTA annual permit. Your request should include a copy of the registration receipt and replacement fee.
+    The fee for a replacement NAFTA annual permit plate or windshield validation sticker is US $5.30. Transfers not allowed. NAFTA annual permits are non-transferable between vehicles and/or owners.
+    If you sell or dispose of a vehicle displaying an active NAFTA annual permit, the permit should be returned to the department immediately. Refunds on NAFTA annual permits will be examined on a case-by-case basis.
+
+**4.1.4. Tab: Exceptions & Exemptions**
+
+*   **Content:**
+
+    Exceptions to the NAFTA Annual Permit Requirement
+    TxDMV will not issue a NAFTA annual permit to a vehicle used to import citrus fruit into Texas from a foreign country except for foreign export or processing for foreign export.
+    Foreign semitrailers in excess of 6,000 lbs. gross weight and operated in combination with foreign power units registered with NAFTA annual permits are exempt from the display of the Token Trailer plate, and subsequently, the $15 token fee. However, the semitrailers must display current license plates. If the trailer is unregistered, or displays an expired plate, a NAFTA annual permit must be issued so the trailer displays valid registration.
+    Exemptions
+    A foreign commercial vehicle is exempt from inspection certificates, emissions inspections and temporary registration permit, if:
+
+    *   The vehicle is engaged solely in transportation of cargo across the border into or from a border commercial zone;
+    *   For each load of cargo transported the vehicle remains in this state:
+        *   not more than 24 hours, or
+        *   not more than 48 hours, if the vehicle is unable to leave this state within 24 hours because of circumstances beyond the control of the motor carrier operating the vehicle; and all financial responsibility requirements applying to the vehicle are satisfied; the vehicle is registered and licensed as required by the law of another state or country as evidenced by a valid metal license plate attached to the front or rear of the exterior of the vehicle; and the country in which the person that owns or controls the vehicle is domiciled or is a citizen provides a reciprocal exemption for commercial motor vehicles owned or controlled by residents of this state.
+    Until the border opens, commercial vehicles are permitted to operate only within specified zones of cities located along the contiguous border with Mexico. The border commercial zones for the United States/Mexico ports of entry in Texas are based on the number of miles from the city limit boundaries and are based on the population of the city. The boundaries of a border commercial zone may be modified or established only as provided by federal law.
+
+| Texas City       | Population | Travel Miles Allowed from City Limits Boundaries |
+| ---------------- | ---------- | ----------------------------------------------- |
+| Del Rio          | 30,705     | 6                                               |
+| Eagle Pass       | 20,651     | 4                                               |
+| El Paso          | 592,400    | 15                                              |
+| Fabens           | 1,599      | 3                                               |
+| Laredo           | 126,300    | 8                                               |
+| Presidio         | 3,072      | 4                                               |
+| Brownsville      | 266,600    | \*                                              |
+| Hidalgo          | 384,800    | \*                                              |
+| Rio Grande City  | 9,891      | \*                                              |
+| Progresso        | 1,951      | \*                                              |
+| Roma             | 8,059      | \*                                              |
+
+    \* These cities are located in the border commercial zone of Cameron, Hidalgo, Starr, and Willacy counties. Therefore, mileage or population does not mandate the zone limits
+
+    NAFTA does not affect the current registration requirements for passenger cars, pickup trucks (not exceeding 2,000 pounds manufactured rated carrying capacity) and trailers and semitrailers (not exceeding 4,000 pounds gross weight). These vehicles will continue to be operated according to the paired city understandings with the Mexican States of Coahuila and Chihuahua and the bilateral understanding with the Mexican State of Tamaulipas.
+
+**4.1.5. Tab: More Information**
+
+*   **Content:**
+
+    Bus Operations from Mexico to Texas
+    Charter buses may obtain US $5 One-Trip Permits to operate into or through Texas. Motor and private buses may operate to and from Texas terminals of cities listed in the border commercial zones, provided such buses are operating a through service into and from the interior of Mexico.
+    Trailer License Plates
+    All foreign commercial motor vehicles, primarily engaged in transporting cargo across the border into or from a border commercial zone, must be registered in Texas or operated under an exemption.
+    All foreign commercial motor vehicles operating within the border commercial zone must display one of the following types of registration on the semi-trailer:
+
+    *   Current foreign registration, including current Mexican registration
+    *   NAFTA annual permit trailer permit
+    *   72-hour permit
+    *   144-hour permit
+
+    Contact one of the VTR regional offices located within the border commercial zone to purchase a NAFTA annual permit trailer permit, a 72-hour permit, or 144-hour permit.
+    Additional Requirements for Mexican Vehicles
+    Mexican vehicles also need to display the Secretaria de Comunicaciones y Transportes (SCT) windshield sticker and a USDOT permit to be legal. For information on the USDOT permit, call the Motor Carrier Division at (800) 299-1700.
+    Apprehended Vehicles
+    NAFTA annual permits cannot be sold to apprehended vehicles. Apprehended vehicles are to be handled in the usual manner at the county tax offices and the 20% penalty for operating illegally is collected. Applicants with apprehended vehicles from Mexico that are sold Texas registration should be reminded that they cannot legally operate outside of the border zones until the border moratorium is lifted by USDOT. 
+    Vehicle with a Texas Record
+    A NAFTA annual permit can be issued to a vehicle with a Texas record if the applicant indicates that the vehicle is from a foreign country and provides proof of foreign residency. The title record in the motor vehicle database does not necessarily reflect the current vehicle owner. One exception is when a foreign carrier is apprehended and an "RPO" application is allowed to be processed showing a "non-resident address" on the RPO license receipt.
+    Weight Changes
+    The weight can be raised on NAFTA annual permits up to the legal maximum weight limit in Texas. In order to raise the weight, the applicant would present the current annual permit receipt along with a new [Texas Annual Permit Application (Form VTR-29)](/sites/default/files/form_files/VTR-29.pdf), showing the new weight desired.
+
+**5. Links**
+
+*   Texas Annual Permit Application (Form VTR-29): /sites/default/files/form_files/VTR-29.pdf
+*   TxDMV Motor Carrier Division: (800) 299-1700
+*   About Us page: /about-us
+
+**6. Terminology**
+
+*   TxDMV: Texas Department of Motor Vehicles
+*   NAFTA: North American Free Trade Agreement
+*   USDOT: U.S. Department of Transportation
+*   VTR: Vehicle Titles and Registration Division
+
+**7. Open Issues**
+
+*   Clarification needed on specific VTR Regional Service Center locations that issue NAFTA permits.
+*   Confirmation needed on whether the border moratorium has been lifted by USDOT.
+
+```

@@ -1,0 +1,155 @@
+```txt
+# Product Requirements Document: Motorists Page (TxDMV.gov)
+
+**1. Introduction**
+
+This document details the content requirements for recreating the "Motorists" page on the TxDMV.gov website.  It focuses on the core content areas, excluding site-wide elements like navigation, search, and language selection.
+
+**2. Goal**
+
+To provide a clear specification of the text, links, and structure required to implement the main content of the Motorists page.
+
+**3. Content Requirements**
+
+**3.1 Important Updates (Removable Box)**
+
+*   **Title:** Important Updates
+*   **Content:**
+
+    *   **Remember To Bring:** along your photo ID when you are buying a vehicle.
+    *   You may use any of the following types of identification:
+        1.  Driver license or state identification certificate issued by a state or territory of the U.S.
+        2.  U.S. or foreign passport
+        3.  U.S. military ID
+        4.  North Atlantic Treaty Organization ID or identification issued under a Status of Forces Agreement
+        5.  U.S. Department of Homeland Security ID
+        6.  U.S. Department of State ID
+        7.  U.S. Citizenship and Immigration Services document
+    *   **How do I make a surety bond claim?**
+        Many independent dealers are required to have a surety bond, and these dealers must post a bond notice at their business location near their dealer license. This notice includes contact information for the dealer’s bond company so customers have the information necessary to file a claim.
+
+        The surety bond requirement applies to all GDN license types except for Trailer/Semitrailer and Non-Motorized Travel Trailer. The bond requirement does not apply to Franchised dealers issued a GDN license associated to a Franchised dealer license.
+        If bond information is not posted in the dealer’s office, motorists can submit a Public Information Act (PIA) request to get the name of the dealer’s bond company.
+        *(Link to /open-records)*
+
+    *   **Need a Replacement Title?**
+        Fill out an Application for a Certified Copy of Title (Form VTR-34), and submit it to your Regional Service Center. Or mail the application to:
+        *(Link to /sites/default/files/form_files/VTR-34.pdf)*
+        TxDMV
+        1601 Southwest Parkway, Suite A
+        Wichita Falls, TX 76302
+
+**3.2. How do I...**
+
+*   **Title:** How do I...
+
+**3.3. "How Do I" Sections**
+
+These sections consists of title, image (icon), and link.
+
+*   **Renew my vehicle registration?**
+    *   Link: /motorists/register-your-vehicle
+    *   Text: Learn More
+*   **Buy or sell a vehicle?**
+    *   Link: /motorists/buying-or-selling-a-vehicle
+    *   Text: Learn More
+*   **Find the forms I need to use?**
+    *   Link: /forms
+    *   Text: Learn More
+*   **Get a Driver License or ID card?**
+    *   Link: https://www.dps.texas.gov/DriverLicense/
+    *   Text: Learn More
+*   **Get a temporary permit?**
+    *   Link: /motorists/register-your-vehicle/temporary-permits
+    *   Text: Learn More
+*   **Do a title check?**
+    *   Link: /motorists/buying-or-selling-a-vehicle/title-check-look-before-you-buy
+    *   Text: Learn More
+*   **Get disabled parking placards or plates?**
+    *   Link: /motorists/disabled-parking-placards-plates
+    *   Text: Learn More
+*   **File a complaint?**
+    *   Link: /complaints
+    *   Text: Learn More
+
+**3.4 Helpful Links**
+
+*   **Title:** Helpful Links
+*   **Links:**
+
+    *   Change of Address (Link to: https://renew.txdmv.gov/Renew/AddressChangeServlet)
+    *   Consumer Protection (Link to: /motorists/consumer-protection)
+    *   For Our Troops (Link to: /motorists/for-our-troops)
+    *   Get a Copy of Your Title (Link to: /motorists/buying-or-selling-a-vehicle/get-a-copy-of-your-title)
+    *   How to Find the VIN (Link to: /motorists/how-to-find-the-vin)
+    *   Lemon Law (Link to: /motorists/consumer-protection/lemon-law)
+    *   New to Texas (Link to: /motorists/new-to-texas)
+    *   Registration Renewal Reminders (Link to: https://renew.txdmv.gov/Renew/ereminder/jsp/txdot_ereminder_enter_vehicle_email.jsp)
+    *   Specialty License Plates (Link to: /motorists/license-plates/specialty-license-plates)
+    *   Trailers (Link to: /motorists/buying-or-selling-a-vehicle/trailers)
+    *   Vehicle Transit Permit (Link to: https://permit.txdmv.gov/Permit/VTPermit)
+    *   Vehicle Transfer Notification (Link to: https://webdealer.txdmv.gov/title/publicVehicleTransfer)
+
+*   Takata Air Bags Recall Information (Link to: /motorists/consumer-protection/lemon-law/takata-air-bags-recall-information)
+
+**3.5 Calculate Your Vehicle's Value**
+
+*   **Title:** Calculate Your Vehicle's Value
+*   **(Iframe)** Link: https://tools.txdmv.gov/tools/std_presumptive_ewr/
+
+**3.6. Motorists Toolbox**
+
+*   **Title:** Motorists Toolbox
+*   **Links:**
+    *   Forms (Link to: /forms)
+    *   Photo ID Requirements (Link to: /photo-id-requirements)
+
+*   **Publications & Manuals:**
+    *   Assembled Vehicle Manual (Link to: /sites/default/files/body-files/Assembled_and_Reconstructed_Vehicle_Manual.pdf)
+    *   Title Manual (Link to: /sites/default/files/body-files/Motor_Vehicle_Title_Manual_Book_451.pdf)
+    *   Registration Manual (Link to: /sites/default/files/body-files/Motor_Vehicle_Registration_Manual_Book_298.pdf)
+    *   Salvage Nonrepairable Manual (Link to: /sites/default/files/body-files/Salvage_Nonrepairable_Manual.pdf)
+
+*   View All Publications & Manuals (Link to /publications)
+
+**3.7 Find Your Local Tax Office & DMV**
+
+*   **Title:** Find Your Local Tax Office & DMV
+
+    *   **(Form)** County Selection
+        *   A dropdown menu containing all Texas counties.  When selected, users should be redirect to appropriate office based on the county.
+
+**3.8 View Motorists FAQ**
+
+*   View Motorist FAQ (Link to /faq/motorists)
+
+**3.9 Make this page better?**
+*   How can we make this page better for you?
+
+**3.10. Email Form**
+
+*   Email
+    *   Label: Email
+    *   Type: email
+*   Message
+    *   Label: Message
+    *   Type: textarea
+*   Button Label: Send Message
+If you want to contact a specific department and get a response, please go to the <a href="/about-us">About Us page</a>.
+
+**4. Out of Scope**
+
+*   Design elements (CSS, colors, fonts, images, spacing, etc.)
+*   Header and Footer
+*   Language selection
+*   Search functionality
+*   Navigation menus
+
+**5. Notes**
+
+*   All relative URLs are assumed to be within the txdmv.gov domain.
+*   The term "Link to:" indicates an HTML `<a href="">` tag.
+*   Ensure all URLs are functional and point to the correct resources.
+*   Pay special attention to maintaining accessibility best practices (e.g., alt text for images).
+*   The order of content sections should match the original page.
+```

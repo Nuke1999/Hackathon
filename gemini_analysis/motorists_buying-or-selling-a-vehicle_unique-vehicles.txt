@@ -1,0 +1,143 @@
+```txt
+# Product Requirements Document
+
+## 1. Introduction
+
+This document outlines the content requirements for a website mimicking the provided HTML. The goal is to extract and present the core information in a structured, accessible manner, focusing solely on content and inter-page relationships.
+
+## 2. Global Considerations
+
+*   **Language:** The primary language of the content is English. Translation functionality is assumed to be present via an external service like Google Translate, supporting the languages listed in the provided HTML.
+*   **Navigation:** The site uses a hierarchical navigation menu, with sub-menus and direct links to internal pages and external sites. This should be replicated.
+*   **Forms:** A feedback form ("How can we make this page better for you?") exists and should be functional.
+*   **External Links:** All URLs should be functional.
+
+## 3. Page-Specific Content: Unique Vehicles
+
+### 3.1. Page Title
+
+*   **Text:** Unique Vehicles
+
+### 3.2. Breadcrumb
+
+*   Home › Motorists › Buying or Selling a Vehicle
+
+### 3.3. Introductory Text
+
+*   **Text:** Unique vehicles include off-highway vehicles, Golf Carts, and Neighborhood Electric Vehicles (NEVs). Off-highway vehicles include All-Terrain Vehicles (ATVs), Recreational Off-Highway Vehicles (ROVs), Utility Vehicles (UTVs), and Sand Rails. The unique vehicles in each tab below have different types of operation. Click on each tab to find more information about these vehicles and the different types of operation.
+
+### 3.4. Tabbed Content
+
+The page utilizes a tabbed interface to organize information about different vehicle types. Each tab's content is detailed below.
+
+#### 3.4.1. Tab 1: Off-Highway Vehicles
+
+*   **Tab Title:** Off-Highway Vehicles
+
+*   **Content:**
+    *   **Paragraph 1:** The TxDMV is required to title off-highway vehicles (ATVs, ROVs, UTVs, and Sand Rails), but these vehicles are not eligible for registration. Off-highway vehicles are eligible to receive an Off-Highway Vehicle license plate, which may be obtained from your county tax assessor-collector’s office. For Driver License requirements to operate any of these vehicles, contact the Texas Department of Public Safety. A [Texas Use Tax](https://comptroller.texas.gov/taxes/sales/off-highway-use-tax.php) will apply to vehicles purchased in other states. Find details on paying use tax visit the [Texas Comptroller website.](https://comptroller.texas.gov/taxes/sales/off-highway-use-tax.php).
+    *   **Paragraph 2:** **An All Terrain Vehicle (ATV) is a motor vehicle that:**
+        *   Has a seat or seats for the rider and one passenger
+        *   Has three or more tires
+        *   Is not more than 50 inches wide
+        *   Is designed for off-highway use
+        *   Is not designed by the manufacturer for farm or lawn care.
+
+    *   **Paragraph 3:** **A Recreational Off-Highway Vehicle (ROV) is a motor vehicle that:**
+        *   Has a seat or seats for the rider and one or more passengers
+        *   Has four or more tires
+        *   Is designed for off-highway use
+        *   Is not designed by the manufacturer for farm or lawn care.
+
+    *   **Paragraph 4:** **A Utility Vehicle (UTV) is a motor vehicle that:**
+        *   Has side by side seating for the operator and passenger
+        *   Has four or more tires
+        *   Is designed for off-highway use
+        *   Is designed by the manufacturer for utility work and not for recreational purposes.
+
+    *   **Paragraph 5:** **A Sand Rail is a motor vehicle that:**
+        *   Is designed or built for off-highway use in sandy terrains
+        *   Has a tubular frame
+        *   Has an integrated roll cage
+        *   Has an engine that is rear-mounted or placed midway between the front and rear axles
+        *   Has a gross vehicle weight between 700 and 2,000 pounds.
+
+    *   **Paragraph 6:** **An off-highway vehicle operated on public off-highway vehicle land must have:**
+        *   A brake system
+        *   A muffler system
+        *   U.S. Forest Service qualified spark arrester
+        *   A head light and tail light
+        *   [An Off-Highway Vehicle decal](https://tpwd.texas.gov/state-parks/texas-off-highway-program/where-to-buy-a-texas-ohv-decal) issued by the Texas Parks and Wildlife Department.
+
+    *   **Paragraph 7:** **ATVs, ROVs, UTVs and Sand Rails with an Off-Highway Vehicle license plate may be operated on roads in the following situations:**
+        *   In a master planned community with a uniform set of restrictive covenants and a county or municipality-approved plat
+        *   On a road with a posted speed limit of not more than 35 mph, during the daytime and not more than two miles from the location where it is usually parked for transportation to and from a golf course
+        *   To cross intersections, including a road or street that has a posted speed limit of more than 35 mph.
+
+    *   **Paragraph 8:** Additionally, cities and certain counties may authorize operation of ATVs, ROVs, UTVs, and Sand Rails on roads within the boundaries of the city or within unincorporated areas of certain counties. The ATV, ROV, UTV and Sand Rail must display an Off-Highway Vehicle license plate when operated on roads authorized by the city or county. Operation may be authorized only on roads with a speed limit of 35 mph or less. If operated on the roads at a speed of 25 mph or less, an ATV, ROV, UTV and Sand Rail is required to display a slow-moving vehicle emblem.
+
+    *   **Paragraph 9:** **ATVs, ROVs, UTVs and Sand Rails may be operated on roads without the issuance of a license plate if the vehicle is:**
+        *   Owned by a state, county, or municipality and operated on a public beach or highway to maintain public safety and welfare
+        *   Operated by a farmer or a rancher during the daytime and traveling no more than 25 miles from the point of origin to the destination and used in connection with the production, cultivation, harvesting, etc., of agricultural products*
+        *   Operated by a public utility worker during the daytime for utility work and traveling no more than 25 miles from the point of origin to the destination*
+        *   Operated by a law enforcement officer, or other person who provides firefighting, ambulance, medical, or other emergency services, and traveling no more than 10 miles from the point of origin to the destination*.
+
+    *   **Paragraph 10:** *ATVs, ROVs, UTVs and Sand Rails operated on a road without an Off-Highway Vehicle license plate require a triangular orange flag (slow moving emblem) mounted to the back of the vehicle at least six feet above ground level and the vehicle’s headlights and taillights to be illuminated.
+
+#### 3.4.2. Tab 2: Golf Carts
+
+*   **Tab Title:** Golf Carts
+
+*   **Content:**
+    *   **Paragraph 1:** A Golf Cart is a motor vehicle designed by the manufacturer primarily for use on a golf course. TxDMV does not title and register Golf Carts, but Golf Carts are eligible to receive a Golf Cart license plate. You may obtain a Golf Cart license plate from your county tax assessor-collector’s office. The county will require a [Form 130-U Application for Texas Title and/or Registration](/sites/default/files/form_files/130-U.pdf).
+    *   **Paragraph 2:** **Golf Carts with a Golf Cart license plate may be operated on roads in the following situations:**
+        *   In a master planned community with a uniform set of restrictive covenants and a county or municipality approved plat
+        *   On a public or private beach that is open to vehicular traffic
+        *   On a highway with a posted speed limit of 35 mph, during the daytime and not more than two miles from the location where it is usually parked for transportation to and from a golf course
+        *   To cross intersections, including an intersection with a highway that has a posted speed limit of more than 35 mph.
+
+    *   **Paragraph 3:** **Golf Carts must have the following minimum equipment:**
+        *   Headlamps
+        *   Tail lamps
+        *   Reflectors
+        *   Parking brake
+        *   Mirrors
+
+    *   **Paragraph 4:** Additionally, cities or certain counties may authorize operation of Golf Carts on roads within the boundaries of the city or within unincorporated areas of certain counties. The Golf Cart must display a Golf Cart license plate when operated on roads authorized by the city or county. Operation may be authorized only on roads with a speed limit of 35 mph or less.
+    *   **Paragraph 5:** If operated on the roads at a speed of 25 mph or less, a Golf Cart is required to display a slow-moving vehicle emblem.
+
+#### 3.4.3. Tab 3: Neighborhood Electric Vehicles (NEV)
+
+*   **Tab Title:** Neighborhood Electric Vehicles (NEV)
+
+*   **Content:**
+    *   **Paragraph 1:** **A vehicle is classified as a Neighborhood Electric Vehicle (NEV) if it has:**
+        *   A maximum speed of 35 mph
+        *   Four tires
+        *   Seat belts
+        *   Head and tail lights
+        *   A windshield
+        *   A parking brake
+        *   Turn signals
+        *   Rear-view mirrors
+        *   Brake lights
+        *   Reflectors
+        *   A valid 17-digit Vehicle Identification Number (VIN).
+
+    *   **Paragraph 2:** **To title and register your NEV, take the following to your county tax assessor-collector's office:**
+        *   Evidence of ownership, such as a Manufacturer Certificate of Origin or title
+        *   A completed [Application for Texas Title and/or Registration (Form 130-U)](/sites/default/files/form_files/130-U.pdf)
+        *   Proof of insurance
+
+    *   Instructions for Completing the Application for Texas Title and/or Registration link to  [/sites/default/files/form_files/VTR-130-UIF.pdf]
+
+### 3.5. Feedback Form
+
+This form collects user feedback on the page.
+
+*   **Title:** We Value Your Feedback
+*   **Description:** Your message will go to our web team. Thank you for helping us to serve you better! If you want to contact a specific department and get a response, please go to the [About Us page](/about-us).
+*   **Fields:**
+    *   Email (Required, Email Input)
+    *   Message (Required, Textarea)
+*   **Button:** Send message

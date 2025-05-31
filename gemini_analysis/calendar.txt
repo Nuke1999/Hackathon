@@ -1,0 +1,122 @@
+## Product Requirements Document: TxDMV.gov Events Calendar
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the Events Calendar page on TxDMV.gov. This document focuses solely on content elements, excluding design and layout specifications.
+
+**2. Goals**
+
+*   To accurately represent the informational content of the existing Events Calendar page.
+*   To provide sufficient detail for an AI implementor to recreate the page with high fidelity.
+
+**3. Scope**
+
+This document covers the main content area of the Events Calendar page, including:
+
+*   Calendar display and navigation
+*   Event listings
+
+**4. Detailed Requirements**
+
+### 4.1. Page Title
+
+*   **Text:** "Events Calendar"
+
+### 4.2. Calendar Display
+
+*   **Functionality:** The calendar should display events in a monthly, weekly, daily, and list view.
+*   **Navigation:** The calendar should provide navigation buttons for:
+    *   "Prev": Navigates to the previous month/week/day/year (depending on the view).
+    *   "Next": Navigates to the next month/week/day/year (depending on the view).
+    *   "Today": Returns the calendar to the current date.
+*   **Date Display:**
+    *   The currently viewed month and year should be displayed (e.g., "May 2025").
+*   **Day of Week Headers:**
+    *   The calendar should display abbreviations for days of the week: "Sun," "Mon," "Tue," "Wed," "Thu," "Fri," "Sat."
+*   **Event Listing:** Displayed in each calendar day
+
+### 4.3. Event Details
+
+Each event displayed on the calendar should have the following information (where available):
+
+*   **Time:** Start time of the event. (e.g., "8")
+*   **Title:** Title of the event. (e.g., "Dealer Training Webinar - Part 1")
+*   **Link:** Each event should be a hyperlink to a details page for that specific event. Here is a list of links and titles.
+    *   Link: `/calendar/5762/dealer-training-webinar-part-1`
+        *   Title: "Dealer Training Webinar - Part 1"
+    *   Link: `/calendar/5763/dealer-training-webinar-part-2`
+        *   Title: "Dealer Training Webinar - Part 2"
+    *   Link: `/calendar/5768/motor-carrier-size-weight-webinar`
+        *   Title: "Motor Carrier Size & Weight Webinar"
+    *   Link: `/calendar/5769/salvage-motor-vehicle-dealer-training-webinar`
+        *   Title: "Salvage Motor Vehicle Dealer Training Webinar"
+    *   Link: `/calendar/metal-plate-changes-processes-house-bill-718-and-inventory-management-system-ims-training`
+        *   Title: "Metal Plate Changes & Processes – House Bill 718 and Inventory Management System (IMS) Training"
+    *   Link: `/calendar/metal-plate-changes-processes-house-bill-718-and-inventory-management-system-ims-0`
+        *   Title: "Metal Plate Changes & Processes – House Bill 718 and Inventory Management System (IMS) Training"
+    *   Link: `/calendar/metal-plate-changes-processes-house-bill-718-and-inventory-management-system-ims-1`
+        *   Title: "Metal Plate Changes & Processes – House Bill 718 and Inventory Management System (IMS) Training"
+    *   Link: `/calendar/metal-plate-changes-processes-house-bill-718-and-inventory-management-system-ims-2`
+        *   Title: "Metal Plate Changes & Processes – House Bill 718 and Inventory Management System (IMS) Training"
+    *   Link: `/calendar/metal-plate-changes-processes-house-bill-718-and-inventory-management-system-ims-7`
+        *   Title: "Metal Plate Changes & Processes – House Bill 718 and Inventory Management System (IMS) Training"
+    *   Link: `/calendar/metal-plate-changes-processes-house-bill-718-and-inventory-management-system-ims-8`
+        *   Title: "Metal Plate Changes & Processes – House Bill 718 and Inventory Management System (IMS) Training"
+    *   Link: `/calendar/metal-plate-inventory-management-ims-changes-and-processes-training-5793`
+        *   Title: "Metal Plate & Inventory Management (IMS) Changes and Processes Training"
+    *   Link: `/calendar/dealer-training-webinar-part-1-5777`
+        *   Title: "Dealer Training Webinar - Part 1"
+    *   Link: `/calendar/dealer-training-webinar-part-2-5778`
+        *   Title: "Dealer Training Webinar - Part 2"
+
+### 4.4. Bottom Buttons
+*   Select Language: - is a select field.
+### 4.5. "How can we make this page better for you?" Section
+
+*   **Button Text:** "How can we make this page better for you?"
+*   **Form Header:** "We Value Your Feedback"
+*   **Form Subtitle:** "Your message will go to our web team. Thank you for helping us to serve you better!<br/>If you want to contact a specific department and get a response, please go to the <a href="/about-us">About Us page</a>."
+*   **Form Fields:**
+    *   Email: (Required, Email Input, Placeholder: "Email")
+    *   Message: (Required, Textarea, Placeholder: "Your message")
+    *   Hidden Field: "Leave this field blank"
+
+*   **Form Button:** "Send message"
+
+### 4.6. Footer
+*   Link: `/sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf`
+    *   Title: Compact With Texans
+*   Link: `/site-policies/disclaimer`
+    *   Title: Disclaimer
+*   Link: `/site-policies/drivers-privacy-protection-act`
+    *   Title: Driver's Privacy Protection Act
+*   Link: `https://sao.fraud.texas.gov/`
+    *   Title: Report Fraud, Waste or Abuse
+*   Link: `/site-policies`
+    *   Title: Site Policies
+*   Link: `https://veterans.portal.texas.gov/`
+    *   Title: Texas Veterans Portal
+*   Link: `https://gov.texas.gov/organization/hsgd`
+    *   Title: Border Programs Team
+*   Link: `https://www.tsl.texas.gov/trail/index.html`
+    *   Title: Statewide Search
+*   Link: `https://comptroller.texas.gov/transparency/`
+    *   Title: Transparency
+### 4.7 Copyright
+*   Text: © 2025 Texas Department of Motor Vehicles. All rights reserved.
+
+**5. Out of Scope**
+
+*   Website header.
+*   Website navigation menu.
+*   Website footer (except as specified in Section 4.6).
+*   Any styling or design elements.
+
+**6. Open Issues**
+
+*   Specific data sources for event information need to be confirmed.
+
+**7. Success Criteria**
+
+*   All content elements described in this document are accurately represented on the recreated Events Calendar page.
+*   All links are functional and point to the correct destinations.

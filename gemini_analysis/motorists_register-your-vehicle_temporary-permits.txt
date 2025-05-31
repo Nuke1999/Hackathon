@@ -1,0 +1,543 @@
+```
+## Product Requirements Document: Temporary Permits Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "Temporary Permits" page on TxDMV.gov. This page provides information and resources for obtaining temporary permits for vehicles in Texas.
+
+**2. Goals**
+
+*   Provide clear and concise information about different types of temporary permits available in Texas.
+*   Guide users on how to obtain the appropriate temporary permit.
+*   Offer resources for locating Tax Office & DMV.
+
+**3. Target Audience**
+
+*   Motorists needing temporary vehicle permits for various reasons (e.g., unregistered vehicles, commercial vehicles, transit permits).
+*   Dealers needing to provide temporary permits to customers.
+*   Out-of-state residents operating vehicles in Texas temporarily.
+
+**4. Content Requirements**
+
+**4.1. Introductory Text:**
+
+*   **Content:** "TxDMV issues temporary permits for private or commercial vehicles subject to Texas registration laws, but not authorized to travel on Texas highways due to the lack of registration or lack of reciprocity with the state or country in which the vehicle is registered."
+*   **Content:** "If the vehicle will travel out of state, please verify that the temporary permit is valid for operation in that state. The permit may only authorize the operation of the vehicle in Texas."
+
+**4.2. Order Online Section:**
+
+*   **Headline:** "Order Online"
+*   **List Items:**
+    *   "Order a 72-Hour Permit or 144-Hour Permit" - Link to: `https://permit.txdmv.gov/Permit/Eligibility#nbb`
+    *   "Order a Transit Permit" - Link to: `https://permit.txdmv.gov/Permit/VTPermit`
+    *   **Description of Transit Permit:** "...if you buy a car or truck and the seller keeps the Texas license plates, the Transit Permit allows you to legally drive the vehicle home or to your local county tax office."
+
+**4.3. Tabbed Content: Permit Types**
+
+    Note: Displayed as a Tabbed section
+**4.3.1. 72-Hour Permit & 144-Hour Permit Tab**
+
+*   **Tab Title:** "72-Hour Permit & 144-Hour Permit"
+
+    *   **Introduction**
+        *   **Content:** "TxDMV issues 72-Hour Permits and 144-Hour Permits for the movement of commercial laden trucks, truck-tractors, trailers, or semitrailers or motor buses on the highways of Texas. NOTE: A valid USDOT number is required to obtain either a 72-Hour Permit or 144-Hour Permit."
+
+*   **Purchase Information Section**
+
+    *   **Headline:** "Purchase a 72-Hour Permit or 144-Hour Permit"
+    *   **List Items:**
+        *   "[Purchase online now](https://permit.txdmv.gov/Permit/Eligibility#nbb)" - Link to: `https://permit.txdmv.gov/Permit/Eligibility#nbb`
+        *   "At your local county tax assessor-collector office"
+        *   "At your nearest TxDMV Regional Service Center"
+            *   **Note:** "Appointments are encouraged but not required at the Regional Service Center." - Link to `/appointment`
+
+*   **Find Your Local Tax Office & DMV Card:**
+
+    *   **Card Title:** "Find Your Local Tax Office & DMV"
+    *   Implement a County Selection Form (DMV Locator) with the following characteristics:
+        *   Dropdown Select Input Label: "County"
+
+            Values: A hardcoded list, all options are provided with their values.
+            * "- Select a county -" (value: "")
+            * "Anderson" (value: "anderson")
+            * "Andrews" (value: "andrews")
+            * "Angelina" (value: "angelina")
+            * "Aransas" (value: "aransas")
+            * "Archer" (value: "archer")
+            * "Armstrong" (value: "armstrong")
+            * "Atascosa" (value: "atascosa")
+            * "Austin" (value: "austin")
+            * "Bailey" (value: "bailey")
+            * "Bandera" (value: "bandera")
+            * "Bastrop" (value: "bastrop")
+            * "Baylor" (value: "baylor")
+            * "Bee" (value: "bee")
+            * "Bell" (value: "bell")
+            * "Bexar" (value: "bexar")
+            * "Blanco" (value: "blanco")
+            * "Borden" (value: "borden")
+            * "Bosque" (value: "bosque")
+            * "Bowie" (value: "bowie")
+            * "Brazoria" (value: "brazoria")
+            * "Brazos" (value: "brazos")
+            * "Brewster" (value: "brewster")
+            * "Briscoe" (value: "briscoe")
+            * "Brooks" (value: "brooks")
+            * "Brown" (value: "brown")
+            * "Burleson" (value: "burleson")
+            * "Burnet" (value: "burnet")
+            * "Caldwell" (value: "caldwell")
+            * "Calhoun" (value: "calhoun")
+            * "Callahan" (value: "callahan")
+            * "Cameron" (value: "cameron")
+            * "Camp" (value: "camp")
+            * "Carson" (value: "carson")
+            * "Cass" (value: "cass")
+            * "Castro" (value: "castro")
+            * "Chambers" (value: "chambers")
+            * "Cherokee" (value: "cherokee")
+            * "Childress" (value: "childress")
+            * "Clay" (value: "clay")
+            * "Cochran" (value: "cochran")
+            * "Coke" (value: "coke")
+            * "Coleman" (value: "coleman")
+            * "Collin" (value: "collin")
+            * "Collingsworth" (value: "collingsworth")
+            * "Colorado" (value: "colorado")
+            * "Comal" (value: "comal")
+            * "Comanche" (value: "comanche")
+            * "Concho" (value: "concho")
+            * "Cooke" (value: "cooke")
+            * "Corpus Christi" (value: "corpus christi")
+            * "Coryell" (value: "coryell")
+            * "Cottle" (value: "cottle")
+            * "Crane" (value: "crane")
+            * "Crockett" (value: "crockett")
+            * "Crosby" (value: "crosby")
+            * "Culberson" (value: "culberson")
+            * "Dallam" (value: "dallam")
+            * "Dallas" (value: "dallas")
+            * "Dawson" (value: "dawson")
+            * "Deaf Smith" (value: "deaf smith")
+            * "Delta" (value: "delta")
+            * "Denton" (value: "denton")
+            * "Dewitt" (value: "dewitt")
+            * "Dickens" (value: "dickens")
+            * "Dimmit" (value: "dimmit")
+            * "Donley" (value: "donley")
+            * "Duval" (value: "duval")
+            * "Eastland" (value: "eastland")
+            * "Ector" (value: "ector")
+            * "Edwards" (value: "edwards")
+            * "El Paso" (value: "el paso")
+            * "Ellis" (value: "ellis")
+            * "Erath" (value: "erath")
+            * "Falls" (value: "falls")
+            * "Fannin" (value: "fannin")
+            * "Fayette" (value: "fayette")
+            * "Fisher" (value: "fisher")
+            * "Floyd" (value: "floyd")
+            * "Foard" (value: "foard")
+            * "Fort Bend" (value: "fort bend")
+            * "Franklin" (value: "franklin")
+            * "Freestone" (value: "freestone")
+            * "Frio" (value: "frio")
+            * "Gaines" (value: "gaines")
+            * "Galveston" (value: "galveston")
+            * "Garza" (value: "garza")
+            * "Gillespie" (value: "gillespie")
+            * "Glasscock" (value: "glasscock")
+            * "Goliad" (value: "goliad")
+            * "Gonzales" (value: "gonzales")
+            * "Gray" (value: "gray")
+            * "Grayson" (value: "grayson")
+            * "Gregg" (value: "gregg")
+            * "Grimes" (value: "grimes")
+            * "Guadalupe" (value: "guadalupe")
+            * "Hale" (value: "hale")
+            * "Hall" (value: "hall")
+            * "Hamilton" (value: "hamilton")
+            * "Hansford" (value: "hansford")
+            * "Hardeman" (value: "hardeman")
+            * "Hardin" (value: "hardin")
+            * "Harris" (value: "harris")
+            * "Harrison" (value: "harrison")
+            * "Hartley" (value: "hartley")
+            * "Haskell" (value: "haskell")
+            * "Hays" (value: "hays")
+            * "Hemphill" (value: "hemphill")
+            * "Henderson" (value: "henderson")
+            * "Hidalgo" (value: "hidalgo")
+            * "Hill" (value: "hill")
+            * "Hockley" (value: "hockley")
+            * "Hood" (value: "hood")
+            * "Hopkins" (value: "hopkins")
+            * "Houston" (value: "houston")
+            * "Howard" (value: "howard")
+            * "Hudspeth" (value: "hudspeth")
+            * "Hunt" (value: "hunt")
+            * "Hutchinson" (value: "hutchinson")
+            * "Irion" (value: "irion")
+            * "Jack" (value: "jack")
+            * "Jackson" (value: "jackson")
+            * "Jasper" (value: "jasper")
+            * "Jeff Davis" (value: "jeff davis")
+            * "Jefferson" (value: "jefferson")
+            * "Jim Hogg" (value: "jim hogg")
+            * "Jim Wells" (value: "jim wells")
+            * "Johnson" (value: "johnson")
+            * "Jones" (value: "jones")
+            * "Karnes" (value: "karnes")
+            * "Kaufman" (value: "kaufman")
+            * "Kendall" (value: "kendall")
+            * "Kenedy" (value: "kenedy")
+            * "Kent" (value: "kent")
+            * "Kerr" (value: "kerr")
+            * "Kimble" (value: "kimble")
+            * "King" (value: "king")
+            * "Kinney" (value: "kinney")
+            * "Kleberg" (value: "kleberg")
+            * "Knox" (value: "knox")
+            * "La Salle" (value: "la salle")
+            * "Lamar" (value: "lamar")
+            * "Lamb" (value: "lamb")
+            * "Lampasas" (value: "lampasas")
+            * "Lavaca" (value: "lavaca")
+            * "Lee" (value: "lee")
+            * "Leon" (value: "leon")
+            * "Liberty" (value: "liberty")
+            * "Limestone" (value: "limestone")
+            * "Lipscomb" (value: "lipscomb")
+            * "Live Oak" (value: "live oak")
+            * "Llano" (value: "llano")
+            * "Loving" (value: "loving")
+            * "Lubbock" (value: "lubbock")
+            * "Lynn" (value: "lynn")
+            * "Madison" (value: "madison")
+            * "Marion" (value: "marion")
+            * "Martin" (value: "martin")
+            * "Mason" (value: "mason")
+            * "Matagorda" (value: "matagorda")
+            * "Maverick" (value: "maverick")
+            * "Mcculloch" (value: "mcculloch")
+            * "Mclennan" (value: "mclennan")
+            * "Mcmullen" (value: "mcmullen")
+            * "Medina" (value: "medina")
+            * "Menard" (value: "menard")
+            * "Midland" (value: "midland")
+            * "Milam" (value: "milam")
+            * "Mills" (value: "mills")
+            * "Mitchell" (value: "mitchell")
+            * "Montague" (value: "montague")
+            * "Montgomery" (value: "montgomery")
+            * "Moore" (value: "moore")
+            * "Morris" (value: "morris")
+            * "Motley" (value: "motley")
+            * "Nacogdoches" (value: "nacogdoches")
+            * "Navarro" (value: "navarro")
+            * "Newton" (value: "newton")
+            * "Nolan" (value: "nolan")
+            * "Nueces" (value: "nueces")
+            * "Ochiltree" (value: "ochiltree")
+            * "Oldham" (value: "oldham")
+            * "Orange" (value: "orange")
+            * "Palo Pinto" (value: "palo pinto")
+            * "Panola" (value: "panola")
+            * "Parker" (value: "parker")
+            * "Parmer" (value: "parmer")
+            * "Pecos" (value: "pecos")
+            * "Polk" (value: "polk")
+            * "Potter" (value: "potter")
+            * "Presidio" (value: "presidio")
+            * "Rains" (value: "rains")
+            * "Randall" (value: "randall")
+            * "Reagan" (value: "reagan")
+            * "Real" (value: "real")
+            * "Red River" (value: "red river")
+            * "Reeves" (value: "reeves")
+            * "Refugio" (value: "refugio")
+            * "Roberts" (value: "roberts")
+            * "Robertson" (value: "robertson")
+            * "Rockwall" (value: "rockwall")
+            * "Runnels" (value: "runnels")
+            * "Rusk" (value: "rusk")
+            * "Sabine" (value: "sabine")
+            * "San Augustine" (value: "san augustine")
+            * "San Jacinto" (value: "san jacinto")
+            * "San Patricio" (value: "san patricio")
+            * "San Saba" (value: "san saba")
+            * "Schleicher" (value: "schleicher")
+            * "Scurry" (value: "scurry")
+            * "Shackelford" (value: "shackelford")
+            * "Shelby" (value: "shelby")
+            * "Sherman" (value: "sherman")
+            * "Smith" (value: "smith")
+            * "Somervell" (value: "somervell")
+            * "Starr" (value: "starr")
+            * "Stephens" (value: "stephens")
+            * "Sterling" (value: "sterling")
+            * "Stonewall" (value: "stonewall")
+            * "Sutton" (value: "sutton")
+            * "Swisher" (value: "swisher")
+            * "Tarrant" (value: "tarrant")
+            * "Taylor" (value: "taylor")
+            * "Terrell" (value: "terrell")
+            * "Terry" (value: "terry")
+            * "Throckmorton" (value: "throckmorton")
+            * "Titus" (value: "titus")
+            * "Tom Green" (value: "tom green")
+            * "Travis" (value: "travis")
+            * "Trinity" (value: "trinity")
+            * "Tyler" (value: "tyler")
+            * "Upshur" (value: "upshur")
+            * "Upton" (value: "upton")
+            * "Uvalde" (value: "uvalde")
+            * "Val Verde" (value: "val verde")
+            * "Van Zandt" (value: "van zandt")
+            * "Victoria" (value: "victoria")
+            * "Walker" (value: "walker")
+            * "Waller" (value: "waller")
+            * "Ward" (value: "ward")
+            * "Washington" (value: "washington")
+            * "Webb" (value: "webb")
+            * "Wharton" (value: "wharton")
+            * "Wheeler" (value: "wheeler")
+            * "Wichita" (value: "wichita")
+            * "Wilbarger" (value: "wilbarger")
+            * "Willacy" (value: "willacy")
+            * "Williamson" (value: "williamson")
+            * "Wilson" (value: "wilson")
+            * "Winkler" (value: "winkler")
+            * "Wise" (value: "wise")
+            * "Wood" (value: "wood")
+            * "Yoakum" (value: "yoakum")
+            * "Young" (value: "young")
+            * "Zapata" (value: "zapata")
+            * "Zavala" (value: "zavala")
+
+        *   Submit Button Text: "Find Offices"
+        *(Functionality of the form is not in scope, simply display the form)*
+
+*   **Fee and Payment Information**
+
+    *   **Headline:** "Fee and Payment Information"
+    *   List the fees for permits:
+        *   72-Hour Permit - $25
+        *   144-Hour Permit - $50
+    *   **Content:** "A non-refundable processing and handling fee of $4.75 is assessed per permit. The fee covers the cost to process the permit."
+    *   **Content:** "Fees are payable by:"
+        *   "MasterCard, VISA, Discover, or American Express, if purchasing the permit online or at a county tax office that accepts them. A service charge may be included"
+        *   "Certified check or money order, payable to the Texas Department of Motor Vehicles, if purchasing at the Regional Service Center"
+        *   "Funds deposited in a pre-established escrow account"
+        *   "Cash"
+    *   **Content:** "Note: Personal checks are not accepted."
+    *   **Content:** "You may purchase a 72-Hour Permit and 144-Hour Permit in advance of a proposed trip and several permits may be obtained at one time with the times of validity to run sequentially, having one permit become effective immediately upon the expiration of the preceding one."
+
+*   **Eligible Use**
+
+    *   **Headline:** "Eligible Use"
+    *   **Content:** "A 72-Hour Permit or 144-Hour Permit may only be issued to commercial vehicles and buses owned by residents of the United States, Mexico, or Canada."
+    *   **Content:** "These permits may be used to:"
+        *   "Operate an unregistered commercial vehicle or bus in Texas."
+        *   "Engage in intrastate operations in Texas with out-of-state licensed commercial vehicles."
+    *   **Content:** "Texas residents may use these permits to operate:"
+        *   "An unregistered commercial vehicle or bus in Texas."
+        *   "A Texas registered commercial vehicle with a heavier gross weight than registered. The heavier load may operate for only the period that the permit is valid unless the owner purchases additional permits."
+        *   "A vehicle registered with either Farm or Soil Conservation license plates when the vehicle is operating over the maximum weight allowed by law."
+    *   **Content:** "**72-Hour Permits and 144-Hour Permits may not be issued to:**"
+        *   "Any vehicle that has been deemed salvage or nonrepairable."
+        *   "Any vehicle that has been apprehended."
+        *   "Any vehicle that will solely be operated outside of Texas."
+    *   **Content:** "Vehicles operating with a 72-Hour Permit or 144-Hour Permit may operate at the maximum weight allowed under Texas registration laws."
+    *   **Content:** "A 72-Hour Permit or 144-Hour Permit is valid only in Texas."
+
+*   **Insurance Requirements**
+
+    *   **Headline:** "Insurance Requirements"
+    *   **Content:** "Applicants must show proof of liability insurance that meets the Texas minimum liability limits of $30,000/$60,000/$25,000. Insurance is not required for trailers and semitrailers. An insurance company authorized to write insurance in Texas must provide the coverage. If the applicant is registered as a motor carrier with TxDMV’s Motor Carrier Division, a registration listing is acceptable instead of proof of liability insurance."
+
+*   **Vehicle Inspection**
+
+    *   **Headline:** "Vehicle Inspection"
+    *   **Content:** "A vehicle displaying a 72-Hour Permit or 144-Hour Permit must pass a Texas Safety Inspection before being operated on the highways. If the vehicle displays current out-of-state license plates or the vehicle is mobile drilling or servicing equipment used in the production of gas or crude petroleum oil, a Texas Safety Inspection is not required."
+
+*   **Vehicles Registered in Combination**
+
+    *   **Headline:** "Vehicles Registered in Combination"
+    *   **Content:** "The following instructions apply when 72-Hour Permits or 144-Hour Permits are issued to trucks or truck-tractors with a gross weight in excess of 10,000 lbs. and semitrailers with gross weights in excess of 6,000 lbs. and the combined gross weight is greater than 18,000 lbs::"
+        *   "A truck or truck-tractor displaying a 72-Hour Permit or 144-Hour Permit may not pull a semitrailer displaying a Token Trailer license plate. Token Trailer license plates are valid only when displayed on semitrailers pulled by vehicles registered with Combination, Forestry, Apportioned, or Seasonal Permit license plates for the combined gross weight of all the vehicles used in the combination. Therefore, if a pulling unit displays a 72-Hour Permit or 144-Hour Permit, each semitrailer operated in combination must also display a permit or trailer registration."
+        *   "If a truck or truck-tractor displaying a Combination license plate pulls a semitrailer displaying a 72-Hour Permit or 144-Hour Permit, the pulling unit should be registered for the combined gross weight of all the vehicles in the combination. If the vehicle is not registered for a sufficient combined gross weight, the owner must either increase the weight at the county or purchase a 72-Hour Permit or 144-Hour Permit for the pulling unit. The permit qualifies the combination for the maximum gross weight permitted under Texas registration laws.."
+        *   "A vehicle displaying Truck license plates cannot legally pull a semitrailer displaying a Token Trailer license plate. The semitrailer would need to display a 72-Hour Permit or 144-Hour Permit. This allows the owner to legally operate the combination without exchanging registration."
+        *   "An out-of-state licensed power unit can legally pull a semitrailer displaying a Texas Token Trailer license plate. The power unit must be registered for the combined gross weight of the truck or truck-tractor, semitrailer, and load. The out-of-state vehicle must display a 72-Hour Permit or 144-Hour Permit on the pulling unit."
+        *   "An out-of-state power unit operating in Texas under the International Registration Plan (IRP) may operate interstate or intrastate in Texas while pulling a semitrailer displaying a Texas Token Trailer license plate or a 72-Hour Permit or 144-Hour Permit. The out-of-state power unit must be registered for the combined gross weight of the truck or truck-tractor, semitrailer, and load."
+
+**4.3.2. One-Trip Permit Tab**
+
+*   **Tab Title:** "One-Trip Permit"
+
+    *   **Introduction**
+        *   **Content:** "TxDMV issues One-Trip Permits for the temporary movement of an unladen vehicle subject to Texas registration laws. A One-Trip Permit is valid for a period of 15 calendar days from the effective date."
+        *   **Content:** "A One-Trip Permit is valid for one trip only between the point of origin and the point of destination and the intermediate point as shown on the receipt. The point of origin or destination must be in Texas."
+
+*   **Purchase Information Section**
+
+    *   **Headline:** "Purchase a One-Trip Permit"
+    *   **List Items:**
+        *   "At your local county tax assessor-collector office"
+        *   "At your nearest TxDMV Regional Service Center"
+            *   **Note:** "Appointments are encouraged but not required at the Regional Service Center." - Link to `/appointment`
+
+*   **Find Your Local Tax Office & DMV Card:**
+
+    *   **Card Title:** "Find Your Local Tax Office & DMV"
+    *   Implement a County Selection Form (DMV Locator) with the following characteristics:
+        *   Dropdown Select Input Label: "County"
+        *County Select Input List: A hardcoded list, all options are provided with their values.
+            * "- Select a county -" (value: "")
+            * "Anderson" (value: "anderson")
+            * "Andrews" (value: "andrews")
+            * "Angelina" (value: "angelina")
+            * "Aransas" (value: "aransas")
+            * "Archer" (value: "archer")
+            * "Armstrong" (value: "armstrong")
+            * "Atascosa" (value: "atascosa")
+            * "Austin" (value: "austin")
+            * "Bailey" (value: "bailey")
+            * "Bandera" (value: "bandera")
+            * "Bastrop" (value: "bastrop")
+            * "Baylor" (value: "baylor")
+            * "Bee" (value: "bee")
+            * "Bell" (value: "bell")
+            * "Bexar" (value: "bexar")
+            * "Blanco" (value: "blanco")
+            * "Borden" (value: "borden")
+            * "Bosque" (value: "bosque")
+            * "Bowie" (value: "bowie")
+            * "Brazoria" (value: "brazoria")
+            * "Brazos" (value: "brazos")
+            * "Brewster" (value: "brewster")
+            * "Briscoe" (value: "briscoe")
+            * "Brooks" (value: "brooks")
+            * "Brown" (value: "brown")
+            * "Burleson" (value: "burleson")
+            * "Burnet" (value: "burnet")
+            * "Caldwell" (value: "caldwell")
+            * "Calhoun" (value: "calhoun")
+            * "Callahan" (value: "callahan")
+            * "Cameron" (value: "cameron")
+            * "Camp" (value: "camp")
+            * "Carson" (value: "carson")
+            * "Cass" (value: "cass")
+            * "Castro" (value: "castro")
+            * "Chambers" (value: "chambers")
+            * "Cherokee" (value: "cherokee")
+            * "Childress" (value: "childress")
+            * "Clay" (value: "clay")
+            * "Cochran" (value: "cochran")
+            * "Coke" (value: "coke")
+            * "Coleman" (value: "coleman")
+            * "Collin" (value: "collin")
+            * "Collingsworth" (value: "collingsworth")
+            * "Colorado" (value: "colorado")
+            * "Comal" (value: "comal")
+            * "Comanche" (value: "comanche")
+            * "Concho" (value: "concho")
+            * "Cooke" (value: "cooke")
+            * "Corpus Christi" (value: "corpus christi")
+            * "Coryell" (value: "coryell")
+            * "Cottle" (value: "cottle")
+            * "Crane" (value: "crane")
+            * "Crockett" (value: "crockett")
+            * "Crosby" (value: "crosby")
+            * "Culberson" (value: "culberson")
+            * "Dallam" (value: "dallam")
+            * "Dallas" (value: "dallas")
+            * "Dawson" (value: "dawson")
+            * "Deaf Smith" (value: "deaf smith")
+            * "Delta" (value: "delta")
+            * "Denton" (value: "denton")
+            * "Dewitt" (value: "dewitt")
+            * "Dickens" (value: "dickens")
+            * "Dimmit" (value: "dimmit")
+            * "Donley" (value: "donley")
+            * "Duval" (value: "duval")
+            * "Eastland" (value: "eastland")
+            * "Ector" (value: "ector")
+            * "Edwards" (value: "edwards")
+            * "El Paso" (value: "el paso")
+            * "Ellis" (value: "ellis")
+            * "Erath" (value: "erath")
+            * "Falls" (value: "falls")
+            * "Fannin" (value: "fannin")
+            * "Fayette" (value: "fayette")
+            * "Fisher" (value: "fisher")
+            * "Floyd" (value: "floyd")
+            * "Foard" (value: "foard")
+            * "Fort Bend" (value: "fort bend")
+            * "Franklin" (value: "franklin")
+            * "Freestone" (value: "freestone")
+            * "Frio" (value: "frio")
+            * "Gaines" (value: "gaines")
+            * "Galveston" (value: "galveston")
+            * "Garza" (value: "garza")
+            * "Gillespie" (value: "gillespie")
+            * "Glasscock" (value: "glasscock")
+            * "Goliad" (value: "goliad")
+            * "Gonzales" (value: "gonzales")
+            * "Gray" (value: "gray")
+            * "Grayson" (value: "grayson")
+            * "Gregg" (value: "gregg")
+            * "Grimes" (value: "grimes")
+            * "Guadalupe" (value: "guadalupe")
+            * "Hale" (value: "hale")
+            * "Hall" (value: "hall")
+            * "Hamilton" (value: "hamilton")
+            * "Hansford" (value: "hansford")
+            * "Hardeman" (value: "hardeman")
+            * "Hardin" (value: "hardin")
+            * "Harris" (value: "harris")
+            * "Harrison" (value: "harrison")
+            * "Hartley" (value: "hartley")
+            * "Haskell" (value: "haskell")
+            * "Hays" (value: "hays")
+            * "Hemphill" (value: "hemphill")
+            * "Henderson" (value: "henderson")
+            * "Hidalgo" (value: "hidalgo")
+            * "Hill" (value: "hill")
+            * "Hockley" (value: "hockley")
+            * "Hood" (value: "hood")
+            * "Hopkins" (value: "hopkins")
+            * "Houston" (value: "houston")
+            * "Howard" (value: "howard")
+            * "Hudspeth" (value: "hudspeth")
+            * "Hunt" (value: "hunt")
+            * "Hutchinson" (value: "hutchinson")
+            * "Irion" (value: "irion")
+            * "Jack" (value: "jack")
+            * "Jackson" (value: "jackson")
+            * "Jasper" (value: "jasper")
+            * "Jeff Davis" (value: "jeff davis")
+            * "Jefferson" (value: "jefferson")
+            * "Jim Hogg" (value: "jim hogg")
+            * "Jim Wells" (value: "jim wells")
+            * "Johnson" (value: "johnson")
+            * "Jones" (value: "jones")
+            * "Karnes" (value: "karnes")
+            * "Kaufman" (value: "kaufman")
+            * "Kendall" (value: "kendall")
+            * "Kenedy" (value: "kenedy")
+            * "Kent" (value: "kent")
+            * "Kerr" (value: "kerr")
+            * "Kimble" (value: "kimble")
+            * "King" (value: "king")
+            * "Kinney" (value: "kinney")
+            * "Kleberg" (value: "kleberg")
+            * "Knox" (value: "knox")
+            * "La Salle" (value: "la salle")
+            * "Lamar" (value: "lamar")
+            * "Lamb" (value: "lamb")
+            * "Lampasas" (value: "lampasas")
+            * "Lavaca" (value: "lavaca")
+            * "Lee" (value: "lee")
+            * "Leon" (value: "leon")
+            * "Liberty" (value: "lib

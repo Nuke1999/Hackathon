@@ -1,0 +1,111 @@
+```
+## Product Requirements Document: TxDMV.gov - Abandoned Vehicles Page
+
+**1.  Introduction**
+
+*   **1.1 Purpose:** This document outlines the content requirements for recreating the "Abandoned Vehicles" page on TxDMV.gov. It provides detailed specifications for text and associated links, excluding design elements.
+*   **1.2 Scope:** This document covers the main content area of the "Abandoned Vehicles" page, including introductory text, a call-to-action, and tabbed information, and the form.  It explicitly excludes any design or layout specifications, navigation menus, headers, and footers.
+*   **1.3 Audience:** This document is intended for AI implementors responsible for recreating the content of the TxDMV.gov "Abandoned Vehicles" webpage.
+
+**2.  Functional Requirements**
+
+*   **2.1 Page Title:** "Abandoned Vehicles"
+*   **2.2 Breadcrumb:** Home > Motorists > Buying or Selling a Vehicle
+
+**3.  Content Specifications**
+
+*   **3.1 Introductory Text:**
+    "A person or entity needing to dispose of a motor vehicle to a motor vehicle demolisher may apply to the department for a Certificate of Authority. A Certificate of Authority facilitates the transfer of a motor vehicle to a motor vehicle demolisher for the purposes of crushing and destroying the motor vehicle.
+
+    A person (including an entity or unit of government) may apply to the department for authority to dispose of a motor vehicle if:
+    *   The person is the recorded owner
+    *   The person has been transferred ownership of the motor vehicle
+    *   The vehicle is an abandoned motor vehicle and is in the possession of the person or located on property owned by the person
+
+    If the applicant applying for authority to dispose of the motor vehicle is not the owner on record or does not have evidence that ownership has been transferred to them, the department is required to make a notification to any owners and lienholders the department is able to identify by First Class Mail. If the department is unable to locate a motor vehicle record, the notification is posted on this webpage. In either scenario, the owner(s) and lienholder(s) have 20 days to claim the motor vehicle. If the vehicle remains unclaimed, the certificate of authority is issued on the 21st day after the notification is mailed or posted on this page."
+    *   Link: Certificate of Authority - "https://www.txdmv.gov/sites/default/files/form_files/VTR-71-4.pdf" and is a new tab.
+
+*   **3.2 Call to Action:**
+    *   Text: "List of Abandoned Motor Vehicles"
+    *   Link: "/motorists/buying-or-selling-a-vehicle/abandoned-vehicles/list"
+
+*   **3.3 Tabbed Information:**
+    *   Tab 1 Title: "Recorded Owner"
+        *   Content:
+            "Applicants with a motor vehicle last titled in Texas must surrender the Texas Certificate of Title if not lost or destroyed; however, the Texas Certificate of Title is not required if the department is able to verify the applicant is the owner in the department’s system.
+
+            Applicants with a motor vehicle last titled outside of Texas must submit the out of state title that is in their name."
+
+    *   Tab 2 Title: "Transferred Ownership"
+        *   Content:
+            "Applicants who are not the recorded owner must submit a certificate of title or other valid ownership evidence showing the motor vehicle has been transferred to the applicant. Other valid ownership evidence includes, but is not limited to, a manufacturer’s certificate of origin, registration receipt (if the motor vehicle is non-titled), or law enforcement auction sales receipt."
+
+    *   Tab 3 Title: "Abandoned on Property"
+        *   Content:
+            "A motor vehicle is abandoned if it:
+            *   Is inoperable, is more than five years old, and has been left unattended on public property for more than 48 hours
+            *   Has remained illegally on public property for more than 48 hours
+            *   Has remained on private property without the consent of the owner or person in charge of the property for more than 48 hours
+            *   Has been left unattended on the right-of-way of a designated county, state, or federal highway for more than 48 hours
+            *   Has been left unattended for more than 24 hours on the right-of-way of a turnpike project constructed and maintained by the Texas Turnpike Authority division of the Texas Department of Transportation or a controlled access highway
+            *   Is an impounded commercial motor vehicle at a vehicle storage facility and the delinquent administrative penalty has not been paid to the Texas Department of Public Safety by the 11th day after being impounded"
+
+*   **3.4 Application Information:**
+    *   Title: Application
+    *   Content:
+        "A person may apply for authority to dispose of a motor vehicle by completing the Application for Authority to Dispose of a Motor Vehicle to a Demolisher (Form VTR-71-2).
+
+        Submit the completed application, any required documentation, and $2.00 application fee in the form of a check or money order payable to the Texas Department of Motor Vehicles. Do not mail cash. Credit/debit cards and temporary checks are not accepted. Fees are non-refundable.
+
+        Texas Department of Motor Vehicles
+        Vehicle Titles and Registration Division
+        ATTN: Title Control Systems
+        Austin, Texas 78779-0001
+
+        If you have any questions regarding this process or completing an application, please contact the Vehicle Titles and Registration Division at (512) 465-5659, Option 1."
+    *   Link: Application for Authority to Dispose of a Motor Vehicle to a Demolisher (Form VTR-71-2) - "/sites/default/files/form_files/VTR-71-2.pdf"
+
+*   **3.5 "How can we make this page better for you?" Form:**
+    *   **Email Field:**
+        *   Label: Email
+        *   Type: Email
+        *   Required: Yes
+        *   Placeholder: Email
+    *   **Message Field:**
+        *   Label: Message
+        *   Type: Textarea
+        *   Required: Yes
+        *   Placeholder: Your message
+    *   **Submission Message:**
+        *   "Your message will go to our web team. Thank you for helping us to serve you better!
+            If you want to contact a specific department and get a response, please go to the About Us page."
+        *   Link: About Us page - "/about-us"
+    *   **Submit Button:**
+        *   Value: Send message
+    *   **Honeypot field:**
+        *   Label: Leave this field blank
+
+**4.  Links**
+
+*   All URLs specified above are relative to the base URL "txdmv.gov" unless explicitly indicated as an external link (e.g., "https://www.texas.gov").
+*   External links should open in a new tab.
+*   Internal links should open in the same tab.
+
+**5.  Error Handling**
+
+*   Any errors during form submission should be displayed to the user.
+
+**6.  Assumptions**
+
+*   The implementation environment supports standard HTML, CSS, and JavaScript.
+*   The implementor has access to the necessary tools and libraries.
+
+**7. Out of scope**
+
+*   Design
+*   Navigation Menu
+*   Headers
+*   Footers
+*   Accessibility and SEO
+
+```

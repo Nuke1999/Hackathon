@@ -1,0 +1,200 @@
+```text
+# Product Requirements Document: License Plates Page
+
+## 1. Introduction
+
+This document details the content requirements for the "License Plates" page on the TxDMV.gov website. This page provides information about general-issue and specialty license plates, replacement plates, license plate transfers, digital license plates, and souvenir license plates.
+
+## 2. Goal
+
+To provide clear, concise, and accurate information about Texas license plates to motorists.
+
+## 3. Target Audience
+
+Texas motorists, vehicle owners, and those interested in license plate information.
+
+## 4. Page Title
+
+"License Plates"
+
+## 5. Breadcrumb
+
+Home > Motorists
+
+## 6. Main Content
+
+### 6.1. Call to Action Box
+
+*   **Text:** Order Specialty License Plates
+*   **Link:** <https://www.myplates.com>
+*   **Image:** `/assets/img/icon/icon-license-plates.png`
+
+### 6.2. Anchor Menu
+
+*   **Link 1:** About Specialty License Plates
+    *   **Anchor ID:** #accordion-780
+*   **Link 2:** Replacement License Plates
+    *   **Anchor ID:** #accordion-780
+*   **Link 3:** License Plate Transfers
+    *   **Anchor ID:** #accordion-780
+*   **Link 4:** Digital License Plates
+    *   **Anchor ID:** #accordion-780
+*   **Link 5:** Souvenir License Plates
+    *   **Anchor ID:** #accordion-780
+
+### 6.3. General-Issue License Plates
+
+*   **Heading:** General-Issue License Plates
+*   **Paragraph 1:** As part of your vehicle registration, you are issued a set of general-issue license plates. The plate number is assigned to you by TxDMV and cannot be personalized.
+*   **Paragraph 2:** As of November 1, 2016, the State of Texas no longer requires automatically replacing your plates after 7 years. However, you may apply at your county tax office for replacement plates if your license plates need to be replaced for cosmetic or readability reasons. If you decide not to keep your license plates when you sell or dispose of your vehicle, the plates should be disposed of by defacing the front of the plate with permanent black ink, or similar method, in order to prevent their fraudulent use.
+*   **Paragraph 3:** When a new general-issue license plate design is released, it takes several years before all registered vehicle owners receive the plates.
+
+#### 6.3.1. Current Design: The Texas Classic
+
+*   **Subheading:** Current Design: The Texas Classic
+*   **Image:** `/assets/img/license-plates/texas-classic.png`
+*   **Paragraph 1:** Introduced in July 2012, "The Texas Classic" is designed to provide Texans the highest public safety protection.
+*   **Paragraph 2:** It is the first license plate in the country to feature two, high-visibility security threads embedded into the plate sheeting, making it easier for law enforcement to spot legitimate plates.
+
+### 6.4. Previous General-Issue Plate Designs
+
+*   **Heading:** Previous General-Issue Plate Designs
+
+#### 6.4.1. Lone Star Texas
+
+*   **Subheading:** Lone Star Texas
+*   **Image:** `/assets/img/license-plates/lone-star-texas.png`
+*   **Paragraph 1:** This was the first digital, general-issue license plate, and also the first to use full color and full-plate graphics. When it was launched in June 2009, it began the seven-character plate number.
+*   **Paragraph 2:** After 33 years, Texas' growth exhausted the six character alpha-numeric plate patterns. The new passenger vehicle plate patterns began with two letters, followed by a number and then a letter and three numbers.
+*   **Paragraph 3:** The plate design was selected by Texans in an online e-Vote. Unfortunately, the plate design was not favored by law enforcement, and some Texans complained the plate's colors clashed with their vehicle color.
+
+#### 6.4.2. Panoramic Texas
+
+*   **Subheading:** Panoramic Texas
+*   **Image:** `/assets/img/license-plates/panoramic-texas.png`
+*   **Paragraph 1:** This license plate was introduced in 2000, and 31.5 million sets of these plates were manufactured before a new general-issue license plate was launched in 2009. These plates represent the last of a Texas era. The design has the distinction of being the last stamped plate in Texas history, and also the last general-issue plate issued with six characters.
+*   **Paragraph 2:** The design of this plate features a little bit of everything, including a space shuttle, oil derrick, and cowboy on a horse. When it was launched in 2000, it became the first Texas plate to use three colors - blue, red and black.
+
+*   **Link 1:** History of Texas License Plates
+    *   **Link URL:** <http://100plates.txdmv.gov/>
+
+*   **Link 2:** Specialty License Plate Revenue
+    *   **Link URL:** /reports-and-data?field_publication_category_target_id=3224
+
+### 6.5. Accordion Sections (ID: accordion-780)
+
+#### 6.5.1. About Specialty License Plates
+
+*   **Title:** About Specialty License Plates
+*   **Paragraph 1:** Specialty license plates give your vehicle a personal touch. The license plates catalog of our website gives instructions on how to apply for these plates. For additional assistance, please contact your local county tax assessor-collector's office.
+*   **Link:** <https://www.myplates.com>
+    *   **Text:** Order Specialty License Plates
+    *   **Image:** `/assets/img/icon/icon-license-plates.png`
+
+*   **Subheading:** Personalization
+*   **Paragraph 1:** You may check the availability of a personalized phrase, letter, or number combination through <http://www.myplates.com/>, the state's plate marketing vendor's website. Personalized messages must be approved by the Texas Department of Motor Vehicles (TxDMV). Personalized plate fees are collected in addition to your registration fees and other applicable fees.
+*   **Paragraph 2 (Bold):** NOTE: TxDMV does not offer refunds for specialty plates. These plates are custom manufactured based on your order.
+*   **Link 1:** Download Personalized License Plate Guidelines & Restrictions
+    *   **Link URL:** /sites/default/files/body-files/PLP_Criteria.pdf
+    *   **Image:** `/assets/img/icon/icon-download.png`
+
+*   **Subheading:** Renewals
+*   **Paragraph:** Specialty license plates with random or personalized numbers are issued for a one, three, or five-year term. At the end of each term, prior to expiration, your annual registration renewal notice will remind you that it is time to renew. If your specialty plate selection is not renewed within 60 days of expiration, the TxDMV system will automatically cancel the specialty plate selection, making it available for anyone to order.
+
+*   **Subheading:** Disabled Parking
+    *   **Numbered List:**
+        1.  Download & fill out the [Application for Persons with Disabilities Parking Placard and/or License Plate form (Form VTR-214)](/sites/default/files/form_files/VTR-214.pdf)
+        2.  Submit a completed form with your specialty plate order in person or by mail to your local county tax office. ISA orders cannot be processed online.
+        3.  The original Form VTR-214 or acceptable documentation must be submitted when the new plates are picked up at the county tax office.
+*   **Helpful Links**
+    *   **Link 1:** Sponsoring a Specialty License Plate
+        *   **Link URL:** /motorists/license-plates/sponsoring-a-specialty-license-plate
+        *   **Image:** `/assets/img/icon/icon-link.png`
+    *   **Link 2:** Specialty License Plate Auctions
+        *   **Link URL:** /motorists/license-plates/plate-auctions
+        *   **Image:** `/assets/img/icon/icon-link.png`
+
+#### 6.5.2. Replacement License Plates
+
+*   **Title:** Replacement License Plates
+*   **Paragraph:** Replacement plates are available through your local county tax assessor-collector’s office. It costs $6 plus a $0.50 automation fee (used for computer upgrades to the Registration and Titling system).
+*   **Link 1:** Application for Replacement License Plate(s), and/or Vehicle Registration Sticker (Form VTR-60)
+    *   **Link URL:** /sites/default/files/form_files/VTR-60.pdf
+    *   **Image:** `/assets/img/icon/icon-download.png`
+
+#### 6.5.3. License Plate Transfers
+
+*   **Title:** License Plate Transfers
+*   **Paragraph 1:** It is simple and free to transfer your license plates to your new vehicle. The TxDMV encourages you to transfer your plates because it protects you. Your local county tax assessor-collector's office will assist with the transfer and issue you a new registration sticker for your vehicle.
+*   **Note:** General issue plates may ONLY be transferred to passenger vehicles and trucks weighing one ton or less.
+*   **Paragraph 2:** You may transfer your plates:
+    *   **List:**
+        *   Between vehicles you own. Your local county tax assessor-collector’s office will issue a new registration sticker for your vehicle.
+        *   To a vehicle purchased from a dealer. Remove the plates and request that the dealer transfer the plates to the new vehicle.
+        *   To a vehicle purchased from a private party. Register the plates with your local county tax assessor-collector office when you title the vehicle in your name.
+        *   To a leased vehicle.
+        *   From a vehicle titled jointly to a vehicle titled in your name alone. If your name has not changed.
+*   **Paragraph 3:** Be sure to remove the registration sticker from the windshield of your old vehicle when you take off the plates.
+
+#### 6.5.4. Digital License Plates
+
+*   **Title:** Digital License Plates
+*   **Paragraph 1:** State law authorizes the Texas Department of Motor Vehicles (TxDMV) to offer digital license plates for use on certain eligible vehicles. A vehicle may be equipped with a digital license plate only if the vehicle:
+    1.  is part of a commercial fleet of at least 25 non-apportioned motor vehicles, semitrailers, or trailers owned, operated, or leased by a corporation, limited or general partnership, limited liability company, or other business entity and used for the business purposes of that entity; or
+    2.  is owned or operated by a governmental entity; or
+    3.  is not a passenger vehicle.
+*   **Paragraph 2:** Texas Administrative Code applies an annual $45 administrative fee to digital license plate orders, in addition to the price of the plate.
+*   **Paragraph 3:** The Texas Department of Motor Vehicles is working to secure a digital plate production partner to continue offering these plates to applicable Texas motorists.
+
+#### 6.5.5. Souvenir License Plates
+
+*   **Title:** Souvenir License Plates
+*   **Image:** `/assets/img/license-plates/souvenir-plate.png`
+*   **Paragraph 1:** Many specialty license plates are available as souvenir plates. Souvenir plates are not street legal and are not insignias of vehicle registration.
+*   **Paragraph 2:** You may buy souvenir plates as gifts, mementos, or decorations.
+*   **Paragraph 3:** Organizations may buy them in bulk (minimum of 25 plates per order) for resale as a fundraiser, or use them as promotional items, prizes or trophies.
+*   **Paragraph 4:** The fee for a single souvenir plate is $20. Personalization is available for an additional $20. For each souvenir plate ordered that is a replica of a specialty plate, we deposit $10 into the sponsoring organization's fund ($20 if personalized) and $10 to the credit of the TxDMV Fund.
+*   **Link:** Souvenir License Plate Order Form (Form VTR-998)
+    *   **Link URL:** /sites/default/files/form_files/VTR-998.pdf
+    *   **Image:** `/assets/img/icon/icon-download.png`
+
+*   **Subheading:** How to Order
+*   **Paragraph:** Mail a completed Souvenir License Plate Order Form with the payment fee to:
+
+    Vehicle Titles and Registration
+
+    4000 Jackson Avenue
+
+    Austin, TX 78779-0001
+
+### 6.6. Call to Action Box
+
+*   **Text:** View Motorist FAQ
+*   **Link:** /faq/motorists
+*   **Icon:** eye
+
+### 6.7. Feedback Form
+
+This form's purpose is to allow users to provide feedback on the page.
+The email address field is labeled "Email" and the text area is labeled "Message."
+
+## 7. Related Information
+
+*   Top Navigation includes the following menu items:
+    *   Home
+    *   Online Services
+    *   Forms
+    *   Motorists
+    *   Dealers
+    *   Motor Carriers
+    *   About Us
+*   Footer includes the following menu items:
+    *   Compact With Texans
+    *   Disclaimer
+    *   Driver's Privacy Protection Act
+    *   Report Fraud, Waste or Abuse
+    *   Site Policies
+    *   Texas Veterans Portal
+    *   Border Programs Team
+    *   Statewide Search
+    *   Transparency

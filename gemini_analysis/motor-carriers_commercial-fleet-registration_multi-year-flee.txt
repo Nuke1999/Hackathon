@@ -1,0 +1,110 @@
+## Product Requirements Document: TxDMV Multi-Year Fleet Registration Page
+
+**1. Introduction**
+
+This document details the content requirements for recreating the "Multi-Year Fleet Registration" page on the TxDMV.gov website.  It focuses solely on the textual content and related links within the main content area of the page.
+
+**2. Goal**
+
+To accurately recreate the content of the specified web page, ensuring information integrity and accessibility.
+
+**3. Target Audience**
+
+*   AI Implementers
+*   Content Migration Specialists
+
+**4. Scope**
+
+This document covers:
+
+*   Page Title
+*   Breadcrumbs
+*   Body Content (including text, lists, and links)
+*   Call to action
+*   Form for feedback
+
+This document *excludes*:
+
+*   Design elements (CSS, layout, etc.)
+*   Navigation menus (main, footer, etc.)
+*   Search functionality
+*   Language selection features
+*   Header and Footer styling
+*   Social Media Links
+
+**5. Detailed Requirements**
+
+**5.1 Page Title:**
+
+*   Text: "Multi-Year Fleet Registration"
+
+**5.2 Breadcrumbs:**
+
+*   Home > Motor Carriers > Commercial Fleet Services
+
+**5.3 Main Content:**
+
+**5.3.1 Introduction Paragraphs:**
+
+*   "TxDMV's online Multi-Year Intrastate Fleet Registration Program is available to individuals or businesses registering 12 or more Intrastate (Texas only) non-specialized plated units. This program makes it convenient for registrants to keep their vehicle registration and inspections current."
+*   "A commercial fleet is a group of at least 12 units that do not have another plate designation such as: apportioned, permit, forestry, exempt, handicapped. There is no maximum number of units you can have within a fleet."
+*   "Your fleet can include multiple vehicle classes such as passenger cars, trucks, buses, mopeds, motorcycles, token trailers, combination power units and trailers. There is not a maximum number of fleets a company can utilize on one account. All units within a fleet will have the same expiration date."
+*   "You can select a registration period of not less than one year and not more than eight years."
+*   "License plates are manufactured with the month and year of expiration, eliminating the annual registration sticker requirement. You have the choice of selecting a standard license plate or a custom logo license plate, which will be manufactured with your company name and/or logo. Custom logo license plates must be pre-approved by the Texas Department of Motor Vehicles prior to beginning the multi-year fleet registration process."
+
+**5.3.2 How to Apply Section:**
+
+*   **Heading:** "How to Apply"
+*   "Visit <a href="https://TxFLEET.txdmv.gov">TxFLEET.TxDMV.gov</a> and click on the link "Apply for Motor Carrier Account"."
+*   "Your vehicle is not issued an inspection sticker; your cab card or registration receipt will serve as proof of inspection and registration. The Multi-Year Fleet registration helps you to streamline this process by providing a 75 day and 45 day reminder when it is time to have your fleet inspected. Our online inspection maintenance utility gives you the ease of looking up all of the units in your fleet at one time rather than checking one by one. Non-commercial inspected units will sync to the new month of expiration you choose. Commercial vehicles do not sync to the registration month and must remain inspected at all times in accordance with FMCSA part 396.17. We will collect the State’s portion of the inspection fee annually."
+
+**5.3.3 Fees and Payment Information Section:**
+
+*   **Heading:** "Fees and Payment Information"
+*   "Registration fees, a one-time $10 per unit commercial fleet fee, applicable local county fees, plate fees and P&H fees, less the prorated existing registration credit, will be collected for the entire registration period selected at the time of initial registration."
+*   "License plate fees:"
+    *   "Standard license plates: one-time license plate manufacturing fee of $1.50 for each plate or set of plates."
+    *   "Custom logo license plates: one-time license plate manufacturing fee of $8.00 for each plate or set of plates."
+*   "Fees are payable online using electronic check (ACH) or credit card (a service charge of 25 cents plus 2.25 percent will be added)."
+*   Link:
+    *   Text: "Texas Registration Fees"
+    *   URL: "/sites/default/files/body-files/FeeChart_1C.pdf"
+
+**5.3.4 More Information Section:**
+
+*   **Heading:** "More Information"
+*   "A prorated credit for Texas registration is applied for any existing registration when a unit is added to the fleet. When deleting or exchanging a unit, a prorated credit for registration and fleet fees will be applied to your account. Credits are stored at the account level and applied to future transactions. All applicable local county fees will still apply."
+*   "If the gross vehicle weight of your vehicle is 55,000 pounds or more, Federal law requires that proof of payment of the Federal Heavy Vehicle Use Tax (HVUT) be provided at time of vehicle licensing application."
+*   "The State of Texas has a mandatory financial responsibility law. The most common proof of financial responsibility is a Texas liability insurance card issued by the insurance company. In some situations non-trucking, cargo and/or bobtail insurance is not acceptable."
+
+**5.4 Feedback Form**
+
+*   **Title:** We Value Your Feedback
+*   **Text:** Your message will go to our web team. Thank you for helping us to serve you better!
+    If you want to contact a specific department and get a response, please go to the <a href="/about-us">About Us page</a>.</p>
+*   **Email Field:**
+    *   Label: Email
+    *   Placeholder: Email
+*   **Message Field:**
+    *   Label: Message
+    *   Placeholder: Your message
+*   **Send message button:**
+    *   Value: Send message
+*   **Hidden field**
+    *   Label: Leave this field blank
+
+**6. Out of Scope**
+
+*   Any visual elements or styling (colors, fonts, spacing, etc.).
+*   The overall page layout and structure beyond the main content area.
+*   Implementation details of the search functionality.
+*   Specifics of the language translation feature.
+
+**7. Success Criteria**
+
+*   All text, links, and document references are accurately reproduced.
+*   Links point to the correct internal or external destinations.
+
+**8. Revision History**
+
+*   Version 1.0: Initial Document

@@ -1,0 +1,92 @@
+## Product Requirements Document: TxDMV Event Page
+
+**1. Introduction**
+
+This document details the content requirements for recreating the TxDMV event page for "Metal Plate Changes & Processes – House Bill 718 and Inventory Management System (IMS) Training". The target audience is an AI implementor who will be using this document to recreate the page from scratch.
+
+**2. Page Title:**
+
+*   **Text:** "Metal Plate Changes & Processes – House Bill 718 and Inventory Management System (IMS) Training | TxDMV.gov"
+
+**3. Breadcrumb Navigation:**
+
+*   **Level 1:** "Home" (Link: "/")
+*   **Level 2:** "Events Calendar" (Link: "/calendar")
+
+**4. Main Content Area:**
+
+*   **Event Title:** "Metal Plate Changes & Processes – House Bill 718 and Inventory Management System (IMS) Training"
+
+    *   **Activity Details:**
+
+        *   **Text:** "Please register for Metal Plate Changes/Processes and Inventory Management System (IMS) Training on May 29, 2025, 2:00 PM - 4:00 PM CDT at:"
+        *   **Link:** "https://attendee.gotowebinar.com/register/9064469963990487900"
+        *   **Link Text:** "https://attendee.gotowebinar.com/register/9064469963990487900"
+        *   **Text:** "After registering, you will receive a confirmation email containing information about joining the webinar."
+    *   **Start Date:**
+        *   **Date and Time:** Thu, 05/29/2025 - 02:00
+    *   **End Date:**
+        *   **Date and Time:** Thu, 05/29/2025 - 04:00
+    *   **Category:**
+        *   **Text:** Metal License Plates and Plate Inventory Management System
+    *   **Location:**
+        *   **Text:** Online
+
+**5. "How can we make this page better for you?" Block & Feedback Form**
+
+*   Button that says "How can we make this page better for you?" Clicking this button will trigger the following feedback form to appear:
+
+*   **Feedback Form Title:** We Value Your Feedback
+
+*   Your message will go to our web team. Thank you for helping us to serve you better!
+    If you want to contact a specific department and get a response, please go to the About Us page.
+
+*   Form Fields:
+    *   **Email:** (Required, Email Input)
+    *   **Message:** (Required, Textarea)
+    *   Hidden field (Do Not Display): Leave this field blank
+
+*   Submit Button Text: Send message
+
+**6. Footer Content**
+
+*   Contact
+    *   **TxDMV Business Hours**
+        *   Mon to Fri, 8AM-5PM (Central Time)
+    *   [View Detailed Contact Information](/contact-us)
+
+*   Resources
+    *   [Cobrowse](/)
+    *   [Media](/about-us/txdmv-media)
+    *   [Open Records](/open-records)
+    *   [Reports & Data](/about-us/reports-and-data)
+    *   [Texas.gov](https://www.texas.gov)
+    *   [Texas by Texas (TxT)](https://txt.texas.gov/dmv/vehicle-registration-renewal?utm_source=txdmv&utm_medium=footer&utm_campaign=txt)
+    *   [Texas by Texas (TxT) - Español](https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm_source=txdmv&utm_medium=footer&utm_campaign=txt)
+    *   [Troops & Veterans](/motorists/for-our-troops)
+
+*   Work with Us
+    *   [Careers](/careers)
+    *   [Contractors/Vendors](/tax-assessor-collectors/contractors-vendors)
+    *   [Lienholders](/dealers/lienholders)
+    *   [MVCPA Grantees](/about-us/MVCPA/grantees)
+    *   [Law Enforcement Data Assistance](/open-records/law-enforcement-data-assistance-processes)
+    *   [Regional Service Centers](/regional-service-centers)
+    *   [Tax Assessor-Collectors](/tax-assessor-collectors)
+
+*   Connect with Us
+    *   [Facebook](http://www.facebook.com/TxDMV)
+    *   [Get Email Updates](https://public.govdelivery.com/accounts/TXDMV/subscriber/new)
+    *   [@TxDMV](http://x.com/txdmv)
+
+*   Legal Disclaimers
+    *   [Compact With Texans](/sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf)
+    *   [Disclaimer](/site-policies/disclaimer)
+    *   [Driver's Privacy Protection Act](/site-policies/drivers-privacy-protection-act)
+    *   [Report Fraud, Waste or Abuse](https://sao.fraud.texas.gov/)
+    *   [Site Policies](/site-policies)
+    *   [Texas Veterans Portal](https://veterans.portal.texas.gov/)
+    *   [Border Programs Team](https://gov.texas.gov/organization/hsgd)
+    *   [Statewide Search](https://www.tsl.texas.gov/trail/index.html)
+    *   [Transparency](https://comptroller.texas.gov/transparency/)
+    *   © 2025 Texas Department of Motor Vehicles. All rights reserved.

@@ -1,0 +1,228 @@
+```json
+{
+  "PRD Title": "TxDMV Number - Motor Carrier Registration",
+  "Page Title": "TxDMV Number | TxDMV.gov",
+  "Description": "Information and resources related to obtaining and maintaining a TxDMV number for motor carriers operating in Texas.",
+
+  "Main Content": [
+    {
+      "Section Title": null,
+      "Content": [
+        "Motor carriers operating INTRAstate commercial motor vehicles on a road or highway in Texas must register their operations with the Texas Department of Motor Vehicles Motor Carrier Division. For INTRAstate operations please ensure you register with USDOT as INTRAstate not INTERstate.",
+        "You must register as a motor carrier when you:",
+        {
+          "List": [
+            "Operate a commercial motor vehicle (or a combination of vehicles) with a gross weight, registered weight or gross-weight rating exceeding 26,000 pounds",
+            "Transport hazardous materials in a quantity that requires placarding",
+            "Operate a farm vehicle with a gross weight, registered weight or gross weight rating of 48,000 pounds or more",
+            "Operate a vehicle designed to transport more than 15 passengers, including the driver",
+            "Operate a commercial school bus",
+            "Transport household goods for compensation, regardless of vehicle weight"
+          ]
+        },
+        "Motor carrier registration (TxDMV Number) is available for seven calendar days, 90 days, one year or two years. A motor carrier certificate of registration is non-transferable between carriers registered as a sole proprietor."
+      ]
+    },
+    {
+      "Section Title": "eLINC & MCCS Access",
+      "Content": [
+        {
+          "Component": "Gray Card",
+          "Title": "eLINC",
+          "Image Alt Text": "Access eLINC",
+          "Image Source": "https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-09/eLINCSquareOption2at64x64px.png",
+          "Link Text": "Access eLINC",
+          "Link URL": "https://apps.txdmv.gov/apps/mccs/txelinc/",
+          "Description": "Obtain your Texas motor carrier operating authority."
+        },
+        {
+          "Component": "Gray Card",
+          "Title": "MCCS",
+          "Image Alt Text": "MCCS",
+          "Image Source": "https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-09/mccs-cms.png",
+          "Link Text": "Login to MCCS",
+          "Link URL": "https://apps.txdmv.gov/apps/mccs/motorcarrier/",
+          "Description": "Update your carrier information, renew certificate*, print cab cards and more."
+        },
+        "* Passenger carriers may not perform these functions online.",
+        "For questions or assistance with using MCCS, please contact the TxDMV at (800) 299-1700."
+      ]
+    },
+    {
+      "Section Title": null,
+      "Content": [
+        {
+          "Component": "Tabs",
+          "Tabs": [
+            {
+              "Tab Title": "How to Register",
+              "Content": [
+                "Follow these steps to register. For INTRAstate operations please ensure you register with USDOT as INTRAstate not INTERstate. Please note that before you begin you must have a valid USDOT Number.",
+                "First time Users",
+                "To apply for operating authority in Texas go to www.txdmv.gov/elinc to sign up to register.",
+                "Once your application has been received and reviewed you will receive an email with further instructions. Review takes 24-48 business hours.",
+                "When your application is approved, you will receive an email with your Unique Identifier Number (UIN) that you  must give to your insurance company to file your required insurance online. Have your insurance provider file the required insurance for your certificate.",
+                "After your insurance company has filed the required insurance, you will receive another email requesting that you login to MCCS to pay the required fees to complete your application process. After fees have been paid, MCCS will convert your UIN to your TxDMV Certificate number.",
+                "Processing Time",
+                "Initial application submission review takes 24-48 business hours. For any carrier that has had a previous authority/certificate or has been linked in any way with another authority/certificate, the review times is an additional 7 business days.",
+                "To check the status of your TxDMV Certificate application, call us at (800) 299-1700, options 3-4-3.",
+                "An application that contains any misrepresentation, misstatement or omission of required information will not be processed until all requirements are fulfilled.",
+                "Cab Cards",
+                "Once you have paid your fees and completed the application process to obtain your TxDMV Certificate number you may print your insurance Cab Card and Certificate.",
+                "A current copy of the insurance Cab Card must be available in the commercial vehicle at all times.",
+                "A copy of the insurance Cab Card, either paper or electronic, shall be made available for presentation to law enforcement at all times."
+              ]
+            },
+            {
+              "Tab Title": "Add/Replace Vehicles or Renew",
+              "Content": [
+                "Replace a Vehicle",
+                "You are not required to pay vehicle fees when you substitute a vehicle a for a current/existing vehicle. You may do this online through MCCS.",
+                "Add Vehicles or Renew Your Certificate of Registration",
+                "Renewal notices are sent to the current mailing address or email address on file. The notices are sent approximately 30 days prior to the expiration.",
+                "You may add vehicles or renew your registration through MCCS.",
+                "Payment is required at time of registration.",
+                "$10 per vehicle for one year registration",
+                "$20 per vehicle for two year registration",
+                "If you do not receive the renewal notice, you are still responsible for renewing your registration before its expiration date. Note: 7-day and 90-day certificates of registration cannot be renewed.",
+                "Note: 7-day and 90-day certificates of registration cannot be renewed."
+              ]
+            },
+            {
+              "Tab Title": "Fees & Payment",
+              "Content": [
+                "Motor carrier registration fees (excluding household goods movers)",
+                {
+                  "Table": {
+                    "Headers": ["Fee Type", "7-Day", "90-Day", "Annual", "Biennial"],
+                    "Rows": [
+                      ["Application *", "$5", "$25", "$100", "$100"],
+                      ["Vehicle", "$10 per vehicle", "$10 per vehicle", "$10 per vehicle", "$20 per vehicle"],
+                      ["Insurance Filing (Form E)", "$100", "$100", "$100", "$100"]
+                    ]
+                  }
+                },
+                "Motor carrier registration fees for household goods movers are as follows:",
+                {
+                  "Table": {
+                    "Headers": ["Fee Type", "Annual", "Biennial"],
+                    "Rows": [
+                      ["Application", "$100", "$100"],
+                      ["Vehicle", "$10 per vehicle", "$20 per vehicle"],
+                      ["Insurance Filing (Form E)", "$100", "$100"],
+                      ["Insurance Filing (Forms H & I)", "$100", "$100"]
+                    ]
+                  }
+                },
+                "Fees are payable to:",
+                {
+                  "List": [
+                    "MasterCard, Visa, Discover and American Express (a service charge of 25 cents plus 2.25 percent will be added.)",
+                    "Personal check, business check, cashier's check or money order, payable to Texas Department of Motor Vehicles"
+                  ]
+                },
+                "All fees are nonrefundable.",
+                "* One-time fee provided registration remains current/active as originally set up."
+              ]
+            },
+            {
+              "Tab Title": "Requirements",
+              "Content": [
+                "Insurance Requirements",
+                "Required insurance minimums must be met and insurance must remain active in MCCS while Motor Carrier is operating within the State of Texas.",
+                {
+                  "Table": {
+                    "Headers": ["", "Description", "Minimum Insurance"],
+                    "Rows": [
+                      [
+                        "Transporters of Hazardous Materials (that require placarding)",
+                        "Hazardous substances, as defined in 49 Code of Federal Regulations (CFR) §171.8, transported in cargo tanks, portable tanks or hopper-type vehicles, with capacities in excess of 3,500 water gallons; or any quantity of Division 1.1, 1.2 and 1.3 materials, any quantity of Division 2.3, Hazard Zone A, or Division 6.1, Packing Group I, Hazard Zone A material; in bulk Division 2.1 or 2.2; or highway route controlled quantities of a Class 7 material, as defined in 49 CFR §173.403",
+                        "$5,000,000"
+                      ],
+                      [
+                        "",
+                        "Oil listed in 49 CFR §172.101: hazardous waste, hazardous materials and hazardous substances as defined in 49 CFR §171.8 and listed in 49 CFR §172.101, but not mentioned in paragraphs (a) or (b) of this subsection and petroleum products that are lubricants or fuels",
+                        "$1,000,000"
+                      ],
+                      ["Household Goods Movers", "Household goods carriers with a gross weight, registered weight or gross weight rating less than 26,000 pounds", "$300,000"],
+                      [
+                        "Commercial School Bus Operators",
+                        "For-hire school buses operating within the boundaries of a municipality and transporting preprimary, primary or secondary school students on a route between the students' residence and a public, private or parochial school",
+                        "$500,000"
+                      ],
+                      ["Bus Operators", "Vehicles designed or used to transport > 15 passengers (including driver) but < 26 passengers (not including driver)", "$500,000"],
+                      ["", "Vehicles designed or used to transport > 26 passengers (not including driver)", "$5,000,000"],
+                      ["All Others", "Private or for-hire motor carriers with a gross weight, registered weight or gross weight rating in excess of 26,000 pounds", "$500,000"]
+                    ]
+                  }
+                },
+                "Cargo Insurance Requirements for Household Goods Carriers",
+                {
+                  "Table": {
+                    "Headers": ["Description", "Insurance"],
+                    "Rows": [
+                      ["Loss of or damage to total cargo carried on any one motor vehicle", "$5,000"],
+                      ["Aggregate loss of or damage to multiple shipper cargo carried on any one motor vehicle", "$10,000"]
+                    ]
+                  }
+                },
+                "Your insurance policy shall remain active in MCCS while operating as a Motor Carrier within the state of Texas. Texas requires all INTRAstate motor carriers to register with the department and file evidence of insurance or financial responsibility. Failure to maintain continuous evidence of insurance on a TxDMV certificate number in MCCS could result in administrative penalties or administrative sanctions, and revocation of your certificate.",
+                "If your insurance company cancels your insurance, you will receive an electronic notification, 30 days prior to the policy cancellation date, providing that you have a current email address on file in MCCS. Proof of insurance and/or cancellations must be submitted by your insurance company as follows:",
+                {
+                  "List": [
+                    "Proof of liability insurance must be filed on a Form E",
+                    "Proof of cargo insurance must be filed on a Form H & I",
+                    "Liability cancellation must be filed on a Form K."
+                  ]
+                },
+                "Note: Forms E, H & I and Form K are provided by your insurance company and must be filed electronically by the appropriate insurance company Underwriter.",
+                "*Evidence of insurance is provided online by your insurance provider; however, it is your responsibility to ensure that the insurance filing remains in effect in order to maintain an “Active” TxDMV number.",
+                "*Self-insured motor carriers must file with the TxDMV an \"Application for Qualification as a Self-Insurer\" containing a true and accurate statement of the motor carrier's financial condition and other evidence that establishes its ability to satisfy obligations for bodily injury and property damage liability without affecting the stability or permanency of its business. To obtain an application or for additional qualifying criteria, call (512) 465-4194.",
+                "Drug-Testing Certification",
+                "All Motor Carriers registered with TxDMV must certify that they are in compliance with the USDOT FMCSA drug-testing requirements.",
+                "Motor Carriers must provide the name of the drug-testing consortium/drug-testing facility that is being used to conduct the drug testing.",
+                "Motor Carriers must report drug test results to the Texas Department of Public Safety (DPS), in the manner required by DPS.",
+                "For further information regarding drug testing requirements, call DPS at (512) 424-2052."
+              ]
+            },
+            {
+              "Tab Title": "Making Changes",
+              "Content": [
+                "Online, using MCCS, you have the ability to:",
+                {
+                  "List": [
+                    "Update the cargo type",
+                    "Update the motor carrier name, address and/or legal agent for service of process",
+                    "Update the drug-testing consortium status",
+                    "Cancel your Certificate of Registration",
+                    "Update the principal officers or titles within a corporation",
+                    "Re-register a revoked/cancelled certificate of registration number"
+                  ]
+                },
+                "You must contact TxDMV Motor Carrier Division to request the following:",
+                {
+                  "List": [
+                    "File a corporate conversion: Registered corporations must have the conversion approved by the Texas Secretary of State before contacting the TxDMV.",
+                    "Request your PIN",
+                    "Request a Unified Carrier Registration (UCR) conversion - This conversion identifies a motor carrier as having current registration within the National Registration System (NRS) under the Unified Carrier Registration System."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Call to Action": {
+    "Link Text": "View Motor Carrier FAQ",
+    "Link URL": "/faq/motor-carriers"
+  },
+  "External Links": [
+    {
+      "Link Text": "USDOT Number",
+      "Link URL": "http://www.fmcsa.dot.gov/registration-licensing/online-registration/onlineregdescription.htm"
+    }
+  ]
+}
+```

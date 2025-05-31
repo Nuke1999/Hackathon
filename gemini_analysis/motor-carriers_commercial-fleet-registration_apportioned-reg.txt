@@ -1,0 +1,120 @@
+## Product Requirements Document: TxDMV Apportioned Registration Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "Apportioned Registration" page on the TxDMV website. This document focuses on the core content elements necessary for the AI implementation.
+
+**2. Goal**
+
+The goal is to provide a clear and concise specification of the content on the Apportioned Registration page, enabling a recreator to accurately reproduce the page.
+
+**3. Scope**
+
+This document covers the following content sections:
+
+*   Main Body Content (including introductory text, application instructions, fee information, and supplemental information)
+*   "How to Apply" Highlight Box
+*   "Fees and Payment Information" paragraph
+*   "More Information" Highlight Box
+
+**4. Detailed Requirements**
+
+**4.1 Main Body Content**
+
+*   **Introductory Paragraphs:**
+    *   Text: "TxDMV has a program for licensing commercial vehicles engaged in interstate operations. Apportioned registration, also known as the International Registration Plan (IRP), lets you obtain registration credentials in one jurisdiction, giving you the freedom of interstate travel without the inconvenience and expense of purchasing trip permits."
+    *   Link: "International Registration Plan (IRP)" should link to `https://www.irponline.org/` and open in a new tab (`target="_blank"`).
+    *   Text: "If you operate interstate, you may qualify for apportioned registration. To learn if you qualify, contact your local TxDMV Regional Service Center or send us an email at TxFLEET@txdmv.gov."
+    *   Email Link: `TxFLEET@TxDMV.gov` should create a mailto link.
+
+**4.2 "How to Apply" Highlight Box**
+
+*   **Title:** How to Apply
+*   **Content:**
+    *   Text: "All new accounts must be set up online in TxFLEET. Visit TxFLEET and click on the “Apply for Motor Carrier Account” link."
+    *   Link: "Apply for Motor Carrier Account" should link to `https://txfleet.txdmv.gov`
+    *   Text: "Please contact the TxDMV Motor Carrier Division at <a href="mailto:TxFLEET@TxDMV.gov">TxFLEET@TxDMV.gov</a> with any questions."
+        *   Email Link: `TxFLEET@TxDMV.gov` should create a mailto link.
+    *   Text: "Austin Headquarters, Commercial Fleet Services Office Hours are 8 a.m. to 4:30 p.m. weekdays except Wednesdays, 9 a.m. to 4:30 p.m."
+
+**4.3 "Fees and Payment Information" Paragraph**
+
+*   **Title:** Fees and Payment Information
+*   **Content:**
+    *   Text: "Registration fees are calculated based on distance percentages for each jurisdiction in which your vehicle or fleet operates."
+    *   Text: "Fees are payable online using electronic check (ACH) or credit card (a service charge of 25 cents plus 2.25 percent will be added)."
+
+**4.4 "More Information" Highlight Box**
+
+*   **Title:** More Information
+*   **Content:**
+    *   **Subheading:** Proof of Heavy Vehicle Use Tax (HVUT), IRS Form 2290
+    *   Text: "The Heavy Use Vehicle Tax (HVUT) is a tax paid to the Internal Revenue Service (IRS). Federal law requires proof of payment of the HVUT when vehicles with a gross weight of 55,000 pounds (24,948 kg.) or more are registered."
+    *   Text: "Proof of payment for new or used units being titled and registered in Texas are required within sixty (60) days of the date shown on the title assignment."
+    *   Text: "The Carrier is required to pay this tax by filing a Federal Form 2290, Schedule 1 with the IRS. The original paid receipt can be either of the following:"
+    *   Numbered List:
+        1.  Text: "The Form 2290 with the certified payment stamp by IRS for the current taxable year."
+        2.  Text: "A copy of the Form 2290, Schedule 1 with or without a certified payment stamp along with a copy of the front and back of the cancelled check used to make payment to indicate the current payment has been made for HVUT."
+    *   Text: "The instructions for filing the Federal Form 2290 are here: www.irs.gov/pub/irs-pdf/i2290.pdf."
+    *   Link: "www.irs.gov/pub/irs-pdf/i2290.pdf" should link to `https://www.irs.gov/forms-pubs/about-form-2290` and open in a new tab (`target="_blank"`).
+    *   Text: "The Form 2290 can be located here: www.irs.gov/pub/irs-pdf/f2290.pdf."
+    *   Link: "www.irs.gov/pub/irs-pdf/f2290.pdf" should link to `https://www.irs.gov/pub/irs-pdf/f2290.pdf` and open in a new tab (`target="_blank"`).
+    *   Text: "Webinar: Heavy Vehicle Use Tax Orientation"
+    *   Link: "Webinar: Heavy Vehicle Use Tax Orientation" should link to `/motor-carriers/commercial-fleet-registration/apportioned-registration/irp-compliance-examination`
+    *   Text: "Learn more about Heavy Vehicle Use Tax"
+    *   Link: "Learn more about Heavy Vehicle Use Tax" should link to `https://www.fhwa.dot.gov/policyinformation/hvut/mod1/index.cfm#toc` and open in a new tab (`target="_blank"`).
+    *   **Subheading:** Federal Laws and Regulations
+    *   Unordered List:
+        *   Text: "Federal Highway Administration Heavy Vehicle Use Tax"
+        *   Link: "Federal Highway Administration Heavy Vehicle Use Tax" should link to `https://www.fhwa.dot.gov/policyinformation/hvut/mod1/whatishvut.cfm` and open in a new tab (`target="_blank"`).
+        *   Text: "IRS Information"
+        *   Link: "IRS Information" should link to `https://www.irs.gov/businesses/small-businesses-self-employed/trucking-tax-center` and open in a new tab (`target="_blank"`).
+    *   Text: "For questions regarding this tax, contact the IRS at (800) 829-1040 or contact your local IRS office. Taxpayers may call 844-545-5640 to make an appointment. Visit the IRS website for more information."
+    *   Text: "IRP Section 315‐Application Process"
+    *   Text: "(a) The Base Jurisdiction shall determine the manner, the standard for measuring distance (i.e., miles or kilometers), application process, and filing deadlines for applications for registration under the Plan.
+        (b) An application for registration under the Plan shall contain information elements required by the Plan and such other information that is required by the Base Jurisdiction.
+        (c) Except where the Plan permits an Applicant to use average per‐vehicle distance, an application for registration under the Plan shall contain the actual distance that the Fleet being registered was operated during the Reporting Period.
+        (d) If the Fleet did not accrue any actual distance during the Reporting Period, an applicant shall use average per‐vehicle distance.
+        (e) The expiration date of apportioned registration for all Apportioned Vehicles in a Fleet shall be the same date."
+    *   Text: "Irregular Mileage Hard Stops"
+    *   Unordered List:
+        *   Average Miles in the base jurisdiction on a Renewal
+        *    Same actual mileage on 2 or more jurisdictions
+        *    Actual mileage for jurisdiction same as average miles
+        *   Actual miles much less jurisdiction average miles
+        *   Actual mileage same as last year
+        *   Many actual miles end in 0
+        *   Mileage exceeds 250k per unit
+        *   More than 75% of mileage in a single non‐base jurisdiction
+        *   Actual Mileage for one jurisdiction only
+        *   Jurisdiction with Actual mileage of only 1 mile
+    *   Text: "Electronic Logging Devices"
+    *   Text: "An Electronic Logging Device (ELD) is an electronic device designed to comply with the Federal Motor Carrier Safety Administration’s (FMCSA) criteria to accurately record a driver’s driving time for Hours of Service (HOS) compliance. The International Registration Plan (IRP) and the International Fuel Tax Agreement (IFTA) each allow the use of electronic devices to document vehicle distance by jurisdiction provided that the required supporting data is maintained for audit purposes. The purchase of an ELD does not necessarily mean it will be compliant for IFTA and IRP purposes or vice versa. Beware of vendors stating that their systems are IFTA or IRP certified. There is no such certification. See the Electronic Logging Device page on the International Registration Plan, Inc.’s web site to access a chart showing some of the key differences and similarities between an ELD and a compliant IFTA/IRP electronic records device: <a href="https://www.irponline.org/page/ELD">https://www.irponline.org/page/ELD</a>"
+    *   Link: "https://www.irponline.org/page/ELD" should link to `https://www.irponline.org/page/ELD` and open in a new tab (`target="_blank"`).
+    *   Text: "IRP Compliance Audits"
+    *   Text: "As an apportioned carrier, you are required to maintain detailed operational records in order to renew your apportioned registration each year. Base jurisdictions are required to examine an average of 3% of the number of renewed fleets each year to ensure compliance with the IRP and to guarantee that the proper revenues are being collected for each jurisdiction. As a result, every motor carrier registered with the TxIRP will be subject to a compliance examination of their operational records."
+    *   Text: "IRP Compliance Audit"
+    *   Link: "IRP Compliance Audit" should link to `/motor-carriers/commercial-fleet-registration/apportioned-registration/irp-compliance-examination`
+    *   Text: "Apportioned tow trucks must also maintain registration through the <a href="https://www.tdlr.texas.gov/" target="_blank">Texas Department of Licensing and Regulation (TDLR)</a>."
+    *   Text: "As a result of House Bill 2305 passed during the 83rd legislative session, the State of Texas stopped issuing inspection stickers and transitioned to a "Two Steps, One Sticker" vehicle inspection and registration program. Since March 1, 2015, your vehicle is no longer issued an inspection sticker and your cab card or registration receipt will serve as proof of inspection and registration. If you have any questions or need assistance, please call our office at 1-888-368-4689; or visit us online at www.TwoStepsOneSticker.com/motor-carriers."
+    *   Link: "www.TwoStepsOneSticker.com/motor-carriers" should link to `http://twostepsonesticker.com/motor-carriers` and open in a new tab (`target="_blank"`).
+    *   Text: "UCR Requirement"
+    *   Text: "Effective March, 2022, the TxDMV requires IRP applicants to be current with their Unified Carrier Registration (UCR), if applicable."
+    *   Text: "FMCSA Registration Training"
+    *   Text: "The Federal Motor Carrier Safety Administration (FMCSA) offers a video series on motor carrier registration. Videos include HOW TO Register, Identify Entity Types, and Reregister After Revocation."
+    *   Text: "FMCSA Official Registration Videos"
+    *   Link: "FMCSA Official Registration Videos" should link to `https://www.fmcsa.dot.gov/registration` and open in a new tab (`target="_blank"`).
+
+**5. Out of Scope**
+
+*   Website header
+*   Navigation menus
+*   Footer content
+*   Search functionality
+*   Language selection tools
+*   Design elements (colors, fonts, spacing, etc.)
+*   Back to Link block
+*   Call to Action Link block
+*   Feedback Form
+
+This document provides a comprehensive outline of the required content.

@@ -1,0 +1,273 @@
+## Product Requirements Document: TxDMV eLICENSING Resources Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "eLICENSING Resources" page on the TxDMV.gov website. It focuses on replicating the text and structural content of the page, including links to external resources and downloadable files. Design and functionality elements outside of core content are excluded.
+
+**2. Goal**
+
+To accurately reproduce the content of the eLICENSING Resources page (http://www.txdmv.gov/dealers/licensing/elicensing-resources) ensuring dealers and other licensees have access to critical information regarding the eLICENSING system.
+
+**3. Scope**
+
+This document covers the following content elements:
+
+*   Introductory text explaining eLICENSING
+*   Link to eLICENSING login page
+*   Information regarding updating contact information
+*   Listing of User Guides & Manuals
+*   Listing of eLICENSING Forms
+*   Listing of Video Resources (both Single-Topic and In-Depth)
+
+**4. Detailed Content Requirements**
+
+The main content area should contain the following elements in the specified order:
+
+**4.1. eLICENSING Login Link**
+
+*   **Content Type:** Hyperlink within a text box
+*   **Text:** "Login to eLICENSING"
+*   **Image:** `/images/icons-application/dealers/elicensing-icon-sized-for-website.png`
+*   **Icon:** `<i class="fas fa-external-link-square-alt"> </i>` (Font Awesome external link icon)
+*   **Link URL:** `https://texasdmv.force.com/customers/lace_login`
+
+**4.2. Introductory Text**
+
+*   **Content Type:** Paragraphs of Text
+*   **Text:**
+    *   "Motor vehicle dealers, salvage dealers, and industry licensees operating in Texas may now apply for, renew, or amend motor vehicle licenses online. The Texas Department of Motor Vehicles (TxDMV) replaced its paper-based licensing system with eLICENSING, an online self-service hub for all motor vehicle licensees and salvage dealers operating in Texas. The new system became available in March 2017."
+    *   "eLICENSING provides many user benefits, including 24-hour access to licensing information, the elimination of paper processing, the ability to submit license applications and payments online, a guided application process facilitating faster approvals, and the ability to track the progress of submitted applications."
+    *   "To receive email updates regarding eLICENSING, please visit [www.TxDMV.gov/subscribe](https://public.govdelivery.com/accounts/TXDMV/subscriber/new) and check the box beside the Dealers and Manufacturers subscription topic."
+
+**4.3. Contact Information Update Section**
+
+*   **Content Type:** Heading and Paragraphs of Text
+*   **Heading:** "Is Your Contact Information Up to Date?"
+*   **Text:**
+    *   "Licensees must have a current email address on file to use eLICENSING and receive updates on its availability."
+    *   "For more information, email TxDMV at <a href="mailto:MVDLicensing@TxDMV.gov">MVDLicensing@TxDMV.gov</a> or call 1-888-DMV-GOTX (1-888-368-4689)."
+
+**4.4. User Guides & Manuals Section**
+
+*   **Content Type:** Heading and Table with Download Links
+*   **Heading:** "User Guides & Manuals"
+*   **Table:**
+
+    *   **Column 1:** eLICENSING Quick Start Guides
+        *   Quick Start Guide for eLICENSING Administrators
+            *   **Download URL:** `/sites/default/files/body-files/eLICENSING-QuickStart_Admins.pdf`
+            *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+        *   Quick start Guide for First Time License Applicants
+            *   **Download URL:** `/sites/default/files/body-files/eLICENSING-QuickStart_NewLicense.pdf`
+            *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+        *   Quick Start Guide for License/Account Holders Requesting Access
+            *   **Download URL:** `/sites/default/files/body-files/eLICENSING-QuickStart_LicenseeAccessRequest.pdf`
+            *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+        *   Quick Start Guide for Adding an Attorney
+            *   **Download URL:** `/sites/default/files/body-files/eLICENSING-QuickStart_AddingAnAttorney.pdf`
+            *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+        *   Quick Start Guide for Filing a Protest Against a Dealer
+            *   **Download URL:** `/sites/default/files/body-files/eLICENSING-Quick-Start-Guide-protest-dealer.pdf`
+            *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+        *   Quick Start Guide for Filing a Protest Against a Manufacturer or Distributor
+            *   **Download URL:** `/sites/default/files/body-files/eLICENSING-Quick-Start-Guide-protest-mfr-dist.pdf`
+            *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+        *   Quick Start Guide for Filing a Protest Against a Manufacturer or Distributor Termination
+            *   **Download URL:** `/sites/default/files/body-files/eLICENSING-Quick-Start-Guide-protest-termination.pdf`
+            *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+        *   eLICENSING User Guide for Dealer Plate Applications: Standard Dealer Plate & Dealer Temporary Plate
+            *   **Download URL:** `/sites/default/files/body-files/eLICENSING_Plate_App_Guide-May_2025.pdf`
+            *   **Target:** `_blank`
+            *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+
+    *   **Column 2:** eLICENSING User Guides
+        *   eLICENSING User Guide for Converter and Converter Representative's Licenses
+            *   **Download URL:** `/sites/default/files/body-files/eLICENSING-UserGuide_ConverterLicense.pdf`
+            *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+        *   eLICENSING User Guide for Franchise Dealer Licenses
+            *   **Download URL:** `/sites/default/files/body-files/eLICENSING_UserGuide_Franchise_Dealer_Licenses.pdf`
+            *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+        *   eLICENSING User Guide for In-Transit Licenses
+            *   **Download URL:** `/sites/default/files/body-files/eLICENSING_User_Guide_Intransit_Licenses.pdf`
+            *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+        *   eLICENSING User Guide for Salvage Dealer Licenses
+            *   **Download URL:** `/sites/default/files/body-files/eLicensing-User-Guide-for-salvage-dealer-licenses.pdf`
+            *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+        *   eLICENSING User Guide for Lease Facilitator Licenses
+            *   **Download URL:** `/sites/default/files/body-files/eLICENSING-UserGuide_Lease_Facilitator.pdf`
+            *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+        *   eLICENSING User Guide for Lessor Licenses
+            *   **Download URL:** `/sites/default/files/body-files/eLICENSING-User_Guide_Lessor_Licenses.pdf`
+            *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+        *   eLICENSING User Guide for Manufacturer and Manufacturer's Representative Licenses
+            *   **Download URL:** `/sites/default/files/body-files/eLICENSING-UserGuide_Mfg_MfgRep_Licenses.pdf`
+            *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+        *   eLICENSING User Guide for New Independent GDN Licenses
+            *   **Download URL:** `/sites/default/files/body-files/eLICENSING_User_Guide_for_New_Independent_GDN_Licenses.pdf`
+            *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+        *   eLICENSING User Guide Independent GDN Basic Information for Licensees
+            *   **Download URL:** `/sites/default/files/body-files/eLICENSING-UserGuide_Independent-GDN-Licensees.pdf`
+            *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+        *   eLICENSING User Guide for Independent GDN Amendment Licenses
+            *   **Download URL:** `/sites/default/files/body-files/eLICENSING_User_Guide_for_Independent_GDN_Amendment_Licenses.pdf`
+            *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+
+**4.5. eLICENSING Forms Section**
+
+*   **Content Type:** Heading and List with Download Links
+*   **Heading:** "eLICENSING Forms"
+*   **List:**
+
+    *   Application to Assign or Replace an eLICENSING Administrator
+        *   **Download URL:** `https://texasdmv.force.com/customers/AdminLF705Info`
+        *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+    *   Application to Provide Attorney Access to eLICENSING
+        *   **Download URL:** `/sites/default/files/form_files/LF706.pdf`
+        *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+    *   Distributor License Holder Questionnaire
+        *   **Download URL:** `/sites/default/files/form_files/LD001.pdf`
+        *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+    *   In-Transit Drive-a-Way Operator Business Model Affidavit
+        *   **Download URL:** `/sites/default/files/form_files/LI001.pdf`
+        *   **Icon:**  `<i class="fas fa-file-download"> </i>`
+
+**4.6. Videos Section**
+
+*   **Content Type:** Accordion with Single-Topic and In-Depth Video Lists
+*   **Heading:** "Videos"
+
+    *   **Accordion Section 1: Single-topic Videos**
+        *   **Title:** Single-topic Videos
+        *   **Introductory Text:**
+            "Short, single-topic user training videos for eLICENSING are provided below. More detailed topic coverage is provided in our in-depth videos."
+        *   **Table:**
+            *   **Column 1: Topic**, **Column 2: Length**, **Column 3:** (Empty)
+            *   User Name and Password
+                *   **Video URL:** `https://www.youtube.com/embed/PLGpKv306YI?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *    **Length:** 4 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   Managing Your Account
+                *   **Video URL:** `https://www.youtube.com/embed/tdK4RINt6tc?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Length:** 4 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   Viewing the Status of Your Application
+                *   **Video URL:** `https://www.youtube.com/embed/mwey6DsaUFE?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Length:** 4 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   Renewing a License
+                *   **Video URL:** `https://www.youtube.com/embed/edgQyHVoLtE?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Length:** 10 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   Payments and Receipts
+                *   **Video URL:** `https://www.youtube.com/embed/LvfaQ1zMQ7Q?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Length:** 2.5 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   Viewing Your Licenses, Fees, Cases, Plates, and Stickers
+                *   **Video URL:** `https://www.youtube.com/embed/be43rDDKsWM?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Length:** 2.5 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   Save and Exit
+                *   **Video URL:** `https://www.youtube.com/embed/kcb8p1UZZQE?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Length:** 2.5 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   Submitting Your Electronic Signature
+                *   **Video URL:** `https://www.youtube.com/embed/bE4nS-QcJpw?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Length:** 4 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   Address Validation on License Applications
+                *   **Video URL:** `https://www.youtube.com/embed/PO4imCjOKKY?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Length:** 4 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   How to Add and Remove Users
+                *   **Video URL:** `https://www.youtube.com/embed/LbGYZO6FxDI?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Length:** 5 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   How to Add or Remove an Authorized Attorney
+                *   **Video URL:** `https://www.youtube.com/embed/5qbE0NqDZIg?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Length:** 5 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   How to Add an Additional Business
+                *   **Video URL:** `https://www.youtube.com/embed/H_WKlkI2F0s?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Length:** 2 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   Amending Your License
+                *   **Video URL:** `https://www.youtube.com/embed/t8OG21V8Uac?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Length:** 5 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   How to Add an Attachment
+                *   **Video URL:** `https://www.youtube.com/embed/UFU9MBhJ7A4?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Length:** 4 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   How to Withdraw an Application
+                *   **Video URL:** `https://www.youtube.com/embed/Hv0yCEIzxd0?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Length:** 4 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   How to Search for Other Dealers
+                *   **Video URL:** `https://www.youtube.com/embed/UUCqSm9Rugc?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Length:** 2 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+
+    *   **Accordion Section 2: In-Depth Videos**
+        *   **Title:** In-Depth Videos
+        *   **Introductory Text:**
+            "Detailed topic coverage is provided in our in-depth videos below. Short, single-topic user training videos for eLICENSING are provided in our QuickView videos."
+        *   **Table:**
+            *   **Column 1: Topic**, **Column 2: Length**, **Column 3:** (Empty)
+            *   Introduction to eLICENSING - Webinar, February 2017 (*36 minutes*)
+                *   **Video URL:** `https://www.youtube.com/embed/YDN-9GQIZoE?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Target:** `_blank`
+                *   **Length:** 36 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   TxDMV eLICENSING Overview (*33 minutes*)
+                *   **Video URL:** `https://www.youtube.com/embed/p0C9G9rNCSY?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Target:** `_blank`
+                *   **Length:** 33 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   eLICENSING: Applying for a New License (*25 minutes*)
+                *   **Video URL:** `https://www.youtube.com/embed/LbyB-17nj60?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Target:** `_blank`
+                *   **Length:** 25 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   eLICENSING for Tax Assessor-Collectors: How to Submit a Complaint (*6 minutes*)
+                *   **Video URL:** `https://www.youtube.com/embed/Q4sWh2LZB44?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Target:** `_blank`
+                *   **Length:** 6 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   eLICENSING: How to Add or Remove Line-Makes from your License (*20 minutes*)
+                *   **Video URL:** `https://www.youtube.com/embed/0GRHe6bJqPI?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Target:** `_blank`
+                *   **Length:** 20 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   eLICENSING: How to Apply for License Plates and Stickers (*9 minutes*)
+                *   **Video URL:** `https://www.youtube.com/embed/FOSDSSCW8C8?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Target:** `_blank`
+                *   **Length:** 9 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+            *   eLICENSING: How to Renew A License (*11 minutes*)
+                *   **Video URL:** `https://www.youtube.com/embed/TPTow8iLfXU?rel=0&amp;showinfo=0&amp;autoplay=1`
+                *   **Target:** `_blank`
+                *   **Length:** 11 minutes
+                *    **Icon:** `<i class="fas fa-video"> </i>`
+
+**5. Out of Scope**
+
+*   Website header and footer elements.
+*   Site navigation menus (main, topics, etc.).
+*   Search functionality.
+*   Language selection.
+*   All design elements (CSS, colors, fonts, spacing).
+*   "How can we make this page better for you?" feedback form.
+*   FAQ Link in blue box
+
+**6. External Links and References**
+
+*   **External:**
+    *   eLICENSING Login: `https://texasdmv.force.com/customers/lace_login`
+    *   Email Updates Subscription: `https://public.govdelivery.com/accounts/TXDMV/subscriber/new`
+    *   YouTube Video Embeds (listed in section 4.6)
+
+**7. Icons**
+
+*  fa fa-external-link-square-alt (Font Awesome Icon for external links)
+*  fa fa-file-download (Font Awesome Icon for file downloads)
+*  fa fa-video (Font Awesome Icon for Videos)

@@ -1,0 +1,126 @@
+## Product Requirements Document: TxDMV Commercial Fleet Services
+
+**1. Introduction**
+
+This document details the content requirements for recreating the Commercial Fleet Services page on the TxDMV website. The document focuses on the main content area, specifically the textual and linked information, excluding design elements and repetitive elements like navigation and language selection.
+
+**2. Page Title**
+
+*   **Text:** Commercial Fleet Services
+
+**3. Breadcrumb Navigation**
+
+*   Home > Motor Carriers
+
+**4. Main Content**
+
+The main content consists of a highlighted box with introductory text and links, followed by an accordion containing details about different registration programs.
+
+**4.1 Highlighted Box Content**
+
+*   **Image:** `commercial-fleets.jpg` (Alternative text: commercial-fleets) - positioned to the right of the text.
+*   **Text:** "TxDMV offers multiple customer-focused registration programs to suit your business needs. Whether you have one truck or thousands moving across Texas, we have a program for you."
+*   **Text:** "For assistance in determining which program is right for you send us an"
+    *   **Link:** email (mailto:TxFLEET@txdmv.gov)
+*   **Text:** "or call us at"
+*   **Text:** "1-800-299-1700, Option 5."
+
+**4.2 Accordion Content**
+
+The accordion consists of four sections, each describing a specific registration program.
+
+**4.2.1 Apportioned Registration**
+
+*   **Title:** Apportioned Registration
+*   **Image:** `ApportionedPlate.png` (Alternative text: ApportionedPlate)- positioned to the left of the text
+*   **Text:**
+    *   "Obtain registration from one jurisdiction for multi-jurisdiction travel"
+    *   "Interstate travel without purchasing trip permits"
+    *   "Compliance training"
+
+*   **Link:**
+    *   **Text:** "More Information"
+    *   **URL:** /motor-carriers/commercial-fleet-registration/apportioned-registration
+
+**4.2.2 Token Trailers**
+
+*   **Title:** Token Trailers
+*   **Image:** `token_trailer.jpg` (Alternative text: token trailer) - positioned to the left of the text.
+*   **Text:**
+    *   "Semi-trailers with weight exceeding 6,000 lbs."
+    *   "Multi-year registration"
+    *   "No annual plate sticker replacement"
+
+*   **Link:**
+    *   **Text:** "More Information"
+    *   **URL:** /motor-carriers/commercial-fleet-registration/token-trailers
+
+**4.2.3 Multi-Year Fleet Registration**
+
+*   **Title:** Multi-Year Fleet Registration
+*   **Image:** `FleetGenericPasenger.png` (Alternative text: FleetGenericPassenger) - positioned to the left of the text.
+*   **Text:**
+    *   "Multi-year fleet registration for 12+ vehicles and/or trailers"
+    *   "One to eight year registration periods"
+    *   "Standard or custom logo license plates, no annual sticker replacement."
+
+*   **Link:**
+    *   **Text:** "More Information"
+    *   **URL:** /motor-carriers/commercial-fleet-registration/multi-year-fleet-registration
+
+**4.2.4 Forestry Registration**
+
+*   **Title:** Forestry Registration
+*   **Image:** `Forestry-Vehicle.jpg` (Alternative text: Forestry-Vehicle)- positioned to the left of the text.
+*   **Text:**
+    *   "TxDMV issues forestry vehicle registration for vehicles used exclusively for transporting forest products in their natural state, including logs, debarked logs, untreated ties, stave bolts, plywood billets, wood chips, stumps, sawdust, moss, bark, wood shavings and property used in production of those products."
+    *   "The registration year for Forestry Vehicle License Plates is April 1 through March 31 of the following year."
+*   **Link:**
+    *   **Text:** "More Information"
+    *   **URL:** /motor-carriers/commercial-fleet-registration/forestry-registration
+
+**5. "How can we make this page better for you?" Feedback Form:**
+This section contains a link for users to provide feedback on the page.
+
+*   **Text:** "We Value Your Feedback"
+*   **Text:** "Your message will go to our web team. Thank you for helping us to serve you better!
+    If you want to contact a specific department and get a response, please go to the "
+    *   **Link:**  About Us page (/about-us).
+*   **Form Fields:**
+    *   Email (required)
+    *   Message (required)
+
+**6. Footer Content Links**
+
+*   **Link 1:**
+    *   **Text:** Compact With Texans
+    *   **URL:** /sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf
+*   **Link 2:**
+    *   **Text:** Disclaimer
+    *   **URL:** /site-policies/disclaimer
+*   **Link 3:**
+    *   **Text:** Driver's Privacy Protection Act
+    *   **URL:** /site-policies/drivers-privacy-protection-act
+*   **Link 4:**
+    *   **Text:** Report Fraud, Waste or Abuse
+    *   **URL:** https://sao.fraud.texas.gov/
+*   **Link 5:**
+    *   **Text:** Site Policies
+    *   **URL:** /site-policies
+*   **Link 6:**
+    *   **Text:** Texas Veterans Portal
+    *   **URL:** https://veterans.portal.texas.gov/
+*   **Link 7:**
+    *   **Text:** Border Programs Team
+    *   **URL:** https://gov.texas.gov/organization/hsgd
+*   **Link 8:**
+    *   **Text:** Statewide Search
+    *   **URL:** https://www.tsl.texas.gov/trail/index.html
+*   **Link 9:**
+    *   **Text:** Transparency
+    *   **URL:** https://comptroller.texas.gov/transparency/
+
+**7. Copyright Statement:**
+
+*   **Text:** © 2025 Texas Department of Motor Vehicles. All rights reserved.
+

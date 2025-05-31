@@ -1,0 +1,69 @@
+## Product Requirements Document: TxDMV.gov - Token Trailers Page
+
+**1.  Introduction**
+
+This document outlines the content requirements for the "Token Trailers" page on TxDMV.gov. It provides specific text, links, and related information necessary for implementation. This document does *not* contain design or layout specifications.
+
+**2.  Page Title**
+
+*   **Text:** "Token Trailers"
+
+**3.  Breadcrumb Navigation**
+
+*   Home
+*   Motor Carriers
+*   Commercial Fleet Services
+
+**4.  Main Content Area**
+
+*   **Heading 1 (H2):** How to Apply
+
+*   **Paragraph 1:**
+    "TxDMV has a Multi-Year Token Trailer Registration Program for Texas trailers that qualify for Token Trailer license plates. This program makes it convenient for business owners to keep all of their token trailer registrations current."
+
+*   **Paragraph 2:**
+    "A key benefit of the program is that a "non-expiring" license plate is issued for these token trailers (no expiration month/year on the plate and no validation stickers issued for renewal). This eliminates the need to locate the trailers each year to affix new plates or stickers. The registration receipt is the proof of current registration."
+
+*   **Paragraph 3:**
+    "You can select a registration period of not less than one year and not more than five years."
+
+*   **Paragraph 4:**
+    "Semitrailers must have a gross weight in excess of 6,000 pounds to qualify for Token Trailer registration. There is no minimum number of trailers required for you to participate in the Multi-Year Token Trailer Registration Program."
+
+*   **Heading 2 (H2):** How to Apply
+
+*   **Paragraph 1:**
+    "Visit <a href="https://TxFLEET.txdmv.gov">TxFLEET.TxDMV.gov</a> and click on the link "Apply for Motor Carrier account"."
+
+*   **Paragraph 2:**
+    "A token trailer fleet may be created at any time with either new token trailers or those currently registered in Texas."
+
+*   **Paragraph 3:**
+    "Please contact the TxDMV Motor Carrier Division at <a href="mailto:TxFLEET@TxDMV.gov">TxFLEET@TxDMV.gov</a> with any questions."
+
+*   **Paragraph 4:**
+    "Austin Headquarters, Commercial Fleet Services Office Hours are 8 a.m. to 4:30 p.m. weekdays except Wednesdays, 9 a.m. to 4:30 p.m."
+
+*   **Paragraph 5:**
+    "As a result of House Bill 2305 passed during the 83rd legislative session, the State of Texas stopped issuing inspection stickers and transitioned to a “Two Steps, One Sticker” vehicle inspection registration program. Since March 1, 2015, your vehicle is no longer issued an inspection sticker and your cab card or registration receipt will serve as proof of inspection and registration. If you have any questions or need assistance, please call our office at 1-800-299-1700, option 5, or visit <a href="http://twostepsonesticker.com/motor-carriers">http://twostepsonesticker.com/motor-carriers</a>."
+
+*   **Heading 3 (H2):** Fees and Payment Information
+
+*   **Paragraph 1:**
+    "An annual $15 token trailer registration fee, along with all applicable local fees, will be collected for the entire registration period selected at the time of initial registration."
+
+*   **Paragraph 2:**
+    "Fees are payable online using electronic check (ACH) or credit card (a service charge of 25 cents plus 2.25 percent will be added)."
+
+*   **Paragraph 3:** Empty Paragraph
+
+*   **Paragraph 4:**
+
+*   **Link:**
+    *   **Text:** "Texas Registration Fees"
+    *   **URL:** "/sites/default/files/body-files/FeeChart_1C.pdf"
+
+*   **Heading 4 (H2):** More Information
+
+*   **Paragraph 1:**
+    "Token trailer fleet license plates are valid only when displayed on semitrailers pulled by trucks or truck-tractors with a manufacturer's rated carrying capacity in excess of one ton, and which are properly registered with Combination, Apportioned, Forestry, or a Seasonal Permit license plate."

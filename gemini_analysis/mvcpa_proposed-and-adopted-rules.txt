@@ -1,0 +1,97 @@
+```
+# Product Requirements Document: TxDMV.gov - Proposed and Adopted Rules Page
+
+## 1. Introduction
+
+This document outlines the content requirements for recreating the "Proposed and Adopted Rules" page on the TxDMV.gov website.  It focuses solely on the main content area of the page, excluding header, footer, navigation, and search functionality.  The goal is to provide a clear, concise, and detailed specification of the content elements needed to replicate the page's core information.
+
+## 2. Goal
+
+To accurately reproduce the content of the "Proposed and Adopted Rules" page, enabling users to access information regarding the Motor Vehicle Crime Prevention Authority's (MVCPA) proposed and adopted rules.
+
+## 3. Scope
+
+This document covers the following:
+
+*   Disclaimer Text
+*   Instructions for submitting comments
+*   Table of proposed and adopted rules, including links to related documents.
+
+This document does NOT cover:
+
+*   Website design, layout, or styling
+*   Header, navigation, or footer elements
+*   Search functionality
+*   Language selection
+*   "How Do I?" dropdown
+*   Mobile responsiveness
+
+## 4. Content Requirements
+
+### 4.1 Disclaimer Text
+
+**Text:** " *DISCLAIMER:* The following proposed and adopted rules are provided as a courtesy by the Motor Vehicle Crime Prevention Authority (MVCPA). While MVCPA makes every effort to ensure the accuracy and completeness of this information, the official version of proposed and adopted rules are those filed with the Secretary of State, which is the repository of official MVCPA rules. Those rules can be accessed directly from the [Texas Register, Office of Secretary of State](https://www.sos.state.tx.us/texreg/index.shtml)."
+
+*   The phrase "DISCLAIMER:" should be bold and italicized.
+*   The text "Texas Register, Office of Secretary of State" should be a link that opens in a new tab/window and points to the following URL: `https://www.sos.state.tx.us/texreg/index.shtml`.
+*   The following sentence should be included:
+    "With respect to the following documents, or other documents available from this site or others to which it links, MVCPA and the State of Texas make no warranty as to their accuracy, completeness, reliability, timeliness, or usefulness."
+
+### 4.2 Submission of Comments Instructions
+
+**Text:** "Submission of Comments: Written comments on proposed rules must be received no later than 5 p.m. on the date stated in the preamble of each proposed rule. Email comments to rules@txdmv.gov"
+
+*   The email address "rules@txdmv.gov" should be a `mailto:` link.
+    *   `mailto:rules@txdmv.gov`
+
+### 4.3 Proposed and Adopted Rules Table (2023)
+
+**Introduction Text:** "Proposed and Adopted Rules for 2023".
+"Rules that have been adopted by the Board are listed by year proposed."
+
+**Table Structure:**
+
+The data should be presented in a table format with the following columns:
+
+*   **Proposal Filed:** Links to the PDF file containing the proposed rule.
+*   **Proposal Summary (English and Español):** Links to the PDF file containing the summary in both English and Spanish.
+*   **Proposal Published:** Date the proposal was published.
+*   **Adoption Filed:** Links to the PDF file containing the adopted rule.
+*   **Adoption Published:** Date the adoption was published.
+*   **Effective Date:** The date the rule came into effect.
+
+**Table Content:**
+
+| Proposal Filed                                                                                                                                  | Proposal Summary (English and Español)                                                                                                               | Proposal Published | Adoption Filed                                                                                                                                    | Adoption Published | Effective Date |
+| :---------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------- | :--------------- |
+| [§57.48](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2023/MVCPA-57.48-Prop.pdf)                                                       | [Summary/Resumen](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2023/MVCPA-57.48-English_Spanish.pdf)                                        | 9/08/23          | [§57.48](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2024/MVCPA-57.48-Adoption.pdf)                                                        | 1/12/24          | 1/10/24         |
+| [§57.52](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2023/MVCPA-57.52-Prop.pdf)                                                       | [Summary/Resumen](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2023/MVCPA-57.52-English_Spanish.pdf)                                        | 9/08/23          | [§57.52](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2024/MVCPA-57.52-Adoption.pdf)                                                        | 1/12/24          | 1/10/24         |
+
+**Notes:**
+
+*   The text "[§57.48](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2023/MVCPA-57.48-Prop.pdf)" should be a link to the specified PDF file.
+*   The text "[Summary/Resumen](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2023/MVCPA-57.48-English_Spanish.pdf)" should be a link to the specified PDF file.
+*   The text "[§57.48](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2024/MVCPA-57.48-Adoption.pdf)" should be a link to the specified PDF file.
+*   The text "[§57.52](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2023/MVCPA-57.52-Prop.pdf)" should be a link to the specified PDF file.
+*   The text "[Summary/Resumen](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2023/MVCPA-57.52-English_Spanish.pdf)" should be a link to the specified PDF file.
+*   The text "[§57.52](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2024/MVCPA-57.52-Adoption.pdf)" should be a link to the specified PDF file.
+*   The "Proposal Filed" column should have "<br/>" two times after the link.
+*   The "Proposal Summary (English and Español)" column should have "<br/>" two times after the link.
+
+## 5. Out-of-Scope Content
+
+The following elements, though present in the original HTML, are considered *out of scope* for this document and should *not* be implemented:
+
+*   Any content related to "call-to-action" links.
+*   Any content related to webforms or feedback mechanisms (e.g., "How can we make this page better for you?").
+
+## 6. Links to other websites
+
+* [Texas Register, Office of Secretary of State](https://www.sos.state.tx.us/texreg/index.shtml)
+* [§57.48](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2023/MVCPA-57.48-Prop.pdf)
+* [Summary/Resumen](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2023/MVCPA-57.48-English_Spanish.pdf)
+* [§57.48](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2024/MVCPA-57.48-Adoption.pdf)
+* [§57.52](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2023/MVCPA-57.52-Prop.pdf)
+* [Summary/Resumen](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2023/MVCPA-57.52-English_Spanish.pdf)
+* [§57.52](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2024/MVCPA-57.52-Adoption.pdf)
+```

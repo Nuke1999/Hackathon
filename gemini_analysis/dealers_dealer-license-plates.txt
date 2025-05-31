@@ -1,0 +1,401 @@
+```
+# Product Requirements Document: TxDMV Dealer License Plates Page
+
+## 1. Introduction
+
+This document outlines the content requirements for recreating the "Dealer License Plates" page on the TxDMV website. It focuses on the core content elements and their relationships to other pages and external resources. This document is tailored for an AI implementor and prioritizes clarity and conciseness.
+
+## 2. Page Title
+
+*   **Text:** Dealer License Plates
+
+## 3. Breadcrumb Navigation
+
+*   Home > Dealers
+
+## 4. Main Content
+
+### 4.1. Introductory Text and Image
+
+*   **Image:**  `plp_dealer.jpg` (URL: `/assets/img/plp_dealer.jpg`)
+    *   **Alt Text:** plp dealer
+    *   **Dimensions:** Width: 350, Height: 177
+    *   **Style:** float-right, margin-right: 10px
+*   **Paragraph 1:** Franchised (new) and Independent (used) motor vehicle dealers are eligible to buy and use metal dealer plates. The number of dealer plates that may be purchased depends on the number of sales and license type.
+*   **Paragraph 2:** Motor vehicle dealers may apply for metal dealer’s license plates for all vehicle types the dealer is licensed to sell and may only use dealer plates on vehicles included in the license. For example, a dealer who is only licensed to sell cars and light trucks may use a dealer plate only on a car or light truck in the dealer’s inventory and not on a motorcycle or trailer.
+*   **Paragraph 3:** The department also issues metal plates to other license holders including manufacturers, converters and in-transit operators.
+*   **Paragraph 4:** Only one metal dealer plate is required per vehicle and is displayed in the rear license plate holder. The plate expires when the license expires. During the license renewal process, the license holder has the option to order new plates and renew existing metal plates, and the department will issue new year stickers to the renewed plates.
+*   **Heading:** Plate Return Requirements
+*   **Paragraph 5:** License holders must cancel plates that are lost, stolen, damaged, or no longer needed in eLICENSING. From the home page, select Plates and Stickers and follow the prompts. License holders should also report stolen plates to local law enforcement.
+*   **Paragraph 6:** Damaged or no longer needed plates are to be returned to the closest Regional Service Center or to the TXDMV headquarters.
+
+### 4.2. Tabbed Content
+
+The following content is presented within a tabbed interface.
+
+#### 4.2.1. Tab: Metal Plate Uses
+
+*   **Heading:** Dealer Uses Include:
+*   **List:**
+    *   On vehicles being used for demonstration or test drives
+    *   On vehicles used by the dealer, the dealer’s family or employees for personal use
+    *   On courtesy vehicles used by the dealer if there is no signage on the vehicle
+*   **Heading:** Converter Uses Include:
+*   **List:**
+    *   On vehicles the converter is demonstrating or test-driving
+    *   On vehicles being driven by the converter to and from the franchised dealer that sells the vehicle
+*   **Heading:** Vehicles with Dealer’s or Converter’s Plates
+*   **List:**
+    *   MUST have a current inspection
+    *   CANNOT display signs on the vehicle
+    *   CANNOT be used on a vehicle carrying a load or performing services for the dealer, such as carrying parts or operating as a rental unit (There is a special provision under the law for independent dealers carrying vehicles to and from the auction.)
+    *   MUST have the title assigned to the dealer
+
+#### 4.2.2. Tab: License Plate Log
+
+*   **Paragraph:** The law requires a dealer/converter to maintain a record of all metal plates and each vehicle assigned a license plate. The log shall consist of:
+*   **Numbered List:**
+    1.  The assigned plate number
+    2.  The year/make of the vehicle displaying the plate
+    3.  The vehicle identification number
+    4.  The name of the person in control of the vehicle
+*   **Image:** `Dealer_Plate_Log.jpg` (URL: `/images/dealers/Dealer_Plate_Log.jpg`)
+    *   **Alt Text:** Dealer Plate Log
+    *   **Dimensions:** Width: 633, Height: 521
+
+#### 4.2.3. Tab: Plate Allowance
+
+*   **Paragraph 1:** Dealers are limited in the number of plates they may order depending on the type of license issued and the number of vehicles sold.
+*   **Heading:** New Application
+*   **Paragraph 2:** If you are ordering metal dealer plates with your application for a new license, make sure you do not order more than the number allowed by law. These numbers depend on the license type.
+*   **Paragraph 3:** Exemptions to these plate limits for new applications may apply if the license applicant is:
+    *   A franchised dealership that has been subject to a buy-sell agreement, regardless of a change in the entity or ownership
+    *   Any dealership that relocates and has been licensed for a period of one year or more
+*   **Heading:** Renewal
+*   **Paragraph 4:** When renewing, the number of license plates you may renew includes the number of plates you received with your license.
+*   **Paragraph 5:** For example, if you are a franchised motor vehicle dealer and you received five plates when you first received your license, then you may receive up to 25 additional plates upon renewal for a total of 30. If you are a franchised motor vehicle dealer and you did not receive any plates when you first received your license, then you may receive up to 30 license plates upon renewal.
+*   **Heading:** Plate Allocation Summary Table
+*   **Table:**
+
+    | License Type                                | New Application Allowance | Total Allowed with Renewal |
+    | :------------------------------------------ | :------------------------ | :------------------------- |
+    | Independent motor vehicle dealer            | 2                         | 3                          |
+    | Independent motorcycle dealer             | 2                         | 3                          |
+    | Franchised motor vehicle dealer             | 5                         | 30                         |
+    | Franchised motorcycle dealer              | 5                         | 10                         |
+    | Franchised or independent travel trailer dealer | 2                         | 3                          |
+    | Utility trailer or semi-trailer dealer     | 2                         | 3                          |
+    | Wholesale dealer                            | 1                         | 1                          |
+    | Independent mobility motor vehicle dealer   | 2                         | 3                          |
+*   **Heading:** Additional Plates
+*   **Paragraph:** If it is renewal time and you have already reached the maximum allowed plates, you may submit a VIT document or other proof of sales with your renewal application to receive additional plates. *VIT must be submitted each time with the renewal.*
+*   **Table:**
+
+    | If you are a non-wholesale dealer who sold this many vehicles according to VIT or other proof of sales | Then you may receive this many additional plates |
+    | :----------------------------------------------------------------------------------------------------- | :----------------------------------------------- |
+    | Fewer than 50                                                                                        | 1                                                |
+    | 50 to 99 vehicles                                                                                    | 2                                                |
+    | 100 to 200 vehicles                                                                                  | 5                                                |
+    | More than 200 vehicles                                                                               | May obtain any number of metal dealer plates at dealer’s discretion. |
+    | If you are a wholesale dealer                                                                        | Then you may receive one (1) additional plate, regardless of how many vehicles you sell. |
+*   **Link:**
+    *   **Text:** Number of Metal Dealer Plates Allowed with License Renewals (Form LP703)
+    *   **URL:** `/sites/default/files/form_files/LP703.pdf`
+
+#### 4.2.4. Tab: Personalization
+
+*   **Paragraph 1:** A licensed motor vehicle dealer may obtain a personalized metal dealer license plate.
+*   **Paragraph 2:** Cost: $85 per year/ plate
+*   **Paragraph 3:** Plates are issued on a two-year basis and expire with the dealer’s license.
+*   **Heading:** New applicants
+*   **Paragraph 4:** Mail a completed application, documentation, and fee to your county tax office.
+*   **Heading:** Renewals
+*   **Paragraph 5:** Mail renewal form, documentation, and fee to your county tax office.
+
+#### 4.2.5. Tab: Plate Return
+
+*   **Paragraph 1:** Before returning metal plates, license holders should cancel active plates in [eLICENSING](https://texasdmv.force.com/customers/lace_login). From the home page, select Plates and Stickers and follow the prompts.
+*   **Paragraph 2:** License holders should then complete a [Plate Inventory Form (LF707)](/sites/default/files/form_files/LF707.pdf), and mail or drop off metal plates at the closest Regional Service Center (RSC) or the TxDMV Headquarters for recycling.
+*   **Paragraph 3:** License holders with canceled licenses should also return all temporary tags, stickers, and plate receipts within 10 days of licenses closure.
+*   **Paragraph 4:** Find the closest Regional Service Center (RSC) or download the [pre-addressed mailing label for the TxDMV Headquarters](//sites/default/files/form_files/TXDMV_HQ_Mailing_Label.pdf).
+
+    *   **Card Title:** Find Your Local Regional Service Center (RSC)
+    *   A form with the label "County" and a dropdown containing a list of Texas counties to select from. The possible option values for each county are listed below. Upon selecting a county and clicking the "Find Offices" button, the form will return results related to the Regional Service Center (RSC) nearest to the selected county.
+        * Anderson
+        * Andrews
+        * Angelina
+        * Aransas
+        * Archer
+        * Armstrong
+        * Atascosa
+        * Austin
+        * Bailey
+        * Bandera
+        * Bastrop
+        * Baylor
+        * Bee
+        * Bell
+        * Bexar
+        * Blanco
+        * Borden
+        * Bosque
+        * Bowie
+        * Brazoria
+        * Brazos
+        * Brewster
+        * Briscoe
+        * Brooks
+        * Brown
+        * Burleson
+        * Burnet
+        * Caldwell
+        * Calhoun
+        * Callahan
+        * Cameron
+        * Camp
+        * Carson
+        * Cass
+        * Castro
+        * Chambers
+        * Cherokee
+        * Childress
+        * Clay
+        * Cochran
+        * Coke
+        * Coleman
+        * Collin
+        * Collingsworth
+        * Colorado
+        * Comal
+        * Comanche
+        * Concho
+        * Cooke
+        * Corpus Christi
+        * Coryell
+        * Cottle
+        * Crane
+        * Crockett
+        * Crosby
+        * Culberson
+        * Dallam
+        * Dallas
+        * Dawson
+        * Deaf Smith
+        * Delta
+        * Denton
+        * Dewitt
+        * Dickens
+        * Dimmit
+        * Donley
+        * Duval
+        * Eastland
+        * Ector
+        * Edwards
+        * El Paso
+        * Ellis
+        * Erath
+        * Falls
+        * Fannin
+        * Fayette
+        * Fisher
+        * Floyd
+        * Foard
+        * Fort Bend
+        * Franklin
+        * Freestone
+        * Frio
+        * Gaines
+        * Galveston
+        * Garza
+        * Gillespie
+        * Glasscock
+        * Goliad
+        * Gonzales
+        * Gray
+        * Grayson
+        * Gregg
+        * Grimes
+        * Guadalupe
+        * Hale
+        * Hall
+        * Hamilton
+        * Hansford
+        * Hardeman
+        * Hardin
+        * Harris
+        * Harrison
+        * Hartley
+        * Haskell
+        * Hays
+        * Hemphill
+        * Henderson
+        * Hidalgo
+        * Hill
+        * Hockley
+        * Hood
+        * Hopkins
+        * Houston
+        * Howard
+        * Hudspeth
+        * Hunt
+        * Hutchinson
+        * Irion
+        * Jack
+        * Jackson
+        * Jasper
+        * Jeff Davis
+        * Jefferson
+        * Jim Hogg
+        * Jim Wells
+        * Johnson
+        * Jones
+        * Karnes
+        * Kaufman
+        * Kendall
+        * Kenedy
+        * Kent
+        * Kerr
+        * Kimble
+        * King
+        * Kinney
+        * Kleberg
+        * Knox
+        * La Salle
+        * Lamar
+        * Lamb
+        * Lampasas
+        * Lavaca
+        * Lee
+        * Leon
+        * Liberty
+        * Limestone
+        * Lipscomb
+        * Live Oak
+        * Llano
+        * Loving
+        * Lubbock
+        * Lynn
+        * Madison
+        * Marion
+        * Martin
+        * Mason
+        * Matagorda
+        * Maverick
+        * McCulloch
+        * McLennan
+        * McMullen
+        * Medina
+        * Menard
+        * Midland
+        * Milam
+        * Mills
+        * Mitchell
+        * Montague
+        * Montgomery
+        * Moore
+        * Morris
+        * Motley
+        * Nacogdoches
+        * Navarro
+        * Newton
+        * Nolan
+        * Nueces
+        * Ochiltree
+        * Oldham
+        * Orange
+        * Palo Pinto
+        * Panola
+        * Parker
+        * Parmer
+        * Pecos
+        * Polk
+        * Potter
+        * Presidio
+        * Rains
+        * Randall
+        * Reagan
+        * Real
+        * Red River
+        * Reeves
+        * Refugio
+        * Roberts
+        * Robertson
+        * Rockwall
+        * Runnels
+        * Rusk
+        * Sabine
+        * San Augustine
+        * San Jacinto
+        * San Patricio
+        * San Saba
+        * Schleicher
+        * Scurry
+        * Shackelford
+        * Shelby
+        * Sherman
+        * Smith
+        * Somervell
+        * Starr
+        * Stephens
+        * Sterling
+        * Stonewall
+        * Sutton
+        * Swisher
+        * Tarrant
+        * Taylor
+        * Terrell
+        * Terry
+        * Throckmorton
+        * Titus
+        * Tom Green
+        * Travis
+        * Trinity
+        * Tyler
+        * Upshur
+        * Upton
+        * Uvalde
+        * Val Verde
+        * Van Zandt
+        * Victoria
+        * Walker
+        * Waller
+        * Ward
+        * Washington
+        * Webb
+        * Wharton
+        * Wheeler
+        * Wichita
+        * Wilbarger
+        * Willacy
+        * Williamson
+        * Wilson
+        * Winkler
+        * Wise
+        * Wood
+        * Yoakum
+        * Young
+        * Zapata
+        * Zavala
+
+## 5. "Back to" Link
+
+A "Back to" link should be placed at the end of the page, directing the user to the "Dealers" section (URL: `/dealers`).
+
+## 6. Feedback Form
+
+A feedback form is available at the bottom of the page. It includes the following:
+
+*   Title: We Value Your Feedback
+*   Description: Your message will go to our web team. Thank you for helping us to serve you better! If you want to contact a specific department and get a response, please go to the [About Us page](about-us).
+*   Field: Email (required, type: email, label: Email, placeholder: Email)
+*   Field: Message (required, type: textarea, label: Message, placeholder: Your message)
+*   Button: Send message (type: submit, value: Send message)
+*   Hidden field: "Leave this field blank" (used for spam prevention)
+
+## 7. Out-of-Scope
+
+*   Page layout and visual design elements.
+*   Overall website navigation (menus, header, footer).
+*   Search functionality.
+*   Language selection.
+```

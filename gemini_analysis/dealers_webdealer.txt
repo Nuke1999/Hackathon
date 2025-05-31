@@ -1,0 +1,84 @@
+```text
+## Product Requirements Document: TxDMV webDEALER | eTAG Landing Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the TxDMV webDEALER | eTAG landing page, focusing on text and links. It aims to provide a clear specification for an AI implementor to accurately reproduce the page's core information.
+
+**2. Goals**
+
+*   Accurately present information about the webDEALER | eTAG system.
+*   Provide clear access to training resources.
+*   Offer guidance on system requirements and troubleshooting.
+*   Facilitate access to the webDEALER login page and Dealer FAQ.
+
+**3. Main Content Requirements**
+
+**3.1. Introduction Text**
+
+*   **Text:** "The eTAG System has moved to webDEALER! - webDEALER is now the system used to create Buyer Tags (or other tags) and process title applications. Users who have accounts for both eTAG and webDEALER can now issue tags and create title applications within the same system."
+*   **Text:** "The webDEALER|eTAG system is designed to make processing dealer tags fast and easy for dealerships throughout the state while making temporary tag information available in almost real-time to law enforcement."
+
+**3.2. webDEALER Training Webinars**
+
+*   **Heading:** "webDEALER Training Webinars"
+*   **Text:** "On July 1, 2025, a new law requires all licensed Texas dealers to use the TxDMV webDEALER system to electronically process title and registration for vehicle sales. Dealers without webDEALER accounts will not be able to complete sales transactions beginning July 1, 2025."
+*   **Link:** new law, to "/hb718"
+*   **Text:** "We offer training for dealers on the webDEALER system through live webinars and on-demand training available 24/7 in English or Spanish."
+*   **Subheading:** "24/7 On-Demand Training"
+*   **Text:** "webDEALER 101 and 102"
+*   **Text:** "You can access the pre-recorded webDEALER 101 or webDEALER 102 training at any time:"
+    *   **Link:** "webDEALER 101 Training in English" to "https://register.gotowebinar.com/register/3976896617031502934"
+    *   **Link:** "Entrenamiento webDEALER 101 en Español" to "https://register.gotowebinar.com/register/5611149127908024918"
+    *   **Link:** "webDEALER 102 Training in English" to "https://attendee.gotowebinar.com/register/8236925834883215196"
+    *   **Text:** "webDEALER 102 Training – Español - Coming soon!"
+*   **Text:** "webDEALER Transaction Training"
+*   **Text:** "Learn how to complete specific types of transactions with these walkthroughs:"
+    *   **Link:** "How to Process webDEALER Apportioned Transactions" to "https://register.gotowebinar.com/register/26674599099591001"
+    *   **Link:** "How to Process webDEALER Trailer Transactions and Frequently-Asked Trailer Questions" to "https://register.gotowebinar.com/register/1621037927741998422"
+    *   **Link:** "How to Process webDEALER Off-Highway Transactions" to "https://register.gotowebinar.com/register/7811342268190713952"
+*   **Subheading:** "Live Webinars"
+*   **Text:** "Live dealer training webinars are listed on our events calendar."
+*   **Link:** events calendar to "/calendar"
+
+**3.3. Metal License Plate Implementation Information**
+
+*   **Heading:** "Metal License Plate Implementation Information"
+*   **Text:** "Guidance on the implementation of the new metal license plate requirements is available in English:"
+*   **Link:** "Your Complete Guide to Metal Plate Implementation - English" to "https://register.gotowebinar.com/register/3251508116736670808"
+
+**3.4. webDEALER Login**
+
+*   **Heading:** "webDEALER"
+*   **Text:** "Log In to webDEALER"
+*   **Link:** "Log In to webDEALER" to "https://webdealer.txdmv.gov/title/login.do"
+
+**3.5. Essential Information**
+
+*   **Heading:** "Essential Information"
+    *   **Link:** Types of Tags, to "/dealers/webdealer/webdealer-101?tab=Types-of-Tags"
+    *   **Link:** How to Use the Tags, to "/dealers/webdealer/webdealer-101?tab=How-to-Use-the-Tags"
+    *   **Link:** Reprinting and Voiding Tags, to "/dealers/webdealer/webdealer-101?tab=Reprinting-and-Voiding-Tags"
+
+**3.6. Making webDEALER Work for You**
+
+*   **Heading:** "Making webDEALER Work for You"
+*   **Text:** "The webDEALER system was developed so that it could be readily used in a typical business environment that uses a Windows-based operating system, the most commonly used Web browser, and high-speed broadband (DSL) or cable internet connections. While it is possible to vary from these standards somewhat, for your convenience, we have spelled out the optimal hardware and software environment"
+*   **Text:** "We're also happy to walk you through the login process and give you record-keeping tips."
+    *   **Link:** System Requirements, to "/dealers/webdealer/making-webdealer-work-for-you?tab=System-Requirements"
+    *   **Link:** Login Information, to "/dealers/webdealer/making-webdealer-work-for-you?tab=Login-Information"
+    *   **Link:** Communication, to "/dealers/webdealer/making-webdealer-work-for-you?tab=Communication"
+    *   **Link:** Record Keeping, to "/dealers/webdealer/making-webdealer-work-for-you?tab=Record-Keeping"
+*   **Horizontal Rule**
+*   **Heading:** "Troubleshooting"
+*   **Text:** "Select a topic:"
+    *   **Link:** Computer Settings, to "/dealers/webdealer/troubleshooting?tab=Computer-Settings"
+    *   **Link:** Printing Problems, to "/dealers/webdealer/troubleshooting?tab=Printing-Problems"
+    *   **Link:** Trailers Without VINs, to "/dealers/webdealer/troubleshooting?tab=Trailers-Without-VINs"
+    *   **Link:** More Help, to "/dealers/webdealer/troubleshooting?tab=More-Help"
+
+**3.7. Dealer FAQ**
+
+*   **Text:** "View Dealer FAQ"
+*   **Link:** View Dealer FAQ to "/faq/dealer"
+```

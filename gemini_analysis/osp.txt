@@ -1,0 +1,248 @@
+## Product Requirements Document: TxDMV Online Services Page
+
+**1. Introduction**
+
+This document details the content requirements for recreating the TxDMV Online Services page (http://www.txdmv.gov/osp). It focuses exclusively on the textual content and the relationships to other pages within the site or external resources. Design elements and general site features like navigation and search are excluded.
+
+**2. Goal**
+
+To provide clear, concise specifications for content to allow an AI implementor to accurately recreate the information presented on the TxDMV Online Services page.
+
+**3. Scope**
+
+This document covers the following content areas:
+
+*   Main content area including the cards for:
+    *   Vehicle Registration Renewal
+    *   Renewal Recipient Address Change
+    *   Vehicle Transfer Notification
+    *   Regional Service Center
+    *   Specialty License Plates
+    *   Go Paperless
+*   Feedback form
+*   Footer text and navigation
+*   Header Navigation
+
+**4. Detailed Content Specifications**
+
+**4.1. Main Content Area:**
+
+The main content area consists of a series of cards, each representing a different online service.
+
+**4.1.1. Vehicle Registration Renewal Card:**
+
+*   **Title:** "Vehicle Registration Renewal"
+*   **Content:**
+    *   "TxDMV offers two options to renew your vehicle registration online."
+    *   "Renew your vehicle registration using the Texas by Texas (TxT) website or mobile application" - This is a link to "/osp-texas-by-texas".
+    *   "Renew your vehicle registration using TxDMV website" - This is a link to "/osp-registration-renewal"
+    *   "Learn more about vehicle registration renewal →" - This is a link to "/motorists/register-your-vehicle".
+
+**4.1.2. Renewal Recipient Address Change Card:**
+
+*   **Title:** "Renewal Recipient Address Change"
+*   **Content:**
+    *   "Be sure your registration renewal notice follows you wherever you go."
+    *   "Change the address at which your vehicle registration renewal notice is received." - This is a link to "/osp-address-change".
+
+**4.1.3. Vehicle Transfer Notification Card:**
+
+*   **Title:** "Vehicle Transfer Notification"
+*   **Content:**
+    *   "Selling your vehicle? A vehicle transfer notification updates the motor vehicle record to show the vehicle has sold."
+    *   "Submit a Vehicle Transfer Notification online" - This is a link to "/osp-vehicle-transfer-notification".
+    *   "Learn more about submitting a Vehicle Transfer Notification →" - This is a link to "/osp-vehicle-transfer-learn-more".
+
+**4.1.4. Regional Service Center Card:**
+
+*   **Title:** "Regional Service Center"
+*   **Content:**
+    *   "TxDMV Regional Service Centers offer same-day and next-day appointments."
+    *   "Schedule an appointment with a TxDMV Regional Service Center (RSC)" - This is a link to "/osp-schedule-appointment".
+    *   "Learn more about services provided at TxDMV RSCs →" - This is a link to "https://www.txdmv.gov/regional-service-centers".
+
+**4.1.5. Specialty License Plates Card:**
+
+*   **Title:** "Specialty License Plates"
+*   **Content:**
+    *   "MyPlates provides customized and/or specialty license plates for Texas motorists."
+    *   "Order a specialty license plate at MyPlates.com" - This is a link to "/osp-myplates".
+    *   "Learn more about military and disabled veteran license plates →" - This is a link to "https://www.txdmv.gov/motorists/for-our-troops".
+
+**4.1.6. Go Paperless Card:**
+
+*   **Title:** "Go Paperless"
+*   **Content:**
+    *   "Registration renewal notices are available via email instead of postal mail."
+    *   "Switch to electronic renewal notices" - This is a link to "/osp-go-paperless".
+
+**4.2 Feedback Form**
+
+*   **Title:** "We Value Your Feedback"
+*   **Text:** Your message will go to our web team. Thank you for helping us to serve you better!
+    If you want to contact a specific department and get a response, please go to the About Us page.
+*   **Form Fields:**
+    *   Email (required)
+    *   Message (required)
+    *   Send message
+* The link to About Us Page is located at "/about-us".
+
+**4.3 Footer Content**
+
+*   **First Column**
+    *   Contact
+    *   TxDMV Business Hours Mon to Fri, 8AM-5PM (Central Time)
+    *   View Detailed Contact Information, link to "/contact-us"
+*   **Second Column**
+    *   Resources
+        *   Cobrowse, link to "/" with "glance_button=startSession"
+        *   Media, link to "/about-us/txdmv-media"
+        *   Open Records, link to "/open-records"
+        *   Reports & Data, link to "/about-us/reports-and-data"
+        *   Texas.gov, link to "https://www.texas.gov"
+        *   Texas by Texas (TxT), link to "https://txt.texas.gov/dmv/vehicle-registration-renewal?utm_source=txdmv&amp;utm_medium=footer&amp;utm_campaign=txt"
+        *   Texas by Texas (TxT) - Español, link to "https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm_source=txdmv&amp;utm_medium=footer&amp;utm_campaign=txt"
+        *   Troops & Veterans, link to "/motorists/for-our-troops"
+*   **Third Column**
+    *   Work With Us
+        *   Careers, link to "/careers"
+        *   Contractors/Vendors, link to "/tax-assessor-collectors/contractors-vendors"
+        *   Lienholders, link to "/dealers/lienholders"
+        *   MVCPA Grantees, link to "/about-us/MVCPA/grantees"
+        *   Law Enforcement Data Assistance, link to "/open-records/law-enforcement-data-assistance-processes"
+        *   Regional Service Centers, link to "/regional-service-centers"
+        *   Tax Assessor-Collectors, link to "/tax-assessor-collectors"
+*   **Forth Column**
+    *   Connect with Us
+        *   Facebook, link to "http://www.facebook.com/TxDMV"
+        *   Get Email Updates, link to "https://public.govdelivery.com/accounts/TXDMV/subscriber/new"
+        *   Twitter, link to "http://x.com/txdmv"
+
+**4.4 Site Policies**
+
+*   Compact With Texans, link to "/sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf"
+*   Disclaimer, link to "/site-policies/disclaimer"
+*   Driver's Privacy Protection Act, link to "/site-policies/drivers-privacy-protection-act"
+*   Report Fraud, Waste or Abuse, link to "https://sao.fraud.texas.gov/"
+*   Site Policies, link to "/site-policies"
+*   Texas Veterans Portal, link to "https://veterans.portal.texas.gov/"
+*   Border Programs Team, link to "https://gov.texas.gov/organization/hsgd"
+*   Statewide Search, link to "https://www.tsl.texas.gov/trail/index.html"
+*   Transparency, link to "https://comptroller.texas.gov/transparency/"
+
+**4.5 Header Content**
+    * Topics A-Z:
+        *File a Lemon Law Complaint?, link to "/motorists/consumer-protection/lemon-law"
+        *Find the Right Mover for Me?, link to "/motorists/consumer-protection/dont-make-a-move"
+        *Get a Copy of My Title?, link to "/motorists/buying-or-selling-a-vehicle/get-a-copy-of-your-title"
+        *Notify The TxDMV That I Sold My Vehicle?, link to "https://webdealer.txdmv.gov/title/publicVehicleTransfer"
+        *Register My Vehicle with the TxDMV?, link to "/motorists/register-your-vehicle"
+        *Transfer my license plates?, link to "/motorists/license-plates"
+    *Header Navigation
+        * Home, link to "/"
+        * Online Services, link to "/osp"
+        * Forms, link to "/forms"
+        * Motorists
+            * Information for Motorists, link to "/motorists"
+            * Renew Driver License at DPS, link to "https://www.dps.texas.gov/section/driver-license"
+            * Receiving In-Person Motor Vehicle Services, link to "/motorists/in-person-services"
+            * Vehicle Titles
+                * Abandoned Vehicles, link to "/motorists/buying-or-selling-a-vehicle/abandoned-vehicles"
+                * Add/Remove a Lien On a Vehicle, link to "/motorists/buying-or-selling-a-vehicle/add-remove-lien"
+                * Assembled Vehicles, link to "/motorists/assembled-vehicles"
+                * Get a Copy of Your Title, link to "/motorists/buying-or-selling-a-vehicle/get-a-copy-of-your-title"
+                * How to Find the VIN, link to "/motorists/how-to-find-the-vin"
+                * Trailers, link to "/motorists/buying-or-selling-a-vehicle/trailers"
+                * Title Litigation, link to "/motorists/buying-or-selling-a-vehicle/title-litigation"
+                * Unique Vehicles, link to "/motorists/buying-or-selling-a-vehicle/unique-vehicles"
+                * VIN Assignment / Reassignment Process, link to "/motorists/vin-assignment-reassignment-process"
+            * Vehicle Registration
+                * Where's My Sticker?, link to "/motorists/track"
+                * How to Find the VIN, link to "/motorists/how-to-find-the-vin"
+                * New to Texas, link to "/motorists/new-to-texas"
+                * Register Your Vehicle, link to "/motorists/register-your-vehicle"
+                * Temporary Permits, link to "/motorists/register-your-vehicle/temporary-permits"
+                * TexasSure - Insurance Verification, link to "/motorists/register-your-vehicle/texassure-insurance-verification"
+                * Two Steps, One Sticker, link to "http://twostepsonesticker.com"
+            * Buying or Selling a Vehicle
+                * Buying or Selling a Vehicle, link to "/motorists/buying-or-selling-a-vehicle"
+                * Get a Copy of Your Title, link to "/motorists/buying-or-selling-a-vehicle/get-a-copy-of-your-title"
+                * Title Check - Look Before You Buy, link to "/motorists/buying-or-selling-a-vehicle/title-check-look-before-you-buy"
+                * Bought a Vehicle Without a Title?, link to "/motorists/buying-or-selling-a-vehicle/bought-a-vehicle-with-no-title"
+                * Out of State and Imported Vehicles, link to "/motorists/buying-or-selling-a-vehicle/out-of-state-and-foreign-vehicles"
+                * Temporary Permits, link to "/motorists/register-your-vehicle/temporary-permits"
+            * License Plates
+                * License Plates, link to "/motorists/license-plates"
+                * Plate Auctions, link to "/motorists/license-plates/plate-auctions"
+                * Specialty License Plates, link to "https://www.myplates.com"
+                * Sponsoring a Specialty License Plate, link to "/motorists/license-plates/sponsoring-a-specialty-license-plate"
+            * Disabled Parking, Plates & Placards, link to "/motorists/disabled-parking-placards-plates"
+            * For Our Troops, link to "/motorists/for-our-troops"
+            * Lemon Law, link to "/motorists/consumer-protection/lemon-law"
+            * Consumer Protection
+                * Consumer Protection, link to "/motorists/consumer-protection"
+                * Dealer Closures, link to "/motorists/consumer-protection/dealer-closures"
+                * Don't Make a Move Without Us, link to "/motorists/consumer-protection/dont-make-a-move"
+                * Office of Administrative Hearings, link to "/motorists/consumer-protection/the-office-of-administrative-hearings"
+                * Motor Vehicle Crime Prevention Authority, link to "/motorists/consumer-protection/auto-theft-prevention"
+                    * Proposed and Adopted Rules, link to "/mvcpa/proposed-and-adopted-rules"
+                        * MVCPA Proposed and Adopted Rules 2024, link to "/mvcpa/proposed-and-adopted-rules-2024"
+            * Complaints, link to "/complaints"
+        * Dealers
+            * Information for Dealers, link to "/dealers"
+            * webDEALER | eTAG
+                * Welcome to webDEALER | eTAG , link to "/dealers/webdealer"
+                * webDEALER 101, link to "/dealers/webdealer/making-webdealer-work-for-you"
+                * eTAG 101, link to "/dealers/webdealer/webdealer-101"
+                * webDEALER | eTAG Resources, link to "/dealers/webdealer/resources"
+                * webDEALER | eTAG Troubleshooting, link to "/dealers/webdealer/troubleshooting"
+                * webDEALER | eTAG Login/Password Reset, link to "https://webdealer.txdmv.gov/title/login.do"
+            * Licensing
+                * Application Status Check, link to "https://txdmv.force.com/GetWorkItem"
+                * Dealer Criminal History Review Process, link to "/dealers/criminal-history-review-process"
+                * eLICENSING Resources, link to "/dealers/licensing/elicensing-resources"
+                * Licensing, link to "/dealers/licensing"
+                * Starting Your New Dealership, link to "/dealers/starting-your-new-dealership"
+            * Dealer License Lookup, link to "https://texasdmv.my.salesforce-sites.com/dealers"
+            * Dealer License Plates, link to "/dealers/dealer-license-plates"
+            * Electronic Lien & Title Program (ELT), link to "/dealers/lienholders"
+            * Dealer Tips and Services
+                * Dealer Education Requirements, link to "/dealers/education"
+                * Dealer Tips and Services, link to "/dealers/services"
+                * Dealer Training Webinars, link to "/dealers/services/training-seminars"
+                * Exhibitions and Shows, link to "/dealers/services/exhibitions-shows"
+                * Motor Vehicle Inquiry, link to "https://mvinet.txdmv.gov"
+            * Complaints, link to "/complaints"
+        * Motor Carriers
+            * Information for Motor Carriers, link to "/motor-carriers"
+            * How To Be a Motor Carrier, link to "/motor-carriers/how-to-be-a-motor-carrier"
+            * Oversize/Overweight Permits
+                * Compliance, link to "/motor-carriers/oversize-overweight-permits/compliance"
+                * Escort and Equipment Requirements, link to "/motor-carriers/oversize-overweight-permits/escort-and-equipment-requirements"
+                * Holiday Hours & Movement Restrictions, link to "/motor-carriers/oversize-overweight-permits/holiday-movement-restrictions"
+                * Oversize/Overweight Permits, link to "/motor-carriers/oversize-overweight-permits"
+                * Quick Start Guide, link to "/motor-carriers/oversize-overweight-permits/quick-start-guide"
+                * Texas Size/Weight Limits, link to "/motor-carriers/oversize-overweight-permits/texas-size-weight-limits"
+                * TxPROS Information & Tutorials, link to "/motor-carriers/oversize-overweight-permits/txpros-info-and-tutorials"
+            * TxDMV Number, link to "/motor-carriers/txdmv-number"
+            * Unified Carrier Registration, link to "/motor-carriers/unified-carrier-registration"
+            * Commercial Fleet Registration
+                * Apportioned Registration, link to "/motor-carriers/commercial-fleet-registration/apportioned-registration"
+                * Commercial Fleet Registration, link to "/motor-carriers/commercial-fleet-registration"
+                * Forestry Registration, link to "/motor-carriers/commercial-fleet-registration/forestry-registration"
+                * Multi-Year Fleet Registration, link to "/motor-carriers/commercial-fleet-registration/multi-year-fleet-registration"
+                * Token Trailers, link to "/motor-carriers/commercial-fleet-registration/token-trailers"
+            * NAFTA Permits, link to "/motor-carriers/nafta-permits"
+            * Outreach & Training, link to "/motor-carriers/outreach-and-training"
+            * Railroad-Crossing Safety, link to "/motor-carriers/railroad-crossing-safety"
+            * Complaints, link to "/complaints"
+            * Statutes and Rules, link to "/motor-carriers/statutes-and-rules"
+        * About Us, link to "/about-us"
+
+**5. Out of Scope:**
+
+*   Visual Design (colors, fonts, spacing, etc.)
+*   Layout and structure (column arrangements, etc.)
+*   Javascript functionality (e.g., form validation, interactive maps)
+*   SEO metadata
+*   Accessibility features

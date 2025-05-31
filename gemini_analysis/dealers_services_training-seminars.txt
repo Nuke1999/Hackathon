@@ -1,0 +1,54 @@
+```
+## Product Requirements Document: TxDMV Dealer Training Webinars Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "Dealer Training Webinars" page on the TxDMV.gov website. It focuses on the main content area of the page, providing specific text and information for implementation.
+
+**2. Goal**
+
+The goal of this page is to inform dealers about TxDMV's training webinars, enabling them to understand regulations, stay compliant, and avoid unintentional violations.
+
+**3. Main Content**
+
+   *   **Page Title:** Dealer Training Webinars
+
+   *   **Introductory Text:**
+
+    The Texas Department of Motor Vehicles (TxDMV) offers training webinars to help dealers understand the rules and regulations that govern their businesses. Each day-long webinar includes information that enables dealers to stay in compliance and avoid common unintentional violations. Topics include: advertising, selling and financing motor vehicles, trade-ins, titles, and eTAG. During webinars, dealers have the opportunity to interact with TxDMV staff to better understand how the law and rules impact business practices.
+
+Texas Department of Motor Vehicles training webinars are provided by TxDMV at no cost to dealers or their employees. We invite everyone who is interested in working in the motor vehicle industry to attend. The Motor Vehicle Dealer Manual and other useful materials are available under the “Publications” link.
+
+   *   **Webinar Schedule:**
+
+    *   **Table 1: Dealer Training**
+
+        *   **Header:** Dealer Training
+        *   **Column 1:** Month
+        *   **Column 2:** Type
+        *   **Column 3:** Date
+        *   **Column 4:** Webinar Link
+
+            | Month | Type    | Date    | Webinar Link                                                                          |
+            | :---- | :------ | :------ | :------------------------------------------------------------------------------------ |
+            | June  | Webinar | June 4  | [Dealer Training Webinar Part 1](https://attendee.gotowebinar.com/register/670655261128378709) (Opens in new tab) |
+            | June  | Webinar | June 5  | [Dealer Training Webinar Part 2](https://attendee.gotowebinar.com/register/3074413079330434135) (Opens in new tab) |
+
+        *   **Table 2: Salvage Motor Vehicle Dealer Training**
+
+            *   **Header:** Salvage Motor Vehicle Dealer Training
+            *   **Column 1:** Month
+            *   **Column 2:** Type
+            *   **Column 3:** Date
+            *   **Column 4:** Webinar Link
+
+            | Month | Type    | Date     | Webinar Link                                                                                                 |
+            | :---- | :------ | :------- | :----------------------------------------------------------------------------------------------------------- |
+            | June  | Webinar | June 11  | [Salvage Motor Vehicle Dealer Training - June 11](https://attendee.gotowebinar.com/register/8845567094724667479) (Opens in new tab) |
+
+   *   **Cancellation and Substitutions:**
+
+Registrants cancelling at least 72 hours before the event can call the TxDMV at (888) DMV-GOTX or (888) 368-4689.
+
+If you have registered, but are unable to attend, you may send another person in your place. The substitute should inform TxDMV staff at the time of webinar attendance.
+```

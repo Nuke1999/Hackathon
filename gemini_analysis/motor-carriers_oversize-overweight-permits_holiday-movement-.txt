@@ -1,0 +1,113 @@
+```
+## Product Requirements Document: TxDMV Holiday Hours & Movement Restrictions Page
+
+**1. Introduction**
+
+This document outlines the content requirements for the "Holiday Hours & Movement Restrictions" page on the TxDMV website. The goal is to provide a clear and concise specification of the page's content for implementation.
+
+**2. Goal**
+
+To inform motor carriers about holiday office closures and movement restrictions related to oversize/overweight permits and manufactured housing.
+
+**3. Target Audience**
+
+*   Motor Carriers
+*   Oversize/Overweight Permit Holders
+*   Manufactured Housing Transporters
+
+**4. Scope**
+
+This document covers all textual content, data tables, and links within the main content area of the "Holiday Hours & Movement Restrictions" page.
+
+**5. Detailed Content Requirements**
+
+**5.1 Main Content Area**
+
+The main content area is divided into two sections displayed within tabs:
+
+*   **Office Hours**
+*   **Mfg Housing Holiday Movement Restrictions**
+
+**5.1.1 Office Hours Tab**
+
+**5.1.1.1 Introductory Text:**
+
+"Normal hours of operation for the Motor Carrier Division Austin Permit Office are 8 a.m. to 5 p.m., Monday through Friday. NOTE: The toll-free phone line shuts down 30 minutes prior to the end of office hours each day. Offices are closed on the following holidays:"
+
+**5.1.1.2 Holiday Closure Table:**
+
+This table lists the dates, holidays, and days of the week on which the Motor Carrier Division Austin Permit Office is closed. The implementor needs to recreate the following table:
+
+| **Office Closed** | **Holiday**                     | **Day of Week** |
+| :---------------- | :------------------------------ | :-------------- |
+| 01/20/2025        | Martin Luther King, Jr. Day     | Monday          |
+| 02/17/2025        | Presidents' Day                 | Monday          |
+| 05/26/2025        | Memorial Day                    | Monday          |
+| 07/04/2025        | Independence Day                | Friday          |
+| 09/01/2025        | Labor Day                       | Monday          |
+| 11/11/2025        | Veterans Day                    | Tuesday         |
+| 11/27/2025        | Thanksgiving Day                | Thursday        |
+| 11/28/2025        | Day After Thanksgiving Day      | Friday          |
+| 12/24/2025        | Christmas Eve                   | Wednesday       |
+| 12/25/2025        | Christmas Day                   | Thursday        |
+| 12/26/2025        | Day After Christmas             | Friday          |
+| 01/01/2026        | New Year's Day                  | Thursday        |
+
+**5.1.1.3 Important Note:**
+
+"NOTE: Permits that require coordination with the Texas Department of Transportation (TxDOT) may be delayed when that agency is closed during a holiday that the TxDMV Oversize/Overweight Permits office is open."
+
+**5.1.2 Mfg Housing Holiday Movement Restrictions Tab**
+
+**5.1.2.1 Text:**
+
+"The movement of all manufactured housing is prohibited on national holidays unless an exception is granted by TxDMV."
+
+**5.2 "Motor Carrier Toolbox" Card**
+
+This section will appear as a card/box element and contains links to various resources.
+
+*   **Title:** Motor Carrier Toolbox
+
+*   **Content:**
+
+    *   [File a Complaint](/complaints)
+    *   [Forms](/forms)
+    *   [Statutes & Rules](/statutes-and-rules)
+    *   [Reports & Data](/reports-and-data)
+    *   [Publications & Manuals](/publications)
+
+**5.3 "Records" Card**
+
+*   **Title:** Records
+
+*   **Content:**
+
+    *   [Manufactured Housing Permits Records](https://txpros.txdmv.gov/mhreports.aspx)
+    *   [Open Records Requests](/open-records)
+    *   [Safety Records](/motorcarriers/safety-records)
+    *   [Weight Tolerance Permits By County](https://txpros.txdmv.gov/County1547.aspx)
+
+**5.4 "Roadway Information" Card**
+
+*   **Title:** Roadway Information
+
+*   **Content:**
+
+    *   [Hazardous Materials Routing](https://www.txdot.gov/inside-txdot/forms-publications/publications/nrhm.html)
+    *   [Load-Restricted Bridge Map](http://apps3.txdot.gov/apps/gis/lrbm/)
+    *   [Load-Zoned Roads](https://www.txdot.gov/apps/gis/loadzone/)
+    *   [Permit Restrictions by County & District](/motorcarriers/permit-restrictions)
+    *   [Structures with Low Vertical Clearance](/motorcarriers/low-clearance)
+
+**6. Related Links**
+
+The page includes external links. Ensure these links are functional.
+
+*   Texas Department of Transportation (TxDOT)
+*   Hazardous Materials Routing: <https://www.txdot.gov/inside-txdot/forms-publications/publications/nrhm.html>
+*   Load-Restricted Bridge Map: <http://apps3.txdot.gov/apps/gis/lrbm/>
+*   Load-Zoned Roads: <https://www.txdot.gov/apps/gis/loadzone/>
+*   [Manufactured Housing Permits Records](https://txpros.txdmv.gov/mhreports.aspx)
+*   [Weight Tolerance Permits By County](https://txpros.txdmv.gov/County1547.aspx)
+```

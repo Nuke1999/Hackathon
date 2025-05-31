@@ -1,0 +1,160 @@
+```text
+# Product Requirements Document: Plate Auctions Page
+
+## 1. Introduction
+
+This document outlines the content requirements for the "Plate Auctions" page on TxDMV.gov. It details all text, links, and structural elements necessary for an AI implementor to accurately recreate the page's content.
+
+## 2. Goal
+
+To provide comprehensive content specifications for recreating the Plate Auctions page on TxDMV.gov.
+
+## 3. Scope
+
+This document covers the main content area of the "Plate Auctions" page, excluding header, footer, navigation menus, search functionality and any design elements.
+
+## 4. Detailed Requirements
+
+### 4.1. Main Content
+
+*   **Title:** Plate Auctions
+
+*   **Introductory Text:**
+
+    "State law allows the Texas Department of Motor Vehicles specialty license plate vendor, My Plates, to auction license plate numbers, which can be a word or phrase."
+
+*   **Tabbed Content:**
+
+    This section is structured using tabs to organize information. The tab titles and their corresponding content are detailed below.
+
+    *   **Tab 1: Winning Bidders**
+
+        *   **Tab Title:** Winning Bidders
+        *   **Content:**
+        "Winning bidders are given exclusive rights to the license plate number for specified year term with an option to renew for additional terms. Winning bidders choose the background design from the vendor's license plate collection.
+
+        The TxDMV oversees the production of all license plates, which are manufactured at a state prison facility. It usually takes six weeks before personalized specialty license plates are ready.
+
+        Buyers pick up the plates at their local county tax office. The plate owner is recorded in the state's motor vehicle database - even if the plates are not put on a vehicle. This helps protect the owner from theft.
+
+        ##### Vehicle registration
+
+        Vehicle registration is not included in the price of auctioned specialty license plates. Plate owners must pay their annual vehicle registration.
+
+        ##### Renewals
+
+        Buyers are provided a renewal option before the plates expire.
+
+        Those who use the plates on their vehicles must follow Texas law, which requires vehicle owners to display the front and back plate."
+    *   **Tab 2: Transferring Auctioned Plates**
+
+        *   **Tab Title:** Transferring Auctioned Plates
+        *   **Content:**
+
+        "Unlike other personalized specialty plates, auction plates may be transferred by sale, gift or inheritance.
+
+        When auctioned plates are transferred, buyers receive the remainder of the term left on the plate. For instance, if you purchased a 5-year term auctioned license number after the original owner had it for 2 years, the plate is still good for the remaining 3 years.
+
+        There are important steps sellers and buyers must take to transfer the plates.
+
+        Sellers must:
+
+        *   Visit their local county tax office to obtain replacement license plates for their vehicle and a new registration sticker.
+
+        Buyers must:
+
+        *   Submit a TxDMV Auction License Plate Number Transfer (Form VTR-900).
+            *   **Link:** /sites/default/files/form_files/VTR-900.pdf
+            *   **Link Text:** Auction License Plate Number Transfer (Form VTR-900)
+
+        *   Visit their local county tax office if they plan to use the plates on a vehicle.
+        *   Once the license plate number is transferred to a new owner, the previous owner may not display it on his or her vehicle.
+
+        ##### What if I sell my vehicle?
+
+        Be sure to take your license plates off, and remove the registration sticker. Your local county tax office can transfer the plates to your new vehicle and issue you a new registration sticker.
+
+        ##### Can I put my plate number on a different design?
+
+        Yes. You will be charged a $50 restyle fee for manufacturing the new plate design with your license plate number. Contact My Plates, www.myplates.com, to choose a new design.
+
+        *   **Link:** www.myplates.com
+            *   **URL:** <http://www.myplates.com>
+
+        It takes about six weeks to manufacture and deliver the plates to your local county tax office, where you pick them up."
+    *   **Tab 3: Scheduled Auctions and Costs**
+
+        *   **Tab Title:** Scheduled Auctions and Costs
+        *   **Content:**
+
+        "The TxDMV does not schedule, organize or conduct auctions. This is the responsibility of the specialty license plate marketing vendor, My Plates. Please contact My Plates for auction details, <http://www.myplates.com >or call (888) 769-7528."
+
+            *   **Link:** <http://www.myplates.com>
+                *   **URL:** <http://www.myplates.com>
+    *   **Tab 4: FAQs**
+
+        *   **Tab Title:** FAQs
+        *   **Content:**
+
+        "##### When was the first specialty license plate auction held?
+
+        The first auction was held on January 13, 2011.
+
+        ##### What if I sell my vehicle?
+
+        Be sure to take your license plates off, and remove the registration sticker. Your local county tax office can transfer the plates to your new vehicle and issue you a new registration sticker.
+
+        ##### Can I put my plate number on a different design?
+
+        Yes. You will be charged a $50 restyle fee for manufacturing the new plate design with your license plate number. Contact My Plates, <http://www.myplates.com>, to choose a new design.
+
+            *   **Link:** <http://www.myplates.com>
+                *   **URL:** <http://www.myplates.com>
+
+        It takes about six weeks to manufacture and deliver the plates to your local county tax office, where you pick them up.
+
+        ##### I bought license plates from the original auction winner, can I resell them?
+
+        Yes. However, all buyers must submit a TxDMV Auction License Plate Number Transfer (Form VTR-900)
+
+            *   **Link:** /sites/default/files/form_files/VTR-900.pdf
+                *   **Link Text:** Auction License Plate Number Transfer (Form VTR-900)
+
+        Buyers also must visit their local county tax assessor-collector office if they plan to use the plates on a vehicle.
+
+        All purchasers have the same options as the original owner. They may:
+
+        *   Put the license plates purchased on their vehicle after submitting the TxDMV auction license plate transfer form.
+        *   Place the license plate number on a new My Plates design after paying a $50 restyling fee and after submitting a TxDMV auction license plate transfer form. Contact My Plates at [www.myplates.com](http://www.myplates.com/) or toll free at (888) 769-7528 to choose a new plate design and for more information. New plates must be picked up at your local county tax office.
+
+            *   **Link:** [www.myplates.com](http://www.myplates.com/)
+                *   **URL:** <http://www.myplates.com>
+        *   Keep the license plate number for the remainder of the year term purchased after submitting a TxDMV auction license plate transfer form. For instance, if the original owner of a 5-year term auctioned plate used the license plate number for 2 years and then sold it, the new owner has 3 years before expiration.
+        *   Renew their exclusive right to the license plate number for another term when the plate number approaches its expiration date."
+
+## 5. External Links
+*   <https://www.dps.texas.gov/section/driver-license>
+*   <http://twostepsonesticker.com>
+*   <https://webdealer.txdmv.gov/title/publicVehicleTransfer>
+*   <http://www.myplates.com>
+*   <https://txdmv.force.com/GetWorkItem>
+*   <https://texasdmv.my.salesforce-sites.com/dealers>
+*   <https://mvinet.txdmv.gov>
+*   <https://txt.texas.gov/dmv/vehicle-registration-renewal?utm_source=txdmv&utm_medium=footer&utm_campaign=txt>
+*   <https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm_source=txdmv&utm_medium=footer&utm_campaign=txt>
+*   <https://www.texas.gov>
+*   <https://sao.fraud.texas.gov/>
+*   <https://veterans.portal.texas.gov/>
+*   <https://gov.texas.gov/organization/hsgd>
+*   <https://www.tsl.texas.gov/trail/index.html>
+*   <https://comptroller.texas.gov/transparency/>
+*   <http://www.facebook.com/TxDMV>
+*   <https://public.govdelivery.com/accounts/TXDMV/subscriber/new>
+*   <http://x.com/txdmv>
+
+## 6. Revision History
+
+| Date       | Version | Author | Description                     |
+| :--------- | :------ | :----- | :------------------------------ |
+| 2024-01-02 | 1.0     | AI     | Initial document creation      |
+```

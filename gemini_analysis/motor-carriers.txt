@@ -1,0 +1,175 @@
+## Product Requirements Document: Motor Carriers Page (TxDMV.gov)
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "Motor Carriers" page on the TxDMV.gov website. It focuses on the main content area, providing specific text and links to be included. Design elements and repetitive site features (navigation, search, etc.) are excluded.
+
+**2. Page Title:** Motor Carriers
+
+**3. Breadcrumb:** Home
+
+**4. Main Content Area**
+
+**4.1 Top Right Link:**
+*   **Text:** Motor Carrier Forms
+*   **Link:** /forms
+
+**4.2 Announcement:**
+
+*   **Title:** Change to Oversize/Overweight Permits Phone Menu
+*   **Content:**
+    The phone menu for our Oversize/Overweight Permits Office was updated on May 28, 2025 to better direct your calls and improve your experience.
+
+    Please review the new menu options for our Oversize/Overweight Permits line at 1-800-299-1700, effective May 28:
+
+    *   Press 2-1 to order a single-trip routed permit such as a General, Manufactured Housing, Portable Building, or Mileage permit.
+    *   Press 2-2 to amend or ask questions about a single-trip routed permit such as a General, Manufactured Housing, Portable Building, or Mileage permit.
+    *   Press 2-3 to order, amend, or ask questions about a time-based permit such as a 30/60/90-day Width or Length permit, Quarterly Hubometer, Annual Envelope, Weight Tolerance, Timber, or Ready-Mixed Concrete Truck permit. Please note that not all these permit types can be ordered or amended by phone.
+    *   Press 2-4 to order, amend, or ask general questions about a Superheavy, Route Inspection, or Housemove permit. Please note that not all these permit types can be ordered by phone.
+
+    We encourage you to listen carefully to the updated options the next time you call, as they may differ from the previous menu.
+
+**4.3 Essential Tools:**
+
+*   **Title:** Essential Tools
+
+**4.4 Tool Cards:**
+    * **TxPROS Card:**
+        * **Title:** TxPROS
+        * **Image Alt Text:** TxPROS
+        * **Image Source:** https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-02/icon-txpros.png
+        * **Link Text:** Login to TxPROS
+        * **Link URL:** https://txpros.txdmv.gov/
+        * **Description:** Apply for and self-issue many permits through our online permitting and GIS-based mapping system.
+    * **TxFLEET Card:**
+        * **Title:** TxFLEET
+        * **Image Alt Text:** TxFLEET
+        * **Image Source:** https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2024-09/TxFLEET_0.png
+        * **Link Text:** Log in to TxFLEET
+        * **Link URL:** https://txfleet.txdmv.gov/
+        * **Description:** Apply for and renew apportioned registration credentials.
+    * **MCCS Card:**
+        * **Title:** MCCS
+        * **Image Alt Text:** MCCS
+        * **Image Source:** https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-02/icon-mccs.png
+        * **Link Text:** Login to MCCS
+        * **Link URL:** https://apps.txdmv.gov/apps/mccs/motorcarrier/
+        * **Description:** Update your carrier information, renew certificate, print cab cards and more.
+    * **eLinc Card:**
+        * **Title:** eLinc
+        * **Image Alt Text:** eLinc
+        * **Image Source:** https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-02/icon-elinc.png
+        * **Link Text:** Access eLinc
+        * **Link URL:** https://apps.txdmv.gov/apps/mccs/txelinc/
+        * **Description:** Obtain your Texas motor carrier operating authority.
+    * **Motor Carrier Lookup Card:**
+        * **Title:** Motor Carrier Lookup
+        * **Image Alt Text:** Motor Carrier Lookup
+        * **Image Source:** https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-02/icon-texas-truck-stop.png
+        * **Link Text:** Access Texas Truck Stop
+        * **Link URL:** https://apps.txdmv.gov/apps/mccs/truckstop/
+        * **Description:** Find out if a motor carrier business is properly licensed in Texas.
+    * **Temporary Permits Card:**
+        * **Title:** Temporary Permits
+        * **Image Alt Text:** Temporary Permits
+        * **Image Source:** https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-02/icon-temporary-permits.png
+        * **Link Text:** Apply for Permits
+        * **Link URL:** https://permit.txdmv.gov/Permit/Eligibility#nbb
+        * **Description:** Apply for 72-Hour and 144-Hour permits in lieu of registration.
+
+**4.5 Motor Carrier Resources:**
+
+*   **Title:** Motor Carrier Resources
+
+**4.6 Blue Box Content:**
+*   **Title:** TxDMV Number & Unified Carrier Registration
+*   **Content:**
+    Motor carriers operating intrastate commercial motor vehicles on a road or highway in Texas must get a TxDMV number.
+
+    *Link Text:* TxDMV Number
+    *Link URL:* /motor-carriers/txdmv-number
+    The federal Unified Carrier Registration (UCR) Agreement requires individuals and companies that operate commercial motor vehicles in interstate or international commerce to register their business with TxDMV and pay an annual fee based on the size of their fleet.
+
+    *Link Text:* Unified Carrier Registration
+    *Link URL:* /motor-carriers/unified-carrier-registration
+
+**4.7 Resources Lists:**
+
+    *   **Title:** Oversize/Overweight Permits
+        *   List Items:
+            *   About Oversize/Overweight Permits - Link: /motor-carriers/oversize-overweight-permits
+            *   Compliance - Link: /motor-carriers/oversize-overweight-permits/compliance
+            *   Holiday Hours & Movement Restrictions - Link: /motor-carriers/oversize-overweight-permits/holiday-movement-restrictions
+            *   Quick Start Guide - Link: /motor-carriers/oversize-overweight-permits/quick-start-guide
+            *   Texas Size / Weight Limits - Link: /motor-carriers/oversize-overweight-permits/texas-size-weight-limits
+            *   TxPROS Information & Tutorials - Link: /motor-carriers/oversize-overweight-permits/txpros-info-and-tutorials
+    *   **Title:** Commercial Fleet Registration
+        *   List Items:
+            *   About Commercial Fleet Registration - Link: /motor-carriers/commercial-fleet-registration
+            *   Apportioned Registration - Link: /motor-carriers/commercial-fleet-registration/apportioned-registration
+            *   Forestry Registration - Link: /motor-carriers/commercial-fleet-registration/forestry-registration
+            *   Multi-Year Fleet Registration - Link: /motor-carriers/commercial-fleet-registration/multi-year-fleet-registration
+            *   Token Trailers - Link: /motor-carriers/commercial-fleet-registration/token-trailers
+    *   **Title:** Other
+        *   List Items:
+            *   NAFTA Permits - Link: /motor-carriers/nafta-permits
+            *   Outreach & Training - Link: /motor-carriers/outreach-and-training
+            *   Railroad-Crossing Safety - Link: /motor-carriers/railroad-crossing-safety
+            *   Statutes and Rules - Link: /motor-carriers/statutes-and-rules
+
+**4.8 Helpful Tools:**
+
+*   **Title:** Helpful Tools
+
+**4.9 Card List:**
+    * **Motor Carrier Toolbox Card:**
+        *   **Title:** Motor Carrier Toolbox
+        *   List Items:
+            *   File a Complaint - Link: /complaints
+            *   Forms - Link: /forms
+            *   Statutes & Rules - Link: /motor-carriers/statutes-and-rules
+            *   Reports & Data - Link: /about-us/reports-and-data
+            *   Publications & Manuals - Link: /publications
+    *   **Records Card:**
+        *   **Title:** Records
+        *   List Items:
+            *   Manufactured Housing Permits Records - Link: https://txpros.txdmv.gov/mhreports.aspx
+            *   Open Records Requests - Link: /open-records
+            *   Safety Records - Link: /motorcarriers/safety-records
+            *   Weight Tolerance Permits By County - Link: https://txpros.txdmv.gov/County1547.aspx
+    *   **Roadway Information Card:**
+        *   **Title:** Roadway Information
+        *   List Items:
+            *   Hazardous Materials Routing - Link: https://www.txdot.gov/inside-txdot/forms-publications/publications/nrhm.html
+            *   Load-Restricted Bridge Map - Link: http://apps3.txdot.gov/apps/gis/lrbm/
+            *   Load-Zoned Roads - Link: https://apps3.txdot.gov/apps/gis/loadzone/
+            *   Permit Restrictions by County & District - Link: /motorcarriers/permit-restrictions
+            *   Structures with Low Vertical Clearance - Link: /motorcarriers/low-clearance
+    *   **Current Road Conditions Card:**
+        *   **Title:** Current Road Conditions
+        *   **Image Alt Text:** Drive Texas
+        *   **Image Source:** /sites/default/files/inline-images/TxDOT_Road_Conditions.png
+        *   **Link Text:** View current highway conditions
+        *   **Link URL:** https://drivetexas.org/#/7/32.340/-99.500?future=false
+
+**4.10 Permit or Licensing Question:**
+
+*   **Text:** Permit or Licensing Questions? Call us toll-free at 1-800-299-1700
+*   **Phone Number:** 1-800-299-1700
+*   **Link Text:** TxDMV Telephone Menu for Motor Carriers
+*   **Link URL:** /sites/default/files/body-files/mcd_1-800-phone-menu.pdf
+
+**4.11 Call to Action Box:**
+
+*   **Link Text:** View Motor Carrier FAQ
+*   **Link URL:** /faq/motor-carriers
+
+**4.12. Feedback Form:**
+
+*   Button to open form with the following fields:
+*   **Email** (required)
+*   **Message** (required)
+    *If you want to contact a specific department and get a response, please go to the About Us page.*
+
+**5. Footer and Related Links:**
+This document does not include the footer or links to the About Us page since you said "don't include repetitive details like ... and footer".

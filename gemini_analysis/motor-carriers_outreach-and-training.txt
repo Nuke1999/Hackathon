@@ -1,0 +1,43 @@
+```text
+# Product Requirements Document: TxDMV Outreach & Training Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "Outreach & Training" page on the TxDMV.gov website, specifically focusing on the core content elements. The implementor should use this document to accurately reproduce the text and links present on the page.
+
+**2. Page Title**
+
+*   **Text:** Outreach & Training
+
+**3. Breadcrumb Navigation**
+
+*   Home > Motor Carriers > **Outreach & Training**
+
+**4. Main Content**
+
+The main content consists of the following paragraphs and links. Implement in the order presented below:
+
+*   **Paragraph 1:** TxDMV offers a variety of training options to help Motor Carriers, shippers, brokers and freight forwarders get up to speed to conduct business in Texas.
+*   **Heading 2:** IRP Compliance Training
+*   **Paragraph 2:** TxDMV offers apportioned registration record-keeping requirements training. Our staff can review your business processes and offer guidance to improve internal controls. Our goal is to promote self-reliance and compliance.
+*   **Paragraph 3:** We provide:
+*   **Bulleted List:**
+    *   Free, on-site training at your preferred location (at owner’s request)
+    *   Customized training to meet your company’s needs
+    *   A three-year grace period from IRP audits and examinations
+*   **Paragraph 4:** Email <a href="mailto:MCD_Training@txdmv.gov">MCD_Training@txdmv.gov</a> or call us at (800) 299-1700, Option 5-3 to schedule an on-site visit.
+*   **Heading 2:** Motor Carrier Household Goods Mover Training Webinar
+*   **Paragraph 5:** This Webinar is designed to assist carriers involved in the movement of household goods understand the rules and regulations that govern their businesses. Each webinar is four-hours long with focus geared towards: Registration, Insurance Requirements, Advertising, Required Vehicle Markings, Tariffs/Proposals/Contracts and Claims Handling.
+*   **Paragraph 6:** Click on the following link to see when the next Training Webinar is and sign up.
+*   **Paragraph 7 & Link:** <a class="doclink" href="/motor-carriers/outreach-and-training/mover-training-seminars"><span class="publication">Motor Carrier Household Goods Mover Training</span></a> <i aria-hidden="true" class="fa fa-link"></i>
+*   **Heading 2:** Motor Carrier Size &amp; Weight Training
+*    **Paragraph 8:** The presentation will provide an overview of basic Motor Carrier regulations, including an introduction into Oversize/Overweight operations, use of permits and administrative enforcement of rules and regulations. Representatives from the Enforcement Division will provide valuable information to help you and your business operate as required by law.
+*   **Paragraph 9:** Click on the following link to see when the next Training Webinar is and sign up.
+*   **Paragraph 10 & Link:** <a class="doclink" href="/motor-carriers/outreach-and-training/motor-carrier-size-weight-training-seminars">Motor Carrier Size &amp; Weight Training</a> <i aria-hidden="true" class="fa fa-link"></i>
+*   **Paragraph 11 & Link:** <span class="publication">Need help with TxPROS?</span>
+*   **Paragraph 12:** TxDMV offers several resources to assist you in using TxPROS to order your permits. The <a href="/motor-carriers/oversize-overweight-permits/quick-start-guide">TxPROS Quick Start Guide</a> and <a href="/motor-carriers/oversize-overweight-permits/txpros-info-and-tutorials">TxPROS Information &amp; Tutorials</a> are a good place to start.
+*   **Paragraph 13:** TxDMV also offers free training classes. Two-hour long basic and advanced TxPROS training classes are offered online every month. For more information or to sign up, send us an email at <a href="mailto:MCD_TxPROS-Training@TxDMV.gov">MCD_TxPROS-Training@TxDMV.gov</a>.
+*   **Heading 2:** FMCSA Registration Training
+*   **Paragraph 14:** The Federal Motor Carrier Safety Administration (FMCSA) offers a video series on motor carrier registration. Videos include HOW TO Register, Identify Entity Types, and Reregister After Revocation.
+*   **Paragraph 15 & Link:** <a href="https://www.fmcsa.dot.gov/registration" target="_blank">FMCSA Official Registration Videos</a>
+```

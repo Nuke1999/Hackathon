@@ -1,0 +1,60 @@
+## Product Requirements Document: TxDMV Dealer Closures Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "Dealer Closures" page on the TxDMV website. The document focuses solely on content; no design or layout specifications are included. The goal is to provide another AI implementor with the necessary information to accurately reproduce the page's core information.
+
+**2. Page Title**
+
+*   **Text:** Dealer Closures
+
+**3. Breadcrumb Navigation**
+
+*   Home > Motorists > Consumer Protection
+
+**4. Main Content**
+
+The main content consists of an introductory paragraph, a heading, a paragraph, a tabbed section, and additional paragraphs with headings.
+
+**4.1 Introduction and Dealer Status**
+
+*   **Paragraph:** "When a dealer closes unexpectedly, you may find your vehicle registration and title paperwork and related fees were never transferred to the county tax office. This leaves you without proper ownership evidence for your vehicle."
+*   **Heading:** Dealer Status
+*   **Paragraph:** "The first step is to determine the official status of the dealership. Did the dealer go on an extended vacation or did it permanently close? Did the dealer file for bankruptcy in court? The official status of the dealership determines your course of action."
+
+**4.2 Tabbed Section**
+
+This section contains two tabs: "Your dealer closed" and "Your dealer filed for bankruptcy, but remains open for business."
+
+*   **Tab 1 Title:** Your dealer closed
+    *   **Paragraph:** "Licensed Texas dealers are required to apply for title on behalf of the purchaser for most vehicle types. Exclusions to this include trailers and semitrailers with a gross weight of 4,000 pounds or less and vehicles with a gross weight in excess of 11,000 pounds. If you purchased a qualifying vehicle from a dealer that has gone out of business without applying for title as required, you may apply for title and registration (if applicable) for your vehicle at your county tax assessor-collector’s office and obtain one 30-Day Permit at no fee, if needed."
+    *   **Paragraph:** "Prior to applying for title, you will need to obtain a letter from a Texas Department of Motor Vehicles Regional Service Center on department letterhead stating the dealer has gone out of business and what fees may be waived."
+    *   **Paragraph:** "The fees waived are determined by the evidence provided to the Regional Service Center showing the purchase of the vehicle and any fees that were paid to the dealer. Evidence would include a sales contract, retail installment agreement, or buyer’s order. Fees that were not determined to have been paid to the dealer will be collected at the time of application for title."
+    *   **Paragraph:** "The department may waive the following fees:"
+    *   **List:**
+        *   Title application fee
+        *   Delinquent transfer penalty
+        *   All registration and optional county fees under Transportation Code, Chapter 502
+        *   All inspection fees under Transportation Code, Chapter 548
+        *   Buyer tag fee.
+    *   **Paragraph:** "The county tax assessor-collector may waive motor vehicle sales and use tax in accordance with the Tax Code when proof of payment is submitted to the county with the title application."
+    *   **Paragraph:** "Once a letter is received from the Regional Service Center, take the following to your county tax assessor-collector’s office:"
+    *   **List:**
+        *   The letter issued by the department
+        *   Sales contract, retail installment agreement, or buyer’s order as proof of ownership evidence
+        *   Government issued photo identification
+        *   Completed [Application for Texas Title and/or Registration (Form 130-U)](/sites/default/files/form_files/130-U.pdf). (Link to file: /sites/default/files/form_files/130-U.pdf)
+    *   **Paragraph:** "Note: If a lien is recorded on the vehicle’s record, you must provide a release of lien unless the lienholder on record is the dealer that went out of business. Additionally, if the vehicle is subject to odometer disclosure and a properly completed odometer disclosure statement is not included with the title application, the odometer will be recorded as Not Actual Mileage."
+*   **Tab 2 Title:** Your dealer filed for bankruptcy, but remains open for business
+    *   **Paragraph:** "Title and registration transactions are still processed normally."
+
+**4.3 Sales Tax & Complaint**
+
+*   **Heading:** Sales Tax
+*   **Paragraph:** "For more information, contact the [State Comptroller's Office](https://comptroller.texas.gov/) at (800) 252-1382" (Link to external site: https://comptroller.texas.gov/)
+*   **Heading:** Complaint
+*   **Paragraph:** "To file a dealer complaint with the Enforcement Division, you can submit an online complaint through the [Motor Vehicle Dealer Complaint System](https://txdmv.secure.force.com/Complaint/)." (Link to external site: https://txdmv.secure.force.com/Complaint/)
+
+**5. Footer**
+
+*   The footer includes a link to [Compact With Texans](sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf). (Link to file: sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf)

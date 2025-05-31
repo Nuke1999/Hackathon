@@ -1,0 +1,87 @@
+```
+## Product Requirements Document: TxDMV Assembled Vehicles Page
+
+**1. Introduction**
+
+This document outlines the content requirements for the "Assembled Vehicles" page on the TxDMV.gov website.  It focuses on replicating the text and associated links, excluding design elements. This document is for the AI implementor to build the page by only using this document.
+
+**2. Goal**
+
+To provide clear and accurate information about assembled vehicles, including definitions, restrictions, and the process for obtaining title and registration.
+
+**3. Page Title**
+
+"Assembled Vehicles"
+
+**4. Breadcrumb**
+
+Home > Motorists
+
+**5. Main Content**
+
+*   **Section 1: Definition and Restrictions**
+
+    *   **Paragraph 1:** "An assembled vehicle is a vehicle that is assembled from component parts (motor, body, and frame), as applicable to the type of assembled vehicle. An assembled vehicle includes an assembled motor vehicle, assembled motorcycle, assembled trailer, and a custom vehicle, street rod, replica, and glider kit."
+    *   **Paragraph 2:** "An assembled vehicle may not be titled or registered if it is constructed by merging two or more vehicles classes, except parts from certain passenger cars, pickups, panels, and vans may be interchanged; uses the frame or body of a nonrepairable motor vehicle; contains any electrical or mechanical components from a flood-damaged vehicle; is designed for off-highway use or on-track racing only; is a stripped vehicle; or uses any parts not compliant with federal motor vehicle safety standards if a standard exists."
+    *   **Paragraph 3:** "If you are the owner of an assembled vehicle that has not been titled as an assembled vehicle in Texas or another state, you are required to obtain title and registration for your vehicle. Prior to applying for title and registration, you must obtain a letter issued by a Texas Department of Motor Vehicles (TxDMV) <a href="/regional-service-centers" target="_blank">Regional Service Center (RSC)</a>. The RSC will determine if your assembled vehicle is eligible for title and registration and if you have provided all required documents."
+*   **Section 2: Scheduling an appointment with your Regional Service Center**
+    *   **Highlight Box Text:** "**We strongly encourage appointments** (these customers are given priority) which will continue to be<br/>available same day and next day only for a visit to a TxDMV Regional Service Center. <br/><br/><a href="/appointment" target="_blank">Click Here to Schedule an Appointment With Your Regional Service Center.</a> "
+*   **Section 3: Title and registration Process**
+    *   **Paragraph 1:** "If your vehicle is eligible and all required documents have been provided, the RSC will provide you a letter with an attached list of the verified documents. The letter, attached list, and all documents must be presented to your local county tax assessor-collector’s office to process the application for title and registration."
+    *   **Paragraph 2:** "<strong>Required Documents</strong>"
+    *   **List of Required Documents:**
+        *   " *<a href="/sites/default/files/form_files/130-U.pdf">Application for Texas Title and/or Registration</a> *(Form 130-U);"
+        *   "Photographs of the front, rear, and side of the assembled vehicle, and if a replica, a photograph of what the vehicle is a replica of;"
+        *   "Evidence of ownership for the basic component parts of the assembled vehicle (motor, body, and frame), as applicable to the type of assembled vehicle;"
+        *   "Proof of an Automotive Service Excellence safety inspection performed by a master technician if the assembled vehicle is an assembled motor vehicle, replica, custom vehicle, or street rod;"
+            *   "A copy of the Automobile and Light Truck certification, or a successor certification, for the master technician who completed the inspection;"
+        *   "Vehicle Inspection Report, if the assembled vehicle is to be registered for operation on the roadway and the vehicle is not exempt from inspection;"
+        *   " *<a href="/sites/default/files/form_files/VTR-61.pdf">Rebuilt Vehicle Statement</a>*(Form VTR-61);"
+        *   "Certified weight certificate;"
+        *   " *<a href="/sites/default/files/form_files/VTR-141.pdf">Trailer Verification Statement of Fact</a>*(Form VTR-141) for assembled trailers only;"
+        *   "Government issued photo identification; and"
+        *   "Vehicle identification number (VIN) verification document, as applicable to the type of assembled vehicle:"
+            *   "a *Law Enforcement Identification Number Inspection*(Form VTR-68A) establishing the vehicle identification number assigned by the manufacturer of the component part by which the assembled vehicle will be identified;"
+            *   "a *Law Enforcement Identification Number Inspection*(Form VTR-68A), and *Notice of Assigned or Reassigned Identification Number*(Form VTR-68-N);"
+            *   "Certificate of Origin if VIN is assigned by the maker of the kit used to construct the assembled vehicle, or"
+            *   "Manufacturer’s Certificate of Origin if VIN is assigned by the manufacturer of the replica, custom vehicle, street rod, or glider kit."
+    *   **Paragraph 3:** "If you do not have proper ownership evidence for the assembled vehicle, you may apply for a bonded title by submitting the *<a href="/sites/default/files/form_files/VTR-130-SOF.pdf">Bonded Title Application or Tax Collector Hearing Statement of Fact</a>*(Form VTR-130-SOF) to the RSC along with all other required documents. "
+    *   **Paragraph 4:** "<a href="/regional-service-centers" target="_blank">Please contact a TxDMV RSC </a>if you have any additional questions."
+*   **Call to Action Box:**
+    *   "<a class="icon-link" href="/sites/default/files/body-files/Assembled_and_Reconstructed_Vehicle_Manual.pdf"> Download the Assembled Vehicle Manual </a>"
+
+**6. Associated Files (Links to PDFs)**
+
+*   Application for Texas Title and/or Registration: /sites/default/files/form_files/130-U.pdf
+*   Rebuilt Vehicle Statement: /sites/default/files/form_files/VTR-61.pdf
+*   Trailer Verification Statement of Fact: /sites/default/files/form_files/VTR-141.pdf
+*   Bonded Title Application or Tax Collector Hearing Statement of Fact: /sites/default/files/form_files/VTR-130-SOF.pdf
+*   Assembled Vehicle Manual: /sites/default/files/body-files/Assembled_and_Reconstructed_Vehicle_Manual.pdf
+
+**7. External Links**
+
+*   Regional Service Centers: /regional-service-centers
+*   Click Here to Schedule an Appointment With Your Regional Service Center: /appointment
+*   Please contact a TxDMV RSC: /regional-service-centers
+
+**8. "How can we make this page better for you?" Feedback Form**
+*   Email Field: Email (required)
+*   Message Field: Message (required)
+*   Send message Button: Send message
+*   "If you want to contact a specific department and get a response, please go to the [About Us page](`/about-us`)"
+
+**9. Footer Links**
+*   Compact With Texans: /sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf
+*   Disclaimer: /site-policies/disclaimer
+*   Driver's Privacy Protection Act: /site-policies/drivers-privacy-protection-act
+*   Report Fraud, Waste or Abuse: https://sao.fraud.texas.gov/
+*   Site Policies: /site-policies
+*   Texas Veterans Portal: https://veterans.portal.texas.gov/
+*   Border Programs Team: https://gov.texas.gov/organization/hsgd
+*   Statewide Search: https://www.tsl.texas.gov/trail/index.html
+*   Transparency: https://comptroller.texas.gov/transparency/
+
+**10. Miscellaneous**
+*The below statement must be in the footer.*
+*© 2025 Texas Department of Motor Vehicles. All rights reserved.*
+```

@@ -1,0 +1,129 @@
+```
+# Product Requirements Document
+
+## 1. Introduction
+
+This document outlines the content requirements for recreating the specified web page. It focuses solely on the textual content and associated links, omitting all design and layout specifications. The goal is to enable an AI implementor to accurately reproduce the page's core information and functionality.
+
+## 2. Page Title
+
+*   **Text:** Metal Plate & Inventory Management (IMS) Changes and Processes Training | TxDMV.gov
+
+## 3. Breadcrumbs
+
+*   **Level 1:** Home (Link: "/")
+*   **Level 2:** Events Calendar (Link: "/calendar")
+
+## 4. Main Content
+
+### 4.1. Event Title
+
+*   **Text:** Metal Plate & Inventory Management (IMS) Changes and Processes Training
+
+### 4.2. Activity Description
+
+*   **Section Label:** Activity
+*   **Content:**
+    *   Paragraph 1: "Please register for Metal Plate & IMS Changes and Processes Training on May 30, 2025, 10:00 AM CDST – 12:00 PM CDST at <a href="https://attendee.gotowebinar.com/register/6226712916559801440" target="_blank">https://attendee.gotowebinar.com/register/6226712916559801440</a>."
+    *   Paragraph 2: "Representatives from the Vehicle Titles and Registration Division of the Texas Department of Motor Vehicles (TxDMV) will provide a live online presentation on metal plate changes due to House Bill 718 and training on the new inventory management system (IMS). This training seeks to fully prepare TxDMV stakeholders for the transition from paper tags to metal license plates, including information about metal plate inventory and resources."
+    *   Paragraph 3: "After registering, you will receive a confirmation email containing information about joining the webinar."
+
+### 4.3. Start Date
+
+*   **Section Label:** Start Date
+*   **Date/Time:** Fri, 05/30/2025 - 10:00
+
+### 4.4. End Date
+
+*   **Section Label:** End Date
+*   **Date/Time:** Fri, 05/30/2025 - 12:00
+
+### 4.5. Category
+
+*   **Section Label:** Category
+*   **Text:** Metal License Plates and Plate Inventory Management System
+
+### 4.6. Location
+
+*   **Section Label:** Location
+*   **Text:** Online
+
+## 5. Featured Bottom Content
+
+### 5.1. "How Can We Make This Page Better For You?" Section
+
+*   **Button Text:** How can we make this page better for you?
+
+### 5.2. Feedback Form
+
+*   Form Title: We Value Your Feedback
+*   Form Subtitle: Your message will go to our web team. Thank you for helping us to serve you better!<br/>
+    If you want to contact a specific department and get a response, please go to the <a href="/about-us">About Us page</a>.
+*   Field 1: Email (Required)
+    *   Placeholder: Email
+*   Field 2: Message (Required)
+    *   Placeholder: Your message
+*   Submit Button: Send message
+*   Note: The "Leave this field blank" field is present but visually hidden.
+
+## 6. Footer Content
+
+### 6.1. Contact
+
+*   **Section Title:** Contact
+*   **Content:**
+    *   "TxDMV Business Hours"<br/>
+       "Mon to Fri, 8AM-5PM (Central Time)"
+    *   "View Detailed Contact Information" (Link: "/contact-us")
+
+### 6.2. Resources
+
+*   **Section Title:** Resources
+*   **Links:**
+    *   Cobrowse (Link: "/")
+    *   Media (Link: "/about-us/txdmv-media")
+    *   Open Records (Link: "/open-records")
+    *   Reports & Data (Link: "/about-us/reports-and-data")
+    *   Texas.gov (Link: "https://www.texas.gov" - external)
+    *   Texas by Texas (TxT) (Link: "https://txt.texas.gov/dmv/vehicle-registration-renewal?utm_source=txdmv&utm_medium=footer&utm_campaign=txt")
+    *   Texas by Texas (TxT) - Español (Link: "https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm_source=txdmv&utm_medium=footer&utm_campaign=txt")
+    *   Troops & Veterans (Link: "/motorists/for-our-troops")
+
+### 6.3. Work with Us
+
+*   **Section Title:** Work with Us
+*   **Links:**
+    *   Careers (Link: "/careers")
+    *   Contractors/Vendors (Link: "/tax-assessor-collectors/contractors-vendors")
+    *   Lienholders (Link: "/dealers/lienholders")
+    *   MVCPA Grantees (Link: "/about-us/MVCPA/grantees")
+    *   Law Enforcement Data Assistance (Link: "/open-records/law-enforcement-data-assistance-processes")
+    *   Regional Service Centers (Link: "/regional-service-centers")
+    *   Tax Assessor-Collectors (Link: "/tax-assessor-collectors")
+
+### 6.4. Connect with Us
+
+*   **Section Title:** Connect with Us
+*   **Links:**
+    *   Facebook (Link: "http://www.facebook.com/TxDMV" - external)
+    *   Get Email Updates (Link: "https://public.govdelivery.com/accounts/TXDMV/subscriber/new" - external)
+    *   @TxDMV (Link: "http://x.com/txdmv" - external)
+
+### 6.5. Footer Menu
+
+*   **Links:**
+    *   Compact With Texans (Link: "/sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf")
+    *   Disclaimer (Link: "/site-policies/disclaimer")
+    *   Driver's Privacy Protection Act (Link: "/site-policies/drivers-privacy-protection-act")
+    *   Report Fraud, Waste or Abuse (Link: "https://sao.fraud.texas.gov/" - external)
+    *   Site Policies (Link: "/site-policies")
+    *   Texas Veterans Portal (Link: "https://veterans.portal.texas.gov/" - external)
+    *   Border Programs Team (Link: "https://gov.texas.gov/organization/hsgd" - external)
+    *   Statewide Search (Link: "https://www.tsl.texas.gov/trail/index.html" - external)
+    *   Transparency (Link: "https://comptroller.texas.gov/transparency/" - external)
+
+### 6.6. Copyright
+
+*   Text: © 2025 Texas Department of Motor Vehicles. All rights reserved.
+
+```

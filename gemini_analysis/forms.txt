@@ -1,0 +1,185 @@
+## Product Requirements Document: TxDMV.gov Forms Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "Forms" page on the TxDMV.gov website. It focuses on the main content area, specifically the form search and listing functionality. This document assumes the implementer will handle standard website elements such as language selection, search bar, navigation menu, and footer separately.
+
+**2. Goals**
+
+*   Provide users with a comprehensive and easily searchable list of TxDMV forms.
+*   Enable users to quickly find the specific forms they need.
+
+**3. Main Content Area Requirements**
+
+**3.1 Breadcrumbs:**
+
+*   Path: Home
+
+**3.2 Page Title:**
+
+*   Title: Forms
+
+**3.3 Publications Link:**
+
+*   Text: "Publications & Manuals"
+*   Link: `/publications`
+
+**3.4 Form Search and Listing**
+
+This section covers the form search and listing functionality, including the search form and the resulting table of forms.
+
+**3.4.1 Search Form**
+
+*   **Heading:** Search For Forms
+
+    The search form consists of the following fields:
+
+    *   **Field 1:**
+        *   Label: Title/Keyword
+        *   Input Type: Text
+        *   Placeholder: Enter the form title or keywords
+    *   **Field 2:**
+        *   Label: Form Number
+        *   Input Type: Text
+    *   **Radio Button Category:**
+        *   Label: Category
+        *   Options:
+            *   "View All Forms" (value: "All"), Default option
+            *   "Title & Registration Forms" (value: "24")
+            *   "License Plate Applications" (value: "36")
+            *   "Dealer Licensing Forms" (value: "3343")
+            *   "Dealer eTAG & Plate Forms" (value: "3344")
+            *   "OS/OW Permits & NAFTA Permit Forms" (value: "3345")
+            *   "Consumer Protection Forms" (value: "37")
+            *   "Lienholder Forms" (value: "3346")
+            *   "Tax Assessor-Collectors" (value: "3347")
+            *   "Salvage Operation Forms" (value: "3348")
+            *   "Commercial Fleet Registration Forms" (value: "3349")
+    *   **Button:** Find Forms
+
+**3.4.2 Form Listing Table**
+
+The search results are displayed in a table with the following columns:
+
+*   **Column 1: Name**
+    *   Displays the name of the form as a link.
+    *   The link points to the PDF file of the form.
+*   **Column 2: Form Number**
+    *   Displays the form number.
+
+    The table should initially display the first 20 results, with next/previous pagination.
+
+    **Forms List**
+
+    The following forms need to be listed in the table. Please note the PDF link associated with each form:
+
+    *   **Name:** Additional Liens Statement (VTR-267)
+        *   Link: `/sites/default/files/form_files/VTR-267.pdf`
+        *   Form Number: VTR-267
+    *   **Name:** Affidavit for License Plate Destruction (MCD-370)
+        *   Link: `/sites/default/files/form_files/MCD-370.pdf`
+        *   Form Number: MCD-370
+    *   **Name:** Affidavit of Heirship for a Motor Vehicle (VTR-262)
+        *   Link: `/sites/default/files/form_files/VTR-262.pdf`
+        *   Form Number: VTR-262
+    *   **Name:** Affidavit of Motor Vehicle Gift Transfer (Texas Comptroller of Public Accounts Form)
+        *   Link: `/sites/default/files/form_files/14-317.pdf`
+        *   Form Number: 14-317
+    *   **Name:** Annual Purchaser’s Certification of Export-Only Sale (VTR-901-A)
+        *   Link: `/sites/default/files/form_files/VTR-901-A.pdf`
+        *   Form Number: VTR-901-A
+    *   **Name:** Annual Ready-Mixed Concrete Permit Application (MCD-1755)
+        *   Link: `/sites/default/files/form_files/MCD_1755.pdf`
+        *   Form Number: MCD-1755
+    *   **Name:** Annual Timber Permit Application (MCD-1756)
+        *   Link: `/sites/default/files/form_files/MCD_1756.pdf`
+        *   Form Number: MCD-1756
+    *   **Name:** Application for a Certified Copy of a Texas Nonrepairable or Salvage Vehicle Title (VTR-34-S)
+        *   Link: `/sites/default/files/form_files/VTR-34-S.pdf`
+        *   Form Number: VTR-34-S
+    *   **Name:** Application for Annual Envelope Permit -- Oversize/Overweight (MCD-301)
+        *   Link: `/sites/default/files/form_files/dmv_MCD-301.pdf`
+        *   Form Number: MCD-301
+    *   **Name:** Application for Annual Oversize/Overweight Exempt Permit (TxDOT Vehicles Only) (MCD-301A)
+        *   Link: `/sites/default/files/form_files/dmv_MCD-301A.pdf`
+        *   Form Number: MCD-301A
+    *   **Name:** Application for Antique License Plate (VTR-54)
+        *   Link: `/sites/default/files/form_files/VTR-54.pdf`
+        *   Form Number: VTR-54
+    *   **Name:** Application for Armed Forces, Coast Guard Auxiliary, Merchant Marine & Civil Air Patrol License Plates (VTR-424)
+        *   Link: `/sites/default/files/form_files/VTR-424.pdf`
+        *   Form Number: VTR-424
+    *   **Name:** Application for Auction License Plate Transfer (VTR-900)
+        *   Link: `/sites/default/files/form_files/VTR-900.pdf`
+        *   Form Number: VTR-900
+    *   **Name:** Application for Authority to Dispose of a Motor Vehicle to a Demolisher (VTR-71-2)
+        *   Link: `/sites/default/files/form_files/VTR-71-2.pdf`
+        *   Form Number: VTR-71-2
+    *   **Name:** Application for Authority to Dispose of an Abandoned Nuisance Vehicle to a Demolisher (VTR-71-6)
+        *   Link: `/sites/default/files/form_files/VTR-71-6.pdf`
+        *   Form Number: VTR-71-6
+    *   **Name:** Application for Certificate of Authority to Dispose of an Abated Public Nuisance Vehicle (VTR-71-4)
+        *   Link: `/sites/default/files/form_files/VTR-71-4.pdf`
+        *   Form Number: VTR-71-4
+    *   **Name:** Application for Certified Copy of Title (VTR-34)
+        *   Link: `/sites/default/files/form_files/VTR-34.pdf`
+        *   Form Number: VTR-34
+    *   **Name:** Application for Certified Firefighter License Plates (VTR-311)
+        *   Link: `/sites/default/files/form_files/VTR-311.pdf`
+        *   Form Number: VTR-311
+    *   **Name:** Application for Classic License Plates (VTR-850)
+        *   Link: `/sites/default/files/form_files/VTR-850.pdf`
+        *   Form Number: VTR-850
+    *   **Name:** Application for Classroom Teacher and Retired Classroom Teacher License Plates
+        *   Link: `/sites/default/files/form_files/VTR-56.pdf`
+        *   Form Number: VTR-56
+
+*There are 143 entries omitted from this document. They were removed because the document has a strict word limit.*
+
+**3.5 Feedback Form Link:**
+
+*   Text: "How can we make this page better for you?"
+*   When clicked, it expands a feedback form.
+
+**3.5.1 Feedback Form:**
+
+*   **Heading:** We Value Your Feedback
+*   **Description:** Your message will go to our web team. Thank you for helping us to serve you better!  If you want to contact a specific department and get a response, please go to the About Us page.
+*   **Field 1:** Email
+    *   Input Type: Email
+    *   Required
+    *   Placeholder: Email
+*   **Field 2:** Message
+    *   Input Type: Textarea
+    *   Required
+    *   Placeholder: Your message
+*   **Button:** Send message
+
+**4. External Links**
+
+*   Renew Driver License at DPS: <https://www.dps.texas.gov/section/driver-license>
+*   Specialty License Plates: <https://www.myplates.com>
+*   Texas by Texas (TxT): <https://txt.texas.gov/dmv/vehicle-registration-renewal?utm_source=txdmv&utm_medium=footer&utm_campaign=txt>
+*   Texas by Texas (TxT) - Español: <https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm_source=txdmv&utm_medium=footer&utm_campaign=txt>
+*   Texas.gov: <https://www.texas.gov>
+*   Report Fraud, Waste or Abuse: <https://sao.fraud.texas.gov/>
+*   Texas Veterans Portal: <https://veterans.portal.texas.gov/>
+*   Border Programs Team: <https://gov.texas.gov/organization/hsgd>
+*   Statewide Search: <https://www.tsl.texas.gov/trail/index.html>
+*   Transparency: <https://comptroller.texas.gov/transparency/>
+*   Facebook: `http://www.facebook.com/TxDMV`
+*   Get Email Updates: `https://public.govdelivery.com/accounts/TXDMV/subscriber/new`
+*   Twitter: `http://x.com/txdmv`
+*   Two Steps, One Sticker: `http://twostepsonesticker.com`
+*   Dealer License Lookup: `https://texasdmv.my.salesforce-sites.com/dealers`
+*   webDEALER | eTAG Login/Password Reset: `https://webdealer.txdmv.gov/title/login.do`
+*   Motor Vehicle Inquiry: `https://mvinet.txdmv.gov`
+*   Application Status Check: `https://txdmv.force.com/GetWorkItem`
+
+**5. Considerations**
+
+*   Ensure all links are functional.
+*   Implement appropriate error handling for the feedback form.
+*   Pay close attention to the table structure and data integrity for the form listing.
+
+This document provides the content and structure necessary to recreate the core functionality of the TxDMV Forms page.

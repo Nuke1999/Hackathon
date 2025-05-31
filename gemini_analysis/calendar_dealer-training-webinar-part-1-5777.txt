@@ -1,0 +1,41 @@
+# Product Requirements Document
+
+## 1. Page Title
+
+*   **Text:** Dealer Training Webinar - Part 1
+
+## 2. Breadcrumbs
+
+*   **Level 1:** Home (Link: "/")
+*   **Level 2:** Events Calendar (Link: "/calendar")
+
+## 3. Main Content
+
+### 3.1. Event Details
+
+*   **Activity:**
+    *   Text: Please register for Dealer Training Part 1 - Webinar on June 4, 2025 8:00 AM CDST at:
+    *   Link: <https://attendee.gotowebinar.com/register/670655261128378709> (Opens in a new tab/window)
+    *   Text: After registering, you will receive a confirmation email containing information about joining the webinar.
+
+*   **Start Date:** Wed, 06/04/2025 - 08:00
+*   **End Date:** Wed, 06/04/2025 - 12:00
+*   **Category:** Dealer Training Seminars
+*   **Location:** Online
+
+## 4. "How can we make this page better for you?" Feedback Section
+
+### 4.1. Initial State
+
+*   Text: How can we make this page better for you?
+
+### 4.2. Feedback Form (Appears when link is selected)
+
+*   **Title:** We Value Your Feedback
+*   **Introductory Text:** Your message will go to our web team. Thank you for helping us to serve you better!
+    If you want to contact a specific department and get a response, please go to the [About Us page](/about-us).
+*   **Form Fields:**
+    *   **Email:** (Required, Email input, Label: Email, Placeholder: Email)
+    *   **Message:** (Required, Textarea, Label: Message, Placeholder: Your message)
+    *   **Hidden Field:** (Label: Leave this field blank)
+*   **Button:** Send message (Submits the form)

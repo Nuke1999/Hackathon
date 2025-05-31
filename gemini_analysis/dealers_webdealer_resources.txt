@@ -1,0 +1,118 @@
+## Product Requirements Document: TxDMV webDEALER | eTAG Resources Page
+
+**1.  Introduction**
+
+This document outlines the content requirements for recreating the "webDEALER | eTAG Resources" page on the TxDMV.gov website.  It focuses solely on the text-based content within the main content area of the page, excluding design elements, navigation, search, and footer. The goal is to provide sufficient detail for an AI implementor to accurately reproduce the information presented on the page.
+
+**2.  Document Scope**
+
+This document covers the following:
+
+*   Page Title
+*   Main Content Area
+
+**3.  Page Title**
+
+*   **Text:** webDEALER | eTAG Resources
+
+**4.  Main Content Area**
+
+**4.1 Introduction Text**
+
+*   **Image:**  A webDEALER logo is positioned to the right of the introduction text. The logo file name is `/images/content-dealers/webDealer-logo-500x173.png`
+*   **Text:**
+    **The eTAG System has moved to webDEALER! -** webDEALER is now the system used to create Buyer Tags (or other tags) and process title applications. Users who have accounts for **both** eTAG and webDEALER can now issue tags and create title applications within the same system.
+    Individuals who only use eTAG or webDEALER will have the same access in the new system as they do today.
+    All users will be able to login to webDEALER using their current eTAG username and password.
+    In addition, all paper tags will have enhanced security features, and dealers will be able to pay for Buyer Tags issued to out of state purchasers online by credit card.
+
+**4.2 webDEALER | eTAG Essentials (Accordion)**
+
+This section is presented as an accordion with multiple collapsible panels.
+
+**4.2.1 Panel 1: webDEALER | eTAG Essentials**
+
+*   **Title:** webDEALER | eTAG Essentials
+*   **Content:**
+    *   Link: Video: Getting Started with webDEALER
+        *   URL: `http://ftp.txdmv.gov/pub/txdmv-info/vtr/media/2020-04-17_15.12_Getting_Started_with_webDEALER_(for_Motor_Vehicle_Dealers).mp4`
+    *   Link: Video: Using webDEALER
+        *   URL: `http://ftp.txdmv.gov/pub/txdmv-info/vtr/media/2020-05-29_11.45_Using_webDEALER_(for_Motor_Vehicle_Dealers).mp4`
+    *   Link: Equipment Requirements for webDEALER
+        *   URL: `/sites/default/files/body-files/Equipment_Requirements_for_webDEALER.pdf`
+    *   Link: webDEALER 4.1.1 Dealer User Guide
+        *   URL: `/sites/default/files/body-files/webDEALER_4.1.1_Dealer_User_Guide_0.pdf`
+    *   Link: webDEALER 3.1.1 Commercial Fleet Buyer User Guide
+        *   URL: `/sites/default/files/body-files/webDEALER_3.1.1_CFB_User_Guide_0.pdf`
+
+**4.2.2 Panel 2: webDEALER | eTAG Training Documents**
+
+*   **Title:** webDEALER | eTAG Training Documents
+*   **Content:**
+    *   Link: webDEALER Import eTAG Addendum
+        *   URL: `/sites/default/files/body-files/webDEALER_Import_eTAG_Addendum.pdf`
+
+**4.2.3 Panel 3: eTAG Training Videos**
+
+*   **Title:** eTAG Training Videos
+*   **Content:**
+    *   The content is presented in a two-column layout.
+
+    *   **Column 1:**
+        *   List of Links (each a video link):
+            *   TxDMV eTAG: Accessing eTAG (*Time: 1:33*)
+                *   URL: `https://www.youtube.com/embed/adk2vGdI1I4?rel=0&amp;showinfo=0&amp;autoplay=1`
+            *   TxDMV eTAG: Assigning an Internet Down Tag (*Time: 4:31*)
+                *   URL: `https://www.youtube.com/embed/KrYBvdU20c8?rel=0&amp;showinfo=0&amp;autoplay=1`
+            *   TxDMV eTAG: Creating a Buyer Tag (*Time: 4:04*)
+                *   URL: `https://www.youtube.com/embed/HbSkq1xvbWI?rel=0&amp;showinfo=0&amp;autoplay=1`
+            *   TxDMV eTAG: Creating an Internet Down Tag (*Time: 2:19*)
+                *   URL: `https://www.youtube.com/embed/dkizxdiUR_0?rel=0&amp;showinfo=0&amp;autoplay=1`
+            *   TxDMV eTAG: Creating a New eTAG User (*Time: 1:48*)
+                *   URL: `https://www.youtube.com/embed/jZZPHSd6Yfc?rel=0&amp;showinfo=0&amp;autoplay=1`
+
+    *   **Column 2:**
+        *   List of Links (each a video link):
+            *   TxDMV eTAG: eTAG Overview and Navigation (*Time: 2:11*)
+                *   URL: `https://www.youtube.com/embed/5UHmvDh9LPo?rel=0&amp;showinfo=0&amp;autoplay=1`
+            *   TxDMV eTAG: Printing an eTAG (*Time: 1:17*)
+                *   URL: `https://www.youtube.com/embed/iYpFBLhEFfI?rel=0&amp;showinfo=0&amp;autoplay=1`
+            *   TxDMV eTAG: Voiding an eTAG (*Time: 1:44*)
+                *   URL: `https://www.youtube.com/embed/f23pB29gnuE?rel=0&amp;showinfo=0&amp;autoplay=1`
+            *   TxDMV eTAG: Webinar Presentation for Dealers, December 2017 (*Time: 49:18*)
+                *   URL: `https://www.youtube.com/embed/XYagSgZChGc?rel=0&amp;showinfo=0&amp;autoplay=1`
+
+**4.2.4 Panel 4: eTAG Training Documents**
+
+*   **Title:** eTAG Training Documents
+*   **Content:**
+    *   Link: eTAG User Guide
+        *   URL: `/sites/default/files/body-files/eTAG-User_Guide.pdf`
+    *   Link: eTAG Job Aid: Working with Payments
+        *   URL: `/sites/default/files/body-files/eTAG-JobAid_Working_With_Payments.pdf`
+    *   Link: eTAG Job Aid: Create Agent Specific and Vehicle Specific Buyer Tag
+        *   URL: `/sites/default/files/body-files/eTAG-JobAid_Create_Agent_Specific__and_Vehicle_Specific_Buyer_Tag.pdf`
+    *   Link: eTAG Job Aid: Create a Buyer Tag
+        *   URL: `/sites/default/files/body-files/eTAG-JobAid_Create_a_Buyer_Tag.pdf`
+    *   Link: eTAG Job Aid: Assigning Internet Down Tags
+        *   URL: `/sites/default/files/body-files/eTAG-JobAid_Assigning_Internet_Down_Tags.pdf`
+    *   Link: eTAG Job Aid: Create Internet Down Tags
+        *   URL: `/sites/default/files/body-files/eTAG_JobAid_Create_Internet_Down_Tags_.pdf`
+    *   Link: eTAG/webDEALER FAQ
+        *   URL: `/sites/default/files/body-files/eTAG-webDEALER_FAQ.pdf`
+
+**4.2.5 Panel 5: eTAG Permitted Uses**
+
+*   **Title:** eTAG Permitted Uses
+*   **Content:**
+    *   Link: eTAG Permitted Uses
+        *   URL: `/sites/default/files/body-files/eTAG-Permitted-Uses.pdf`
+
+**5.  Related Documents**
+This Document does not cover the links to related documentation.
+
+**6.  Assumptions**
+
+*   The AI implementor understands basic HTML structure and linking conventions.
+*   The AI implementor has access to the specified files (images, PDFs) and can correctly link to them.
+*   The AI implementor can handle the accordion functionality and two-column layout specified.

@@ -1,0 +1,293 @@
+```json
+{
+  "productRequirementsDocument": {
+    "title": "Forestry Registration - TxDMV.gov",
+    "mainContent": [
+      {
+        "type": "paragraph",
+        "content": "TxDMV issues forestry vehicle registration for vehicles used exclusively for transporting forest products in their natural state, including logs, debarked logs, untreated ties, stave bolts, plywood billets, wood chips, stumps, sawdust, moss, bark, wood shavings and property used in production of those products."
+      },
+      {
+        "type": "paragraph",
+        "content": "The registration year for Forestry Vehicle License Plates is April 1 through March 31 of the following year. Registration fees are prorated when issued for less than 12 months."
+      },
+      {
+        "type": "paragraph",
+        "content": "Forestry License Plates must be renewed annually. Renewal forms are mailed each year prior to the March 31 expiration date."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "How to Apply"
+      },
+      {
+        "type": "paragraph",
+        "content": "Visit TxFLEET.TxDMV.gov and click on the link \"Apply for Motor Carrier Account\". Each new application must include evidence of financial responsibility or liability insurance issued by an insurance company authorized to write Motor Vehicles Liability Insurance in Texas." ,
+        "link": {
+          "url": "https://TxFLEET.txdmv.gov",
+          "text": "TxFLEET.TxDMV.gov"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Texas title must be in the applicant’s name before being approved.  If the vehicle is leased a copy of the lease agreement must be submitted."
+      },
+      {
+        "type": "paragraph",
+        "content": "For questions, please contact Commercial Fleet Services at TxFLEET@TxDMV.gov."
+      },
+      {
+        "type": "paragraph",
+        "content": "Austin Headquarters, Commercial Fleet Services Office Hours are 8 a.m. to 4:30 p.m. weekdays except Wednesdays, 9 a.m. to 4:30 p.m"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Fees and Payment Information"
+      },
+      {
+        "type": "paragraph",
+        "content": "The registration fee is based on the gross vehicle weight, plus applicable local county fees, cab card and plate fees."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Gross Vehicle Weight (in pounds)",
+          "Registration Fee*"
+        ],
+        "rows": [
+          {
+            "Gross Vehicle Weight (in pounds)": "6,001 – 10,000",
+            "Registration Fee*": "$54"
+          },
+          {
+            "Gross Vehicle Weight (in pounds)": "10,001 – 18,000",
+            "Registration Fee*": "$110"
+          },
+          {
+            "Gross Vehicle Weight (in pounds)": "18,001 – 25,999",
+            "Registration Fee*": "$205"
+          },
+          {
+            "Gross Vehicle Weight (in pounds)": "26,000 – 40,000",
+            "Registration Fee*": "$340"
+          },
+          {
+            "Gross Vehicle Weight (in pounds)": "40,001 – 54,999",
+            "Registration Fee*": "$535"
+          },
+          {
+            "Gross Vehicle Weight (in pounds)": "55,000 – 70,000",
+            "Registration Fee*": "$740"
+          },
+          {
+            "Gross Vehicle Weight (in pounds)": "70,001 – 80,000",
+            "Registration Fee*": "$840"
+          },
+          {
+            "Gross Vehicle Weight (in pounds)": "Over 80,000",
+            "Registration Fee*": "Varies"
+          }
+        ],
+        "notes": "*Does not include local county fees or other applicable fees."
+      },
+      {
+        "type": "paragraph",
+        "content": "Note: The gross vehicle weight of a vehicle is determined by adding the empty weight of the vehicle and the heaviest load that will be carried by the vehicle (carrying capacity) during the registration year. Fees are payable by cash, personal check, business check, cashier's check or money order in person, or online via electronic check (ACH)."
+      },
+       {
+        "type": "paragraph",
+        "content": "Fees are payable online using electronic check (ACH) or credit card (a service charge of 25 cents plus 2.25 percent will be added)."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "More Information"
+      },
+      {
+        "type": "paragraph",
+        "content": "If the gross vehicle weight of your vehicle is 55,000 pounds or more, Federal law requires that proof of payment of the Federal Heavy Vehicle Use Tax (HVUT) be provided at time of vehicle registration. See the application form for acceptable proof documents."
+      },
+      {
+        "type": "paragraph",
+        "content": "If you need to obtain plates for additional vehicles, please login to our website TxFLEET.TxDMV.gov and Start a Supplement.",
+         "link": {
+          "url": "https://TxFLEET.txdmv.gov",
+          "text": "TxFLEET.TxDMV.gov"
+        }
+      }
+    ],
+     "footer": {
+      "contact": {
+        "heading": "Contact",
+        "content": [
+          "TxDMV Business Hours",
+          "Mon to Fri, 8AM-5PM (Central Time)",
+          "View Detailed Contact Information"
+        ],
+        "link": {
+          "url": "/contact-us",
+          "text": "View Detailed Contact Information"
+        }
+      },
+      "resources": {
+        "heading": "Resources",
+        "links": [
+          {
+            "url": "/",
+            "text": "Cobrowse"
+          },
+          {
+            "url": "/about-us/txdmv-media",
+            "text": "Media"
+          },
+          {
+            "url": "/open-records",
+            "text": "Open Records"
+          },
+          {
+            "url": "/about-us/reports-and-data",
+            "text": "Reports & Data"
+          },
+          {
+            "url": "https://www.texas.gov",
+            "text": "Texas.gov"
+          },
+          {
+            "url": "https://txt.texas.gov/dmv/vehicle-registration-renewal?utm_source=txdmv&utm_medium=footer&utm_campaign=txt",
+            "text": "Texas by Texas (TxT)",
+            "title": "Website for Texas by Texas vehicle registration renewal and account creation"
+          },
+          {
+            "url": "https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm_source=txdmv&utm_medium=footer&utm_campaign=txt",
+            "text": "Texas by Texas (TxT) - Español",
+            "title": "Texas by Texas (TxT) - Español"
+          },
+          {
+            "url": "/motorists/for-our-troops",
+            "text": "Troops & Veterans"
+          }
+        ]
+      },
+      "workWithUs": {
+        "heading": "Work with Us",
+        "links": [
+          {
+            "url": "/careers",
+            "text": "Careers"
+          },
+          {
+            "url": "/tax-assessor-collectors/contractors-vendors",
+            "text": "Contractors/Vendors"
+          },
+          {
+            "url": "/dealers/lienholders",
+            "text": "Lienholders"
+          },
+          {
+            "url": "/about-us/MVCPA/grantees",
+            "text": "MVCPA Grantees"
+          },
+           {
+            "url": "/open-records/law-enforcement-data-assistance-processes",
+            "text": "Law Enforcement Data Assistance"
+          },
+          {
+            "url": "/regional-service-centers",
+            "text": "Regional Service Centers",
+            "title": "TxDMV Regional Service Centers"
+          },
+          {
+            "url": "/tax-assessor-collectors",
+            "text": "Tax Assessor-Collectors",
+            "title": "TxDMV Tax Assessor-Collectors"
+          }
+        ]
+      },
+      "connectWithUs": {
+        "heading": "Connect with Us",
+        "links": [
+          {
+            "url": "http://www.facebook.com/TxDMV",
+            "text": "Facebook",
+            "class": "icon-facebook"
+          },
+          {
+            "url": "https://public.govdelivery.com/accounts/TXDMV/subscriber/new",
+            "text": "Get Email Updates",
+            "class": "icon-email"
+          },
+          {
+            "url": "http://x.com/txdmv",
+            "text": "@TxDMV",
+            "class": "icon-twitter"
+          }
+        ]
+      },
+      "footerLinks": [
+        {
+          "url": "/sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf",
+          "text": "Compact With Texans"
+        },
+        {
+          "url": "/site-policies/disclaimer",
+          "text": "Disclaimer"
+        },
+        {
+          "url": "/site-policies/drivers-privacy-protection-act",
+          "text": "Driver's Privacy Protection Act"
+        },
+        {
+          "url": "https://sao.fraud.texas.gov/",
+          "text": "Report Fraud, Waste or Abuse"
+        },
+        {
+          "url": "/site-policies",
+          "text": "Site Policies"
+        },
+        {
+          "url": "https://veterans.portal.texas.gov/",
+          "text": "Texas Veterans Portal"
+        },
+        {
+           "url": "https://gov.texas.gov/organization/hsgd",
+          "text": "Border Programs Team"
+        },
+         {
+           "url": "https://www.tsl.texas.gov/trail/index.html",
+          "text": "Statewide Search"
+        },
+        {
+           "url": "https://comptroller.texas.gov/transparency/",
+          "text": "Transparency"
+        }
+      ],
+      "copyright": "© 2025 Texas Department of Motor Vehicles. All rights reserved."
+    },
+    "feedbackForm": {
+        "heading": "We Value Your Feedback",
+        "message": "Your message will go to our web team. Thank you for helping us to serve you better!\n    If you want to contact a specific department and get a response, please go to the About Us page.",
+        "link": {
+            "url": "/about-us",
+            "text": "About Us page"
+        },
+        "fields": [
+            {
+                "type": "email",
+                "label": "Email",
+                "required": true,
+                "placeholder": "Email"
+            },
+            {
+                "type": "textarea",
+                "label": "Message",
+                "required": true,
+                "placeholder": "Your message",
+                "rows": 5
+            }
+        ],
+        "submitButtonText": "Send message"
+    }
+  }
+}
+```

@@ -1,0 +1,245 @@
+## Product Requirements Document: TxDMV.gov - About Us Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "About Us" page on the TxDMV.gov website.  It focuses on the main content elements and their textual representation.  The AI implementor should use this document as a guide to accurately extract and reproduce the page's content.
+
+**2. Page Title:**
+
+*   Text: "About Us"
+
+**3. Main Content Sections:**
+
+3.1.  **Introduction Paragraphs:**
+
+*   Text: "The Texas Department of Motor Vehicles (TxDMV) was created by the state legislature in 2009 to enhance customer service, consumer protection and the success of motor vehicle-related industries. The department administers broad-ranging motor vehicle programs including vehicle registration and titling; vehicle dealer regulation; bus and carrier credentialing for intrastate and interstate commerce; oversize and overweight permit issuance; and grants to law enforcement agencies to reduce vehicle burglaries and thefts."
+
+*   Text: "The department is one of a handful of state agencies that brings in more revenue for the state than it expends on its own operations. The majority of revenue collections are used to build and maintain the state’s transportation infrastructure."
+
+*   Text: "A nine-member board, appointed by the governor, oversees TxDMV policy making activities. Daily operations are managed by the agency’s executive director and professional staff to achieve the department’s mission: “To serve, protect and advance the citizens and industries in the state with quality motor vehicle related services.”"
+
+3.2. **Anchor Menu Links:**
+
+*   Link 1:
+    *   Text: "TxDMV Board"
+    *   URL: "/about-us/txdmv-board"
+
+*   Link 2:
+    *   Text: "TxDMV Executive Team"
+    *   URL: "/about-us/executive-team"
+
+*   Link 3:
+    *   Text: "Board & Public Meetings"
+    *   URL: "/about-us/txdmv-board-meetings"
+
+*   Link 4:
+    *   Text: "Organization Chart"
+    *   URL: "/sites/default/files/body-files/txdmv_orgchart.pdf"
+
+*   Link 5:
+    *   Text: "Publications"
+    *   URL: "/publications"
+
+3.3.  **Program Areas Introduction:**
+
+*   Text: "Program Areas"
+
+3.4.  **Consumer Relations Division:**
+
+*   Text: "Consumer Relations Division"
+
+*   Text: "If you have questions, they have answers in the Consumer Relations Division where you will find customer representatives eager to answer your calls and emails. The hallmark of this division's staff members is their dedication to being professional but personal as they help consumers and motor vehicle-related business owners - almost 1 million each year - find the information they need to complete their business with the agency."
+
+*   Text: "Phone: (888) 368-4689"
+    *   This should be plain text that is formatted like a phone number.
+
+*   Text: "AskDMV@TXDMV.gov"
+    *   This should be a link to mailto:AskDMV@TXDMV.gov
+
+3.5.  **Enforcement Division:**
+
+*   Text: "Enforcement Division"
+
+*   Text: "Did a moving company promise you a cheap rate and then hold your belongings hostage for more money? Did an auto dealer fail to title your vehicle for you? Did you run out to buy that new truck you saw advertised for an amazing price only to be subjected to a "bait and switch" scheme?"
+
+*   Text: "These situations and much, much more fall under the Enforcement Division, which regulates manufacturers, dealers, moving companies, and other motor vehicle-related businesses, including motor carriers and salvage dealers. The division also administers the state's Lemon Law, which can provide relief to consumers who can prove the new car they bought is a lemon. Each year the division reviews and investigates an average of 15,000 complaints from consumers, law enforcement and other government agencies."
+
+3.6.  **File a Complaint Call-To-Action:**
+
+*   Text: "File a Complaint"
+    *   URL: "/complaints"
+
+3.7.  **General Enforcement Contacts (not for complaints):**
+
+*   Text: "General Enforcement Contacts (not for complaints)"
+
+*   Text: "Motor Vehicle Dealer Enforcement"
+    *   Email: <a href="mailto:enforcement@txdmv.gov">enforcement@TXDMV.gov</a>
+
+*   Text: "Motor Carrier Enforcement"
+    *   Email: <a href="mailto:truckstop@txdmv.gov"> truckstop@TXDMV.gov</a>
+    *   Phone: (512) 465-4207
+
+*   Text: "Lemon Law Enforcement"
+    *   Email: <a href="mailto: LEMONLAW@txdmv.gov">LEMONLAW@TXDMV.gov</a>
+    *   Phone: (888) 368-4689 or (512) 465-3000
+
+*   Text: "Enforcement Administrative Staff Support"
+    *   Email: <a href="mailto:enforcement@txdmv.gov">enforcement@TXDMV.gov</a>
+    *   Phone: (512) 465-4204
+
+*   Text: "Dealer Enforcement Training"
+    *   Phone: (512) 465-3000
+
+3.8.  **Finance and Operations Division:**
+
+*   Text: "Finance and Operations  Division"
+
+*   Text: "The Finance and Operations Division is responsible for managing the department’s financial transactions, ensuring the integrity of the accounting records and maintaining adequate internal controls to safeguard the department’s financial assets. The division also oversees centralized services, including the day-to-day resources and support for the department’s physical facilities."
+
+3.9.  **Government and Strategic Communications Division:**
+
+*   Text: "Government and Strategic Communications Division"
+
+*   Text: "The Government and Strategic Communications Division coordinates the department’s public engagement activities and manages relationships with legislative offices, media outlets, and stakeholder groups. Division staff oversee website and social media content releases, public awareness and educational campaigns, and responses to inquiries by elected officials."
+
+*   Text: "Phone: (512) 465-1484"
+    *   This should be plain text that is formatted like a phone number.
+
+3.10. **Human Resources:**
+
+*   Text: "Human Resources"
+
+*   Text: "The Human Resources (HR) division provides a full array of HR services to the agency including talent acquisition, benefit information, employee relations, classification, compensation, organization development, employee training and HR information and policy."
+
+*   Text: "Military Liaison: (512) 465-4058"
+    *   This should be plain text that is formatted like a phone number.
+
+*   Link:
+    *   Text: "TxDMV A GOOD PLACE TO WORK"
+    *   URL: "/careers/txdmv-a-good-place-to-work"
+
+3.11. **Information Technology:**
+
+*   Text: "Information Technology"
+
+*   Text: "The Information Technology division is responsible for agency-wide information technology needs and overall responsibility for the maintenance and support of the agency’s major systems and technologies."
+
+3.12. **Internal Audit Division:**
+
+*   Text: "Internal Audit Division"
+
+*   Text: "The Internal Audit Division helps to identify and improve existing agency operations. Staff reviews policies, processes and procedures, making recommendations to agency management to ensure the efficient and effective use of resources, and to reduce the likelihood of fraud, waste and abuse. The division is an independent, objective, assurance and consulting activity and reports directly to the board."
+
+*   Link:
+    *   Text: "More about the Internal Audit Division"
+    *   URL: "/motorists/consumer-protection/internal-audit-division"
+
+3.13. **Motor Carrier Division:**
+
+*   Text: "Motor Carrier Division"
+
+*   Text: "The Motor Carrier Division helps the transportation industry conduct interstate and intrastate commerce. It grants commercial motor carriers, moving companies and passenger carriers the license plates, operating authority (Texas Department of Motor Vehicles Number and Unified Carrier Registration) and the oversize/overweight permits they need to move people and cargo safely and efficiently."
+
+*   Text: "Phone: (800) 299-1700"
+    *   This should be plain text that is formatted like a phone number.
+
+3.14. **Motor Vehicle Crime Prevention Authority:**
+
+*   Text: "Motor Vehicle Crime Prevention Authority"
+
+*   Text: "The Motor Vehicle Crime Prevention Authority (MVCPA) educates Texans on how to protect themselves from motor vehicle theft and awards financial grants to curtail auto theft and burglary."
+
+*   Text: "askMVCPA@TxDMV.gov"
+    *   This should be a link to mailto:askMVCPA@TxDMV.gov
+
+*   Text: "Phone: (512) 465-1485"
+    *   This should be plain text that is formatted like a phone number.
+
+*   Link:
+    *   Text: "More about the Motor Vehicle Crime Prevention Authority"
+    *   URL: "/about-us/MVCPA"
+
+3.15. **Motor Vehicle Division:**
+
+*   Text: "Motor Vehicle Division"
+
+*   Text: "The Motor Vehicle Division licenses dealers and manufacturers and other types of motor vehicle-related businesses. The licensing system helps to ensure a sound system of distributing and selling motor vehicles and regulating motor vehicle manufacturers. In Texas there are more than 2,500 licensed new (franchise) vehicle dealers and almost 15,000 used (independent) dealers."
+
+3.16. **Office of Administrative Hearings:**
+
+*   Text: "Office of Administrative Hearings"
+
+*   Text: "The Office of Administrative Hearings provides an independent forum for hearings for consumer complaints filed under the Texas Lemon Law. Responsibilities of the Office of Administrative Hearings include conducting administrative hearings regarding Lemon Law and warranty protection complaints and issuing decisions and orders pursuant to the Texas Occupations Code."
+
+*   Text: "officeadminhearings@txdmv.gov"
+    *   This should be a link to mailto:officeadminhearings@txdmv.gov
+
+*   Text: "Phone: (512) 465-5000"
+    *   This should be plain text that is formatted like a phone number.
+
+*   Text: "Fax: (512) 465-5656"
+    *   This should be plain text that is formatted like a fax number.
+
+*   Link:
+    *   Text: "More about the Office of Administrative Hearings"
+    *   URL: "/motorists/consumer-protection/the-office-of-administrative-hearings"
+
+3.17. **Civil Rights Officer:**
+
+*   Text: "Civil Rights Officer"
+
+*   Text: "The Civil Rights Officer is responsible for affirmative action and Title VI/Equal Employment Opportunity contract compliance."
+
+*   Text: "Document downloads:"
+
+*   Link 1:
+    *   Text: "Public Notice of Title VI Program Rights"
+    *   URL: "/sites/default/files/body-files/FY2024-Public-Notice-of-Title-VI-Program-Rights.pdf"
+
+*   Link 2:
+    *   Text: "Advertencia Pública de los Derechos Bajo el Programa Título VI"
+    *   URL: "/sites/default/files/body-files/Advertencia_P%C3%BAblica_de_los_Derechos_Bajo_el_Programa_T%C3%ADtulo_VI.pdf"
+
+3.18. **Office of General Counsel:**
+
+*   Text: "Office of General Counsel"
+
+*   Text: "The Office of General Counsel represents the agency and provides legal advice to the board, executive director, and other agency divisions. The office provides advice regarding laws and regulations on topics such as motor carriers, vehicle titles and registration, human resources, open records, and open meetings. It assists with legislation, reviews contracts, and participates in all phases of rulemaking. The office also works with the Office of the Attorney General on legal matters involving the agency."
+
+*   Text: "GCO_General@txdmv.gov"
+    *   This should be a link to mailto:GCO_General@txdmv.gov
+
+*   Text: "Phone: (512) 465-5665"
+    *   This should be plain text that is formatted like a phone number.
+
+*   Link:
+    *   Text: "Statutes & Rules"
+    *   URL: "/general-counsel"
+
+3.19. **File a Public Information Request Call-To-Action:**
+
+*   Text: "File a Public Information Request"
+    *   URL: "/open-records"
+
+3.20. **Vehicle Titles and Registration Division:**
+
+*   Text: "Vehicle Titles and Registration Division"
+
+*   Text: "The Vehicle Titles and Registration Division is responsible for vehicle titling, registration and issuing license plates and disabled placards. It oversees 16 Regional Service Centers and provides policy and procedural support to the 254 county tax assessor-collectors, who process registration and title applications throughout Texas. The division also updates and maintains the state motor vehicle database. There are nearly 26 million registered vehicles in Texas. The division collects more than $4.5 billion in registration fees, title fees, and motor vehicle sales tax, the majority of which is deposited into the State Highway Fund to build and maintain Texas’ highways, roads and bridges."
+
+**4. "How can we make this page better for you?" section:**
+* **Title:** We Value Your Feedback
+* **Text:** Your message will go to our web team. Thank you for helping us to serve you better!
+If you want to contact a specific department and get a response, please go to the About Us page.
+* **Feedback form:**
+    * **Email field:** Label: Email, Required.
+    * **Message field:** Label: Message, Required.
+    * **Submit button:** Text: Send message.
+
+**5. Important Considerations:**
+
+*   **Links:**  Ensure all URLs are correctly linked to the specified pages. Pay close attention to external links (those opening in a new tab/window).
+*   **Email Addresses:** Treat email addresses as mailto links where indicated, and format them as plain text where indicated.
+*   **Phone Numbers:** Format phone numbers as plain text and in a visually clear format.
+*   **Text Formatting:**  Maintain the proper use of headings (e.g., H2), bold text, and bullet points to reflect the structure of the original page.

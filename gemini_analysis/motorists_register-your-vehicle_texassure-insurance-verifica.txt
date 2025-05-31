@@ -1,0 +1,63 @@
+## Product Requirements Document: TexasSure - Insurance Verification Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the TexasSure - Insurance Verification page on the TxDMV.gov website, found at [http://www.txdmv.gov/motorists/register-your-vehicle/texassure-insurance-verification](http://www.txdmv.gov/motorists/register-your-vehicle/texassure-insurance-verification). The goal is to provide the necessary information for an AI implementor to accurately reproduce the page's content.
+
+**2. Main Content Area Requirements**
+
+The main content area should include the following content elements and structure.
+
+**2.1. Breadcrumbs**
+
+The breadcrumb navigation should display the following links, in order:
+
+*   Home (Link to "/")
+*   Motorists (Link to "/motorists")
+*   Register Your Vehicle (Link to "/motorists/register-your-vehicle")
+
+**2.2. Page Title**
+
+The page title should be:
+
+*   "TexasSure - Insurance Verification"
+
+**2.3. Content Block: TexasSure Information**
+
+This section contains information about the TexasSure program. It should include the following:
+
+*   **Image:** A logo associated with TexasSure, with the file name “texassure\_logo.png”, with dimensions approximately 150px wide and 39px high. It should be located on the right side of the text. Source for the image: "/images/texassure_logo.png".
+
+*   **Paragraph 1:** "TexasSure is designed to reduce the number of uninsured drivers and cut costs for responsible Texans, who now pay almost $900 million a year to protect themselves against those with no coverage. Currently, an estimated 20 percent of Texas drivers are uninsured."
+
+*   **Paragraph 2:** "The automated database is a joint project of Texas' departments of motor vehicles, insurance, public safety and information resources, and quickly identifies vehicle owners without mandatory insurance coverage."
+
+*   **Paragraph 3:** "More information about insurance verification is available on the [TexasSure website](http://www.texassure.com/)." This should be a hyperlink that opens in a new tab.
+
+**2.4. How can we make this page better for you?**
+
+This section collects feedback. The feedback information is not included.
+
+**3. External Links**
+
+The following external links are referenced on the page:
+
+*   [http://www.texassure.com/](http://www.texassure.com/) (Opens in new tab)
+*   [https://webdealer.txdmv.gov/title/publicVehicleTransfer.do](https://webdealer.txdmv.gov/title/publicVehicleTransfer.do) (Opens in new tab)
+*   [https://www.dps.texas.gov/section/driver-license](https://www.dps.texas.gov/section/driver-license) (Opens in new tab)
+*   [https://www.myplates.com](https://www.myplates.com) (Opens in new tab)
+*   [https://mvinet.txdmv.gov](https://mvinet.txdmv.gov) (Opens in new tab)
+*   [https://txdmv.force.com/GetWorkItem](https://txdmv.force.com/GetWorkItem) (Opens in new tab)
+*   [http://twostepsonesticker.com](http://twostepsonesticker.com) (Opens in new tab)
+*   [https://texasdmv.my.salesforce-sites.com/dealers](https://texasdmv.my.salesforce-sites.com/dealers) (Opens in new tab)
+*   [https://texas.gov](https://texas.gov) (Opens in new tab)
+*   [https://txt.texas.gov/dmv/vehicle-registration-renewal?utm\_source=txdmv&utm\_medium=footer&utm\_campaign=txt](https://txt.texas.gov/dmv/vehicle-registration-renewal?utm_source=txdmv&utm_medium=footer&utm_campaign=txt) (Opens in new tab)
+*   [https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm\_source=txdmv&utm\_medium=footer&utm\_campaign=txt](https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm_source=txdmv&utm_medium=footer&utm_campaign=txt) (Opens in new tab)
+*   [https://sao.fraud.texas.gov/](https://sao.fraud.texas.gov/) (Opens in new tab)
+*   [https://veterans.portal.texas.gov/](https://veterans.portal.texas.gov/) (Opens in new tab)
+*   [https://gov.texas.gov/organization/hsgd](https://gov.texas.gov/organization/hsgd) (Opens in new tab)
+*   [https://www.tsl.texas.gov/trail/index.html](https://www.tsl.texas.gov/trail/index.html) (Opens in new tab)
+*   [https://comptroller.texas.gov/transparency/](https://comptroller.texas.gov/transparency/) (Opens in new tab)
+*   [http://www.facebook.com/TxDMV](http://www.facebook.com/TxDMV) (Opens in new tab)
+*   [https://public.govdelivery.com/accounts/TXDMV/subscriber/new](https://public.govdelivery.com/accounts/TXDMV/subscriber/new) (Opens in new tab)
+*   [http://x.com/txdmv](http://x.com/txdmv) (Opens in new tab)

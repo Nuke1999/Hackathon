@@ -1,0 +1,398 @@
+```text
+# Product Requirements Document: Receiving In-Person Motor Vehicle Services
+
+## 1. Introduction
+
+This document outlines the content requirements for recreating the "Receiving In-Person Motor Vehicle Services" page from the provided HTML. The goal is to provide enough detail for an AI implementor to accurately reconstruct the page's core information and functionality, excluding any design or stylistic elements.
+
+## 2. Page Title
+
+*   **Text:** Receiving In-Person Motor Vehicle Services
+
+## 3. Breadcrumbs
+
+*   Home > Motorists
+
+## 4. Main Content
+
+### 4.1. Introduction Paragraphs
+
+*   **Text:** Motor vehicle registration and titling services in Texas are primarily conducted at tax assessor-collector offices in all 254 counties. Some services are also provided through the department’s 16 Regional Service Centers throughout the state.
+*   **Link:** TxDMV Online Services Portal
+    *   **URL:** /osp
+*   **Text:** When in-person services are inconvenient or unavailable, certain services and support can also be provided online or by mail, email, or phone. Online services can be found through the [link to TxDMV Online Services Portal]. Additional TxDMV contact options are available [link to Contact Us page].
+*   **Link:** Contact Us page
+    *   **URL:** /contact-us
+*   **Text:** For specific information regarding tax assessor office contact information or title and registration services provided by Regional Service Centers, select one of the tabs below.
+
+### 4.2. Tabs Section
+
+This section contains two tabs: "Tax Assessor Offices" and "Regional Service Centers".
+
+#### 4.2.1. Tax Assessor Offices Tab
+
+*   **Tab Title:** Tax Assessor Offices
+*   **Introductory Text:** Although county tax offices provide services on behalf of TxDMV, operational decisions for each office are made independently at the county level by local elected officials. Contact your county tax office directly for the current status, hours, and services offered. Contact and location information by county is provided below.
+
+    *   **Check With Your County Tax Office for Current Open Status Accordion.**
+
+        **Accordion Title:** Check With Your County Tax Office for Current Open Status.
+
+        **Content:**
+
+        The content within this accordion is organized into three columns of links, each linking to a specific county tax office page. Each county has a url that should be constructed like this "/tax-assessor-collectors/county-tax-offices/{county}".
+        **Column 1 Links:**
+
+        *   ANDERSON COUNTY
+        *   ANDREWS COUNTY
+        *   ANGELINA COUNTY
+        *   ARANSAS COUNTY
+        *   ARCHER COUNTY
+        *   ARMSTRONG COUNTY
+        *   ATASCOSA COUNTY
+        *   AUSTIN COUNTY
+        *   BAILEY COUNTY
+        *   BANDERA COUNTY
+        *   BASTROP COUNTY
+        *   BAYLOR COUNTY
+        *   BEE COUNTY
+        *   BELL COUNTY
+        *   BEXAR COUNTY
+        *   BLANCO COUNTY
+        *   BORDEN COUNTY
+        *   BOSQUE COUNTY
+        *   BOWIE COUNTY
+        *   BRAZORIA COUNTY
+        *   BRAZOS COUNTY
+        *   BREWSTER COUNTY
+        *   BRISCOE COUNTY
+        *   BROOKS COUNTY
+        *   BROWN COUNTY
+        *   BURLESON COUNTY
+        *   BURNET COUNTY
+        *   CALDWELL COUNTY
+        *   CALHOUN COUNTY
+        *   CALLAHAN COUNTY
+        *   CAMERON COUNTY
+        *   CAMP COUNTY
+        *   CARSON COUNTY
+        *   CASS COUNTY
+        *   CASTRO COUNTY
+        *   CHAMBERS COUNTY
+        *   CHEROKEE COUNTY
+        *   CHILDRESS COUNTY
+        *   CLAY COUNTY
+        *   COCHRAN COUNTY
+        *   COKE COUNTY
+        *   COLEMAN COUNTY
+        *   COLLIN COUNTY
+        *   COLLINGSWORTH COUNTY
+        *   COLORADO COUNTY
+        *   COMAL COUNTY
+        *   COMANCHE COUNTY
+        *   CONCHO COUNTY
+        *   COOKE COUNTY
+        *   CORYELL COUNTY
+        *   COTTLE COUNTY
+        *   CRANE COUNTY
+        *   CROCKETT COUNTY
+        *   CROSBY COUNTY
+        *   CULBERSON COUNTY
+        *   DALLAM COUNTY
+        *   DALLAS COUNTY
+        *   DAWSON COUNTY
+        *   DEAF SMITH COUNTY
+        *   DELTA COUNTY
+        *   DENTON COUNTY
+        *   DEWITT COUNTY
+        *   DICKENS COUNTY
+        *   DIMMIT COUNTY
+        *   DONLEY COUNTY
+        *   DUVAL COUNTY
+        *   EASTLAND COUNTY
+        *   ECTOR COUNTY
+        *   EDWARDS COUNTY
+        *   EL PASO COUNTY
+        *   ELLIS COUNTY
+        *   ERATH COUNTY
+        *   FALLS COUNTY
+        *   FANNIN COUNTY
+        *   FAYETTE COUNTY
+        *   FISHER COUNTY
+        *   FLOYD COUNTY
+        *   FOARD COUNTY
+        *   FORT BEND COUNTY
+        *   FRANKLIN COUNTY
+        *   FREESTONE COUNTY
+        *   FRIO COUNTY
+        *   GAINES COUNTY
+        *   GALVESTON COUNTY
+        *   GARZA COUNTY
+
+        **Column 2 Links:**
+
+        *   GILLESPIE COUNTY
+        *   GLASSCOCK COUNTY
+        *   GOLIAD COUNTY
+        *   GONZALES COUNTY
+        *   GRAY COUNTY
+        *   GRAYSON COUNTY
+        *   GREGG COUNTY
+        *   GRIMES COUNTY
+        *   GUADALUPE COUNTY
+        *   HALE COUNTY
+        *   HALL COUNTY
+        *   HAMILTON COUNTY
+        *   HANSFORD COUNTY
+        *   HARDEMAN COUNTY
+        *   HARDIN COUNTY
+        *   HARRIS COUNTY
+        *   HARRISON COUNTY
+        *   HARTLEY COUNTY
+        *   HASKELL COUNTY
+        *   HAYS COUNTY
+        *   HEMPHILL COUNTY
+        *   HENDERSON COUNTY
+        *   HIDALGO COUNTY
+        *   HILL COUNTY
+        *   HOCKLEY COUNTY
+        *   HOOD COUNTY
+        *   HOPKINS COUNTY
+        *   HOUSTON COUNTY
+        *   HOWARD COUNTY
+        *   HUDSPETH COUNTY
+        *   HUNT COUNTY
+        *   HUTCHINSON COUNTY
+        *   IRION COUNTY
+        *   JACK COUNTY
+        *   JACKSON COUNTY
+        *   JASPER COUNTY
+        *   JEFF DAVIS COUNTY
+        *   JEFFERSON COUNTY
+        *   JIM HOGG COUNTY
+        *   JIM WELLS COUNTY
+        *   JOHNSON COUNTY
+        *   JONES COUNTY
+        *   KARNES COUNTY
+        *   KAUFMAN COUNTY
+        *   KENDALL COUNTY
+        *   KENEDY COUNTY
+        *   KENT COUNTY
+        *   KERR COUNTY
+        *   KIMBLE COUNTY
+        *   KING COUNTY
+        *   KINNEY COUNTY
+        *   KLEBERG COUNTY
+        *   KNOX COUNTY
+        *   LAMAR COUNTY
+        *   LAMB COUNTY
+        *   LAMPASAS COUNTY
+        *   LA SALLE COUNTY
+        *   LAVACA COUNTY
+        *   LEE COUNTY
+        *   LEON COUNTY
+        *   LIBERTY COUNTY
+        *   LIMESTONE COUNTY
+        *   LIPSCOMB COUNTY
+        *   LIVE OAK COUNTY
+        *   LLANO COUNTY
+        *   LOVING COUNTY
+        *   LUBBOCK COUNTY
+        *   LYNN COUNTY
+        *   MADISON COUNTY
+        *   MARION COUNTY
+        *   MARTIN COUNTY
+        *   MASON COUNTY
+        *   MATAGORDA COUNTY
+        *   MAVERICK COUNTY
+        *   MCCULLOCH COUNTY
+        *   MCLENNAN COUNTY
+        *   MCMULLEN COUNTY
+        *   MEDINA COUNTY
+        *   MENARD COUNTY
+        *   MIDLAND COUNTY
+        *   MILAM COUNTY
+        *   MILLS COUNTY
+        *   MITCHELL COUNTY
+        *   MONTAGUE COUNTY
+        *   MONTGOMERY COUNTY
+
+        **Column 3 Links:**
+
+        *   MOORE COUNTY
+        *   MORRIS COUNTY
+        *   MOTLEY COUNTY
+        *   NACOGDOCHES COUNTY
+        *   NAVARRO COUNTY
+        *   NEWTON COUNTY
+        *   NOLAN COUNTY
+        *   NUECES COUNTY
+        *   OCHILTREE COUNTY
+        *   OLDHAM COUNTY
+        *   ORANGE COUNTY
+        *   PALO PINTO COUNTY
+        *   PANOLA COUNTY
+        *   PARKER COUNTY
+        *   PARMER COUNTY
+        *   PECOS COUNTY
+        *   POLK COUNTY
+        *   POTTER COUNTY
+        *   PRESIDIO COUNTY
+        *   RAINS COUNTY
+        *   RANDALL COUNTY
+        *   REAGAN COUNTY
+        *   REAL COUNTY
+        *   RED RIVER COUNTY
+        *   REEVES COUNTY
+        *   REFUGIO COUNTY
+        *   ROBERTS COUNTY
+        *   ROBERTSON COUNTY
+        *   ROCKWALL COUNTY
+        *   RUNNELS COUNTY
+        *   RUSK COUNTY
+        *   SABINE COUNTY
+        *   SAN AUGUSTINE COUNTY
+        *   SAN JACINTO COUNTY
+        *   SAN PATRICIO COUNTY
+        *   SAN SABA COUNTY
+        *   SCHLEICHER COUNTY
+        *   SCURRY COUNTY
+        *   SHACKELFORD COUNTY
+        *   SHELBY COUNTY
+        *   SHERMAN COUNTY
+        *   SMITH COUNTY
+        *   SOMERVELL COUNTY
+        *   STARR COUNTY
+        *   STEPHENS COUNTY
+        *   STERLING COUNTY
+        *   STONEWALL COUNTY
+        *   SUTTON COUNTY
+        *   SWISHER COUNTY
+        *   TARRANT COUNTY
+        *   TAYLOR COUNTY
+        *   TERRELL COUNTY
+        *   TERRY COUNTY
+        *   THROCKMORTON COUNTY
+        *   TITUS COUNTY
+        *   TOM GREEN COUNTY
+        *   TRAVIS COUNTY
+        *   TRINITY COUNTY
+        *   TYLER COUNTY
+        *   UPSHUR COUNTY
+        *   UPTON COUNTY
+        *   UVALDE COUNTY
+        *   VAL VERDE COUNTY
+        *   VAN ZANDT COUNTY
+        *   VICTORIA COUNTY
+        *   WALKER COUNTY
+        *   WALLER COUNTY
+        *   WARD COUNTY
+        *   WASHINGTON COUNTY
+        *   WEBB COUNTY
+        *   WHARTON COUNTY
+        *   WHEELER COUNTY
+        *   WICHITA COUNTY
+        *   WILBARGER COUNTY
+        *   WILLACY COUNTY
+        *   WILLIAMSON COUNTY
+        *   WILSON COUNTY
+        *   WINKLER COUNTY
+        *   WISE COUNTY
+        *   WOOD COUNTY
+        *   YOAKUM COUNTY
+        *   YOUNG COUNTY
+        *   ZAPATA COUNTY
+        *   ZAVALA COUNTY
+
+#### 4.2.2. Regional Service Centers Tab
+
+*   **Tab Title:** Regional Service Centers
+
+*   **Content:**
+
+*   **Text:** Regional Service Center locations and services provided can be found [link to Regional Service Centers page].
+*   **Link:** Regional Service Centers page
+    *   **URL:** /regional-service-centers
+*   **Text:** To schedule an appointment for the current business day and next two business days, please visit the [link to TxDMV RSC Appointment page].
+*   **Link:** TxDMV RSC Appointment page
+    *   **URL:** <https://nqa3.nemoqappointment.com/Booking/Booking/Index/uh5d75sjtv4>
+*   **Text:** Some services are also available [link to Online Services Portal] online, by mail, phone, and drop-off.
+*   **Link:** Online Services Portal
+    *   **URL:** /osp
+*   **Text:** Mailed fees must be in the form of a personal check, cashier's check, or money order payable to the TxDMV. **<u>Do not mail cash.</u>** Temporary checks are not accepted. Credit cards are accepted for <u>in-person transactions</u> with an additional convenience fee. Credit cards are not accepted for transactions by mail. **Fees are non-refundable**.
+*   **Subheading:** ONLINE SERVICES:
+
+*   **Vehicle Registration Renewal Link:** <https://renew.txdmv.gov/Renew/RegistrationRenewalServlet>
+
+*   **Change of Address Link:** <https://renew.txdmv.gov/Renew/AddressChangeServlet>
+
+*   **Vehicle Transfer Notification Link:** <https://webdealer.txdmv.gov/title/publicVehicleTransfer.do>
+
+*   **Text:** **MAIL AND PHONE SERVICES:**
+
+    The following transactions are available by mail:
+    (Please allow up to 2 weeks for mailing and processing time. Mailed fees must be in the form of a personal check, cashier's check, or money order payable to the Texas Department of Motor Vehicles. **Do not mail cash**. Temporary checks are not accepted. Credit cards are accepted for <u>in-person transactions</u> with an additional convenience fee. Credit cards are not accepted for transactions by mail. **Fees are non-refundable**.)
+
+*   **Subheading:** Certified Copy of Texas Title (Replacement of Lost Title)
+
+    A Certified Copy of Texas Title replaces the original Texas Certificate of Title and any previously issued Certified Copy of Texas Title. The applicant (person signing the application) must be the owner or lienholder on the department’s motor vehicle record, or an authorized agent of the owner/lienholder. Submit a completed application and all required documents by mail to the TxDMV Regional Service Center at 1601-A Southwest Parkway, Wichita Falls, TX 76302.
+
+    Follow all the instructions on the [link to Application for a Certified Copy of Title (Form VTR-34)]. Please ensure you include the $2.00 payment.
+
+*   **Link:** Application for a Certified Copy of Title (Form VTR-34)
+    *   **URL:** /sites/default/files/form_files/VTR-34.pdf
+    *   **Title Attribute:** Application for a Certified Copy of Title (Form VTR-34)
+*   **Text:** For additional information on the Certified Copy of Title process, please visit: [link to Get a Copy of Your Title]
+
+    *   **Link:** Get a Copy of Your Title
+        *   **URL:** <https://www.txdmv.gov/motorists/buying-or-selling-a-vehicle/get-a-copy-of-your-title>
+
+*   **Subheading:** Bonded Title Rejection Letters
+    *   **Text:** If you receive incomplete or incorrect evidence of ownership or have lost the evidence of ownership and cannot contact the seller for the necessary documentation, you may have the option of using the bonded title procedure to transfer ownership.
+    *   **Text:** Follow the instructions on the [link to Bonded Title Application or Tax Collector Hearing Statement of Fact (Form VTR-130-SOF)]. **Please be sure to include your email address and phone number to expedite any clarifications our staff may have**. Mail the application to your local TxDMV Regional Service Center. Please ensure you include the $15.00 payment.
+*   **Link:** Bonded Title Application or Tax Collector Hearing Statement of Fact (Form VTR-130-SOF)
+    *   **URL:** /sites/default/files/form_files/VTR-130-SOF.pdf
+    *   **Title Attribute:** Bonded Title Application or Tax Collector Hearing Statement of Fact (Form VTR-130-SOF)
+
+*   **Text:** For additional information on the bonded title process, please visit: [link to Bought a Vehicle Without a Title?]
+
+    *   **Link:** Bought a Vehicle Without a Title?
+        *   **URL:** <https://www.txdmv.gov/motorists/buying-or-selling-a-vehicle/bought-a-vehicle-with-no-title>
+
+*   **Subheading:** Vehicle Transfer Notification
+    *   **Text:** When a Texas-titled vehicle is sold or traded in, the seller needs to notify TxDMV. By completing a [link to Vehicle Transfer Notification], you are notifying TxDMV that you have sold a vehicle. When you submit the form, a remark will be added to the vehicle record which shows the date you sold the vehicle. This can protect you if the buyer fails to promptly transfer the title.
+*   **Link:** Vehicle Transfer Notification
+    *   **URL:** <https://webdealer.txdmv.gov/title/publicVehicleTransfer.do>
+    *   **Text:** Please complete your vehicle transfer notification online at: [link to Vehicle Transfer Notification].
+    *   **Link:** Vehicle Transfer Notification
+        *   **URL:** <https://webdealer.txdmv.gov/title/publicVehicleTransfer.do>
+
+*   **Text:** Customers needing confirmation of a Vehicle Transfer Notification may contact us by phone. Customers who require documentation for the purposes of toll or parking violations will be emailed a confirmation letter or they may obtain a copy by requesting a title history by completing a Vehicle Records Request (see below).
+*   **Subheading:** Vehicle Records Requests
+
+    Follow the instructions on the [link to Request for Texas Motor Vehicle Information (Form VTR-275)]. Be sure to mark an applicable use on Page 2. Mail the application, applicable fee, and other required documents to the address provided on the form or your local TxDMV Regional Service Center.
+*   **Link:** Request for Texas Motor Vehicle Information (Form VTR-275)
+    *   **URL:** /sites/default/files/form_files/VTR-275.pdf
+    *   **Title Attribute:** Request for Texas Motor Vehicle Information (Form VTR-275)
+
+*   **Text:** For additional information on obtaining records information, please visit: [link to Open Records page]
+
+    *   **Link:** Open Records page
+        *   **URL:** open-records
+
+## 5. "How can we make this page better for you?" section
+How can we make this page better for you?
+
+We Value Your Feedback
+
+Your message will go to our web team. Thank you for helping us to serve you better!
+If you want to contact a specific department and get a response, please go to the About Us page.
+
+Fields:
+Email
+Message
+Send message
+
+## 6. Back to Link
+(this links to the motorists page /motorists)
+```

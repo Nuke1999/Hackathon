@@ -1,0 +1,114 @@
+```json
+{
+  "PRD Title": "TxDMV.gov Disclaimer Page",
+  "Page Title": "Disclaimer | TxDMV.gov",
+  "Meta Description": "Terms, conditions, and disclaimers for using the Texas Department of Motor Vehicles (TxDMV) website.",
+  "Content Areas": [
+    {
+      "Section Title": "Disclaimer Text",
+      "Content": [
+        {
+          "Type": "Paragraph",
+          "Text": "Use of the Texas Department of Motor Vehicles (\"TxDMV\") Web site (\"Site\") is governed by the following terms, conditions, and disclaimers (\"Terms\"). Users of this Site agree to abide by these Terms."
+        },
+        {
+          "Type": "Paragraph",
+          "Text": "This Site may include facts, views, or opinions of individuals or organizations not affiliated with TxDMV. TxDMV does not endorse, guarantee, or warrant the accuracy, completeness, or timeliness of these facts, views, or opinions. TxDMV specifically disclaims any and all liability for any claims or damages that may result from facts, views, or opinions of individuals or organizations not affiliated with TxDMV appearing on this Site."
+        },
+        {
+          "Type": "Paragraph",
+          "Text": "This Site may contain links to other Internet sites maintained by third parties which the department believes may be of interest or of use to users of the Site, but for which TxDMV has no responsibility. TxDMV makes no effort to independently verify information on Internet sites outside of the \"dmv.state.tx.us\" domain, nor does it attempt to exert editorial control over such information. TxDMV makes no representations or warranty of any kind as to the accuracy or any other aspect of the information contained on such Internet sites. TxDMV specifically disclaims any and all liability for any claims or damages that may result from information on Internet sites outside of the \"dmv.state.tx.us\" domain."
+        },
+        {
+          "Type": "Paragraph",
+          "Text": "TxDMV does not endorse any of the commercial products or services referenced in this Site. Any mention of commercial products or services is for information purposes only. The Texas Department of Motor Vehicles is providing this information only as a convenience to the user of this Site."
+        }
+      ]
+    },
+    {
+      "Section Title": "Feedback Form",
+      "Content": [
+        {
+          "Type": "Heading",
+          "Level": 3,
+          "Text": "We Value Your Feedback"
+        },
+        {
+          "Type": "Paragraph",
+          "Text": "Your message will go to our web team. Thank you for helping us to serve you better!"
+        },
+        {
+          "Type": "Paragraph",
+          "Text": "If you want to contact a specific department and get a response, please go to the <a href=\"/about-us\">About Us page</a>."
+        },
+        {
+          "Type": "Form",
+          "Elements": [
+            {
+              "Type": "Email Input",
+              "Label": "Email",
+              "Required": true,
+              "Placeholder": "Email"
+            },
+            {
+              "Type": "Textarea",
+              "Label": "Message",
+              "Required": true,
+              "Placeholder": "Your message"
+            },
+            {
+              "Type": "Submit Button",
+              "Value": "Send message"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Related Links": [
+      {
+          "Text": "About Us page",
+          "URL": "/about-us"
+      }
+  ],
+    "Footer Links": [
+    {
+      "Text": "Compact With Texans",
+      "URL": "/sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf"
+    },
+    {
+      "Text": "Disclaimer",
+      "URL": "/site-policies/disclaimer"
+    },
+    {
+      "Text": "Driver's Privacy Protection Act",
+      "URL": "/site-policies/drivers-privacy-protection-act"
+    },
+    {
+      "Text": "Report Fraud, Waste or Abuse",
+      "URL": "https://sao.fraud.texas.gov/"
+    },
+    {
+      "Text": "Site Policies",
+      "URL": "/site-policies"
+    },
+    {
+      "Text": "Texas Veterans Portal",
+      "URL": "https://veterans.portal.texas.gov/"
+    },
+    {
+      "Text": "Border Programs Team",
+      "URL": "https://gov.texas.gov/organization/hsgd"
+    },
+    {
+      "Text": "Statewide Search",
+      "URL": "https://www.tsl.texas.gov/trail/index.html"
+    },
+    {
+      "Text": "Transparency",
+      "URL": "https://comptroller.texas.gov/transparency/"
+    }
+  ],
+  "Copyright": "© 2025 Texas Department of Motor Vehicles. All rights reserved."
+}
+```

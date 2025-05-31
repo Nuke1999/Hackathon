@@ -1,0 +1,86 @@
+## Product Requirements Document: TxDMV Unified Carrier Registration Page
+
+**1.  Introduction**
+
+This document outlines the content requirements for the Unified Carrier Registration (UCR) page on the TxDMV website. The goal is to provide a clear and concise specification that enables an AI implementor to recreate the relevant content.
+
+**2.  Page Title:**
+
+*   "Unified Carrier Registration"
+
+**3.  Breadcrumbs:**
+
+*   Home > Motor Carriers
+
+**4.  Main Content:**
+
+**4.1. WYSIWYG Paragraph:**
+
+*   **Text:** "The Federal Motor Carrier Safety Administration (FMCSA) opened 2024 Unified Carrier Registration (UCR) on October 1, 2023. Enforcement will begin on January 1, 2024."
+
+**4.2. Spacer Paragraph:**
+ * Leave a 15px space
+
+**4.3. Tabs Paragraph:**
+
+This section contains three tabs: "Register or Renew", "Fees & Payment", and "More Information".
+
+**4.3.1. Register or Renew Tab:**
+
+*   **Tab Title:** "Register or Renew"
+*   **Content:**
+    *   "Register through the National Registration System, UCR at [www.ucr.gov](https://www.ucr.gov/). This is a new paperless online registration system and no longer the Indiana system. We recommended that you use Chrome, Firefox or Edge when accessing this website. If you are using Internet Explorer you may experience multiple errors."
+    *   "Go to [www.ucr.gov](https://www.ucr.gov/) and follow the computer prompts. The system is now enabled for all mobile devices."
+    *   "If you operated in 2021 and did not register, you must complete the appropriate year registration online at [www.ucr.gov](https://www.ucr.gov/)."
+
+**4.3.2. Fees & Payment Tab:**
+
+*   **Tab Title:** "Fees & Payment"
+*   **Content:**
+    *   "The UCR fee is determined by the number of motor vehicles (excluding trailers) last reported by the carrier to the Federal Motor Carrier Safety Administration (FMCSA)."
+    *   "For purposes of determining fees, a commercial motor vehicle is defined as a self-propelled vehicle used on the highways in commerce, principally to transport passengers or cargo if the vehicle:"
+        *   "has a gross vehicle weight rating or gross vehicle weight of at least 10,001 pounds, whichever is greater;"
+        *   "is designed to transport more than 10 passengers, including the driver; or"
+        *   "is used in transporting hazardous materials in a quantity requiring placarding."
+    *   UCR Fees Table:
+        *   **Header:** UCR 2025 Fees + Convenience Fee Added for Credit/Debit Cards
+        *   **(Table Data)**
+            | Bracket | Vehicles      | Fee       | 2.97%   | Total       |
+            | ------- | ------------- | --------- | ------- | ----------- |
+            | 1       | 0 to 2        | $46.00    | $1.37   | $47.37      |
+            | 2       | 3 to 5        | $138.00   | $4.10   | $142.10     |
+            | 3       | 6 to 20       | $276.00   | $8.20   | $284.20     |
+            | 4       | 21 to 100     | $963.00   | $28.60  | $991.60     |
+            | 5       | 101 to 1,000  | $4,592.00 | $136.38 | $4,728.38   |
+            | 6       | 1,001 & up    | $44,836.00| $1,331.63|$46,167.63  |
+    *   "All credit cards are the fee plus 2.97%."
+    *   **Heading:** "Credit Card Fee and Charge Information"
+    *   **Heading:** "Online Payment Methods"
+    *   "MasterCard, Visa, Discover, debit card or e-Check are accepted payment methods through the UCR National Registration System."
+    *   "If you are paying by e-Check you must update your originator ID number to 9000517433."
+    *   **Heading:** "Mail in Payment"
+    *   "If you wish to mail in a physical check or money order, it must be accompanied with a voucher. The voucher will be self-generated from [www.ucr.gov](https://www.ucr.gov/)."
+    *   Mailing Address:
+        ```
+        Unified Carrier Registration Plan
+        PO Box 2935
+        Idaho Falls, ID 83403-2935
+        ```
+    *   "If you need assistance with the website, please contact the UCR helpdesk while you are on the website during live support hours. (Mon-Fri 8am-4pm Mountain Time) 833-827-7526, or chat by clicking on the message button in the bottom right corner of the screen at [ucr.gov](https://www.ucr.gov) or email [helpdesk@ucr.gov](mailto:helpdesk@ucr.gov)."
+
+**4.3.3. More Information Tab:**
+
+*   **Tab Title:** "More Information"
+*   **Content:**
+    *   "You are not required to carry proof of compliance with UCR in the vehicle. You can carry the receipt for payment of the fees if you choose."
+    *   "You can check to see if you have registered for this program by viewing [www.ucr.gov](https://www.ucr.gov/). Two years of data is retained."
+
+**5. Links to Record:**
+
+*   [www.ucr.gov](https://www.ucr.gov/)
+
+**6. Other Considerations:**
+
+*   This document focuses solely on content. It does not include any design specifications.
+*   The AI implementor should be able to handle basic HTML formatting (headings, paragraphs, lists, tables, and links).
+*   Pay attention to formatting consistency and accuracy. The implemented content should closely match the source text.

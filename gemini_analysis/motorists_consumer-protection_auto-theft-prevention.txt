@@ -1,0 +1,130 @@
+```
+## Product Requirements Document: TxDMV.gov - Motor Vehicle Crime Prevention Authority
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the Motor Vehicle Crime Prevention Authority page on TxDMV.gov.  It focuses solely on the content within the main content area, excluding navigational elements, search, language selection, and footer information.
+
+**2. Goal**
+
+To provide a clear and comprehensive content specification for an AI implementor to accurately recreate the page content.
+
+**3. Scope**
+
+This document covers all text, images, and links found within the main content section of the page.
+
+**4. Content Requirements**
+
+**4.1. Main Body Content**
+
+**4.1.1. Introduction Paragraph**
+
+*   **Content:** "It doesn’t matter what kind of car you drive, all vehicles are a potential target of theft. In the state of Texas over 65,000 cars and trucks are stolen and almost 200,000 are burglarized each year. Many jurisdictions report that keys left inside and doors unlocked are major factors in stolen and burglarized vehicles."
+*   **Image:** "MVCPA_Logo1.jpg" (displayed on the right)
+    *   **Alternative Text:** "MVCPA Logo1"
+
+**4.1.2. Protect Your Vehicle List**
+
+*   **Heading:** "Protect Your Vehicle"
+*   **List:**
+    1.  "Always lock your vehicle and take your keys."
+    2.  "Never leave your car running and unattended."
+    3.  "Park in a well-lit area."
+    4.  "Take valuables with you when you are not in your vehicle."
+    5.  "Keep valuables out of sight."
+
+*   **Paragraph 1:** "Give parking attendants the ignition key only. Keep your trunk and glove box locked at all times. If possible, get separate keys for the ignition and the trunk and glove box."
+*   **Paragraph 2:** "Install an anti-theft device. Many insurance companies may give you a discount for certain anti-theft devices. Check with your agent for details."
+
+**4.1.3. Tabbed Content**
+
+*   **Tab 1: What to do if Your Car is Stolen**
+    *   **Content:** "Although the rate of auto theft is declining, thousands of Texas vehicles are stolen every year. If your car is stolen, the first thing to do is to remain calm and then follow these steps:"
+        1.  "Immediately contact the police and file a report. Make sure you provide your Vehicle Identification Number (VIN) number to help law enforcement agencies locate your vehicle if it has been stolen. If you do not have your VIN number readily available, contact your insurance company or financial lender."
+        2.  "Report the theft or burglary to your insurance provider. Even if the loss is not covered, reporting the crime will protect you if the automobile causes harm to others after being stolen. If possible, have the vehicle's title, the location of all keys before the theft, a thorough description of the vehicle and any personal property that was stolen with the vehicle."
+        3.  "Contact your financial institution if the vehicle is leased or still being financed."
+
+*   **Tab 2: Avoid Buying a Stolen Vehicle**
+    *   **Content:** "Many stolen vehicles are sold to unsuspecting buyers. If you knowingly buy a stolen car, you can be arrested. If you buy a stolen car unknowingly, you could lose the car and your money. To avoid becoming the car thief's second victim, we urge you to keep these tips in mind:"
+        *   "When buying from a private individual, make sure the title and registration match the name and address of the person selling the car."
+        *   "Be cautious of a seller with no fixed address, place of employment or phone number."
+        *   "Ask the seller for references about past financing and insurance on the vehicle. Verify the information with the bank, finance company or agent."
+        *   "Ensure the vehicle identification number (VIN) on the automobile's dash is present, secure and unaltered."
+            *   **Link Text:** "vehicle identification number (VIN)"
+            *   **Link URL:** "/motorists/how-to-find-the-vin"
+        *   "Check to ensure the VIN plate has not been repainted and the numbers stamped in the plate appear to be the original factory numbers."
+        *   "If in doubt about plate authenticity, check with a new car dealer who handles the same model, or contact a law enforcement agency. (Thieves may remove the VIN plate and replace it with one from a similar wrecked vehicle.)"
+        *   "Be suspicious of any deal that seems "too good to be true."
+
+*   **Tab 3: Insurance Collections**
+    *   **Content:**
+        *   **Heading:** "Texas Legislature Raises Auto Theft Fee to $4"
+        *   "The 86th Texas Legislature passed and Governor Abbott signed into law House Bill 2048 that raises the Auto Theft fee from $2 to $4 per motor vehicle covered by any form of motor vehicle insurance. The bill’s effective date is September 1, 2019. The fee is collected by the Motor Vehicle Crime Prevention Authority (MVCPA) using the Texas Comptroller of Public Accounts’ Webfile and website. The fee will now be used to support both auto theft prevention programs and emergency rooms and trauma centers. Also, effective September 1, 2019, the name of MVCPA changes to the Motor Vehicle Crime Prevention Authority (MVCPA)."
+            *   **Link Text:** "Webfile"
+            *   **Link URL:** "https://mycpa.cpa.state.tx.us/securitymp1portal/start.do"
+            *   **Link Text:** "website"
+            *   **Link URL:** "https://comptroller.texas.gov/taxes/insurance/mvcpa.php"
+        *   "Any insurance company writing any form of motor vehicle insurance in Texas, including an interinsurance or reciprocal exchange, mutual company, mutual association, or Lloyd's plan shall pay to the MVCPA a fee equal to $4 multiplied by the total number of motor vehicle years of insurance for insurance policies delivered, issued for delivery, or renewed by the insurer. This includes policies that cover any motor vehicle. The statute defines a motor vehicle as a self-propelled vehicle or a vehicle, trailer, or semitrailer designed for use with a self-propelled vehicle. The term does not include a vehicle that runs exclusively on fixed rails or tracks or a piece of equipment operated solely on private property."
+        *   "The Comptroller of Public Accounts will continue to work with the MVCPA to collect the fee and is updating their website, instructions and filing documents. To transition to the new fee, there will be one unique fee collection period, July 2019 through December 2019 (due March 1, 2020). This unique fee collection period requires insurers to use a one-time, special on-line and/or paper form (CPA Form 25-110). This is because insurers must pay $2 for all covered motor vehicles covered under policies issued during the July 1, 2019 through August 31, 2019 timeframe. Insurers must then pay the $4 fee for all covered motor vehicles covered under policies issued during the September 1, 2019 through December 31, 2019 timeframe. This one-time use form will have two lines for this reporting and payment cycle. This form will be available as soon as possible but well before the due date."
+        *   "Currently, the MVCPA collects over $50 million per year from the fee. Only $12.8 million was appropriated to the MVCPA to combat motor vehicle theft in FY18. The fee was instituted in 1993 to fund the MVCPA to prevent and reduce losses to the public from motor vehicle theft. At that time, there were more than 160,000 motor vehicle thefts per year. The number of motor vehicle thefts have fallen to less than 70,000 per year, but losses from the motor vehicle burglary and theft are over a billion dollars per year. The funds appropriated to MVCPA support special law enforcement taskforces that specialize in motor vehicle burglary and theft. They also work closely with the National Insurance Crime Bureau and insurers investigative units. These MVCPA funded taskforces recovered over 11,000 vehicles in 2018. When funds are available, MVCPA works with insurance organizations to inform the public on how to prevent motor vehicle burglary and theft. The recent If You Like it -Lock It! campaign launched by ICT and NICB was from FY18 unexpended balance funds provided by the Governor and Legislature into FY19. According to the law revised by HB2048, starting September 1, 2019, 60% of the $4 fee will go to the trauma facility and emergency medical services account while 20% will be provided to MVCPA. The remaining 20% will continue to be deposited into the General Fund."
+        *   "For more information, e-mail askmvcpa@txdmv.gov or call 512-465-1485."
+            *   **Email Address:** "askmvcpa@txdmv.gov"
+
+*   **Tab 4: Crime in Texas**
+    *   **Content:**
+        *   **Heading:** "Texas Department of Public Safety"
+        *   "The Texas Department of Public Safety has the responsibility to collect crime statistics from local law enforcement agencies and submit the information to the Federal Bureau of Investigation for inclusion into the Uniform Crime Report (UCR) national crime statistics program. The department publishes an annual crime report and provides the data in a searchable format on its public website. Participation in the FBI UCR Program is entirely voluntary. Crime statistics can be found at: TxDPS Crime in Texas reports."
+            *   **Link Text:** "TxDPS Crime in Texas reports"
+            *   **Link URL:** "https://www.dps.texas.gov/administration/crime_records/pages/crimestatistics.htm"
+
+**4.1.4. Watch Your Car Section**
+
+*   **Heading:** "Watch Your Car"
+*   **Paragraph:** "Motor vehicle theft and burglary from a motor vehicle can happen any time of year but the summer months are the busiest time for car thieves. The Motor Vehicle Crime Prevention Authority encourages Texans to always remember to secure their vehicle. Remember “If You Like It-Lock It.” Lock your vehicle and take your belongings – do everything in your power to reduce your chances of becoming a victim of auto theft."
+*   **Video Embed:**
+    *   **Source:** "https://player.vimeo.com/video/336911478?title=0&byline=0&portrait=0"
+    *   **Title:** "MVCPA - LIKE IT LOCK IT 30"
+
+**4.1.5. Top 10 Most Stolen Vehicles - 2018 Section**
+
+*   **Heading:** "Top 10 Most Stolen Vehicles - 2018 *"
+
+*   **List:**
+    1.  "Honda Civic"
+    2.  "Honda Accord"
+    3.  "Ford Pick-Up (Full Size)"
+    4.  "Chevrolet Pickup (Full Size)"
+    5.  "Toyota Camry"
+    6.  "Nissan Altima"
+    7.  "Toyota Corolla"
+    8.  "GMC Pickup (Full Size)"
+    9.  "Dodge Pick-Up (Full Size)"
+    10. "Jeep Cherokee/Grand Cherokee"
+
+*   "**NICB Hot Wheels report"
+
+**4.1.6. More Information Section**
+
+*   **Heading:** "More Information"
+*   **Paragraph:** "For more information, please email the Motor Vehicle and Crime Prevention Authority at AskMVCPA"
+    *   **Email Address:** "askmvcpa@txdmv.gov"
+
+**4.1.7. Anchor Menu**
+
+*   Link 1:
+    *   **Text:** "About MVCPA"
+    *   **URL:** "/about-us/MVCPA"
+*   Link 2:
+    *   **Text:** "MVCPA Grantees"
+    *   **URL:** "/mvcpa-grantees"
+*   Link 3:
+    *   **Text:** "MVCPA Grant Application System"
+    *   **URL:** "https://abtpa.tamu.edu/"
+
+**5. Notes**
+
+*   All headings should maintain their original heading levels (H2, H3, etc.).
+*   External links should open in a new tab/window.
+*   Any styling or formatting not explicitly mentioned is not within the scope of this document.
+*   The email address is "AskMVCPA" but is linked to askmvcpa@txdmv.gov
+```

@@ -1,0 +1,313 @@
+```json
+{
+  "product_requirements_document": {
+    "page_title": "Criminal History Review Process | TxDMV.gov",
+    "content": [
+      {
+        "section_title": "General Information",
+        "content_type": "paragraph",
+        "text": "Under Texas law, applicants for new and renewal licenses undergo a criminal history review as part of determining eligibility (or fitness) for licensure. As a result, applicants are required to provide information about all crimes resulting in convictions or deferred adjudications regardless of when the crimes occurred and applications are subject to a criminal history background check. The Licensing Section of the Motor Vehicle Division (MVD) reviews applicants’ criminal history before issuing or renewing a license and before amending a license due to changes in ownership or management."
+      },
+      {
+        "content_type": "paragraph",
+        "text": "The Texas Department of Motor Vehicles (TxDMV) may deny applications or revoke existing licenses when applicants’ criminal history indicates that applicants or their representatives should not be licensed."
+      },
+      {
+        "content_type": "paragraph",
+        "text": "The following statutes and rules govern criminal history review and fitness for licensing:"
+      },
+      {
+        "content_type": "list",
+        "list_type": "unordered",
+        "items": [
+          {
+            "text": "Occupations Code, Chapter 53, Subchapter D",
+            "link": "https://statutes.capitol.texas.gov/Docs/OC/htm/OC.53.htm"
+          },
+          {
+            "text": "43 Tex. Admin. Code Chapter 211",
+            "link": "https://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=43&pt=10&ch=211"
+          },
+          {
+            "text": "43 Tex. Admin. Code §215.89",
+            "link": "https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=43&pt=10&ch=215&rl=89"
+          },
+          {
+            "text": "43 Tex. Admin. Code §§ 221.15",
+            "link": "https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=43&pt=10&ch=221&rl=15"
+          },
+          {
+            "text": "221.19",
+            "link": "https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=43&pt=10&ch=221&rl=19"
+          },
+          {
+            "text": "221.111",
+            "link": "https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=43&pt=10&ch=221&rl=111"
+          },
+          {
+            "text": "and 221.112",
+            "link": "https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=43&pt=10&ch=221&rl=112"
+          }
+        ]
+      },
+      {
+        "section_title": "Review Process:",
+        "content_type": "paragraph",
+        "text": "MVD reviews the criminal history information provided by applicants and uses third party providers to identify relevant criminal history under the department’s guidelines. If the application and/or background checks reveals a conviction or deferred adjudication that could be a basis for denying the license, MVD will conduct a thorough review of the criminal history."
+      },
+      {
+        "content_type": "paragraph",
+        "text": "Failing to provide criminal history or providing false information may result in a staff recommendation to deny an application."
+      },
+      {
+        "content_type": "paragraph",
+        "text": "Application processing may take longer for applicants with criminal history. Applicants may be asked to submit additional information including evidence of rehabilitation and fitness to be a license holder, and cases may require review by a licensing committee which includes staff analysts, staff attorneys, and management and executive members."
+      },
+      {
+        "content_type": "paragraph",
+        "text": "When MVD recommends denying license applications, a letter will be sent detailing the reason for denial and available options. For applicants wishing to pursue the license these cases are referred to the Enforcement Division, and applicants may ask for a hearing at the State Office of Administrative Hearings (SOAH). The final decision following a SOAH hearing will be made by the department’s board."
+      },
+      {
+        "section_title": "Pre-Licensing Criminal History Evaluation Letter:",
+        "content_type": "paragraph",
+        "text": "Individuals with a criminal history who are enrolled or planning to enroll in an educational program that prepares them for a new license, may request MVD review their criminal background before applying for a license. Additional information about this process is included under the Criminal History Evaluation Letter.",
+        "link": "/dealers/criminal-history-evaluation-letter"
+      },
+      {
+        "section_title": "Guidelines:",
+        "content_type": "paragraph",
+        "text": "The TxDMV Board adopted criminal history and fitness rules which include the review criteria used and the reasons why certain crimes are related to the occupations being licensed. These guidelines are in Tex. Admin. Code §211.3, and are summarized below.",
+        "link": "https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=43&pt=10&ch=211&rl=3"
+      },
+      {
+        "content_type": "paragraph",
+        "text": "General Factors"
+      },
+      {
+        "content_type": "paragraph",
+        "text": "In determining whether a criminal conviction or deferred adjudication should be grounds to deny a license the following factors are considered:"
+      },
+      {
+        "content_type": "list",
+        "list_type": "unordered",
+        "items": [
+          "the nature and seriousness of the crime;",
+          "the relationship of the crime to the purposes for requiring a license to engage in the occupation;",
+          "the extent to which a license might offer an opportunity to engage in further criminal activity of the same type as that in which the person previously had been involved;",
+          "the relationship of the crime to the ability or capacity required to perform the duties and discharge the responsibilities of the licensed occupation; and",
+          "any correlation between the elements of the crime and the duties and responsibilities of the licensed occupation."
+        ]
+      },
+      {
+        "content_type": "paragraph",
+        "text": "In determining the fitness to perform the duties and discharge the responsibilities of the licensed occupation of a person who has been convicted of a crime, the department will also consider the following:"
+      },
+      {
+        "content_type": "list",
+        "list_type": "unordered",
+        "items": [
+          "the extent and nature of the person's past criminal activity;",
+          "the age of the person when the crime was committed;",
+          "the amount of time that has elapsed since the person's last criminal activity;",
+          "the conduct and work activity of the person before and after the criminal activity;",
+          "evidence of the person's rehabilitation or rehabilitative effort while incarcerated or after release;",
+          "evidence of the person's compliance with any conditions of community supervision, parole, or mandatory supervision; and",
+          "other evidence of the person's fitness, including letters of recommendation."
+        ]
+      },
+      {
+        "content_type": "paragraph",
+        "text": "Offenses Directly Related to the Duties and Responsibilities of the Licensed Occupations:"
+      },
+      {
+        "content_type": "paragraph",
+        "text": "The department has determined specific offenses that directly relate to the duties and responsibilities of the licensed occupations. Licensed occupations designated as retail license types have different standards as these occupations regularly interact with the public."
+      },
+      {
+        "content_type": "paragraph",
+        "text": "Retail license types include:"
+      },
+      {
+        "content_type": "list",
+        "list_type": "unordered",
+        "items": [
+          "converters",
+          "independent mobility motor vehicle dealers",
+          "lease facilitators",
+          "salvage dealers",
+          "the following types of general distinguishing numbers (GDN)"
+        ]
+      },
+      {
+        "content_type": "list",
+        "list_type": "unordered",
+        "items": [
+          "Independent Motor Vehicle",
+          "Independent Motorcycle",
+          "Travel Trailer",
+          "Trailer/Semitrailer"
+        ]
+      },
+      {
+        "content_type": "paragraph",
+        "text": "These offenses directly relate to the duties and responsibilities of retail license types:"
+      },
+      {
+        "content_type": "list",
+        "list_type": "ordered",
+        "items": [
+          "offenses involving fraud, theft, deceit, misrepresentation, or that otherwise reflect poorly on the person's honesty or trustworthiness, including an offense defined as moral turpitude;",
+          "offenses involving forgery, falsification of records, or perjury;",
+          "offenses involving the offering, paying, or taking of bribes, kickbacks, or other illegal compensation;",
+          "felony offenses against public administration;",
+          "felony offenses under a state or federal statute or regulation involving the manufacture, sale, finance, distribution, repair, salvage, or demolition, of motor vehicles;",
+          "felony offenses under a state or federal statute or regulation related to emissions standards, waste disposal, water contamination, air pollution, or other environmental offenses;",
+          "offenses committed while engaged in a licensed activity or on licensed premises;",
+          "felony offenses involving the possession, manufacture, delivery, or intent to deliver controlled substances, simulated controlled substances, dangerous drugs, or engaging in an organized criminal activity;",
+          "felony offenses against real or personal property belonging to another;",
+          "offenses involving the sale or disposition of another person's real or personal property;",
+          "a reportable felony offense conviction under Chapter 62, Texas Code of Criminal Procedure for which the person must register as a sex offender;",
+          "an offense against the family as described by Penal Code §§25.02, 25.07, 25.072, or 25.11;",
+            {
+              "links": [
+                {
+                  "text": "25.02",
+                  "url": "https://statutes.capitol.texas.gov/Docs/PE/htm/PE.25.htm#25.02"
+                },
+                {
+                  "text": "25.07",
+                  "url": "https://statutes.capitol.texas.gov/Docs/PE/htm/PE.25.htm#25.07"
+                },
+                {
+                  "text": "25.072",
+                  "url": "https://statutes.capitol.texas.gov/Docs/PE/htm/PE.25.htm#25.072"
+                },
+                {
+                  "text": "25.11",
+                  "url": "https://statutes.capitol.texas.gov/Docs/PE/htm/PE.25.htm#25.11"
+                }
+              ]
+            },
+          "felony offenses against the person;",
+          "a felony stalking offense as described by Penal Code §42.072;",
+            {
+                "url": "https://statutes.capitol.texas.gov/Docs/PE/htm/PE.42.htm#42.072"
+            },
+          "a felony offense against public order and decency as described by Penal Code §§43.24, 43.25, 43.251, 43.26, 43.261, or 43.262; and",
+            {
+              "links": [
+                {
+                  "text": "43.24",
+                  "url": "https://statutes.capitol.texas.gov/Docs/PE/htm/PE.43.htm#43.24"
+                },
+                {
+                  "text": "43.25",
+                  "url": "https://statutes.capitol.texas.gov/Docs/PE/htm/PE.43.htm#43.25"
+                },
+                {
+                  "text": "43.251",
+                  "url": "https://statutes.capitol.texas.gov/Docs/PE/htm/PE.43.htm#43.251"
+                },
+                {
+                  "text": "43.26",
+                  "url": "https://statutes.capitol.texas.gov/Docs/PE/htm/PE.43.htm#43.26"
+                },
+                {
+                  "text": "43.261",
+                  "url": "https://statutes.capitol.texas.gov/Docs/PE/htm/PE.43.htm#43.261"
+                },
+                {
+                  "text": "43.262",
+                  "url": "https://statutes.capitol.texas.gov/Docs/PE/htm/PE.43.htm#43.262"
+                }
+              ]
+            },
+          "offenses of attempting or conspiring to commit any of offenses listed above."
+        ]
+      },
+      {
+        "content_type": "paragraph",
+        "text": "License types not designated retail include manufacturers, distributors, and the following types of general distinguishing numbers (GDN):"
+      },
+      {
+        "content_type": "list",
+        "list_type": "unordered",
+        "items": [
+          "ambulance",
+          "axle",
+          "bus",
+          "engine",
+          "fire truck/fire fighting vehicle",
+          "heavy duty truck",
+          "transmission",
+          "wholesale motor vehicle dealer",
+          "wholesale motor vehicle auction"
+        ]
+      },
+      {
+        "content_type": "paragraph",
+        "text": "The following offenses relate to the duties and responsibilities of licenses types not designated retail:"
+      },
+      {
+        "content_type": "list",
+        "list_type": "ordered",
+        "items": [
+          "offenses involving fraud, theft, deceit, misrepresentation, or that otherwise reflect poorly on the person's honesty or trustworthiness, including an offense defined as moral turpitude;",
+          "offenses involving forgery, falsification of records, or perjury;",
+          "offenses involving the offering, paying, or taking of bribes, kickbacks, or other illegal compensation;",
+          "felony offenses against public administration;",
+          "felony offenses under a state or federal statute or regulation involving the manufacture, sale, finance, distribution, repair, salvage, or demolition, of motor vehicles;",
+          "felony offenses under a state or federal statute or regulation related to emissions standards, waste disposal, water contamination, air pollution, or other environmental offenses;",
+          "offenses committed while engaged in a licensed activity or on licensed premises;",
+          "felony offenses involving the possession, manufacture, delivery, or intent to deliver controlled substances, simulated controlled substances, dangerous drugs, or engaging in an organized criminal activity;",
+          "offenses of attempting or conspiring to commit any of the offenses listed above."
+        ]
+      },
+      {
+        "content_type": "paragraph",
+        "text": "The guidelines also include crimes which are independently disqualifying to all licensed occupations, such as:"
+      },
+      {
+        "content_type": "list",
+        "list_type": "ordered",
+        "items": [
+          "an offense listed in Article 42A.054, Code of Criminal Procedure; or",
+          {
+              "url": "https://statutes.capitol.texas.gov/Docs/CR/htm/CR.42A.htm#42A.054"
+          },
+          "a sexually violent offense, as defined by Article 62.001, Code of Criminal Procedure.",
+          {
+              "url": "https://statutes.capitol.texas.gov/Docs/CR/htm/CR.62.htm#62.001"
+          }
+        ]
+      },
+      {
+        "content_type": "paragraph",
+        "text": "This list of offenses is not exhaustive. After considering the circumstances of the crime and its relationship to the position of trust involved in the licensed occupation, the department may find that an offense not described above renders a person unfit to hold a license."
+      },
+      {
+        "section_title": "Responsibilities of the Applicant",
+        "content_type": "list",
+        "list_type": "ordered",
+        "items": [
+          "The applicant has the responsibility to provide evidence of fitness, including letters of recommendation, and provide supporting documents to show that the applicant has: maintained a record of steady employment;",
+          "supported the applicant's dependents;",
+          "maintained a record of good conduct; and",
+          "paid all outstanding court costs, supervision fees, fines, and restitution ordered in any criminal case in which the applicant has been convicted."
+        ]
+      },
+      {
+        "section_title": "Best Practices Guide:",
+        "content_type": "paragraph",
+        "text": "In addition to the information provided above, the following report is available on the Texas State Auditor’s Office website: Best Practices Guide: Applying for an Occupational License After Conviction or Deferred Adjudication, SAO Report No. 20-327",
+        "link": "https://sao.texas.gov/Manuals/GuideToApplyingForLicenseAfterConviction/"
+      },
+      {
+        "content_type": "paragraph",
+        "text": "The State Auditor’s Office, in collaboration with occupational licensing authorities, developed this guide to provide an overview of the occupational licensing application process for a person with a criminal conviction or deferred adjudication for a felony or misdemeanor offense. The guide presents the process outlined in Texas Occupations Code, Chapter 53, and is not intended to serve as legal advice.",
+        "link": "https://statutes.capitol.texas.gov/Docs/OC/htm/OC.53.htm"
+      }
+    ]
+  }
+}
+```

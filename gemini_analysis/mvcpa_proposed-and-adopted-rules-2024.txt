@@ -1,0 +1,77 @@
+```text
+## Product Requirements Document: TxDMV Proposed and Adopted Rules 2024 Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "Proposed and Adopted Rules 2024" page on the TxDMV website.  It focuses on the main content area, specifying the text and data to be presented. It also includes links to other sites.
+
+**2. Goal**
+
+To accurately reproduce the content of the specified webpage, enabling users to access information regarding proposed and adopted rules by the Motor Vehicle Crime Prevention Authority (MVCPA).
+
+**3. Scope**
+
+This document covers all textual content, including headings, paragraphs, and table data, as well as links to external documents and websites.  It *excludes* design elements, navigation menus, search bars, language selection, and footers.
+
+**4. Content Requirements**
+
+**4.1 Disclaimer Text:**
+
+*   Text: "**_DISCLAIMER:_** The following proposed and adopted rules are provided as a courtesy by the Motor Vehicle Crime Prevention Authority (MVCPA). While MVCPA makes every effort to ensure the accuracy and completeness of this information, the official version of proposed and adopted rules are those filed with the Secretary of State, which is the repository of official MVCPA rules. Those rules can be accessed directly from the Texas Register, Office of Secretary of State."
+*   Link: The phrase "Texas Register, Office of Secretary of State" links to `https://www.sos.state.tx.us/texreg/index.shtml` (target="_blank")
+*   Text: "With respect to the following documents, or other documents available from this site or others to which it links, MVCPA and the State of Texas make no warranty as to their accuracy, completeness, reliability, timeliness, or usefulness."
+
+**4.2 Submission of Comments:**
+
+*   Text: "**Submission of Comments:** Written comments on proposed rules must be received no later than 5 p.m. on the date stated in the preamble of each proposed rule. Email comments to"
+*   Link: The phrase "rules@txdmv.gov" links to `mailto:rules@txdmv.gov`
+
+**4.3 Main Content Heading:**
+
+*   Text: "**Proposed and Adopted Rules for 2024**"
+*   Text: "Rules that have been adopted by the Board are listed by year proposed."
+
+**4.4 Rules Table:**
+
+The following table contains information about proposed and adopted rules.
+
+| Proposal Filed                                                                                                                    | Proposal Summary (English and Español)                                                                                                      | Proposal Published | Adoption Filed                                                                                                               | Adoption Published | Effective Date |
+| :-------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- | :----------------- | :--------------------------------------------------------------------------------------------------------------------------- | :----------------- | :------------- |
+| [Chapter 57](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2024/MVCPA-Chapter-57-Proposal.pdf)                                 | [Summary/Resumen](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2024/Chap-57-English-Spanish-Summary.pdf)                                 | 11/08/24           | [Chapter 57](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2024/MVCPA-Chap-57-Adopt.pdf)                              | 2/7/25             | 2/13/25        |
+| [§57.36](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2024/MVCPA_57.36-Prop.pdf)                                             | [Summary/Resumen](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2024/57.36-English-Resumen-Summary.pdf)                                | 4/19/24            | [§57.36](https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/rules/2024/MVCPA-57.36-Adoption.pdf)                                | 8/2/24             | 8/11/24        |
+
+**5. "How can we make this page better for you?" Section.**
+
+*   **Text:** "How can we make this page better for you?"
+
+**6. Feedback Form**
+
+The information below needs to be inside the feedback form.
+
+*   **Text:** "We Value Your Feedback"
+*   **Text:** "Your message will go to our web team. Thank you for helping us to serve you better! If you want to contact a specific department and get a response, please go to the"
+*   **Link:** The phrase "About Us page" links to `/about-us`
+*   **Text:** Email
+*   **Text:** Your email
+*   **Text:** Message
+*   **Text:** Your message
+*   **Text:** Send message
+
+**7. Associated Links**
+
+*webDEALER | eTAG Login/Password Reset** links to https://webdealer.txdmv.gov/title/login.do
+*Application Status Check** links to https://txdmv.force.com/GetWorkItem
+*Dealer License Lookup** links to https://texasdmv.my.salesforce-sites.com/dealers
+*Motor Vehicle Inquiry** links to https://mvinet.txdmv.gov
+*Two Steps, One Sticker** links to http://twostepsonesticker.com
+*Renew Driver License at DPS** links to https://www.dps.texas.gov/section/driver-license
+*Texas by Texas (TxT) - Español** links to https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm_source=txdmv&utm_medium=footer&utm_campaign=txt
+*Texas by Texas (TxT)** links to https://txt.texas.gov/dmv/vehicle-registration-renewal?utm_source=txdmv&utm_medium=footer&utm_campaign=txt
+*Report Fraud, Waste or Abuse** links to https://sao.fraud.texas.gov/
+*Texas Veterans Portal** links to https://veterans.portal.texas.gov/
+*Border Programs Team** links to https://gov.texas.gov/organization/hsgd
+*Statewide Search** links to https://www.tsl.texas.gov/trail/index.html
+*Transparency** links to https://comptroller.texas.gov/transparency/
+*Facebook** links to http://www.facebook.com/TxDMV
+*Get Email Updates** links to https://public.govdelivery.com/accounts/TXDMV/subscriber/new
+*@TxDMV** links to http://x.com/txdmv

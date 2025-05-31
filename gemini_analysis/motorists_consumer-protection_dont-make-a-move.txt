@@ -1,0 +1,97 @@
+## Product Requirements Document: TxDMV "Don't Make a Move Without Us" Page
+
+**1. Introduction**
+
+This document outlines the content requirements for the "Don't Make a Move Without Us" page on the TxDMV.gov website. The goal is to provide a detailed specification that allows for accurate recreation of the page's content, functionality, and associated data.
+
+**2. Goal**
+
+The goal of this page is to provide consumers with information and resources to protect themselves when hiring a moving company in Texas. It emphasizes the importance of hiring licensed movers and provides tools and information to verify a mover's credentials and understand their rights.
+
+**3. Content Requirements**
+
+The primary content of the page is structured as follows:
+
+**3.1 Introductory Text:**
+
+*   **Content:** "We understand moving is stressful and the TxDMV wants to help you to protect yourself. That's why we say "Don't Make A Move Without Us!" By law, Texas movers must be licensed with the TxDMV. If you hire one that isn't, you risk losing your belongings."
+*   **Content:** "Keep in mind that the lowest price may not be the best deal - especially those offered on Internet message boards or sites. You might fall prey to a dishonest moving company that may demand more money to unload your possessions or fails to show up for delivery."
+*   **Content:** "Before you hire a mover, first check our <a href="https://apps.txdmv.gov/apps/mccs/truckstop/">Truck Stop</a>, the database that can tell you whether a company is licensed with the TxDMV. A licensed Texas mover will have an "Active" TxDMV certificate number on file."
+
+**3.2 Supporting Resources:**
+
+*   **Content:** "We also prepared <a href="/sites/default/files/body-files/movingtips.pdf">Moving Tips</a> and a <a href="/sites/default/files/body-files/moving_checklist.pdf">Moving Checklist</a> to help you with your move. If you do have a problem, we'll try to help. Please take the time to read the information below so you know what steps to take before and after the move."
+*   **Content:** "Your Rights and Responsibilities When You Move in Texas" - link to <a href="/sites/default/files/body-files/hhgbrochure.pdf">/sites/default/files/body-files/hhgbrochure.pdf</a>
+
+**3.3 "Truck Stop" Gray Card:**
+
+*   **Title:** Truck Stop
+*   **Image:** Motor Carrier Lookup (URL: `https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-09/truck-stop_0.png`)
+*   **Link:**
+    *   **Text:** Motor Carrier Lookup
+    *   **URL:** <a href="https://apps.txdmv.gov/apps/mccs/truckstop/">https://apps.txdmv.gov/apps/mccs/truckstop/</a>
+*   **Description:** "Find out if a motor carrier business is properly licensed in Texas."
+
+**3.4 Tabs:**
+
+The page contains three tabs, each with specific content as detailed below:
+
+**3.4.1 "Before Your Move" Tab:**
+
+*   **Accordion 1:**
+    *   **Title:** Choose a Licensed Mover
+    *   **Content:** "You will have many choices when it comes to selecting a moving company. If your mover isn't licensed to conduct moves in Texas, you could risk losing your material possessions, family heirlooms or other items of personal and irreplaceable value. It is illegal for a mover to operate without a license to conduct moves. You can check that your mover is licensed in Texas by checking our <a href="https://apps.txdmv.gov/apps/mccs/truckstop/">Truck Stop Motor Carrier Lookup</a>."
+    *   **Content:** "An "Active" certificate status means the mover is licensed."
+    *   **Content:** "If you can't find a moving company in our database, ask your mover to give you a copy of their TxDMV Certificate number and check that information in our <a href="https://apps.txdmv.gov/apps/mccs/truckstop/">Truck Stop Motor Carrier Lookup</a>."
+Truck Stop with image URL:`https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-10/truck-stop.png` and link URL:`https://apps.txdmv.gov/apps/mccs/truckstop/`
+
+*   **Accordion 2:**
+    *   **Title:** Review Proposals and Contracts
+    *   **Content:** "Read all documents before you sign your name. Even though most movers are legitimate and reputable, unwary consumers may fall prey to dishonest moving companies and could lose more than just what they paid to have their items moved."
+    *   **Content:** "Once you've selected your mover, make sure to get your agreement in writing. A licensed mover will provide you with both a proposal/estimate and a moving services contract BEFORE they begin to load your items. Some will give you a combined form that includes both the proposal and the contract together."
+    *   **Content:** "Prior to loading, the mover must provide you with a written proposal describing the services to be performed and indicating the maximum amount that you could be required to pay for their services. The proposal may be either binding or not-to-exceed:"
+        *   "A binding proposal states the exact price of the move."
+        *   "A not-to-exceed proposal states the maximum price of the move but allows the mover to charge less than the maximum."
+    *   **Content:** "To receive an accurate estimate, you must notify your mover of all items to be moved and specify required services such as moving your items up or down several flights of stairs, via long carries to/from your dwelling or using an elevator. Some movers will provide services such as these at an additional cost. The proposal should also indicate when payment is due and what forms of payment are accepted."
+    *   **Content:** "Licensed movers will also provide you with a moving services contract prior to loading your items. The items written on your proposal become a part of your contract along with the contract terms and conditions."
+    *   **Content:** "**Don't rely on any verbal agreements.** Be sure all agreements between you and your mover are written into the moving services contract. Last, but not least, remember to read all documents thoroughly and carefully before signing them."
+*   **Accordion 3:**
+    *   **Title:** Understand Liability vs. Transit Insurance
+    *   **Content:** "Mover’s Liability vs. Transit Insurance Coverage. Before the move, you and your mover are authorized to agree to the amount of your mover’s liability, if any, for loss of your items or damage to your items. You and the mover could agree that the mover would have no liability to you for loss of your items or damage to your items, or you and your mover could agree to more mover liability. For example, some movers and shippers (customers of a mover) agree to limit the mover’s liability to 60 cents per pound per item. If you and your mover agree to limit the mover’s liability to 60 cents per pound per item, and the mover loses your 50-pound television as a result of the move, the mover is only required to reimburse you $30 (50 pounds x 0.60 = $30). The level of the mover’s liability, if any, will become effective if you and the mover agree to that level, but it is possible that the mover will charge a higher fee for a higher level of mover liability. Also, keep in mind that the mover’s limits on liability are not the same as insurance."
+    *   **Content:** "You, as the shipper, can obtain insurance to protect your items."
+    *   **Content:** "Transit Insurance Coverage. Transit insurance can be purchased to help cover loss or damage to your goods. Some movers offer transit insurance, or you can purchase this type of policy from a separate insurance company. The insurance policy must cover loss or damage in excess of the household goods carrier liability as specified above. A copy of this policy or other appropriate evidence of purchased insurance must be issued to the shipper before the shipment is loaded. Policies must be written in a clear and concise manner, specifying the nature and extent of coverage included as well as any deductibles. The policy must also clearly indicate the name, address, and telephone number of the insurance company, the policy number, and a statement of whether claims are to be filed with the insurance company or with the mover."
+    *   **Content:** "As the shipper, you should discuss the mover’s liability with the mover prior to signing the moving services contract."
+    *   **List:**
+        *   "Low Priced Moves. If it's too good to be true, it probably is. What may look like a low cost move may not turn out to be a smart move. Unlicensed movers may advertise a very low cost for a move then increase the price once your items are loaded onto their truck. Your items would be in their custody until you pay the higher price."
+        *   "Generic Contact Information. Unlicensed movers typically have no local business address, use cell phones as their business phones or answer the phone with vague terms as "Movers" or "Moving Company". Ask questions. Ask the mover to give you their TxDMV certificate number; then check their number in our Truck Stop database."
+        *   "Unmarked Trucks. Unlicensed movers will typically have no markings on their trucks or use rental trucks. TxDMV requires all licensed movers to have their name, TxDMV certificate number, USDOT number on both sides of their truck either permanently attached or with a magnetic sign."
+        *   "No Proposal/Contract Documents. Unlicensed movers may not provide you with a proposal or contract document, or, may rush you through a contract form and make you sign it before reading it. A licensed mover will provide you with both a proposal and a contract document and will ask you to sign it at different stages of the move. A licensed mover will not assess additional charges after the contract is signed unless you both agree to them in writing. Please make sure you read any documents before you sign them."
+        *   "No "Rights and Responsibility" brochure provided. All licensed movers are required to provide you the `Your Rights and Responsibilities When You Move in Texas` document prior to loading your items. A link to that file is located at <a href="/sites/default/files/body-files/hhgbrochure.pdf">sites/default/files/body-files/hhgbrochure.pdf</a>"
+
+**3.4.2 "During Your Move" Tab:**
+
+*   **Content:** "Inventories. Some licensed movers may offer to prepare a descriptive inventory of your items for an additional cost. The inventory should list all items to be moved and their condition. The document should be signed by both you and the mover at both the point of origin and the destination. Remember to review the inventory for accuracy before you sign it."
+*   **Content:** "Inventories are often used during the claims process so inspect your shipment carefully. Make sure all items are accounted for and indicate any obvious damages during the move."
+*   **Content:** "Movers may prepare an inventory for their own use without an agreement between you and them. If so, the mover cannot assess a fee for preparing it."
+*   **Content:** "Packing and Loading. Depending upon your agreement with your mover, you may be doing some of the preparation for your move."
+*   **Content:** "If you're doing your own packing, be careful about overloading boxes. To avoid damage, do not pack fragile items with heavy items in the same box. Mark fragile boxes."
+*   **Content:** "Do not pack valuables (such as jewelry or money), medications or important papers for loading into the mover's truck. The mover is not responsible for these items."
+*   **Content:** "Your mover may have additional tips for preparing for your move."
+*   **Content:** "Delivery. Your mover must provide you with a completed copy of the moving services contract, signed by the two of you upon delivery of the shipment."
+*   **Content:** "Check the condition of your property and make any notations on the contract document before signing. Signing the contract upon delivery does not release the mover from any liabilities. The signatures only confirm that the shipment was delivered."
+*   **Content:** "Payment of Charges. The proposal document must explain when you will be required to pay your mover and what form of payment is accepted. Remember that the last amended contract or written proposal lists the total price that you will be required to pay at the time of delivery."
+*   **Content:** "You should be prepared to pay the maximum amount of money shown on the written proposal provided by your mover."
+
+**3.4.3 "In Case of a Problem" Tab:**
+
+*   **Content:** "Damage Claims. If you have a dispute about the charges or loss/damage to your goods, you must first file a written claim with your mover within 90 days from the date of the delivery. You must include enough information for the mover to investigate your claim along with any specific monetary amounts requested or other type of compensation you are seeking. If your mover does not receive your claim on time, your claim could be denied. If your claim involves damaged goods, you should preserve the containers along with the damaged goods so your mover may inspect them."
+*   **Content:** "Your mover has 23 days to acknowledge your claim in any written form unless the claim is resolved within 20 days. <a href="/sites/default/files/body-files/Claim_Acknowledgement_Letter.pdf">The Claim Acknowledgement Letter</a> must contain specific language required by the TxDMV rule regarding the claims process and the claimant’s right to request mediation from TxDMV. Your mover’s acknowledgment letter will look like the sample posted below. Your mover has 90 days from receipt of a claim to pay, decline to pay, or make a firm settlement offer in writing to the claimant. Your mover has the right to inspect containers or damaged goods within 30 days of receiving your claim. If you are not satisfied with your settlement, you can contact TxDMV for mediation or you may pursue the claim in a court of law."
+*   **Content:** "Mediation is provided by TxDMV at no cost. Ideally, mediation will be held by telephone conference, by written submission or in person at TxDMV facilities in Austin, Texas. If mediation is unsuccessful, you may pursue the claim in a court of law at your expense."
+*   **Content:** "If you wish to file for mediation through TxDMV, please download our <a href="/sites/default/files/form_files/ENF-HHG-MR1.pdf">Household Goods Mover Mediation Request Form</a> and submit your request within 35 days after the mover has responded to your claim with an unsatisfactory offer or a denial of your claim, or 90 days after the date you submitted your original claim you have not received a response from the mover.."
+*   **Content:** "If you feel that your mover is not complying with the rules and regulations set out by the State of Texas, you can file a complaint with TxDMV against a mover in several ways:"
+
+  *   **Link:** Complaint Management System (CMS) to URL: <a href="https://apps.txdmv.gov/apps/mccs/cms/">https://apps.txdmv.gov/apps/mccs/cms/</a>
+  *   **Link:** Let us know via e-mail to <a href="mailto:truckstop@txdmv.gov">truckstop@txdmv.gov</a>.
+  *   Call our consumer helpline at (888) 368-4689.
+
+*   **Content:** "Interstate Moves. Movers that conduct interstate moves are subject to federal regulations under the <a href="https://www.fmcsa.dot.gov/protect-your-move" target="_blank">Federal Motor Carrier Safety Administration (FMCSA)</a>. For more information on interstate moving companies or to file a complaint regarding an interstate move, visit www.protectyourmove.gov."

@@ -1,0 +1,163 @@
+```
+## Product Requirements Document: TxDMV Home Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the TxDMV home page based on the provided HTML. The focus is on capturing all text elements and functional aspects related to content display. Design elements and repetitive items (like headers, navigation, and footers) are excluded.
+
+**2. Main Content Area Requirements**
+
+**2.1. Hero Header**
+
+*   **Search Form:**
+    *   Placeholder text: "Search for..."
+    *   Submit button text (visually represented by a search icon): "Click to submit your search"
+
+**2.2. Emergency Alert**
+
+*   Text: "TxDMV does not administer toll roads, issue traffic citations, or collect fees via text message. Any messages claiming unpaid fees or fines from TxDMV are fraudulent. You may report these messages to the FBI at [www.ic3.gov](https://www.ic3.gov)."
+
+**2.3. Highlight Box**
+
+*   Text: "Check with Your [Local County Tax Assessor’s Office](/covid-19) for Up-To-Date Closures and Office Hours."
+
+**2.4. Popular Services Section**
+
+*   **Heading:** "Popular Services"
+*   **Service 1:**
+    *   Link: [/motorists/register-your-vehicle]
+    *   Image Alt Text: "Vehicle Registration"
+*   **Service 2:**
+    *   Link: [/homepage-renew-drivers-license-dps]
+    *   Image Alt Text: "Renew Driver License at DPS"
+*   **Service 3:**
+    *   Link: [/motorists/buying-or-selling-a-vehicle]
+    *   Image Alt Text: "Buying or Selling a Vehicle"
+*   **Service 4:**
+    *   Link: [/motorists/buying-or-selling-a-vehicle/get-a-copy-of-your-title]
+    *   Image Alt Text: "Get a Copy of Your Vehicle Title"
+
+**2.5. Second Row of Popular Services**
+
+*   **Service 5:**
+    *   Link: [/HB718]
+    *   Image Alt Text: "House Bill 718 Implementation"
+*   **Service 6:**
+    *   Link: [/homepage-rsc-appointments]
+    *   Image Alt Text: "Regional Service Center Appointments "
+*   **Service 7:**
+    *   Link: [/homepage-address-change]
+    *   Image Alt Text: "Address Change"
+*   **Service 8:**
+    *   Link: [/complaints]
+    *   Image Alt Text: "File a Complaint"
+
+**2.6 Third Row of Popular Services**
+
+*   **Service 9:**
+    *   Link: [/faqs]
+    *   Image Alt Text: "Frequently Asked Questions"
+*   **Service 10:**
+    *   Link: [/motorists/new-to-texas]
+    *   Image Alt Text: "New Resident"
+*   **Service 11:**
+    *   Link: [/motorists/license-plates]
+    *   Image Alt Text: "License Plates"
+*   **Service 12:**
+    *   Link: [/motorists/for-our-troops]
+    *   Image Alt Text: "For Our Troops"
+
+**2.7. Helpful Resources Section**
+
+*   **Heading:** "Helpful Resources"
+*   **Card 1: Calculate Your Vehicle's Value**
+    *   Title: "Calculate Your Vehicle's Value"
+    *   Iframe Source: [https://tools.txdmv.gov/tools/SPV/spv_lookup.php](https://tools.txdmv.gov/tools/SPV/spv_lookup.php)
+    *   Iframe Title: "Calculate Your Vehicle's Value"
+    *   "More Information" Link: [/standard-presumptive-calculator]
+*   **Card 2: Find Your Local Tax Office & DMV**
+    *   Title: "Find Your Local Tax Office & DMV"
+    *   Form Label: "County"
+    *   Select Option: "- Select a county -"
+    *   Select Options: _(list of all Texas counties, e.g., "Anderson", "Andrews", etc.)_
+    *   Submit Button Value: "Find Offices"
+
+**2.8 Work With Us**
+
+*   Title: Work With Us
+*   Menu Items:
+    *   Careers (/careers)
+    *   Contractors/Vendors (/tax-assessor-collectors/contractors-vendors)
+    *   Lienholders (/dealers/lienholders)
+    *   MVCPA Grantees (/about-us/MVCPA/grantees)
+    *   Law Enforcement Data Assistance (/open-records/law-enforcement-data-assistance-processes)
+    *   Regional Service Centers (/regional-service-centers)
+    *   Tax Assessor-Collectors (/tax-assessor-collectors)
+
+**2.9. Second Row: Dealers, Motor Carriers and upcoming Events**
+
+*   **Card 1: Dealers**
+    *   Title: "Dealers"
+    *   "System Logins" section:
+        *   eLICENSING Login ([https://texasdmv.force.com/customers/lace_login](https://texasdmv.force.com/customers/lace_login))
+        *   MVInet Login ([https://ssoextprd.txdmv.gov/sso/UI/Login?goto=http%3A%2F%2Fmvinet.txdmv.gov%2Fmvdi%2Fmvdi.html](https://ssoextprd.txdmv.gov/sso/UI/Login?goto=http%3A%2F%2Fmvinet.txdmv.gov%2Fmvdi%2Fmvdi.html))
+        *   webDEALER Login ([https://webdealer.txdmv.gov/title/login](https://webdealer.txdmv.gov/title/login))
+        *   webSALVAGE Login ([https://webdealer.txdmv.gov/title/salvageLogin](https://webdealer.txdmv.gov/title/salvageLogin))
+    *   "Dealer Resources" section:
+        *   Dealer Application Status Check ([https://txdmv.force.com/GetWorkItem](https://txdmv.force.com/GetWorkItem))
+        *   Dealer Complaints (/complaints)
+        *   Title Check (/motorists/buying-or-selling-a-vehicle/title-check-look-before-you-buy)
+*   **Card 2: Motor Carriers**
+    *   Title: "Motor Carriers"
+    *   "System Logins" section:
+        *   MCCS Login ([https://apps.txdmv.gov/apps/mccs/motorcarrier/](https://apps.txdmv.gov/apps/mccs/motorcarrier/))
+        *   TxPROS Login ([https://txpros.txdmv.gov](https://txpros.txdmv.gov))
+        *   TxFLEET Login ([https://txfleet.txdmv.gov/](https://txfleet.txdmv.gov/))
+    *   "Motor Carrier Resources" section:
+        *   Carrier License Search ([https://apps.txdmv.gov/apps/mccs/truckstop/](https://apps.txdmv.gov/apps/mccs/truckstop/))
+        *   eLINC ([https://apps.txdmv.gov/apps/mccs/txelinc/](https://apps.txdmv.gov/apps/mccs/txelinc/))
+        *   Motor Carrier Complaints (/complaints)
+        *   Temporary Permits (/motorists/register-your-vehicle/temporary-permits)
+*   **Card 3: Upcoming Events**
+    *   Title: "Upcoming Events"
+        *   "Metal Plate Changes & Processes – House Bill 718 and Inventory Management System (IMS) Training" (/calendar/metal-plate-changes-processes-house-bill-718-and-inventory-management-system-ims-7)
+        *   "Metal Plate Changes & Processes – House Bill 718 and Inventory Management System (IMS) Training"(/calendar/metal-plate-changes-processes-house-bill-718-and-inventory-management-system-ims-8)
+        *   "Metal Plate & Inventory Management (IMS) Changes and Processes Training"(/calendar/metal-plate-inventory-management-ims-changes-and-processes-training-5793)
+        *   "Dealer Training Webinar - Part 1"(/calendar/dealer-training-webinar-part-1-5777)
+        *   "Dealer Training Webinar - Part 2"(/calendar/dealer-training-webinar-part-2-5778)
+    *   "View All Events" button (/calendar)
+
+**2.10. FAQs and Forms**
+
+*   **Text Block**
+        *   FAQs (link to /faqs)
+*   **View Block**
+        *   Application for Certified Copy of Title (VTR-34) (/sites/default/files/form_files/VTR-34.pdf)
+        *   Application for Texas Title and/or Registration, Title Transfer (Form-130-U) (/sites/default/files/form_files/130-U.pdf)
+        *   Change of Address for Texas Motor Vehicle (VTR-146) (/sites/default/files/form_files/VTR-146.pdf)
+        *   Detailed Instructions for Application for Texas Title and/or Registration (VTR-130-UIF) (/sites/default/files/form_files/VTR-130-UIF.pdf)
+        *   Texas Motor Vehicle Transfer Notification (VTR-346) (/sites/default/files/form_files/VTR-346.pdf)
+        *   View All Forms (/forms)
+**2.11 Contact Information
+
+*  Contact Us (/contact-us)
+
+**2.12 Lower Navigation**
+
+*   Compact With Texans (/sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf)
+*   Disclaimer (/site-policies/disclaimer)
+*   Driver's Privacy Protection Act (/site-policies/drivers-privacy-protection-act)
+*   Report Fraud, Waste or Abuse (https://sao.fraud.texas.gov/)
+*   Site Policies (/site-policies)
+*   Texas Veterans Portal (https://veterans.portal.texas.gov/)
+*   Border Programs Team (https://gov.texas.gov/organization/hsgd)
+*   Statewide Search (https://www.tsl.texas.gov/trail/index.html)
+*   Transparency (https://comptroller.texas.gov/transparency/)
+*   Troops & Veterans (/motorists/for-our-troops)
+
+**3. Other Considerations**
+
+*   All links should be functional and point to the correct relative or absolute URLs.
+
+This PRD provides a comprehensive list of the textual content and functional elements required for recreating the specified sections of the TxDMV home page.
+```

@@ -1,0 +1,158 @@
+```
+## Product Requirements Document: TxDMV Title Check Page
+
+**1.  Introduction**
+
+This document outlines the content requirements for recreating the "Title Check - Look before you buy" page on the TxDMV.gov website.  The goal is to provide a comprehensive specification for an AI implementor to accurately reproduce the page's information architecture and textual content.
+
+**2.  Page Title**
+
+*   **Text:** Title Check - Look before you buy
+
+**3.  Breadcrumbs**
+
+*   Home
+*   Motorists
+*   Buying or Selling a Vehicle
+
+**4.  Main Content**
+
+**4.1. How To Do a Title Check (Highlight Box)**
+
+*   **Heading:** How To Do a Title Check
+*   **Instructions:**
+    1.  Get the VIN of the vehicle you want to buy. [Link to /motorists/how-to-find-the-vin with the text "Click here to see how to find the VIN"].
+    2.  Have your credit card available.
+    3.  Select one of the approved providers below. Prices begin at only a couple dollars so you may want to shop the vendors before making a selection. Be sure to note what is offered for the price.
+    4.  Follow the steps to obtain the report.
+
+**4.2. NMVTIS Explanation**
+
+*   **Text:**
+    The VIN is run through the National Motor Vehicle Title Information System (NMVTIS), a national consumer protection database that provides title information from states across the country. Whether you are buying from a local dealer, individual or eyeing a vehicle from an online auction website, it will help you to know what you are buying before you pay any money or sign any paperwork for the vehicle.
+
+    A report from the NMVTIS database gives you the vehicle’s title history, which includes whether the vehicle was ever in the possession of a junk or salvage yard or declared a “total loss” by an insurance company.
+
+**4.3. Watch the Title Check Video (Call to Action Box)**
+
+*   **Link:** <http://youtu.be/Fe5zlLz_DKc>
+*   **Text:** Watch the Title Check Video
+
+**4.4. Tabbed Content: NMVTIS Providers and Title Brands**
+
+*   **Tab 1: For Consumers & Businesses**
+    *   **Content:**
+        The providers below are approved by the U.S. Department of Justice to provide information from the National Motor Vehicle Title Information System (NMVTIS) to the public. These approved providers agree to provide NMVTIS reports that meet federal requirements. When you select an approved provider, you will leave the TxDMV website and be routed to the provider’s website.
+
+        Please note this is not a complete list of all providers. For a complete list of approved providers, please visit the [link to <https://vehiclehistory.bja.ojp.gov/nmvtis_vehiclehistory> with the text "National Motor Vehicle Title Information System"](NMVTIS) website.
+        *   [Link to <https://www.bumper.com/vin-decoder/> with the text "Bumper.com"]
+        *   [Link to <https://www.carsforsale.com/free-vehicle-history-reports> with the text "Carsforsale.com"]
+        *   [Link to <https://www.carvertical.com/> with the text "Carvertical.com"]
+        *   [Link to <https://www.checkthatvin.com/ctv/#/home> with the text "Checkthatvin.com"]
+        *   [Link to <https://www.clearvin.com/en> with the text "Clearvin.com"]
+        *   [Link to <https://www.cvrconnect.com/about-us/strategic-partners> with the text "Cvrconnect.com"]
+        *   [Link to <https://www.titlecheck.us/index.html> with the text "Titlecheck.us"]
+        *   [Link to <https://www.vinaudit.com/> with the text "Vinaudit.com"]
+        *   [Link to <https://www.vindatahistory.com/> with the text "Vindatahistory.com"]
+        *   [Link to <https://vingurus.com/> with the text "Vingurus.com"]
+        *   [Link to <https://www.vinsmart.com/> with the text "Vinsmart.com"]
+
+*   **Tab 2: For Dealers**
+    *   **Content:**
+        Please note: Consumers CANNOT receive NMVTIS Title History Reports from Carfax, CVR, DMVDesk, or Experian; these four entities provide information only to car dealerships..
+
+        This is not a complete list of all providers. For a complete list of approved providers, please visit the [link to <https://vehiclehistory.bja.ojp.gov/nmvtis_vehiclehistory> with the text "National Motor Vehicle Title Information System"] (NMVTIS) website.
+        *   [Link to <https://titlecheck.us/index.html> with the text "AutoDataDirect"]
+        *   [Link to <https://www.carfaxonline.com/nmvtis> with the text "Carfax"]
+        *   [Link to <https://www.carsforsale.com/free-vehicle-history-reports> with the text "Carsforsale.com"]
+        *   [Link to <https://www.carvertical.com/> with the text "Carvertical.com"]
+        *   [Link to <https://www.checkthatvin.com/ctv/#/home> with the text "Checkthatvin.com"]
+        *   [Link to <https://www.clearvin.com/> with the text "Clearvin.com"]
+        *   [Link to <https://www.cvrconnect.com/about-us/strategic-partners> with the text "Cvrconnect.com"]
+        *   [Link to <https://mvscusa.com/reports-2/nmvtis/> with the text "DMVDesk"]
+        *   [Link to <https://www.experian.com/automotive/automotive-autocheck-nmvtis> with the text "Experian"]
+        *   [Link to <https://www.titlecheck.us/index.html> with the text "Titlecheck.us"]
+        *   [Link to <https://www.vinaudit.com/> with the text "Vinaudit.com"]
+        *   [Link to <https://www.vindatahistory.com/> with the text "Vindatahistory.com"]
+        *   [Link to <https://vingurus.com/> with the text "Vingurus.com"]
+        *   [Link to <https://www.vinsmart.com/> with the text "Vinsmart.com"]
+
+*   **Tab 3: Received a Letter?**
+    *   **Content:**
+        If you received a letter from us indicating a title brand was applied to your title from another state, you can:
+
+        1.  Contact the state that reported the brand if you believe the information about the vehicle is incorrect. [Link to /motorists/buying-or-selling-a-vehicle/title-check-look-before-you-buy/out-of-state-dmv-list with the text "View contacts for Out-of-State Departments of Motor Vehicles"].
+        2.  Obtain a written statement from that state which either verifies that the brand is not in the state’s motor vehicle record, or that the brand was applied in error to your vehicle. The statement must be issued by an official from the state and on that state’s official letterhead.
+        3.  Mail the written statement, the Texas Title (if you have already received it), and a request to remove the brand to:
+
+        Texas Department of Motor Vehicles
+        Vehicle Titles and Registration Division
+        P.O. Box 26420
+        Austin, Texas 78755-0420
+
+        We will review the information submitted and notify you whether a new Texas Title will be issued without the brand.
+
+        If you need additional assistance, please contact us at the phone number listed in the letter.
+
+        For general questions about titles, please contact us at 1 (888) 368-4689 or by email, [mailto:AskDMV@TxDMV.gov with the text "AskDMV@TxDMV.gov"].
+
+*   **Tab 4: Title Brands & What They Mean**
+    *   **Content:**
+        *   **Clear:** At the time that you purchased this report, there were no brands reported for the vehicle.
+        *   **Custom Vehicle / Replica:** A custom and replica vehicle has been altered from the manufacturer’s original design or has a body constructed from materials not original to the vehicle. This category includes the following brands: Reconstructed, Replica and Street Rod.
+            [Link to /motorists/buying-or-selling-a-vehicle/title-check-look-before-you-buy/custom-replica with the text "Abandoned Vehicles"]
+        *   **Gray Market:** This vehicle was manufactured for use outside the United States and has been brought into the United States. The vehicle is not in compliance with applicable federal standards and cannot be registered or titled in Texas.
+        *   **Junk:** Vehicle is incapable of safe operation for use on U.S. roads or highways and has no resale value except as a source of parts or scrap, or the vehicle's owner has irreversibly designated the vehicle as a source of parts or scrap. This vehicle shall never be titled or registered.
+            [Link to /motorists/buying-or-selling-a-vehicle/title-check-look-before-you-buy/junk-title-brands with the text "Junk Title Brands"]
+        *   **Manufacturer Buyback / Warranty Return:** A vehicle that has been returned to the manufacturer under warranty or bought back by the manufacturer under jurisdiction-defined regulations or laws, such as lemon laws.
+            [Link to /motorists/consumer-protection/lemon-law with the text "Texas Lemon Law"]
+        *   **Odometer:** The odometer reading is reported as either the true or not true mileage for the vehicle.
+            [Link to /motorists/buying-or-selling-a-vehicle/title-check-look-before-you-buy/odometer-brands with the text "Odometer Brands"]
+        *   **Rebuilt:** The vehicle, previously branded as "salvage", has passed anti-theft and safety inspections, or other jurisdiction procedures, to ensure the vehicle was rebuilt to required standards. Also known as prior salvage.
+            [Link to /motorists/buying-or-selling-a-vehicle/title-check-look-before-you-buy/rebuilt with the text "Rebuilt Vehicles"]
+        *   **Salvage:** Any vehicle which has been wrecked, destroyed or damaged, to the extent that the total estimated or actual cost of parts and labor to rebuild or reconstruct the vehicle to its pre-accident condition and for legal operation on roads or highways exceeds a jurisdiction-defined percentage of the retail value of the vehicle. This vehicle can be rebuilt for use again.
+            [Link to /motorists/buying-or-selling-a-vehicle/title-check-look-before-you-buy/salvage-brands with the text "Salvage Brands"]
+        *   **VIN Replaced by a New State-Assigned VIN:** This brand does not necessarily indicate a problem with the vehicle. Your vehicle should be titled under a different VIN and further research should be done to establish the correct VIN. Please contact the state that made this report for more information.
+        *   **Water Damage:** The vehicle has been damaged exclusively by flood water.
+            [Link to /motorists/buying-or-selling-a-vehicle/title-check-look-before-you-buy/water-damage with the text "Water-Damaged Vehicles"]
+
+*   **Tab 5: Used Vehicle Buying Tips**
+    *   **Content:**
+        How to Buy a Used Vehicle
+
+        When you buy a used vehicle in Texas, the state does not provide any warranty or consumer protection on the reliability of that vehicle. It is up to you to make sure you are doing everything you can protect yourself – whether you are buying from a dealer or individual.
+
+        For passenger cars and pickup trucks, dealers are required by law to post a “Buyers Guide” on the vehicle, which will tell you whether it is being sold “as is” or with a warranty.
+
+        *   **Title Check.** Before you buy, take down the Vehicle Identification Number (VIN) and go to [Link to /motorists/buying-or-selling-a-vehicle/title-check-look-before-you-buy with the text "Title Check"] on the TxDMV website to use the national motor vehicle database to make sure the vehicle has a clean title.
+        *   **Mechanic Inspection.** Have a trusted mechanic look over the vehicle before you sign any paperwork or pay any money, including a down payment.
+        *   **Service Report.** Use a vehicle history company to get accident repair and maintenance records.
+        *   **Sales Contract.** Be sure to read all of the documents, including sales agreements or buyer’s orders before you sign them.
+        *   **Vehicle Title.** Never, ever walk away from a private sale without the title. Have the seller print and sign their name, provide the sales date, and enter the odometer reading on the back of the title.
+        *   [Link to /sites/default/files/form_files/130-U.pdf with the text "Application for Texas Title and/or Registration (Form 130-U)"]. Make sure the seller prints and signs their name, and enters the sales price on this form. You must have this form when you apply for title.
+        *   [Link to <https://permit.txdmv.gov/Permit/VTPermit> with the text "Vehicle Transit Permit"]. The seller should keep the vehicle plates. Downloading the Vehicle Transit Permit from the TxDMV website gives you 5 days to legally drive the vehicle so you can go to your county tax office to apply for title and registration.
+        *   **County Tax Office.** You must apply for a new title within 30 days of purchasing the vehicle or you will be charged financial penalties.
+        * Find Your Local Tax Office & DMV: County: Select a county[Search Bar functionality and implementation is not required]
+
+**4.5. Additional Information**
+
+*   **Heading:** Additional Information
+*   **Text:**
+    For more information, please visit the [link to <http://vehiclehistory.bja.ojp.gov> with the text "National Motor Vehicle Title Information System"](NMVTIS) website.
+
+    Besides the title history, the TxDMV recommends you also consider purchasing a complete vehicle history service report from one of many private companies that offer this service. These reports generally includes maintenance and repair records. We also recommend that you have the vehicle inspected by a reputable mechanic before making your purchase.
+
+    If you have purchased a vehicle from a Texas dealer and you discover an issue with the vehicle’s title history you may want to file a [Link to /complaints with the text "Consumer Complaint with TxDMV's Enforcement Division."].
+    
+    NMVTIS Background
+
+    On October 25, 1992, President George H.W. Bush signed the Anti Car Theft Act, which he called “absolutely critical if we are to strike back against auto thieves...”
+
+    The act calls for the creation and use of the National Motor Vehicle Title Information System to stop title fraud; vehicle export inspections to look for stolen vehicles; stiffer penalties for car thieves and chop shop operators; and makes carjacking a federal crime.
+
+    “These criminals, who show no respect for the lives or property of law-abiding Americans, must be punished in the strongest possible manner,” President Bush said.
+
+    The U.S. Department of Justice, effective 1996, handles the motor vehicle database system. The TxDMV partnered with the American Association of Motor Vehicle Administrators to administer NMVTIS. NMVTIS works to limit the consumer and title fraud of vehicles nationwide.
+
+    Texas aggressively combats title fraud and auto theft. The TxDMV investigates title fraud and consumer complaints with the assistance of law enforcement. The agency houses the Motor Vehicle Crime Prevention Authority, providing law enforcement agencies and consumers with auto theft and burglary grants and detection training.
+```

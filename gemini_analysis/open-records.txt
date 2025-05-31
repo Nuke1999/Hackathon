@@ -1,0 +1,139 @@
+```
+# Product Requirements Document: TxDMV Open Records Page
+
+## 1. Introduction
+
+This document outlines the content requirements for recreating the TxDMV Open Records web page. The primary goal is to provide a clear and concise specification for an AI implementor to accurately reproduce the page's core information architecture. Focus is placed on content elements within the main content area, and includes only direct links and page specific content.
+
+## 2. Main Content Requirements
+
+### 2.1. Page Title
+"Open Records | TxDMV.gov"
+
+### 2.2. Content Sections
+
+#### 2.2.1. Notice (as of Friday, September 27, 2024)
+**Text:**
+"NOTICE: As of Friday, September 27, 2024, at 5:00PM, TxDMV is implementing a new system for the submission of Public Information Requests online. You will be able to access the new system and submit your requests at the Texas Department of Motor Vehicles’ Public Information Request Center."
+**Link:**
+*   Text: "Public Information Request Center"
+*   URL: "https://txdmv.govqa.us/WEBAPP/_rs/" (opens in a new tab: `target="_blank"`)
+
+#### 2.2.2 Notice Effective September 1, 2023
+**Text:**
+"**NOTICE:** Effective September 1, 2023, license applications, which includes applications for a General Distinguishing Number or “GDN”, are confidential and excepted from disclosure under Section 552.11765 of the Texas Government Code, also known as the Public Information Act (the PIA), as well as the home address, home and personal cell phone number, email address, social security number, date of birth, driver's license or other state identification number, passport number, emergency contact information, and payment information of an applicant for a license and any individual who is a current or former license holder. The name, license number, and license status of license applicants and current or former license holders are not confidential."
+
+#### 2.2.3. Requesting Public Information
+**Heading:** Requesting Public Information
+
+**Text:** "Texas Government Code Chapter 552, also known as the Public Information Act or PIA, gives you the right to access certain government records. The PIA also establishes procedures that governmental bodies must follow when responding to requests for public information. Public Information Act requests are sometimes referred to as open records requests."
+
+"In addition to the PIA, TxDMV must comply with 18 U.S.C. Chapter 123 and Transportation Code Chapter 730 when disclosing motor vehicle records. If you are requesting motor vehicle records, you must submit the request on the department's form using the delivery information listed on the form. Please be aware that the department may be required to redact personal information from those records before providing them to you."
+
+#### 2.2.4. Information NOT Maintained by TxDMV
+**Heading:** **Please note, the following types of information are NOT maintained by TxDMV:**
+
+**List:**
+
+1.  Driver License and Driver Records
+
+    *   Text: Texas Department of Public Safety
+    *   URL: http://www.dps.texas.gov/ (opens in a new tab: `target="_blank"`)
+2.  Crash Records and Road Conditions
+
+    *   Text: Texas Department of Transportation
+    *   URL: http://www.txdot.gov/ (opens in a new tab: `target="_blank"`)
+3.  Boat Titling and Registration Records
+
+    *   Text: Texas Parks & Wildlife Department
+    *   URL: http://tpwd.texas.gov/ (opens in a new tab: `target="_blank"`)
+
+#### 2.2.5. Are you requesting motor vehicle records?
+**Heading:** Are you requesting motor vehicle records?
+
+**Text:** If you are requesting title histories, vehicle registration information, or a list of vehicles in your name, you must submit your request via US Mail or in person at one of our Regional Service Centers using a Request for Texas Motor Vehicle Information (Form VTR-275). To be considered complete, the form must specify the type of records being requested in the section provided (select “Other” if requesting a list of vehicles in your name) and you must include a copy of your identification, such as a driver’s license or passport, and any required supporting documentation as listed on page 2 of the form. If your request includes a motor vehicle record that has an associated fee stated on the Form VTR-275, you must include payment in the form of a personal check, money order, or cashier's check made payable to TxDMV. Do not mail cash. If no fee is listed, someone will contact you with cost and payment information. You must mail your completed form, a copy of your identification, and any required payment or documentation to the address listed on the form or present it in person at a Regional Service Center. (Note: Requests for a list of vehicles in your name must be submitted via US Mail.) If you have any questions on how to fill out the form, which records to request, or what supporting information is required, please visit Contact Us | TxDMV.gov, scroll down to the “Contact Us Online” section, choose the subject “Other” from the drop-down menu, and enter the applicable information to submit your question to our Consumer Relations Division. **Please note that Form VTR-275s cannot be submitted via email.**
+
+*   Text: Regional Service Centers
+    *   URL: regional-service-centers
+*   Text: Request for Texas Motor Vehicle Information (Form VTR-275)
+    *   URL: sites/default/files/form_files/VTR-275.pdf
+*   Text: Contact Us | TxDMV.gov
+    *   URL: /contact-us
+
+**Text:** For other motor vehicle records, such as duplicate titles, replacement registration stickers or license plates, etc., please click the “Forms” button at the top of the page, enter a keyword where indicated, then click “Find Forms.” To browse the list of available forms, select “Title & Registration Forms” and click “Find Forms.” **Be sure to follow the submittal instructions listed on the forms**, as most of the forms cannot be submitted via email or must be emailed to a specific email address.
+
+#### 2.2.6. How to Submit a Public Information Act Request (Accordion 1 of 3)
+
+**Section Title:** How to Submit a Public Information Act Request
+
+**Text:** If you are requesting records other than motor vehicle records, such as TxDMV complaint or enforcement information (including copies of final orders), compiled batch reports from databases (statistical information), dealer or manufacturer licensing information (except license applications), motor carrier information, personnel information (for employment verifications email DMV_Payroll@txdmv.gov), or purchasing information (including contract information), you must submit your request through one of the following methods:
+
+*   **Through Our Public Information Request Center:**
+    *   Text: Our Public Information Request Center
+    *   URL: https://txdmv.govqa.us/WEBAPP/_rs/ (opens in a new tab: `target="_blank"`)
+*   Text: Public Information Request Center
+    *   URL: https://txdmv.govqa.us/WEBAPP/_rs/ (opens in a new tab: `target="_blank"`)
+
+*   **By Mail:**
+
+    Open Records
+    Office of General Counsel
+    Texas Department of Motor Vehicles
+    4000 Jackson Avenue
+    Austin, TX 78731
+
+*   **In Person:**
+
+    Attn: Open Records
+    Office of General Counsel
+    Texas Department of Motor Vehicles
+    4000 Jackson Avenue, Building 1
+    Austin, Texas 78731
+
+*   **Email:**
+
+     Submit requests by email to the TxDMV Office of General Counsel at OpenRecords@TxDMV.gov
+
+**To assist us in handling your request as accurately and efficiently as possible, keep in mind the following tips:**
+
+1.  Requests for public information must be made ***in writing***.
+2.  Include your full name and contact information, including email address if you have one.
+3.  Be as specific as possible in describing the information you are seeking. Include date ranges if applicable. We will work with you to narrow or clarify your request to locate the records you are seeking.
+4.  Your request must be for records or information that already exists - the PIA does not require an agency to answer questions, perform legal research, or continue to provide records as they are created in the future.
+5.  By law, a request is considered to be received during regular business hours (between 8 a.m. and 5 p.m.) on a regular business day (not a state holiday or skeleton crew day).
+6.  To expedite our response to your request, you may ask that we redact confidential information prior to releasing it to you.
+
+#### 2.2.7. What Happens Next? (Accordion 2 of 3)
+**Section Title:** What Happens Next?
+
+**Text:** PIA requests are handled in the order in which they are received. While TxDMV strives to release records as promptly as possible, the PIA allows agencies up to 10 business days to respond to a request. Depending on the scope of your request, we may need to contact various parts of the agency to ask several different employees to locate and compile responsive records.
+
+Although the PIA creates a presumption that information in the possession of a governmental body is available to the public, exceptions exist that may limit the public disclosure of certain types of confidential, privileged, or sensitive information. If a governmental body believes that requested information is confidential or falls within an exception to disclosure in the PIA, it generally must request a ruling from the Office of the Attorney General (OAG) within 10 business days of receiving the request. The OAG will determine in a letter ruling whether information is excepted from public disclosure or whether it must be released.
+
+The OAG's website contains information on the PIA, including the rights of requestors, the responsibilities of governmental bodies, and procedural information.
+
+*   Text: Office of the Attorney General (OAG)
+    *   URL: https://www.texasattorneygeneral.gov/og/open-government (opens in a new tab: `target="_blank"`)
+*   Text: OAG's
+    *   URL: https://www.texasattorneygeneral.gov/og/open-government (opens in a new tab: `target="_blank"`)
+
+**Heading:** Cost of Records
+
+**Text:** TxDMV may charge for releasing information in compliance with the cost rules established by the OAG. If a request for information will result in charges of more than $40, we will send you a cost estimate before doing any work on the request. You must respond to any written estimate of charges within 10 days or the request will be considered automatically withdrawn.
+
+If estimated costs exceed $100, TxDMV may require a bond, prepayment or deposit.
+
+#### 2.2.8. Law Enforcement Requests (Accordion 3 of 3)
+**Section Title:** Law Enforcement Requests
+
+**Text:** Law enforcement entities have multiple options for receiving motor vehicle records and other information from the department. For more information on these processes please visit Law Enforcement Assistance Processes.
+
+*   Text: Law Enforcement Assistance Processes
+    *   URL: /open-records/law-enforcement-data-assistance-processes
+
+**Text:** Subpoenas and discovery are not open records requests. To request information through a subpoena or deposition by written questions email the document to: GCO_General@txdmv.gov
+
+### 2.3. Back to Link
+
+There is no link included
+```

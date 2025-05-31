@@ -1,0 +1,124 @@
+```text
+# Product Requirements Document: New to Texas Page
+
+## 1. Introduction
+
+This document outlines the content requirements for the "New to Texas" page on the TxDMV.gov website. It provides detailed specifications for all text and links within the main content area of the page, enabling accurate replication of the information presented.
+
+## 2. Goal
+
+The goal of this page is to provide clear instructions and resources for individuals relocating to Texas on how to register their vehicles and obtain necessary documentation.
+
+## 3. Content Specifications
+
+### 3.1. Main Heading
+
+*   **Text:** New to Texas
+
+### 3.2. Page Content
+
+*   **Heading:** Welcome to the Lone Star State
+*   **Text:** You have 30 days from the time you move here to register your vehicle in the state. To learn how, follow the steps below. In no time at all, we will be proud to call you a Registered Texan!
+
+### 3.3. Checklist Download
+
+*   **Link Text:** Download: Vehicle Title and Registration Information for New Texans (PDF)
+*   **Link URL:** /sites/default/files/body-files/ChecklistForNewTexans.pdf
+
+### 3.4. Steps to Becoming a Registered Texan
+
+*   **Heading:** Here are the steps to becoming a Registered Texan:
+
+#### 3.4.1. Step 1: Vehicle Inspection and Insurance
+
+*   **Sub-heading:** 1. Vehicle Inspection and Insurance
+*   **Text:** If you live in one of the following emissions counties you will need to obtain a passing vehicle emissions inspection before attempting to register your vehicle: Brazoria, Collin, Dallas, Denton, El Paso, Ellis, Fort Bend, Galveston, Harris, Johnson, Kaufman, Montgomery, Parker, Rockwall, Tarrant, Travis, Williamson. Simply take your vehicle to a certified Texas Department of Public Safety (DPS) inspection station. Many mechanic shops, oil change locations and service stations are certified by DPS as inspection stations.
+*   **NOTE:** Commercial vehicles must continue to get the vehicle inspected AND have it pass a safety inspection before you can renew your vehicle registration.
+*   **Text:** In Texas, you must show you have insurance coverage for a minimum of $30,000 per injured person, up to a total of $60,000 for everyone injured in an accident, and $25,000 for property damage.
+*   **Link Text:** certified Texas Department of Public Safety (DPS) inspection station
+*   **Link URL:** https://www.dps.texas.gov/apps/rsd/vi/VIactiveStationLocator/Default.aspx/" target='\_blank"'>
+*   **Link Text:** Find your nearest inspection station
+*   **Link URL:** https://www.dps.texas.gov/apps/rsd/vi/VIactiveStationLocator/Default.aspx/
+
+#### 3.4.2. Step 2: Registration
+
+*   **Sub-heading:** 2. Registration
+*   **Text:** Next, it's time to get your vehicle registration sticker and license plates. To do this, you must visit your local county tax-assessor collector office. You will need your insurance card and proof you own the vehicle, such as the registration or title from your previous state.
+*   **Text:** If you live in one of the following emissions counties you will also need to obtain a passing vehicle emissions inspection before attempting to register your vehicle: Brazoria, Collin, Dallas, Denton, El Paso, Ellis, Fort Bend, Galveston, Harris, Johnson, Kaufman, Montgomery, Parker, Rockwall, Tarrant, Travis, Williamson.
+*   **Text:** Visit your local county tax office. You are not required to title your vehicle in Texas, but first-time registrants must fill out and complete Application for Texas Title and/or Registration (Form 130-U).
+*   **Text:** The base registration fee in Texas is $50.75 plus $1 for TexasSure, the electronic insurance verification program and other Department of Public Safety initiatives. So, total state registration is $51.75 but counties may add other fees to this cost.
+*   **Text:** For commercial vehicles the state portion of your vehicle's safety inspection fee will be due at this time.
+*   **Text:** For non-commercial vehicles the required Inspection Replacement Fee and Emissions Inspection Fee (if applicable) will be due at this time.
+*   **Text:** As a new resident, you also will pay sales tax-related fees required by the state's Comptroller of Public Accounts. Sales tax fees on a vehicle can be $90 or the difference between your previous state's sales tax and the Texas sales tax.
+*   **Link Text:** local county tax-assessor collector office
+*   **Link URL:** /tax-assessor-collectors/county-tax-offices
+*   **Link Text:** Application for Texas Title and/or Registration (Form 130-U)
+*   **Link URL:** /sites/default/files/form_files/130-U.pdf
+*   **Text:** While at the county tax assessor-collector's office be sure to ask your customer service representative to sign you up for eReminder. We'll email you when it's time to renew, and you will have the opportunity to renew your registration online.
+*   **Text:** Note: Active duty members of the U.S. Armed Forces and non-resident, full-time students attending a Texas college or university are not required to register or title their vehicles in Texas.
+*    **Link Text:** eReminder
+*    **Link URL:** https://renew.txdmv.gov/Renew/ereminder/jsp/txdot\_ereminder\_enter\_vehicle\_email.jsp
+*   **Sub-heading:** Find your Local Tax Office & DMV
+*   **Selection Box:** With options for counties
+
+#### 3.4.3. Step 3: Electric Vehicles
+
+*   **Sub-heading:** 3. Electric Vehicles
+*   **Text:** Fully electric cars and trucks, with a gross vehicle weight of 10,000 lbs. or less, will be assessed an annual $200 fee at the time of registration renewal as of September 1, 2023. In addition, new electric vehicles issued two years of registration will be assessed a $400 fee. All standard vehicle registration and related fees still apply.
+*   **Text:** The Electric Vehicle (EV) fee will not apply to hybrids or vehicles with combination fuel types or motorcycles, mopeds, autocycles, and neighborhood electric vehicles. Additionally, governmental vehicles with exempt registration and other vehicles for which no registration fee is due, including those with Disabled Veteran and other meritorious military license plates, will not be assessed the fee.
+
+#### 3.4.4. Step 4: Driver License
+
+*   **Sub-heading:** 4. Driver License
+*   **Text:** The Texas Department of Public Safety is the agency that issues driver licenses and IDs in Texas. See https://www.dps.texas.gov/section/driver-license/moving-texas for driver license information for new Texans, and https://www.dps.texas.gov/section/driver-license for complete information on driver license and ID services. New residents are required to obtain a Texas driver license from the Texas Department of Public Safety within 90 days of moving to the state.
+*   **Link URL:** https://www.dps.texas.gov/section/driver-license/moving-texas
+*   **Link URL:** https://www.dps.texas.gov/section/driver-license
+
+### 3.5. Motorist FAQ
+
+*   **Link Text:** View the Motorist FAQ
+*   **Link URL:** /faq/motorists
+
+### 3.6. More Information Section
+
+*   **Heading:** More Information About Vehicle and Driver Services in Texas
+*   **Text:** Although many states combine motor vehicle services and driver license services under the authority of one agency, the Texas Department of Motor Vehicles (TxDMV) provides only vehicle-related services. Below is a summary of TxDMV services and how they are accessed:
+*   **Sub-heading:** Offices of County Tax Assessor-Collectors
+*   **Text:** Most motorists will conduct TxDMV-related business at county offices, which are staffed and operated independently of TxDMV. County Tax Assessor-Collectors are statutorily authorized to process certain transactions on behalf of TxDMV at their locations:
+*   List of services provided at county offices:
+    *   Initial registration for those relocating to Texas.
+    *   Registration renewals (license plates and registration stickers).
+    *   Vehicle title transfers.
+    *   Change of address on motor vehicle records.
+    *   Non-fee license plates such as Purple Heart and Disabled Veterans license plates.
+    *   Disabled parking placards.
+    *   Copies of registration receipts.
+    *   Temporary registration.
+*   **Text:** Find your local county tax office:
+*   **Link Text:** https://www.txdmv.gov/tax-assessor-collectors/county-tax-offices
+*   **Link URL:** /tax-assessor-collectors/county-tax-offices
+*   **Text:** Please note that some county tax offices require appointments.
+*   **Sub-heading:** Texas Department of Motor Vehicles Regional Service Centers
+*   **Text:** Statewide, TxDMV operates 16 Regional Service Centers, each of which serve specific counties, where motorists can complete certain transactions:
+*   List of transactions completed at Regional Service Centers:
+    *   Replacement Titles.
+    *   Bonded Title Rejection Letters.
+    *   Apportioned Registration (IRP Credentials and Temporary Operating Authority for Established Accounts).
+    *   Investigating and Resolving Texas Title Errors.
+    *   Vehicle Transfer Notifications.
+    *   Title History Inquiries.
+*   **Text:** Find your TxDMV Regional Service Center:
+*   **Link Text:** https://www.txdmv.gov/regional-service-centers.
+*   **Link URL:** /regional-service-centers
+
+## 4. Functionality
+
+*   The "Find Offices" form will locate county tax offices based on the county selected.
+*   Links to external websites (e.g., DPS, Texas.gov) should open in new tabs or windows.
+
+## 5. Considerations
+
+*   All content should be accurate and up-to-date.
+*   Links should be regularly checked to ensure they are functional.
+
+```
