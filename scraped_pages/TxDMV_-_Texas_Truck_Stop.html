@@ -1,0 +1,177 @@
+<html lang="en"><head>
+
+<link href="/template/stylesheets/txdot.css" rel="stylesheet" type="text/css"/>
+<meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
+<!-- This is an include file -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+
+<title>TxDMV - Texas Truck Stop</title><meta content=" Motor Carrier Inquiry" name="MCCS-DPS Inquiry"/><title> Motor Carrier Inquiry</title><link href="css/bootstrap.css" rel="stylesheet" type="text/css"/><link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/><link href="css/sweet-alert.css" rel="stylesheet" type="text/css"/><link href="css/index.css" rel="stylesheet" type="text/css"/></head>
+<!-- This is an include file -->
+<body>
+<section class="col-md-12">
+<div class="row">
+<div class="col-md-12">
+<div class="text-center">
+<a href="http://www.txdmv.gov" target="_blank"> <img alt="Click to go to www.TxDMV.gov" class="img-responsive center-block" src="/APPS/MCCS/truckstop/images/dmv-banner-logo.gif" style="border:hidden" title="Click to go to www.TxDMV.gov"/></a>
+</div>
+<hr class="hr-default"/>
+</div>
+</div>
+<div class="container">
+<h1 class="text-center">Welcome to Truck Stop</h1>
+<div class="row col-md-8 col-md-offset-2">
+<p style="text-align:center; margin-left:-70px; margin-right:-70px; margin-top:-10px">
+                    Use this search tool to find out if a motor carrier business (moving, trucking or bus company) 
+                    is properly licensed in Texas. Simply type in the search criteria below and click the search button. 
+                    Never hire an unlicensed business.
+                </p>
+</div>
+<div class="row">
+<div class="col-md-12">
+<form action="Certificate/Certificate_Search_Message.asp" class="form-horizontal" id="overrideform" name="overrideform">
+<!-- - Company Name + TxDMV Number --->
+<div class="form-group">
+<label class="control-label col-md-2" for="search_customer_name">Company Name:</label>
+<div class="col-md-4">
+<div class="input-group">
+<input class="form-control" id="search_customer_name" name="search_customer_name" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-default" type="button">
+<i class="fa fa-question" title="Click to see Company Name Definition"></i>
+</button>
+</span>
+</div>
+</div>
+<label class="control-label col-md-1" for="search_dba_name" style="width:120px">DBA:</label>
+<div class="col-md-4">
+<div class="input-group">
+<input class="form-control" id="search_dba_name" name="search_dba_name" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-default" type="button">
+<i class="fa fa-question" title="Click to see DBA Name Definition"></i>
+</button>
+</span>
+</div>
+</div>
+</div>
+<!-- - US DOT Number + DBA --->
+<div class="form-group">
+<label class="control-label col-md-2" for="search_us_dot_number">US DOT #:</label>
+<div class="col-md-4">
+<div class="input-group">
+<input class="form-control" id="search_us_dot_number" name="search_us_dot_number" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-default" type="button">
+<i class="fa fa-question" title="Click to see USDOT Number Definition"></i>
+</button>
+</span>
+</div>
+</div>
+<label class="control-label col-md-1" for="search_certificate_nbr" style="width:120px">TxDMV #:</label>
+<div class="col-md-4">
+<div class="input-group">
+<input class="form-control" id="search_certificate_nbr" name="search_certificate_nbr" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-default" type="button">
+<i class="fa fa-question" title="Click to see TxDMV # Definition"></i>
+</button>
+</span>
+</div>
+</div>
+</div>
+<!-- - VIN + City --->
+<div class="form-group">
+<label class="control-label col-md-2" for="search_vin_number">VIN:</label>
+<div class="col-md-4">
+<div class="input-group">
+<input class="form-control" id="search_vin_number" name="search_vin_number" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-default" type="button">
+<i class="fa fa-question" title="Click to see VIN Definition"></i>
+</button>
+</span>
+</div>
+</div>
+<label class="control-label col-md-1" for="search_city" style="width:120px">City:</label>
+<div class="col-md-4">
+<input class="form-control" id="search_city" name="search_city" type="text"/>
+</div>
+</div>
+<!-- - Zip Code + Carrier Type --->
+<div class="form-group">
+<label class="control-label col-md-2" for="search_zip">Zip Code:</label>
+<div class="col-md-4"><input class="form-control" id="search_zip" name="search_zip" type="text"/></div>
+<label class="control-label col-md-1" for="search_carrier_type_drop_down" style="width:120px">Carrier Type:</label>
+<div class="col-md-4">
+<div class="input-group">
+<input class="form-control" disabled="" id="search_carrier_type_drop_down" name="search_carrier_type_drop_down" placeholder="Choose an option ..." type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+<span class="caret"></span>
+<span class="sr-only">Toggle Dropdown</span>
+</button>
+<ul class="dropdown-menu dropdown-menu-right">
+<li><a href="#">Hazardous Cargo Carrier </a></li>
+<li><a href="#">Bus</a></li>
+<li><a href="#">Household Goods Carrier</a></li>
+<li><a href="#">Commercial Carrier</a></li>
+</ul>
+<button class="btn btn-default" type="button"><i class="fa fa-question" title="Click to see Carrier Type Definition"></i></button>
+</span>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<input id="search_carrier_type" name="search_carrier_type" type="hidden"/>
+</div>
+</div>
+<!-- - Submit --->
+<div class="form-group">
+<div class="col-md-6 col-md-offset-3">
+<button class="btn btn-lg btn-block btn-primary" type="submit">Search</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="container">
+<div class="row">
+<div class="col-md-10 col-md-offset-1">
+<p class="text-center"><strong>Click on a map area below to find motor carrier licenses that were deactivated in the past 60 days.</strong></p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-2 col-md-offset-5"><a href="Certificate/Certificate_Search_District.asp"><img alt="Click to search for certificates inactivated in the past 60 days" class="img-responsive center-block" src="images/Tex_Districts.png" title="Click to search for certificates inactivated in the past 60 days"/></a></div>
+</div>
+<div class="row">
+<div class="col-md-6 col-md-offset-3"><a class="btn btn-block btn-default col-lg-12" href="/APPS/MCCS/cms/ces_main.asp" role="button" style="margin-bottom:4px;white-space: normal;" target="_new" title="Click to search for Complaints against Carriers">Click here to File a Complaint or Check a Complaint History</a></div>
+</div>
+<div class="row">
+<div class="col-md-4 col-md-offset-4">
+<div class="text-center" id="browser-icons"><a href="http://www.microsoft.com/windows/internet-explorer/default.aspx" target="_blank"><i class="fa fa-3x fa-internet-explorer" title="Click to go to Internet Explorer"></i></a><a href="https://www.google.com/intl/en/chrome/browser/" target="_blank"><i class="fa fa-3x fa-chrome" title="Click to go to Chrome"></i></a><a href="http://www.mozilla.com/en-US" target="_blank"><i class="fa fa-3x fa-firefox" title="Click to go to Firefox"></i></a><a href="http://support.apple.com/downloads/#safari" target="_blank"><i class="fa fa-3x fa-safari" title="Click to go to Safari"></i></a></div>
+<p class="text-center">This system works best with Internet Explorer, Mozilla FireFox, Google Chrome, or Safari</p>
+</div>
+</div>
+</div>
+</section>
+<!-- ---------------------------------------------------------------------------------------- -->
+<!-- Footer                                                                                   -->
+<!-- ---------------------------------------------------------------------------------------- -->
+<div class="text-center">
+	        Copyright © 2025 TxDMV - <b>Version 9.9 Saturday, December 12, 2020</b> Contact Us: <a href="mailto:MCD_MCCS-HelpDesk@txdmv.gov"><u>MCD_MCCS-HelpDesk@TxDMV.gov</u></a>
+</div>
+<div class="modal fade" id="mod-shell">
+<div class="modal-dialog">
+<div class="modal-content"></div>
+</div>
+</div>
+
+
+
+
+<div><div class="sweet-overlay" tabindex="-1"></div><div class="sweet-alert" tabindex="-1"><div class="icon error"><span class="x-mark"><span class="line left"></span><span class="line right"></span></span></div><div class="icon warning"> <span class="body"></span> <span class="dot"></span> </div> <div class="icon info"></div> <div class="icon success"> <span class="line tip"></span> <span class="line long"></span> <div class="placeholder"></div> <div class="fix"></div> </div> <div class="icon custom"></div> <h2>Title</h2><p class="lead text-muted">Text</p><p><button class="cancel btn btn-lg" tabindex="2">Cancel</button> <button class="confirm btn btn-lg" tabindex="1">OK</button></p></div></div></body></html>
