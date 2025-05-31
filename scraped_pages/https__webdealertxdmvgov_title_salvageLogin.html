@@ -1,0 +1,224 @@
+<html lang="en"><head>
+<meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<meta content="no-cache, no-store, must-revalidate" http-equiv="cache-control"/>
+<meta content="NONE" name="ROBOTS"/>
+<meta content="NOARCHIVE" name="GOOGLEBOT"/>
+<link href="https://webdealer.txdmv.gov/favicon.ico" rel="icon" type="image/ico"/>
+<title>Login</title>
+<link href="/title/theme/css/global.css?v=1.6" rel="stylesheet"/>
+<link href="/title/theme/css/jquery-ui.css?v=1.13.3" rel="stylesheet"/>
+
+
+
+
+
+
+
+</head><body>
+
+<div id="ie_compatibility" style="display: none;">
+<p>Your browser is currently configured to show this site in Compatibility View. Some content may not display
+        properly.</p>
+<p>You can turn it off by clicking the <img src="/title/theme/css/icons/compatibility.png"/>button next
+        to the Address bar.</p>
+</div>
+<div id="headerSection">
+<div class="container_24" id="topHeader">
+<div class="screen-reader-text">
+<ul>
+<li><a href="#mainContents" tabindex="0" title="Skip to content">Skip to content</a></li>
+</ul>
+</div><!-- screen-reader-text -->
+<h1>
+<img alt="Web Dealer" src="theme/css/images/webSALVAGEBANNER50x960.png" title="Web Dealer - Electronic Title and Registration"/>
+</h1>
+</div><!-- topHeader -->
+<div class="clear"></div>
+</div><!-- headerSection -->
+<div class="container_24" id="contentSection">
+<a id="mainContents" name="mainContents" tabindex="0"></a>
+<div class="grid_22 prefix_1 suffix_1" id="main">
+
+
+
+
+<link href="/title/theme/css/jquery.capsalerttipsy.css?v=1" rel="stylesheet" type="text/css"/>
+
+
+<h2>Login</h2>
+<div class="required">Indicates Required Field</div>
+<div class="center ui-tabs ui-corner-all ui-widget ui-widget-content" id="loginTabs">
+<ul class="ui-tabs-nav ui-corner-all ui-helper-reset ui-helper-clearfix ui-widget-header" role="tablist">
+<li aria-controls="SDL" aria-expanded="true" aria-labelledby="SDLLink" aria-selected="true" class="ui-tabs-tab ui-corner-top ui-state-default ui-tab ui-tabs-active ui-state-active" role="tab" tabindex="0"><a class="ui-tabs-anchor" href="#SDL" id="SDLLink" tabindex="-1">Salvage Vehicle Dealer</a></li>
+<li aria-controls="ISC" aria-expanded="false" aria-labelledby="ISCLink" aria-selected="false" class="ui-tabs-tab ui-corner-top ui-state-default ui-tab" role="tab" tabindex="-1"><a class="ui-tabs-anchor" href="#ISC" id="ISCLink" tabindex="-1">Insurance Company</a></li>
+<li aria-controls="tcsTab" aria-expanded="false" aria-labelledby="tcsTabLink" aria-selected="false" class="ui-tabs-tab ui-corner-top ui-state-default ui-tab" role="tab" tabindex="-1"><a class="ui-tabs-anchor" href="#tcsTab" id="tcsTabLink" tabindex="-1">TxDMV</a></li>
+</ul>
+<div aria-hidden="false" aria-labelledby="SDLLink" class="vsmall ui-tabs-panel ui-corner-bottom ui-widget-content" id="SDL" role="tabpanel">
+<form action="salvageLoginAuthenticateUser" autocomplete="off" class="left" id="logon" method="POST" name="loginForm">
+<input name="userRole" tabindex="0" type="hidden" value="SDL"/>
+<div style="line-height: 3em;">
+<span class="field">
+<label for="salvLicenseNo"><img alt="Required Field" src="theme/css/icons/required.gif" title="Required Field"/> License No.</label>
+</span>
+<span class="bodyText">
+<input id="salvLicenseNo" maxlength="11" name="licenseNo" placeholder="Enter License No." size="15" tabindex="0" type="text" value=""/>
+</span>
+</div>
+<div style="line-height: 3em;">
+<span class="field">
+<label for="salvUserId"><img alt="Required Field" src="theme/css/icons/required.gif" title="Required Field"/> Username</label>
+</span>
+<span class="bodyText">
+<input id="salvUserId" maxlength="32" name="globalUser.userName" placeholder="Enter User ID" size="15" tabindex="0" type="text" value=""/>
+</span>
+</div>
+<div style="line-height: 3em;">
+<span class="field top" style="padding-top: 0.9em;">
+<label for="salvPassword"><img alt="Required Field" src="theme/css/icons/required.gif" title="Required Field"/> Password</label>
+</span>
+<span class="bodyText top">
+<input id="salvPassword" maxlength="32" name="password" placeholder="Enter Password" size="15" tabindex="0" type="password"/>
+<br/>
+<input class="loginButton" tabindex="0" title="Click here to sign in securely." type="submit" value="Login"/>
+<a class="loginButton hide" href="userManagementForgotPassword" tabindex="0">Forgot Password?</a>
+</span>
+</div>
+<ul class="hide" style="margin-top: 2em;">
+<li style="float: right;"><a class="button" href="accountSearch?rc=SDL&amp;APP_FLOW=SALVAGE" tabindex="0">Create New User</a></li>
+</ul>
+<div style="clear: both;"></div>
+</form>
+<div class="right text_left" style="border-left: 1px dashed #5C9CCC;">
+<ul style="padding-left: 1em;">
+<li style="margin: 1em 0;"><a href="userManagementForgotUserName?APP_FLOW=SALVAGE" tabindex="0">Forgot Username?</a></li>
+<li style="margin: 1em 0;"><a href="userManagementForgotPassword?APP_FLOW=SALVAGE" tabindex="0">Forgot Password?</a></li>
+<li style="margin: 6em 0 1em;"><a class="loginButton" href="accountSearch?rc=SDL&amp;APP_FLOW=SALVAGE" style="margin-left: 0;" tabindex="0">Create New User</a></li>
+</ul>
+</div>
+<div style="clear: both;"></div>
+</div><!-- SDL -->
+<div aria-hidden="true" aria-labelledby="ISCLink" class="vsmall ui-tabs-panel ui-corner-bottom ui-widget-content" id="ISC" role="tabpanel" style="display: none;">
+<form action="salvageLoginAuthenticateUser" autocomplete="off" class="left" id="logon" method="POST" name="loginForm">
+<input name="userRole" tabindex="0" type="hidden" value="ISC"/>
+<div style="line-height: 3em;">
+<span class="field">
+<label for="insLicenseNo"><img alt="Required Field" src="theme/css/icons/required.gif" title="Required Field"/> License No.</label>
+</span>
+<span class="bodyText">
+<input id="insLicenseNo" maxlength="11" name="licenseNo" placeholder="Enter License No." size="15" tabindex="0" type="text" value=""/>
+</span>
+</div>
+<div style="line-height: 3em;">
+<span class="field">
+<label for="insUserId"><img alt="Required Field" src="theme/css/icons/required.gif" title="Required Field"/> Username</label>
+</span>
+<span class="bodyText">
+<input id="insUserId" maxlength="32" name="globalUser.userName" placeholder="Enter User ID" size="15" tabindex="0" type="text" value=""/>
+</span>
+</div>
+<div style="line-height: 3em;">
+<span class="field top" style="padding-top: 0.9em;">
+<label for="insPassword"><img alt="Required Field" src="theme/css/icons/required.gif" title="Required Field"/> Password</label>
+</span>
+<span class="bodyText top">
+<input id="insPassword" maxlength="32" name="password" placeholder="Enter Password" size="15" tabindex="0" type="password"/>
+<br/>
+<input class="loginButton" tabindex="0" title="Click here to sign in securely." type="submit" value="Login"/>
+<a class="loginButton hide" href="userManagementForgotPassword" tabindex="0">Forgot Password?</a>
+</span>
+</div>
+<ul class="hide" style="margin-top: 2em;">
+<li style="float: right;"><a class="button" href="accountSearch?rc=ISC&amp;APP_FLOW=SALVAGE" tabindex="0">Create New User</a></li>
+</ul>
+<div style="clear: both;"></div>
+</form>
+<div class="right text_left" style="border-left: 1px dashed #5C9CCC;">
+<ul style="padding-left: 1em;">
+<li style="margin: 1em 0;"><a href="userManagementForgotUserName?APP_FLOW=SALVAGE" tabindex="0">Forgot Username?</a></li>
+<li style="margin: 1em 0;"><a href="userManagementForgotPassword?APP_FLOW=SALVAGE" tabindex="0">Forgot Password?</a></li>
+<li style="margin: 6em 0 1em;"><a class="loginButton" href="accountSearch?rc=ISC&amp;APP_FLOW=SALVAGE" style="margin-left: 0;" tabindex="0">Create New User</a></li>
+</ul>
+</div>
+<div style="clear: both;"></div>
+</div><!-- ISC -->
+<div aria-hidden="true" aria-labelledby="tcsTabLink" class="vsmall ui-tabs-panel ui-corner-bottom ui-widget-content" id="tcsTab" role="tabpanel" style="display: none;">
+<form action="salvageLoginAuthenticateUser" autocomplete="off" id="logon" method="POST" name="loginForm">
+<input name="userRole" tabindex="0" type="hidden" value="TCS"/>
+<input name="wsid" tabindex="0" type="hidden" value=""/>
+<div style="line-height: 3em;">
+<span class="field">
+<label for="tcsUserId"><img alt="Required Field" src="theme/css/icons/required.gif" title="Required Field"/> Username</label>
+</span>
+<span class="bodyText">
+<input id="tcsUserId" maxlength="32" name="globalUser.userName" placeholder="Enter User ID" size="15" tabindex="0" type="text" value=""/>
+</span>
+</div>
+<div style="line-height: 3em;">
+<span class="field top" style="padding-top: 0.9em;">
+<label for="tcsPassword"><img alt="Required Field" src="theme/css/icons/required.gif" title="Required Field"/> Password</label>
+</span>
+<span class="bodyText top">
+<input id="tcsPassword" maxlength="32" name="password" placeholder="Enter Password" size="15" tabindex="0" type="password"/>
+<br/>
+<input class="loginButton" id="tcsSubmitBtn" name="submitBtn" tabindex="0" title="Click here to sign in securely." type="submit" value="Login"/>
+</span>
+</div>
+</form>
+</div><!-- tcsTab -->
+<!-- overlays for the security warning -->
+</div><!-- loginTabs -->
+<div class="vsmall text_right" id="appBuild" style="color: #676767;">
+  webDEALER v25.2-213 - Tuesday April 22 2025
+  <!-- built on: Tuesday April 22 2025; built by: mburri; configured by: dhamilton/fvog -->
+</div>
+<span class="loading noShow"></span>
+
+</div><!-- main -->
+</div><!-- contentSection -->
+<div id="footerSection">
+<div class="screen-reader-text">
+<ul>
+<li><a href="#mainContents" tabindex="0" title="Go to navigation menu">Go to Navigation</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="http://www.txdmv.gov/" tabindex="0" target="_blank"><span>TxDMV.gov</span></a></li>
+<li><a href="http://www.txdmv.gov/regional-service-centers" tabindex="0" target="_blank"><span>Contact Us</span></a></li>
+<li><a href="http://www.txdmv.gov/disclaimer" tabindex="0" target="_blank"><span>Disclaimer</span></a></li>
+<li><a href="http://www.txdmv.gov/privacy-policy" tabindex="0" target="_blank"><span>Privacy and Security Policy</span></a></li>
+<li class="lastChild"><a href="http://www.txdmv.gov/accessibility" tabindex="0" target="_blank"><span>Accessibility</span></a></li>
+</ul>
+<p>Copyright © 2016 Texas Department of Motor Vehicles - 4000 Jackson Ave, Austin, TX 78731. All rights reserved.</p>
+<div class="printOnly">
+<p style="padding-top: 1em; font-size: 0.8em;">
+      Print Date: Fri May 30 2025 20:19:27 GMT-0700 (Pacific Daylight Time)
+    </p>
+<p style="padding-top: 1em; font-size: 0.8em;">
+      URL: https://webdealer.txdmv.gov/title/salvageLogin
+    </p>
+</div>
+</div><!-- footerSection -->
+<!-- JC,JZ,NP,KH,KM,DH,SD,BW,RP -->
+<div aria-describedby="wait-dialog" aria-labelledby="ui-id-1" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-draggable ui-resizable" role="dialog" style="display: none; position: absolute;" tabindex="-1"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle" style="display: none;"><span class="ui-dialog-title" id="ui-id-1">Please Wait</span><button class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Close" type="button"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Close</button></div><div class="ui-dialog-content ui-widget-content" id="wait-dialog">
+<div style="position: fixed;top: 50%;left: 50%;transform: translate(-50%, -50%)">
+<div style="display:table;width:100%;height:100%">
+<div style="display: table-row">
+<div style="display: table-cell;"><img src="theme/css/icons/loading.gif"/> </div>
+<div id="loadingText" style="display: table-cell;vertical-align: middle"></div>
+</div>
+</div>
+</div>
+</div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div><div aria-describedby="usercompliance" aria-labelledby="ui-id-2" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-draggable" role="dialog" style="height: auto; width: 610px; top: 253.503px; left: 291.12px; z-index: 101;" tabindex="-1"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle" style="display: none;"><span class="ui-dialog-title" id="ui-id-2"> </span><button class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Close" type="button"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Close</button></div><div class="ui-dialog-content ui-widget-content" id="usercompliance" style="height: 297.06px; overflow: hidden; width: auto; min-height: 0px; max-height: none;">
+<div style="height:50px; border-radius: 5px 5px 5px 5px; padding-bottom:13px; text-align:center;vertical-align: middle; font-family: Arial; font-weight: normal; font-size:18px; color: white; background-color: #5c9ccc;">
+<br/>Texas Department of Motor Vehicles - Security Warning</div>
+<div style="height:170px; font-family: Arial; font-weight: normal; font-size: 15px;text-align:left; line-height: 23px; padding-top:15px">
+		   This is an official Texas Department of Motor Vehicles system for authorized use only. It is monitored to ensure proper operation to verify the function of applicable security features and 
+           other link purposes. Unauthorized access is prohibited. Attempts to access this system for other than its intended purposes are prohibited and may result in 
+           prosecution under the Computer Fraud and Abuse Act of 1986 or other applicable laws. User of this system should not expect a "right to privacy" to any data transmissions hereon.
+  		</div>
+<div style="text-align:right;height:50px;">
+<a class="button buttonOutlineRule" href="#" id="acceptBtn" tabindex="0">I Accept</a>
+<a class="button" href="http://www.txdmv.gov/" tabindex="0">Cancel</a>
+</div>
+</div></div><div class="ui-widget-overlay ui-front" style="z-index: 100; background: black; opacity: 0.6;"></div></body></html>

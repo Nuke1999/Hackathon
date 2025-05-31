@@ -1,0 +1,303 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
+</title><link href="Styles/Main.css" rel="stylesheet" type="text/css"/><link href="Styles/Panel.css" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+<link href="Styles/JQueryUICSS12/smoothness/jquery-ui.min.css" rel="stylesheet" type="text/css"/>
+
+
+</head>
+<body>
+<form action="./" id="form1" method="post">
+<div class="aspNetHidden">
+<input id="__EVENTTARGET" name="__EVENTTARGET" type="hidden" value=""/>
+<input id="__EVENTARGUMENT" name="__EVENTARGUMENT" type="hidden" value=""/>
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="/wEPDwUKLTgwMjcwMjczMg9kFgJmD2QWAgIDD2QWAgIFD2QWAgIBD2QWBgITDxBkEBUPHUNob29zZSBhIHNlY3VyaXR5IHF1ZXN0aW9uLi4uHFdoYXQgaXMgeW91ciBmYXZvcml0ZSBjb2xvcj9JV2hhdCB3YXMgdGhlIG1ha2Ugb2YgdGhlIGZpcnN0IGNhciB5b3Ugb3duZWQgKEhvbmRhLCBDaGV2eSwgTWF6ZGEsIGV0Yy4pPyRXaGF0IHdhcyB0aGUgbmFtZSBvZiB5b3VyIGZpcnN0IHBldD8cV2hhdCBpcyB5b3VyIGZhdm9yaXRlIG1vdmllPy5XaGF0IGlzIHRoZSBsYXN0IG5hbWUgb2YgeW91ciBmYXZvcml0ZSBhdXRob3I/LldoYXQgaXMgdGhlIG5hbWUgb2YgeW91ciBmYXZvcml0ZSBiYW5kL3Npbmdlcj8kV2hhdOKAmXMgeW91ciBmYXZvcml0ZSBicmVlZCBvZiBkb2c/IVdoYXQgaXMgeW91ciBmYXZvcml0ZSBib2FyZCBnYW1lPydXaGF0IGlzIHlvdXIgZmF2b3JpdGUgaWNlIGNyZWFtIGZsYXZvcj8uV2hhdCBpcy93YXMgdGhlIG5hbWUgb2YgeW91ciBmYXZvcml0ZSBjYXJ0b29uPxxXaGF0IGlzIHlvdXIgZmF2b3JpdGUgZnJ1aXQ/IldoYXQgaXMgeW91ciBmYXZvcml0ZSBzcG9ydHMgdGVhbT8mV2hhdOKAmXMgeW91ciBmYXZvcml0ZSBicmFuZCBvZiBzaG9lcz8yV2hhdOKAmXMgeW91ciBmYXZvcml0ZSB0aGluZyB0byBlYXQgZm9yIGJyZWFrZmFzdD8VDwABMQEyATMBNAE1ATYBNwE4ATkCMTACMTECMTICMTMCMTQUKwMPZ2dnZ2dnZ2dnZ2dnZ2dnZGQCFw8QZBAVDx1DaG9vc2UgYSBzZWN1cml0eSBxdWVzdGlvbi4uLhxXaGF0IGlzIHlvdXIgZmF2b3JpdGUgY29sb3I/SVdoYXQgd2FzIHRoZSBtYWtlIG9mIHRoZSBmaXJzdCBjYXIgeW91IG93bmVkIChIb25kYSwgQ2hldnksIE1hemRhLCBldGMuKT8kV2hhdCB3YXMgdGhlIG5hbWUgb2YgeW91ciBmaXJzdCBwZXQ/HFdoYXQgaXMgeW91ciBmYXZvcml0ZSBtb3ZpZT8uV2hhdCBpcyB0aGUgbGFzdCBuYW1lIG9mIHlvdXIgZmF2b3JpdGUgYXV0aG9yPy5XaGF0IGlzIHRoZSBuYW1lIG9mIHlvdXIgZmF2b3JpdGUgYmFuZC9zaW5nZXI/JFdoYXTigJlzIHlvdXIgZmF2b3JpdGUgYnJlZWQgb2YgZG9nPyFXaGF0IGlzIHlvdXIgZmF2b3JpdGUgYm9hcmQgZ2FtZT8nV2hhdCBpcyB5b3VyIGZhdm9yaXRlIGljZSBjcmVhbSBmbGF2b3I/LldoYXQgaXMvd2FzIHRoZSBuYW1lIG9mIHlvdXIgZmF2b3JpdGUgY2FydG9vbj8cV2hhdCBpcyB5b3VyIGZhdm9yaXRlIGZydWl0PyJXaGF0IGlzIHlvdXIgZmF2b3JpdGUgc3BvcnRzIHRlYW0/JldoYXTigJlzIHlvdXIgZmF2b3JpdGUgYnJhbmQgb2Ygc2hvZXM/MldoYXTigJlzIHlvdXIgZmF2b3JpdGUgdGhpbmcgdG8gZWF0IGZvciBicmVha2Zhc3Q/FQ8AATEBMgEzATQBNQE2ATcBOAE5AjEwAjExAjEyAjEzAjE0FCsDD2dnZ2dnZ2dnZ2dnZ2dnZ2RkAhsPEGQQFQ8dQ2hvb3NlIGEgc2VjdXJpdHkgcXVlc3Rpb24uLi4cV2hhdCBpcyB5b3VyIGZhdm9yaXRlIGNvbG9yP0lXaGF0IHdhcyB0aGUgbWFrZSBvZiB0aGUgZmlyc3QgY2FyIHlvdSBvd25lZCAoSG9uZGEsIENoZXZ5LCBNYXpkYSwgZXRjLik/JFdoYXQgd2FzIHRoZSBuYW1lIG9mIHlvdXIgZmlyc3QgcGV0PxxXaGF0IGlzIHlvdXIgZmF2b3JpdGUgbW92aWU/LldoYXQgaXMgdGhlIGxhc3QgbmFtZSBvZiB5b3VyIGZhdm9yaXRlIGF1dGhvcj8uV2hhdCBpcyB0aGUgbmFtZSBvZiB5b3VyIGZhdm9yaXRlIGJhbmQvc2luZ2VyPyRXaGF04oCZcyB5b3VyIGZhdm9yaXRlIGJyZWVkIG9mIGRvZz8hV2hhdCBpcyB5b3VyIGZhdm9yaXRlIGJvYXJkIGdhbWU/J1doYXQgaXMgeW91ciBmYXZvcml0ZSBpY2UgY3JlYW0gZmxhdm9yPy5XaGF0IGlzL3dhcyB0aGUgbmFtZSBvZiB5b3VyIGZhdm9yaXRlIGNhcnRvb24/HFdoYXQgaXMgeW91ciBmYXZvcml0ZSBmcnVpdD8iV2hhdCBpcyB5b3VyIGZhdm9yaXRlIHNwb3J0cyB0ZWFtPyZXaGF04oCZcyB5b3VyIGZhdm9yaXRlIGJyYW5kIG9mIHNob2VzPzJXaGF04oCZcyB5b3VyIGZhdm9yaXRlIHRoaW5nIHRvIGVhdCBmb3IgYnJlYWtmYXN0PxUPAAExATIBMwE0ATUBNgE3ATgBOQIxMAIxMQIxMgIxMwIxNBQrAw9nZ2dnZ2dnZ2dnZ2dnZ2dkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUoY3RsMDAkUGFnZUNvbnRlbnRQbGFjZUhvbGRlcjEkUmVtZW1iZXJNZaCvqVeINTuAtr0Drc3GZelmn+YQ"/>
+</div>
+
+
+
+
+
+
+<div class="aspNetHidden">
+<input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="C2EE9ABB"/>
+<input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="/wEdADwIa0L/stObbX/M/gEEpOCz29Uf9+7zMtrmM7/PRsHHbobEIzSBIJFdNUbEKlbjBJCiuVJPmnrzc4Wuet+CGfymiB14zi6vHnVe4ayBgXwe+Zsz2HTS17V/KOCTf9L+a+A2jd63XbVHVcSUSOkSZIomUOe355niUMeloxhqAITEXdPruTlIG8rfYPbMMlC1/MMjvtQn3P34KmptysUTtQQ+df296IuW6QSFgPfPi/8jm3lfWu30AHvTYj1jT3Uy6a9HanvCZXqN6mv6b1OJWqdBy3KNjGZf9qsip++CfulzmSG0GVnjky1xKOgCgj11+IYj4TSnvGMeOIIMKip+K1qBA74SbxXhdtWVWSUyEz8I2FZ17KCUCWJmafFW15Mlqu0LRlujRZ3ZxWjFBMpOC/pP31U/U7qAb4NkvH8lzvIURI+1E1jYzZ3ZkGekCJsOVhIwwd20WxIwPyEzS6GX8YUzaApRZISA9UQ9vvnnUWVdD++/9rLgeF9Mrld5jwDdvKSvAMACN60cz/zDtHXviZL8m11csmsnyvyKhdYwHN8gztiL8qcHNStPPEWiKGM70fGsdJbUbfGZubVPIW4szyB5CpL/OLPXKv+PD8LW4Ez0ON392jvDImSIOe5Ei4+WdUIG9HU9d4PRIiGBIJmP076+obOwgYBN8BhljKPqzwDzcA8ehmSNMsMKnw9yCxsaX1hA/keAhMMQgvtOzic3DXdgEnhmL4xCoDMI7viEOyycF747AuIQH32vVC4Po25exTtBuDtpz/jWGNlHDc1MkzU0tE6hZo9BKSouvQnOo3XrVDhmz4f+Q9lmOTJu7660CjBblNzMo0YuYU/HEWw8NvPAAUcfPLgNuRzR+dBwBtUdinUP8RBU9Iw8wVPD0PNbFq6KDyJ7r/wQmzy0BOMpjz30u6wT8aUDQ2tel65k4rrm29HC+q8Cv2G3D9tNcYNfCe7RGHRDYVsc46aO53CcYStcVFBYv5EOD18AQY6m8BjGN9jbwdPTjGeRKyvmc7rUKTs2GbpeNyLhaMBaX1XhFri0JiaFyDF60nl/7XN8f6yVQsAnJiaiJql7aJAxCdU4cosdfTpy/D8QG1GM7Yb6RlcfTUOx7jTfjJdeNnK+y57HX1i5Ahl6cFIWyDfQrRDYx4aPNrdAdybYWG4W11R3reHTqt05HGchMe10S2Vxet3u80TwpCwoThgdh8qX8W1/BJ0LS6WK8pu96GsvICq52Ci4WA0eNVMJytOBEoy/z5RvKjRoO56vph2Kktu8eaygec2sPkn4PsUD+kz82ejbpjl6Wtpj0w=="/>
+</div>
+<div style="margin:0 auto">
+<!-- HEADER -->
+<table border="0" cellpadding="0" cellspacing="0" class="HeaderContainer">
+<tbody><tr>
+<td class="HeaderLeft"><img alt="TxPROS" height="84" src="Images/Header_Left.png" width="84"/></td>
+<td class="HeaderContent" valign="bottom">
+<table border="0" cellpadding="0" cellspacing="0" style="width:92%;margin-left:15px;margin-bottom:3px">
+<tbody><tr><td align="left" colspan="3" style="text-align:left;margin-left:5px;"><img alt="TxDMV" src="Images/TxDMVLogo.png" style="margin-top:10px"/></td></tr>
+</tbody></table>
+<div style="height:20px"></div>
+</td>
+<td class="HeaderRight"><img alt="" src="Images/Header_Right.png"/></td>
+</tr>
+</tbody></table>
+<div style="margin-top:20px;"></div>
+<div id="PageTitle"><div "="" style="margin-left:20px;margin-bottom:3px">
+    
+    Login Page
+
+        </div>
+</div>
+<table border="0" cellpadding="0" cellspacing="0" class="ContentContainer" style="border-bottom:1px solid #333">
+<tbody><tr>
+<td class="ContentUpperLeft"></td>
+<td class="ContentUpperRepeat"></td>
+<td class="ContentUpperRight"></td>
+</tr>
+<tr>
+<td class="ContentMiddleLeft"></td>
+<td class="ContentMiddleMiddle">
+<div style="padding-bottom:8px;">
+            
+    
+    If you do not have an account, you may <b><a href="NewAccount.aspx">create a new company
+        account</a></b>.
+
+        </div>
+</td>
+<td class="ContentMiddleRight"></td>
+</tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" class="ContentContainer">
+<tbody><tr>
+<td class="ContentMiddleLeft"></td>
+<td class="ContentMiddleMiddle">
+<div style="min-height:350px;margin-top:10px">
+
+<div id="PageContentPlaceHolder1_LoginPagePanel">
+<div class="SectionHeader">Welcome to the TxPROS Permitting System!</div>
+<div style="max-width:500px;margin-top:6px;">Please login below to order permits and manage your account.<br/>
+        If you do not have an account, you can <a href="NewAccount.aspx">create one</a>.</div>
+<table>
+<tbody><tr>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" class="FormTable" style="margin-top:5px">
+<tbody><tr>
+<td class="FormSectionHeader" colspan="2" nowrap="nowrap" rowspan="1" valign="middle">
+                                Enter your username and password
+                            </td>
+</tr>
+<tr>
+<td>
+<table>
+<tbody><tr>
+<td>
+<strong>Username: </strong>
+</td>
+<td>
+<input class="MediumTextBox" id="PageContentPlaceHolder1_UN" maxlength="50" name="ctl00$PageContentPlaceHolder1$UN" onchange="UNChanged();" type="text"/>
+</td>
+<td nowrap="nowrap">
+<span id="PageContentPlaceHolder1_NameLabel" style="color:Red;font-weight:bold;"></span>
+</td>
+</tr>
+<tr id="trCurrentPassword" style="display:none;">
+<td>
+<strong>Current Password: </strong>
+</td>
+<td>
+<input autocomplete="off" class="MediumTextBox" id="PageContentPlaceHolder1_tbCurrentPassword" maxlength="50" name="ctl00$PageContentPlaceHolder1$tbCurrentPassword" type="password"/>
+</td>
+<td nowrap="nowrap">
+<span id="PageContentPlaceHolder1_CurrPWLabel" style="color:Red;font-weight:bold;"></span>
+</td>
+</tr>
+<tr>
+<td>
+<strong><span id="spNewPassTxt" style="display:none;">New </span>Password: </strong>
+</td>
+<td>
+<input autocomplete="off" class="MediumTextBox" id="PageContentPlaceHolder1_PW" maxlength="50" name="ctl00$PageContentPlaceHolder1$PW" type="password"/>
+</td>
+<td nowrap="nowrap">
+<span id="PageContentPlaceHolder1_PWLabel" style="color:Red;font-weight:bold;"></span>
+</td>
+</tr>
+<tr id="trRetype" style="display:none">
+<td>
+<strong>Retype New Password: </strong>
+</td>
+<td>
+<input autocomplete="off" class="MediumTextBox" id="PageContentPlaceHolder1_RePW" maxlength="50" name="ctl00$PageContentPlaceHolder1$RePW" type="password"/>
+</td>
+<td>
+<span id="PageContentPlaceHolder1_RePWLabel" style="color:Red;font-weight:bold;"></span>
+</td>
+</tr>
+<tr id="trSecurityQ1" style="display:none">
+<td style="font-weight:bold;">Security Question 1*</td>
+<td colspan="2">
+<select id="PageContentPlaceHolder1_ddlSecurityQ1" name="ctl00$PageContentPlaceHolder1$ddlSecurityQ1" style="width:300px;">
+<option value="">Choose a security question...</option>
+<option value="1">What is your favorite color?</option>
+<option value="2">What was the make of the first car you owned (Honda, Chevy, Mazda, etc.)?</option>
+<option value="3">What was the name of your first pet?</option>
+<option value="4">What is your favorite movie?</option>
+<option value="5">What is the last name of your favorite author?</option>
+<option value="6">What is the name of your favorite band/singer?</option>
+<option value="7">What’s your favorite breed of dog?</option>
+<option value="8">What is your favorite board game?</option>
+<option value="9">What is your favorite ice cream flavor?</option>
+<option value="10">What is/was the name of your favorite cartoon?</option>
+<option value="11">What is your favorite fruit?</option>
+<option value="12">What is your favorite sports team?</option>
+<option value="13">What’s your favorite brand of shoes?</option>
+<option value="14">What’s your favorite thing to eat for breakfast?</option>
+</select>
+</td>
+</tr>
+<tr id="trSecurityA1" style="display:none">
+<td style="font-weight:bold;">Answer*</td>
+<td colspan="2">
+<input id="PageContentPlaceHolder1_tbSecurityA1" name="ctl00$PageContentPlaceHolder1$tbSecurityA1" type="text"/>
+</td>
+</tr>
+<tr id="trSecurityQ2" style="display:none">
+<td style="font-weight:bold;">Security Question 2*</td>
+<td colspan="2">
+<select id="PageContentPlaceHolder1_ddlSecurityQ2" name="ctl00$PageContentPlaceHolder1$ddlSecurityQ2" style="width:300px;">
+<option value="">Choose a security question...</option>
+<option value="1">What is your favorite color?</option>
+<option value="2">What was the make of the first car you owned (Honda, Chevy, Mazda, etc.)?</option>
+<option value="3">What was the name of your first pet?</option>
+<option value="4">What is your favorite movie?</option>
+<option value="5">What is the last name of your favorite author?</option>
+<option value="6">What is the name of your favorite band/singer?</option>
+<option value="7">What’s your favorite breed of dog?</option>
+<option value="8">What is your favorite board game?</option>
+<option value="9">What is your favorite ice cream flavor?</option>
+<option value="10">What is/was the name of your favorite cartoon?</option>
+<option value="11">What is your favorite fruit?</option>
+<option value="12">What is your favorite sports team?</option>
+<option value="13">What’s your favorite brand of shoes?</option>
+<option value="14">What’s your favorite thing to eat for breakfast?</option>
+</select>
+</td>
+</tr>
+<tr id="trSecurityA2" style="display:none">
+<td style="font-weight:bold;">Answer*</td>
+<td colspan="2">
+<input id="PageContentPlaceHolder1_tbSecurityA2" name="ctl00$PageContentPlaceHolder1$tbSecurityA2" type="text"/>
+</td>
+</tr>
+<tr id="trSecurityQ3" style="display:none">
+<td style="font-weight:bold;">Security Question 3*</td>
+<td colspan="2">
+<select id="PageContentPlaceHolder1_ddlSecurityQ3" name="ctl00$PageContentPlaceHolder1$ddlSecurityQ3" style="width:300px;">
+<option value="">Choose a security question...</option>
+<option value="1">What is your favorite color?</option>
+<option value="2">What was the make of the first car you owned (Honda, Chevy, Mazda, etc.)?</option>
+<option value="3">What was the name of your first pet?</option>
+<option value="4">What is your favorite movie?</option>
+<option value="5">What is the last name of your favorite author?</option>
+<option value="6">What is the name of your favorite band/singer?</option>
+<option value="7">What’s your favorite breed of dog?</option>
+<option value="8">What is your favorite board game?</option>
+<option value="9">What is your favorite ice cream flavor?</option>
+<option value="10">What is/was the name of your favorite cartoon?</option>
+<option value="11">What is your favorite fruit?</option>
+<option value="12">What is your favorite sports team?</option>
+<option value="13">What’s your favorite brand of shoes?</option>
+<option value="14">What’s your favorite thing to eat for breakfast?</option>
+</select>
+</td>
+</tr>
+<tr id="trSecurityA3" style="display:none">
+<td style="font-weight:bold;">Answer*</td>
+<td colspan="2">
+<input id="PageContentPlaceHolder1_tbSecurityA3" name="ctl00$PageContentPlaceHolder1$tbSecurityA3" type="text"/>
+</td>
+</tr>
+<tr><td colspan="2"><a href="#" onclick="forgotPassword();">I forgot my password</a></td></tr>
+<tr>
+<td colspan="2" style="text-align:right">
+<input id="PageContentPlaceHolder1_SubmitButton" name="ctl00$PageContentPlaceHolder1$SubmitButton" onclick="return ValidateLogin();" style="margin-right:12px" type="submit" value="Submit"/>
+</td>
+<td colspan="1"></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:left">
+<input id="PageContentPlaceHolder1_RememberMe" name="ctl00$PageContentPlaceHolder1$RememberMe" type="checkbox"/>Remember me on this computer
+                            </td>
+</tr>
+<tr>
+<td colspan="3">
+<span id="PageContentPlaceHolder1_Login_Error" style="color:Red;font-weight:bold;"></span>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+<td valign="top">
+<table>
+<tbody><tr>
+<td valign="top">
+<div style="margin:8px 0px 8px 40px;max-width:500px;">
+                                Help is provided throughout the system. A question mark icon <img alt="Question mark icon" height="18px" src="Images/CircleQuestion.gif" width="18px"/> is displayed if a field has a help message associated with it. 
+                                Hovering over the icon displays a brief explanation of the field; clicking on the icon will display a detailed help message.
+                                    <br/>
+<br/>
+<a href="http://www.facebook.com/TxDMV" style="border:none">
+<img alt="Become a fan on Facebook!" src="Images/Facebook.png" style="border:none"/></a>  
+                                    <a href="https://twitter.com/TxDMV">
+<img alt="Follow us on Twitter!" src="Images/Twitter.png" style="border:none"/></a>
+</div>
+</td>
+<td style="min-width:200px;"> </td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</div>
+<input id="PageContentPlaceHolder1_hfIDPrefix" name="ctl00$PageContentPlaceHolder1$hfIDPrefix" type="hidden"/>
+<input id="PageContentPlaceHolder1_hfReset" name="ctl00$PageContentPlaceHolder1$hfReset" type="hidden" value="N"/>
+<input id="PageContentPlaceHolder1_CTime" name="ctl00$PageContentPlaceHolder1$CTime" type="hidden"/>
+<input id="PageContentPlaceHolder1_hfNewSecurityQuestion" name="ctl00$PageContentPlaceHolder1$hfNewSecurityQuestion" type="hidden" value='{"UserID":0,"QuestionID":0,"Question":null,"Salt":null,"Answer":null,"AnswerHash":null}'/>
+<input id="PageContentPlaceHolder1_hfUNChanged" name="ctl00$PageContentPlaceHolder1$hfUNChanged" type="hidden"/>
+</div>
+</td>
+<td class="ContentMiddleRight"></td>
+</tr>
+<tr>
+<td class="ContentBottomLeft"></td>
+<td class="ContentBottomRepeat"></td>
+<td class="ContentBottomRight"></td>
+</tr>
+</tbody></table>
+</div> </form>
+<div aria-describedby="ForgotPasswordPop" aria-labelledby="ui-id-1" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-draggable ui-resizable" role="dialog" style="display: none; position: absolute;" tabindex="-1"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle"><span class="ui-dialog-title" id="ui-id-1">Lost password retrieval</span><button class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Close" type="button"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Close</button></div><div class="ui-dialog-content ui-widget-content" id="ForgotPasswordPop" style="">
+<table>
+<tbody><tr>
+<td><b> Username: </b></td>
+<td align="left"><input id="tbUserName" maxlength="50" style="width:120px" type="text"/></td>
+</tr>
+<tr style="display:none;">
+<td><b> Email Address: </b></td>
+<td align="left"><input id="tbEmailAddress" maxlength="50" style="width:180px" type="text"/></td>
+</tr>
+<tr><td colspan="2">Enter your user (login) name</td></tr>
+</tbody></table>
+<br/>
+<input id="btnPWSearch" onclick="searchLostPassword()" type="button" value="Reset My Password"/>
+<input onclick="closeForgotPasswordPop();" type="button" value="Close"/>
+<br/>
+<span id="spnPWSearch" style="color:Blue">Press the 'Reset My Password' button to have password reset information to emailed to you</span>
+<br/>
+<span id="spnWait" style="display:none; color:Red">Please wait... <img alt="" height="18px" src="Images/Loading.gif" width="18px"/></span>
+<span id="spnPWSent" style="display:none;"><span style="color:Red">An email has been sent to the address on file with instructions on resetting your password.</span><br/><span style="color:black">If the email does not arrive, please contact the permit office for further assistance resetting your password at 1-800-299-1700, option 2.</span></span>
+<span id="spnBadEmail" style="display:none; color:Red">There was a problem sending the email to the address on file.</span>
+<span id="spnContactPO" style="display:none; color:Red">Username not found</span>
+<span id="spnContactAdmin" style="display:none; color:Red">Please contact your company administrator regarding your account</span>
+</div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div></body></html>

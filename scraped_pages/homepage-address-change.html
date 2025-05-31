@@ -1,0 +1,75 @@
+<html><head></head><body><map id="address_chg_form" name="address_chg_form">
+<area coords="237,153,383,163" href="http://www.txdmv.gov/txdmv-forms/doc_download/1001-vtr-146-change-of-address-for-texas-vehicle-registration" shape="rect" target="_blank"/>
+<area coords="23,172,152,183" href="http://www.txdmv.gov/txdmv-forms/doc_download/1001-vtr-146-change-of-address-for-texas-vehicle-registration" shape="rect" target="_blank"/>
+<area coords="802,92,848,104" href="http://www.txdmv.gov/wheretogo/regional_offices.htm" shape="rect" target="_blank"/>
+<area coords="470,111,749,123" href="http://www.txdmv.gov/wheretogo/regional_offices.htm" shape="rect" target="_blank"/>
+</map>
+<map id="address_chg_form_span" name="address_chg_form">
+<area coords="161,167,383,179" href="http://www.txdmv.gov/forms/doc_download/1001-vtr-146-change-of-address-for-texas-vehicle-registration" shape="rect" target="_blank"/>
+<area coords="23,183,316,195" href="http://www.txdmv.gov/forms/doc_download/1001-vtr-146-change-of-address-for-texas-vehicle-registration" shape="rect" target="_blank"/>
+<area coords="600,201,867,211" href="http://www.txdmv.gov/wheretogo/regional_offices.htm" shape="rect" target="_blank"/>
+<area coords="476,217,674,228" href="http://www.txdmv.gov/wheretogo/regional_offices.htm" shape="rect" target="_blank"/>
+</map>
+<link href="/Renew/images/apps/txdotrts/vtr/favicon_DMV.ico" rel="shortcut icon"/>
+<link href="/Renew/common/css/lookandfeel.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="/Renew/common/css/print.css" media="print" rel="stylesheet" type="text/css"/>
+
+<map id="texas_sure_link" name="texas_sure_link">
+<area coords="46,229,322,242" href="http://www.texassure.com" shape="rect" target="_blank"/>
+</map>
+<form action="/Renew/AddressChangeServlet" method="POST" name="thisForm">
+<input name="XXtask" type="hidden"/>
+<input name="language" type="hidden" value=""/>
+<div style="{position: relative; z-index: 2; left: 0; right: 0;}">
+<img border="0" src="/Renew/images/apps/txdotrts/vtr/redesign_images/address_chg_header.jpg" usemap="#header_links"/>
+</div>
+<div style="{position: relative; top: 20; z-index: 2;}">
+<img border="0" src="/Renew/images/apps/txdotrts/vtr/redesign_images/address_header.jpg"/>
+</div>
+<!-- defect DMVRTS-3073 -->
+<div class="content">
+<p>Changing your address is easy. Just keep the following in mind:</p>
+<table>
+<tbody><tr>
+<td valign="top" width="450px">
+<p>1. You can only use texas.gov to change the address where your registration renewal notice is mailed.</p>
+<p>2. You cannot use texas.gov to change the address of the vehicle owner (the address shown on your title) or the address of the vehicle location. To change either of these addresses, <a href="http://www.txdmv.gov/txdmv-forms/doc_download/1001-vtr-146-change-of-address-for-texas-vehicle-registration" target="_blank">click here</a> to download an Address Change Form.  </p>
+<p>3. When changing an address online, be ready to provide the vehicle's license plate number and last four digits of the Vehicle Identification Number(VIN).You can find this information on (1) your insurance card, (2) your registration renewal notice, if you received one, or (3) last year's registration sticker receipt.*</p>
+</td>
+<td class="second" valign="top">
+<p>4. Address changes take effect within 2 business days.</p>
+<p>5. If you have questions, contact one of our regional offices. You can find the numbers and addresses by <a href="http://www.txdmv.gov/wheretogo/regional_offices.htm" target="_blank">clicking here.</a></p>
+<p style="text-indent:0;">(Continue on and you can sign up for an eReminder — a friendly e-mail from us that your vehicle registration sticker is coming due.)</p>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div style="{position: relative; top: 30; right: 10}">
+<a href="javascript:goTo(1);" id="continueBtn"><img border="0" src="/Renew/images/apps/txdotrts/vtr/redesign_images/button_continue_green.jpg"/></a>
+	  
+	<a href="javascript:goTo(12);"><img border="0" src="/Renew/images/apps/txdotrts/vtr/redesign_images/button_cancel.jpg"/></a>
+</div>
+<div class="noPrint" style="{position: relative; top: 40;}">
+</div>
+<map id="header_links" name="header_links">
+<area coords="0,0" href="" shape="rect" target="_blank"/>
+<area coords="37,153,402,190" onclick="javascript:gotoMainMenu('/Renew/common/jsp/txdot_vtr_main_menu.jsp');" shape="rect"/>
+<area coords="427,102,888,111" href="javascript:changeLanguage('esp',url = '/Renew/addresschange/jsp/txdot_addr_chg_welcome.jsp');" shape="rect"/>
+<area coords="439,102,888,111" href="javascript:changeLanguage('esp',url = '/Renew/addresschange/jsp/txdot_addr_chg_welcome.jsp');" shape="rect"/>
+</map>
+<map id="header_notrans_links" name="header_notrans_links">
+<area coords="0,0,945,102" href="" shape="rect" target="_blank"/>
+</map>
+</form>
+<!-- end of the before submit for payment div in txdot_vtr_header 
+</div> -->
+<map id="footer_links" name="footer_links">
+<area coords="341,28,489,42" href="" shape="rect" target="_blank"/>
+<area coords="515,27,581,42" href="http://www.txdmv.gov" shape="rect" target="_blank"/>
+<area coords="770,10,810,10,812,21,915,21,915,45,812,45,810,50,770,50" href="http://www.texas.gov/" shape="poly" target="_blank"/>
+<area coords="684,77,832,88" href="http://www.texas.gov/en/about/Pages/privacy-policy.aspx" shape="rect" target="_blank"/>
+<area coords="846,77,922,87" href="/Renew/common/jsp/txdot_vtr_help.jsp" shape="rect" target="_blank"/>
+</map>
+
+
+</body></html>
