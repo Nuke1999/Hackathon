@@ -1,0 +1,242 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Log In</title>
+
+    <link rel="icon" type="image/png" href="/images/MCC_16x16.png" sizes="16x16" />
+    <link rel="icon" type="image/png" href="/images/MCC_32x32.png" sizes="32x32" />
+
+
+    
+    
+        <link rel="stylesheet" href="/css/bootstrap.min.css?v=tgSD6HWvnijjbpjlBjfcieoN91YSX-QUlLCyxJv9QfI" />
+        <link rel="stylesheet" href="/lib/datatables/dist/css/dataTables.bootstrap.min.css?v=x6oX7PejQqoG4rqpHiRgz3222cUckCrfmp2pkJaPb2k" />
+        <link rel="stylesheet" href="/lib/datatables-responsive/dist/css/responsive.bootstrap.min.css?v=3ERiw4z98pDlenrI0l6vRtAQCXuJpix6sfLKzO6fNgw" />
+        <link rel="stylesheet" href="/lib/datatables/dist/css/buttons.bootstrap.min.css?v=m79Vz1jmEgr-fSDljztEvMq5V-mQRiUirRzYZXIXX0E" />
+        <link rel="stylesheet" href="/lib/datatables/dist/css/buttons.dataTables.min.css?v=rtRbjYc0L3FLTuBTWO3tO2Twub0mFtKt-9WfYXhDA8o" />
+        <link rel="stylesheet" href="/lib/datatables/dist/css/buttons.jqueryui.min.css?v=SdFBem49pGrP22KjxifjhfadYESFFE95Bk_1JmJZegE" />
+        <link rel="stylesheet" href="/css/site.min.css?v=BPvRhr_MUbzfUQTJFdHL87NkEiyCkVjmvw0IOi-Y_5M" />
+        <link rel="stylesheet" href="/css/style.min.css?v=rxmCYV4UCNygNB_HSIAfCkXkUai7StsOT_5vSXTFWpI" />
+        <link rel="stylesheet" href="/fonts/material-icons/material-icons.css?v=AsU_5Wm8VlkuNb79gD9pi6Xmsk0r_7ujabHY3P4HXF8" />
+        <link rel="stylesheet" href="/css/roboto.css?v=NxnPBDA4zEMQZl6Q9zDDobVtTJz1jiNQXn1feOmSNNA" />
+        <link rel="stylesheet" href="/css/daterangepicker.css?v=7B9s_BwXySAt0TMN6_mo6NCBm8oCfFNqaeJlz_9FCpE" />
+    
+</head>
+<body>
+    <div>
+        
+
+<header class="main-header clearfix fixed">
+	
+<div>
+    <table style="width: 100%" aria-label="JurHeader" role="presentation">
+                <tr style="background-image: url('/images/Header/TX/Image-Fill.gif')">
+                    <td style="text-align: left;">
+                        <img src="/images/Header/TX/Image-L.gif" alt="TX-Left" class="header-img" />
+                    </td>
+                    <td style="text-align: center;">
+                        <img src="/images/Header/TX/Image-C.gif" alt="TX-Center" class="header-img" />
+                    </td>
+                    <td style="text-align: right;">
+                        <img src="/images/Header/TX/Image-R.gif" alt="TX-Right" class="header-img-right" />
+                    </td>
+                </tr>
+    </table>
+</div>
+
+
+	<div class="header-title padding-left-20">
+		<div>
+		</div>
+	</div>
+</header>
+
+
+
+        <div>
+            <div class="right-content">
+                <div class="unauthenticated-view container">
+                    <div class="white-box clearfix">
+                        <div class="container-fluid">
+                            
+
+
+
+
+    <br />
+    <div class="row">
+        <div class="col-xs-12">
+            <div><p><b>Welcome to<i><font color="#0000FF"> Tx<font color="#99CC00">FLEET</font></font></i>!</b></p></div>
+        </div>
+    </div>
+<div class="row">
+    <div class="col-xs-12">
+        <h2 class="headline">Log In</h2>
+    </div>
+</div>
+
+<div class="row" role="main">
+
+    <div class="row">
+        <div class="col-xs-12">
+            <div class="text-danger validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
+</ul></div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+
+        <form class="form-horizontal" method="post">
+            <input type="hidden" id="Input_IsInternalUser" name="Input.IsInternalUser" value="Q2ZESjhITXRnckpQdkVOQnAxVWphOUpuZE0tWE05a3NLMkczbXJsMmlpeHdQSi1fczZDZzYyN2Y2em91cGlSTDdCS0ZtaGRobmU3TmtiYXlfUHZubmFUS3B3WjhQVUg5dHJrUlJzYldtbHJVVjdYRDkwSjlFakNiT0dvLThjREtmTmREWHoyaHhsSFNLTDVVVXVOMHhJNGlRT28=" />
+                <div class="row">
+                    <div class="col-xs-12">
+                        <hr />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="input-container right-margin">
+                            <label class="filter-label" for="Input_UserName">Username </label>
+                            <input class="input-entry" autofocus="" type="text" id="Input_UserName" name="Input.UserName" value="">
+                            <span id="Input_UserName-error" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="input-container right-margin">
+                            <label class="filter-label" for="Input_Password">Password</label>
+                            <input class="input-entry" type="password" id="Input_Password" name="Input.Password" />
+                            <span id="Input_Password-error" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-md-offset-8 col-xs-12 padding-bottom-5">
+                        <button type="submit" class="btn btn-primary"><i class="material-icons">check_circle</i>Log In</button>
+                    </div>
+                    <input type="hidden" id="ReturnUrl" name="ReturnUrl" value="Q2ZESjhITXRnckpQdkVOQnAxVWphOUpuZE1fbGF0bTFRdURBOUlMM1RKRmtfRXhfTE5qNVhiUnVLR3p0RGx6OUZPOU5BTkE3WkJiRlM2Z1ZDWFpRc3BOZjFUaExHTGJfaml2SllZZ25GTWV4WUNIRmptMWZlLXZQN3ZNbFk4RWJ0ZWVPczQ5THIzNlMxS1Y0ekNkbjA2RVQ4MFU=" />
+                </div>
+
+            <br />
+
+                <div class="row">
+                    <div class="col-xs-12">
+                        <a href="/Identity/Authentication/ValidateUserCaptcha/motorcarrieraccount">Apply for Motor Carrier Account</a>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12">
+                        <a href="/Identity/UserAccount/UsernameRecover">Click here if you forgot your user name</a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12">
+                        <a href="/Identity/UserAccount/PasswordRecover">Click here if you forgot your password</a>
+                    </div>
+                </div>
+
+            <div class="row">
+                <div class="col-xs-12">
+                    <a href="/Identity/Authentication/ValidateUserCaptcha/carrier">Click here to request internet access to your account or agency</a>
+                </div>
+            </div>
+
+        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8HMtgrJPvENBp1Uja9JndM_IBiDj1mhkBvNtffdQL3QzV882nPdMEd7IYV5uar0lfLor8vStjZl5LI9dcoNxn8ERJMX9Q9FjzJq1PHO3I7qa3ROZ8cDqU3Fm-gF3p5yLIv-agc2qIeeh3xOzDXvecA8" /></form>
+    </div>
+    <div class="col-md-6 col-md-offset-2">
+        <div><p>Commercial Fleet Services Headquarters is here to help during the below hours:</p>
+<p><font size="2">Monday 8:00am - 4:30pm</font></p>
+<p><font size="2">Tuesday 8:00am - 4:30pm</font></p>
+<p><font size="2">Wednesday 9:00am - 4:30pm</font></p>
+<p><font size="2">Thursday 8:00am - 4:30pm</font></p>
+<p><font size="2">Friday 8:00am - 4:30pm</font></p>
+<p><font color="#0000FF"><b><font size="2">***TxDMV will be closed for the Memorial Day holiday on Monday, May 26, 2025***</font></b></font></p>
+<p><font size="2"></font></p>
+<p>For a <u><b>new apportion plate account</b></u> please click on Apply for Motor Carrier.</p>
+<p>If you <u><b>previously had access in TxIRP</b></u> please simply click on Forgot Password using the same username. Use the Forgot Username or Forgot Password link to have information emailed to you.</p>
+<p>If you have <u><b>never had online/internet access</b></u>, please click on Click here to request internet access to your account or agency to submit an access request.</p>
+<p><font color="#FF0000"><u>All TxFLEET transactions must be started online by the carrier.</u></font></p>
+<p align="right">ITEM 10</p></div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+
+                    <footer>
+                        
+
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12 footer">
+                <div><p align="center"><font size="2">The Motor Carrier Division is here to assist you. Please contact us at</font><font size="2"> 800-299-1700 Options 5-1.</font></p>
+<p align="center"><font size="2"><span> <a href="https://www.txdmv.gov/" target="_blank">TxDMV</a> | <a href="https://www.txdmv.gov/motor-carriers/commercial-fleet-registration" target="_blank">Commercial Fleet Services</a> | <a href="http://safer.fmcsa.dot.gov/" target="_blank">SAFER</a> </span></font></p>
+<p align="center"><a href="https://www.ucr.gov/" target="_blank">UCR</a> | <a href="https://www.irs.gov/forms-pubs/about-form-2290" target="_blank">HVUT</a> | <a href="https://www.fmcsa.dot.gov/registration/fmcsa-forms" target="_blank">USDOT</a></p>
+<p align="right">ITEM 1112</p></div><br />
+                <div class="row">
+                    <div class="col-md-3 col-xs-6">
+                        <a href="/Contact">Contact Us</a>&nbsp;
+                        <a href="/SiteRequirements">Site Requirements</a>&nbsp;
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div class="col-md-3 col-xs-6">
+                        &nbsp;&nbsp;
+                            
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" language="javascript">
+        var sessionExpiration = 60 * 40;
+
+        // Set refresh interval 5 minutes (300 seconds) prior to session expiration, converted to milliseconds
+        var refreshInterval = (sessionExpiration - 300) * 1000; // in milliseconds
+        setInterval("changeText()", refreshInterval);
+
+        function changeText() {
+            var msg = document.getElementById('sessionMsg');
+            msg.style.color = "red";
+            msg.innerText = "Your Session is about to expire, refresh the page to keep the Session open.";
+        }
+    </script>
+
+                    </footer>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    
+        <script src="/lib/jquery/dist/jquery.min.js?v=82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us"></script>
+        <script src="/lib/datatables/dist/js/jquery.dataTables.min.js?v=4iXxtIa1iu6d6x15LV7v-7AKNC9Oeg6cm4TX7gbllX0"></script>
+        <script src="/lib/datatables/dist/js/dataTables.bootstrap.min.js?v=J4ZjXTk9dlgkNyDL6iT85H6u87SSluNKqDjVMMnLSoY"></script>
+        <script src="/lib/datatables/dist/js/dataTables.buttons.min.js?v=r_Dm3EQAu86K36xFsZ4nvrx88TDukDTbOTmOnxJrYQE"></script>
+        <script src="/lib/datatables/dist/js/buttons.bootstrap.min.js?v=tgY-wn17_gBtgxobKVSp3GcSdQm1XTL1eUUeUG17sS0"></script>
+        <script src="/lib/datatables/dist/js/buttons.flash.min.js?v=CRbNqa9qjlwbYUzWKpYlFrHfcUTaTwbCtN1-kxwUiQY"></script>
+        <script src="/lib/datatables/dist/js/buttons.html5.min.js?v=0g58OIRC7RMy4yGq8nrwVCHt3XHmRk12dFbw5tjRJKM"></script>
+        <script src="/lib/datatables/dist/js/buttons.print.min.js?v=vAEU8NLgjm1ZfapC94KD732qepZG-xCT__aqYBIE48w"></script>
+        <script src="/lib/datatables/dist/js/dataTables.checkboxes.min.js?v=LRVk8STEFj6qKwjNWpvsmFxwOImrh2Hu9RBPMwfi3Cc"></script>
+        <script src="/lib/datatables-responsive/dist/js/dataTables.responsive.min.js?v=h6SzT6b7x89jAhn6Dl-WhDaJk8f3hSY-RpJtmFGUrr4"></script>
+        <script src="/lib/datatables-responsive/dist/js/responsive.bootstrap.min.js?v=FBbW3W6Wc9Ca31p1vWRKF07ZucHH_dHoUjv4JuqPBvY"></script>
+        <script src="/lib/jquery-validation/dist/jquery.validate.min.js?v=6e0N-WJiVKBeTitK1GKSwPi3rbdPpLtuqaiitZjeD2w"></script>
+        <script src="/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js?v=9GycpJnliUjJDVDqP0UEu_bsm9U-3dnQUH8-3W10vkY"></script>
+        <script src="/lib/bootstrap/dist/js/bootstrap.min.js?v=NkYOSU5MYoRDr97UCydDte3ppKdvtPe57yNFzH5Z_WQ"></script>
+        <script src="/js/site.min.js?v=mgMeYKuy5QVgBS7Sdn5bhU7ReX8qrkp36KNzjazzn9M"></script>
+    
+    
+</body>
+</html>

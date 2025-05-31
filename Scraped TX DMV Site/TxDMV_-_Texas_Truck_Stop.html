@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<!-- -->
+<!-- This is an include file -->
+
+<SCRIPT LANGUAGE="Javascript">
+
+//===================================================================================================
+// function fill_onfocus()
+//===================================================================================================
+function fill_onfocus(frmname, itmname)
+{
+	document.forms[frmname].elements[itmname].style.backgroundColor="lightblue";
+	document.forms[frmname].elements[itmname].style.color ="black";
+}
+ 
+//===================================================================================================
+// function empty_onblur()
+//===================================================================================================
+function empty_onblur(frmname,itmname)
+{
+	document.forms[frmname].elements[itmname].style.backgroundColor="white";
+    document.forms[frmname].elements[itmname].style.color ="black";
+}
+</SCRIPT>
+
+<style>
+<!--
+
+.mouseBeDown {
+	border-top:    2px  solid white;
+	border-bottom: 0px   solid white; 
+	border-left:   0px  solid white; 
+	border-right:  0px   solid white;
+}
+
+.mouseBeUp {
+	border-top:    0px  solid white;
+	border-bottom: 2px  solid white; 
+	border-left:   0px  solid white; 
+	border-right:  0px   solid white;
+}
+
+//-->
+</style>
+<link rel="stylesheet" type="text/css" href="/template/stylesheets/txdot.css">
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+<!-- This is an include file -->
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113617355-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-113617355-1');
+</script>
+</head>
+<title>TxDMV - Texas Truck Stop</title>
+
+<style type="text/css">
+<!--
+
+p, div { font-size: 13px }
+
+.page_header {text-align:center; color:#FF0000; font-size:18px; font-weight:bold; margin-top:20px; margin-bottom:10px;}
+
+.page_header_black {text-align:center; color:white; font-size:20px; font-weight:bold; margin-top:20px; margin-bottom:10px;}
+
+.page_sub_header {text-align:center; color:white; font-size:16px; font-weight:bold; margin-top:10px; margin-bottom:10px;}
+
+.search_message {text-align:center; margin-top:60px; font-size:18px; font-weight:bold}
+
+.search_hour_glass {text-align:center; margin-top:120px;}
+
+-->
+</style>
+
+<!-- This is an include file -->
+
+
+<html lang="en">
+
+<head>    
+    <meta name="MCCS-DPS Inquiry" Content=" Motor Carrier Inquiry">
+    <title> Motor Carrier Inquiry</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="css/sweet-alert.css">
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+</head>
+
+<body>
+
+    <section class="col-md-12">
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="text-center">
+                    <a href="http://www.txdmv.gov" target= "_blank"> <img class="img-responsive center-block" src="/APPS/MCCS/truckstop/images/dmv-banner-logo.gif" style="border:hidden" alt="Click to go to www.TxDMV.gov" title="Click to go to www.TxDMV.gov"></a>
+                </div>
+                
+                <hr class='hr-default'>
+            </div>
+        </div>
+
+        <div class="container">
+            
+            <h1 class="text-center">Welcome to Truck Stop</h1>
+
+            <div class="row col-md-8 col-md-offset-2">
+
+                <p style="text-align:center; margin-left:-70px; margin-right:-70px; margin-top:-10px">
+                    Use this search tool to find out if a motor carrier business (moving, trucking or bus company) 
+                    is properly licensed in Texas. Simply type in the search criteria below and click the search button. 
+                    Never hire an unlicensed business.
+                </p>                
+            </div>
+
+           
+            
+
+            <div class="row">
+
+                <div class="col-md-12">
+
+                    <form id="overrideform" action="Certificate/Certificate_Search_Message.asp" class="form-horizontal" name="overrideform">
+
+                        <!-- - Company Name + TxDMV Number --->
+                        <div class="form-group">
+                            
+                            <label class="control-label col-md-2" for="search_customer_name">Company Name:</label>
+
+                            <div class="col-md-4">
+                                <div class="input-group">
+                                    <input name="search_customer_name" id="search_customer_name" type="text" class="form-control">
+
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default">
+                                            <i class="fa fa-question" title="Click to see Company Name Definition"></i>
+                                        </button>
+                                    </span>
+                                </div>
+                            </div>
+
+                            <label class="control-label col-md-1" for="search_dba_name" style="width:120px">DBA:</label>
+
+                            <div class="col-md-4">
+                                <div class="input-group">
+                                    <input name="search_dba_name" id="search_dba_name" type="text" class="form-control">
+
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default">
+                                            <i class="fa fa-question" title="Click to see DBA Name Definition"></i>
+                                        </button>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- - US DOT Number + DBA --->
+                        <div class="form-group">
+
+                            <label class="control-label col-md-2" for="search_us_dot_number">US DOT #:</label>
+                            
+                            <div class="col-md-4">
+                                <div class="input-group">
+                                    <input name="search_us_dot_number" id="search_us_dot_number" type="text" class="form-control">
+
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default">
+                                            <i class="fa fa-question" title="Click to see USDOT Number Definition"></i>
+                                        </button>
+                                    </span>
+                                </div>
+                            </div>
+
+                            <label class="control-label col-md-1" for="search_certificate_nbr" style="width:120px">TxDMV #:</label>
+                    
+                            <div class="col-md-4">
+                                <div class="input-group">
+                                    <input name="search_certificate_nbr" id="search_certificate_nbr" type="text" class="form-control">
+
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default">
+                                            <i class="fa fa-question" title="Click to see TxDMV # Definition"></i>
+                                        </button>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- - VIN + City --->
+                        <div class="form-group">
+
+                            <label class="control-label col-md-2" for="search_vin_number">VIN:</label>
+
+                            <div class="col-md-4">
+                                <div class="input-group">
+                                    <input name="search_vin_number" id="search_vin_number" type="text" class="form-control">
+                                    
+                                    <span class="input-group-btn" >
+                                        <button type="button" class="btn btn-default">
+                                            <i class="fa fa-question" title="Click to see VIN Definition"></i>
+                                        </button>
+                                    </span>
+                                </div>
+                            </div>
+
+                            <label class="control-label col-md-1" for="search_city" style="width:120px">City:</label>
+
+                            <div class="col-md-4">
+                                <input name="search_city" id="search_city" type="text" class="form-control">
+                            </div>
+                        </div>
+
+                        <!-- - Zip Code + Carrier Type --->
+                        <div class="form-group">
+
+                            <label class="control-label col-md-2" for="search_zip">Zip Code:</label>
+
+                            <div class="col-md-4"><input name="search_zip" id="search_zip" type="text" class="form-control"></div>
+
+                            <label class="control-label col-md-1" for="search_carrier_type_drop_down" style="width:120px">Carrier Type:</label>
+
+                            <div class="col-md-4">
+                                <div class="input-group">
+                                    <input id="search_carrier_type_drop_down" name="search_carrier_type_drop_down" type="text" disabled placeholder="Choose an option ..." class="form-control">
+                      
+                                    <span class="input-group-btn">
+                        
+                                        <button type="button" data-toggle="dropdown" class="btn btn-default dropdown-toggle">                          
+                                            <span class="caret"></span>                          
+                                            <span class="sr-only">Toggle Dropdown</span>
+                                        </button>
+
+                                        <ul class="dropdown-menu dropdown-menu-right">
+                                            <li><a href="#">Hazardous Cargo Carrier </a></li>
+                                            <li><a href="#">Bus</a></li>
+                                            <li><a href="#">Household Goods Carrier</a></li>
+                                            <li><a href="#">Commercial Carrier</a></li>
+                                        </ul>
+
+                                        <button type="button" class="btn btn-default"><i class="fa fa-question" title="Click to see Carrier Type Definition"></i></button>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-12">
+                                <input name="search_carrier_type" id="search_carrier_type" type="hidden">
+                            </div>
+                        </div>
+
+                        <!-- - Submit --->
+                        <div class="form-group">
+                            <div class="col-md-6 col-md-offset-3">
+                                <button type="submit" class="btn btn-lg btn-block btn-primary">Search</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="container">            
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    <p class="text-center"><strong>Click on a map area below to find motor carrier licenses that were deactivated in the past 60 days.</strong></p>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-2 col-md-offset-5"><a href="Certificate/Certificate_Search_District.asp"><img class="img-responsive center-block" src="images/Tex_Districts.png" alt="Click to search for certificates inactivated in the past 60 days" title="Click to search for certificates inactivated in the past 60 days"></a></div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3"><a href="/APPS/MCCS/cms/ces_main.asp" target="_new" title="Click to search for Complaints against Carriers" role="button" class="btn btn-block btn-default col-lg-12" style="margin-bottom:4px;white-space: normal;">Click here to File a Complaint or Check a Complaint History</a></div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-4 col-md-offset-4">
+                    <div id="browser-icons" class="text-center"><a href="http://www.microsoft.com/windows/internet-explorer/default.aspx" target="_blank"><i class="fa fa-3x fa-internet-explorer"  title="Click to go to Internet Explorer"></i></a><a href="https://www.google.com/intl/en/chrome/browser/" target="_blank"><i class="fa fa-3x fa-chrome" title="Click to go to Chrome"></i></a><a href="http://www.mozilla.com/en-US" target="_blank"><i class="fa fa-3x fa-firefox" title="Click to go to Firefox"></i></a><a href="http://support.apple.com/downloads/#safari" target="_blank"><i class="fa fa-3x fa-safari" title="Click to go to Safari"></i></a></div>
+                        <p class="text-center">This system works best with Internet Explorer, Mozilla FireFox, Google Chrome, or Safari</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+     <!DOCTYPE html>
+
+<html>
+    <body>
+
+        
+
+       <!-- ---------------------------------------------------------------------------------------- -->
+        <!-- Footer                                                                                   -->
+        <!-- ---------------------------------------------------------------------------------------- -->
+
+        
+
+        <div class="text-center">
+	        Copyright &#169 2025 TxDMV - <b>Version 9.9&nbspSaturday, December 12, 2020</b> Contact Us: <a href="mailto:MCD_MCCS-HelpDesk@txdmv.gov"><u>MCD_MCCS-HelpDesk@TxDMV.gov</u></a>
+        </div>
+    </body>
+</html>
+
+   
+ 
+
+    
+    <div id="mod-shell" class="modal fade">
+        <div class="modal-dialog">            
+            <div class="modal-content"></div>				
+        </div>
+    </div>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/sweet-alert.min.js"></script>
+
+    <script type="text/javascript">
+
+        var helpModal = {
+            search_customer_name: '<h3>Company Name Description</h3> <p>Select a search criteria of Company name or Doing Business As (DBA) name. Enter the Company or DBA name in the field provided.</p> <p>A minimum of three characters must be entered. Letters, spaces, periods, hyphens, etc. represent characters.</p>',
+            search_certificate_nbr: '<h3>Certificate / Registration # Description</h3> <p><strong>TxDMV Number</strong> A 10-digit TxDMV number must be entered. If the motor carrier\'s TxDMV number contains less than 10 digits, please add zeros to the beginning of the number.</p> <p><strong>Example:</strong> TxDMV No. 1234567C, enter 001234567C in the search field provided.</p>',
+            search_us_dot_number: '<h3>US DOT # Description</h3> <p>The USDOT number does not have a set length. Enter the USDOT number without any preceding zeroes at the beginning.</p> <p><strong>Example:</strong> "USDOT No. 00012345," enter 12345 in the search field provided.</p>',
+            search_dba_name: '<h3>Doing Business As</h3> <p>Select a search criteria of Company name or Doing Business As (DBA) name. Enter the Company or DBA name in the field provided.</p> <p>A minimum of three characters must be entered. Letters, spaces, periods, hyphens, etc. represent characters.</p>',
+            search_vin_number: '<h3>Vehicle Identification Number</h3>',            
+            search_carrier_type_drop_down: '<h3>Motor Carrier Type Definitions</h3> <p><strong>Bus</strong> - A motor carrier that transports passengers in a vehicle designed or used to transport more than 15 passengers, including the driver. It does not include a motor vehicle operated by an entity whose primary function is not the transportation of passengers, such as a vehicle operated by a hotel, day-care center, public or private school, nursing home, or similar organization.</p> <p><strong>Commercial Carrier</strong> - A motor carrier who operates a commercial motor vehicle having a gross weight, registered weight or gross vehicular weight rating over 26,000 pounds, that is designed or used for the transportation of cargo.</p> <p><strong>Hazardous Cargo Carrier</strong> - A motor carrier that transports hazardous materials in a quantity requiring placarding as defined in the Federal Hazardous Materials Transportation Act (49 U.S.C. 5101 et seq.).</p> <p><strong>Household Goods Carrier</strong> - A motor carrier who transports household goods for compensation.</p>'
+        };
+      
+        //=================================================================================================================
+        // - Move curser to first input field after window is loaded
+        //=================================================================================================================
+        $(window).load(function()
+        {
+            $('#overrideform').find('input').eq(0).focus(); // select the first input in the form
+        });
+      
+        //=================================================================================================================
+        // -  Wait till the document is loaded(DOM tree is loaded) and not till the entire window is loaded
+        //=================================================================================================================
+        $(document).ready(function(){
+        
+            $('body').on('shown.dmv.modal.text', function (event, contentStr) 
+            {	
+				var ls_close
+				
+				                                						
+				ls_close = "<div class='modal-footer'><button type='button' class='btn btn-default' data-dismiss='modal'>Close</button></div>";
+				
+				contentStr = contentStr + ls_close;
+				
+				$('#mod-shell .modal-dialog').addClass('modal-lg');
+				$('#mod-shell .modal-content').html(contentStr);
+            });
+      
+			//=================================================================================================================
+			// -  Wait till the document is loaded(DOM tree is loaded) and not till the entire window is loaded
+			//=================================================================================================================
+            $('body').on('hide.bs.modal', function (event) 
+            {
+                $(event.target).removeData('bs.modal')
+                $(event.target).find('.modal-dialog').removeClass('modal-lg');
+          
+                $content = $(event.target).find('.modal-content');
+                $content.children().not('iframe').remove();
+                $content.children('iframe').removeAttr('src');
+            });
+
+        
+            $('.input-group-btn button:not(.dropdown-toggle)').click(function(e) 
+            {        
+                e.preventDefault();
+          
+                var href = $(this).data('href');
+               
+                // we're using a text-based modal
+                var $input = $(this).parent().prev('input');
+          
+                if($input.length === 0)
+                    return;
+              
+                var modalContent = helpModal[$input.prop('name')];
+
+                $('#mod-shell').modal();
+                $(this).trigger('shown.dmv.modal.text', [modalContent]);               
+            });
+        
+            //=================================================================================================================
+            // - Populate <input> next to dropdown menus as if they were <select>s -
+            //================================================================================================================= 
+            $('input[name="search_carrier_type_drop_down"] + .input-group-btn .dropdown-menu a').click(function(evt)
+            {
+                evt.preventDefault();
+                var text = $(this).text();
+                $(this).closest('.input-group-btn').prev('input').val(text);
+                document.getElementById("search_carrier_type").value=text;
+            });
+
+			//===============================================================================
+			// - Validate form input -
+			//===============================================================================
+			function validate(overrideform) 
+			{
+			  if (overrideform.search_certificate_nbr.value.length > 9)
+			  {
+				overrideform.submit();
+				return true;
+			  }
+		  
+			  if (overrideform.search_us_dot_number.value.length >= 3)
+			  {
+				if (isNaN(overrideform.search_us_dot_number.value))
+				{
+				  overrideform.search_us_dot_number.value = null;			
+				  swal("US DOT Number must be a number.");			    
+				  return false;
+				}
+			
+				overrideform.submit();
+				return true;
+			  }
+		  
+			  if (overrideform.search_customer_name.value.length >= 3)
+			  {
+				overrideform.submit();
+				return true;
+			  }
+		  
+			  if (overrideform.search_dba_name.value.length >= 3)
+			  {
+				overrideform.submit();
+				return true;
+			  }
+		  
+			  if (overrideform.search_vin_number.value.length >= 1)
+			  {
+				if (overrideform.search_vin_number.value.length >= 5)
+				{
+				  overrideform.submit();
+				  return true;
+				  
+				} else {
+				
+					var ls_close;
+
+					
+					ls_close = "<h2 class='h3' style='text-align:center'>VIN Number must be at least 5 characters in length.</h2><div class='modal-footer'><button type='button' class='btn btn-default' data-dismiss='modal'>Close</button></div>";
+					
+					$('#mod-shell .modal-dialog').addClass('modal-lg');					
+					$('#mod-shell .modal-content').html(ls_close);				
+					$('#mod-shell').modal('show');
+								
+					return false;
+				}
+			  }
+			
+			  if (overrideform.search_city.value.length >= 3)
+			  {
+				overrideform.submit();
+				return true;
+			  }
+		  
+			  if (overrideform.search_zip.value.length >= 4)
+			  {	
+				overrideform.submit();
+				return true;		
+			  }
+			  else
+			  {
+				var ls_close;
+
+				
+				ls_close = "<h2 class='h3' style='text-align:center'>Enter appropriate search criteria.</h2><div class='modal-footer'><button type='button' class='btn btn-default' data-dismiss='modal'>Close</button></div>";
+								
+				$('#mod-shell .modal-content').html(ls_close);				
+				$('#mod-shell').modal('show');
+								
+				return false;
+			  }
+			}
+			
+			$(document).keypress(function(evt){
+			  if(evt.which != 13)
+				return;
+				
+			  validate($('#overrideform').get(0));
+			});
+			
+			$('#overrideform').submit(function(evt){
+			  evt.preventDefault();
+			  validate($(this).get(0));
+			});
+		});
+    </script>
+  </body>
+</html>

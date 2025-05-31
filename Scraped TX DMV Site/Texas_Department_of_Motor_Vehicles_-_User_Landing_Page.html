@@ -1,0 +1,479 @@
+
+<!DOCTYPE HTML>
+
+    <head>
+<script src="/customers/static/111213/js/perf/stub.js" type="text/javascript"></script><script src="/customers/jslibrary/1748248645254/sfdc/VFRemote.js" type="text/javascript"></script><script src="/customers/jslibrary/1748248679254/ui-sfdc-javascript-impl/SfdcCore.js" type="text/javascript"></script><script src="/customers/resource/1534993349000/styles/js/jquery-1.12.1.min.js" type="text/javascript"></script><script src="/customers/resource/1534993349000/styles/js/bootstrap.min.js" type="text/javascript"></script><script src="/customers/resource/1534993349000/styles/js/moment-with-locales.js" type="text/javascript"></script><script src="/customers/resource/1534993349000/styles/js/bootstrap-datetimepicker.js" type="text/javascript"></script><script src="/customers/resource/1534993349000/styles/js/lace.js" type="text/javascript"></script><script src="/customers/resource/1534993349000/styles/js/head.core.min.js" type="text/javascript"></script><script src="/customers/static/111213/js/picklist4.js" type="text/javascript"></script><script src="/customers/jslibrary/1748248645254/sfdc/VFState.js" type="text/javascript"></script><script src="/customers/resource/1534993349000/styles/js/formValidation.min.js" type="text/javascript"></script><script src="/customers/resource/1534993349000/styles/js/fv.bootstrap.min.js" type="text/javascript"></script><script src="/customers/resource/1534993349000/styles/js/jquery.mask.min.js" type="text/javascript"></script><script src="/customers/resource/1534993349000/styles/js/validations.js" type="text/javascript"></script><link class="user" href="/customers/resource/1534993349000/styles/css/bootstrap.min.css" rel="stylesheet" type="text/css" /><link class="user" href="/customers/resource/1534993349000/styles/css/formValidation.min.css" rel="stylesheet" type="text/css" /><link class="user" href="/customers/resource/1534993349000/styles/css/bootstrap-datetimepicker.css" rel="stylesheet" type="text/css" /><link class="user" href="/customers/resource/1534993349000/styles/css/styles.min.css" rel="stylesheet" type="text/css" /><script>(function(UITheme) {
+    UITheme.getUITheme = function() { 
+        return UserContext.uiTheme;
+    };
+}(window.UITheme = window.UITheme || {}));</script><script type="text/javascript">
+Visualforce.remoting.Manager.add(new $VFRM.RemotingProviderImpl({"vf":{"vid":"066t00000008RcQ","xhr":false,"dev":false,"tst":false,"dbg":false,"tm":1748654351421,"ovrprm":false},"actions":{"LACE_Logout":{"ms":[{"name":"getStaticResource","len":0,"ns":"","ver":37.0,"csrf":"VmpFPSxNakF5TlMwd05pMHdNMVF3TVRveE9Ub3hNUzQwTWpGYSxNb0djd21Ld2Q5S1hvUVFsZDJBMHNnQjUxS2RYd3poLWtHWnVTTmszN0VBPSxNalV6TURFdw==","authorization":"eyJub25jZSI6ImRwZnNsaFU2SjQ2UDJ4cGMteG8zc3NjdTJNdTlYbkxmX2piVEVqQkFRTDhcdTAwM2QiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6IntcInRcIjpcIjAwRHQwMDAwMDAwR3l3RVwiLFwidlwiOlwiMDJHdDAwMDAwMDBEOU9aXCIsXCJhXCI6XCJ2ZnJlbW90aW5nc2lnbmluZ2tleVwiLFwidVwiOlwiMDA1dDAwMDAwMDBtZ0dxXCJ9IiwiY3JpdCI6WyJpYXQiXSwiaWF0IjoxNzQ4NjU0MzUxNDIxLCJleHAiOjB9.Q2gxTVFVTkZYMHh2WjI5MWRDNW5aWFJUZEdGMGFXTlNaWE52ZFhKalpRPT0=.r8Ih9IHz0U7ru2kQWVGNxfh0H8JVjSJ8sARk9DwsANg="}],"prm":1}},"service":"customers/apexremote"}));
+</script><meta HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE" />
+<meta HTTP-EQUIV="Expires" content="Mon, 01 Jan 1990 12:00:00 GMT" />
+
+        
+        <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+        
+        <meta content="width=device-width, initial-scale=1" name="viewport" />
+        <title>Texas Department of Motor Vehicles - User Landing Page</title>
+        
+        
+        <link href="/customers/resource/1534993349000/styles/img/favicon.ico" rel="icon" type="image/x-icon" />
+        
+         <script type="text/javascript">
+           var $j = jQuery.noConflict();
+           
+            $j(document).ready(function(){
+            
+            var LastName = 'Site Guest User';
+                    if(LastName.search("Site")!='-1'){
+                        $j('#userNameLink').css('display','none');
+                    }
+            
+            
+                //alert("Texas Department of Motor Vehicles Profile");
+               if("Texas Department of Motor Vehicles Profile"!="Texas Department of Motor Vehicles Profile"){
+                   window.location = "LACE_CommunityHomePage";
+               }
+                else if(sessionStorage['PopupShown'] != 'yes'){
+                     $j('#securityPolicy').modal({backdrop: 'static', keyboard: false});
+                    
+                }
+            });
+        
+        
+        
+            function setSession(){
+                
+                sessionStorage['PopupShown'] = 'yes';
+                
+            }
+        </script>
+
+    </head>
+    
+    <body>
+        
+        <div class="wrapper"><span id="pageId:j_id11">
+   
+    <script>
+        LACE_Logout.getStaticResource(function(res, stat){
+           $j('#scriptInject').html(res);
+        }, {escape:false});
+    </script>
+    <div id="scriptInject"></div>
+    <a class="sr-only sr-focusable" href="#pageTitle">Skip Navigation</a>
+    <nav class="navbar navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <button aria-controls="navbar" aria-expanded="false" class="navbar-toggle collapsed" data-target="#navbar" data-toggle="collapse" type="button">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="http://www.txdmv.gov/" target="_blank"><img src="/customers/resource/1487784552000/TXDMV_Image" alt="Texas Department of Motor Vehicles Logo" /><span class="sr-only sr-focusable">LACE Home Link</span></a>
+
+            </div>
+            <div class="navbar-collapse collapse" id="navbar">
+                <ul class="nav navbar-nav navbar-right">
+                    
+                     <li><a href="#" id="userNameLink">Texas Department of Motor Vehicles Site Guest User</a></li>
+                    
+                     <li>
+
+                        <a class="eLicensing" href="#"><img src="/customers/resource/1534993349000/styles/img/logo_e_licensing.png" style="width: 138px;" /></a>
+                    </li> 
+                   
+                    
+                </ul>
+            </div>
+        </div>
+    </nav>
+<form id="pageId:j_id11:j_id12:j_id19" name="pageId:j_id11:j_id12:j_id19" method="post" action="/customers/lace_login" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="pageId:j_id11:j_id12:j_id19" value="pageId:j_id11:j_id12:j_id19" />
+
+<script type="text/javascript" language="Javascript">function dpf(f) {var adp = f.adp;if (adp != null) {for (var i = 0;i < adp.length;i++) {adp[i].parentNode.removeChild(adp[i]);}}};function apf(f, pvp) {var adp = new Array();f.adp = adp;var ps = pvp.split(',');for (var i = 0,ii = 0;i < ps.length;i++,ii++) {var p = document.createElement("input");p.type = "hidden";p.name = ps[i];p.value = ps[i + 1];f.appendChild(p);adp[ii] = p;i += 1;}};function jsfcljs(f, pvp, t) {apf(f, pvp);var ft = f.target;if (t) {f.target = t;}f.submit();f.target = ft;dpf(f);};</script>
+<script>function invokeLogOut() { SfdcApp.Visualforce.VSManager.vfPrepareForms(["pageId:j_id11:j_id12:j_id19"]); if(typeof jsfcljs == 'function'){jsfcljs(document.forms['pageId:j_id11:j_id12:j_id19'],'pageId:j_id11:j_id12:j_id19:j_id20,pageId:j_id11:j_id12:j_id19:j_id20','');}return false }</script><div id="pageId:j_id11:j_id12:j_id19:j_id77"></div>
+</form><span id="ajax-view-state-page-container" style="display: none"><span id="ajax-view-state" style="display: none"><input type="hidden"  id="com.salesforce.visualforce.ViewState" name="com.salesforce.visualforce.ViewState" value="i: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" /><input type="hidden"  id="com.salesforce.visualforce.ViewStateVersion" name="com.salesforce.visualforce.ViewStateVersion" value="202505271603451087" /><input type="hidden"  id="com.salesforce.visualforce.ViewStateMAC" name="com.salesforce.visualforce.ViewStateMAC" value="AGV5SnViMjVqWlNJNklrOWhkR0kwY0djeVRHMVNUMkZTT1RGVGQyWm1kVmMxY2pGRllXcGFSMTluYURWMmVWaHhVM1pPY2xGY2RUQXdNMlFpTENKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUlzSW10cFpDSTZJbnRjSW5SY0lqcGNJakF3UkhRd01EQXdNREF3UjNsM1JWd2lMRndpZGx3aU9sd2lNREpIZERBd01EQXdNREJFT1U5YVhDSXNYQ0poWENJNlhDSjJabk5wWjI1cGJtZHJaWGxjSWl4Y0luVmNJanBjSWpBd05YUXdNREF3TURBd2JXZEhjVndpZlNJc0ltTnlhWFFpT2xzaWFXRjBJbDBzSW1saGRDSTZNVGMwT0RZMU5ETTFNVFF4TlN3aVpYaHdJam93ZlE9PS4uRzVtMTlIV2FsWHZkb0kwTGVHX0RMbTNQWFE1ZmItTWhjUl9zSlc2QlRqdz0=" /></span></span></span>
+
+            <div class="container">
+<form id="pageId:formId" name="pageId:formId" method="post" action="/customers/lace_login" class="mainForm" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="pageId:formId" value="pageId:formId" />
+    
+                    <hr /><span id="pageId:formId:error"></span>
+                    <div class="panel panel-primary">
+                    <div class="alert alert-info">   
+                        <h3 style="font-weight:bold; color:red; text-align:left;">PLEASE READ FOR eLICENSING TECHNICAL SUPPORT</h3> 
+                        
+                        <label class="control-label">
+                             In order to access the eLICENSING system, your computer must be technically up-to-date.
+                        </label>
+                        <br />  
+                        <br />
+                        <label class="control-label">
+                             For best results, please follow these tips:
+                        </label>
+                        <br />    
+                        <label class="control-label" style="padding-left: 2em; text-indent: -1em;">
+                            <li style="padding-left: 20pt;">
+                                Use a desktop or laptop computer with Windows 7 or higher operating system
+                            </li>
+                            <li style="padding-left: 20pt;">
+                                Use the <b>latest version</b> of Google Chrome or Mozilla Firefox web browsers 
+                            </li>
+                            </label>
+                        <label class="control-label" style="padding-left: 4em;">
+                            o   Browsers, such as Explorer, Safari, or Microsoft Edge, do not interact well with eLICENSING 
+                        </label>
+                        <br />
+                        <br />
+                        <label class="control-label">
+                             Beginning January 1, 2020, Windows 10 operating system will be the minimum standard, so upgrade as soon as possible.
+                        </label>
+                        <br />    
+                        <br />
+                        <label class="control-label">
+                             The TxDMV <b>does not</b> support your computer or operating system technical issues.   You must seek your own technical assistance for issues with your computer or operating system.
+                        </label>
+                        <br /> 
+                        <br />
+                        <label class="control-label">
+                             The TxDMV can help you with questions regarding your application, licensing, and eLICENSING navigation.  
+                        </label>
+                    </div>
+                    <div class="panel-body">
+                            <label class="control-label">
+                                If you are an Administrator and did not receive a username and password, follow the "Trouble Logging In?" process below.
+
+                            </label>
+                         </div>
+                    </div>
+                          
+                        <div class="alert alert-info">   
+                            <h3 style="font-weight:bold; color:red; text-align:center;">*** IMPORTANT INFORMATION ***</h3> 
+                            <label class="control-label">
+                            Effective <b>July 1, 2025</b>, House Bill (HB) 718 eliminates the issuance of several types of temporary permits and temporary tags and requires motor vehicle dealers to issue metal license plates. 
+                            Visit the TxDMV's HB 718 page <a href="https://www.txdmv.gov/HB718"><b>here</b></a> on <a href="https://www.txdmv.gov"><b>TxDMV.gov</b></a> for more information. 
+                            </label>
+                        </div>
+                        
+                    
+                     
+                     
+                    
+                    
+                     <div class="panel panel-primary">
+         
+                        <div class="col-sm-6 col-md-6">
+                            <div class="row">
+                                <div class="panel-heading">
+                                    <h2>Current License Holder and Administrator Log In</h2>
+                                </div>
+                             
+                                <div class="panel-body" style="min-height: 370px;">
+                                    <div class="row">
+                                        <div class="col-md-8">
+                                            <div class="form-group"><label for="pageId:formId:userName" class="required">
+Username</label><input id="pageId:formId:userName" type="text" name="pageId:formId:userName" class="form-control vRequired" />  
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-8">
+                                            <div class="form-group"><label for="pageId:formId:password" class="required">
+Password</label><input id="pageId:formId:password" type="password" name="pageId:formId:password" value="" class="form-control vRequired" />  
+                                                
+                                            </div>
+                                        </div>
+                                    </div>      
+                                    
+                                    <div class="row">
+                                        <div class="col-md-8">
+                                            <div aria-label="Page Actions" class="btn-group" role="group"><a href="#" onclick="if(typeof jsfcljs == 'function'){jsfcljs(document.getElementById('pageId:formId'),'pageId:formId:j_id53,pageId:formId:j_id53','');}return false" class="btn btn-secondary btn-round btn-outline disable-on-validation">Login</a>
+                                                
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="row">
+                                <div class="panel-heading">
+                                    <h2>Trouble Logging In?</h2>
+                                </div>
+                                <div class="panel-body" style="min-height: 270px;">
+                                    <div class="col-md-12">
+                                        <div class="form-group"> 
+                                            <label class="control-label">
+                                                 
+                                                    If you forgot or did not receive a username, click<a href="#" onclick="if(typeof jsfcljs == 'function'){jsfcljs(document.getElementById('pageId:formId'),'pageId:formId:j_id55,pageId:formId:j_id55','');}return false" class="btn btn-link">Forgot Username</a> <br />
+                                                    If you forgot or did not receive a password, click<a href="#" onclick="if(typeof jsfcljs == 'function'){jsfcljs(document.getElementById('pageId:formId'),'pageId:formId:j_id57,pageId:formId:j_id57','');}return false" class="btn btn-link">Forgot Password</a>
+                                                
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                
+                            </div>
+                            
+                        
+                        </div>                      
+                            
+                            
+                        <div class="col-sm-6 col-md-6">
+                            <div class="panel-heading">
+                                <h2>Register Here If:</h2>
+                            </div>                      
+                            <div class="panel-body" style="min-height: 370px;">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="form-group">  
+                                            <label class="control-label">
+                                                    Requesting to be added as a user to a current license/account
+                                                    <br /><br />
+                                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or
+                                                    <br /><br />
+                                                    Applying for a license for the first time
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                
+                                <div class="row">
+                                    <div class="col-md-8">
+                                        <div aria-label="Page Actions" class="btn-group" role="group"><a href="#" onclick="if(typeof jsfcljs == 'function'){jsfcljs(document.getElementById('pageId:formId'),'pageId:formId:j_id59,pageId:formId:j_id59','');}return false" class="btn btn-secondary btn-round btn-outline disable-on-validation">JOIN ELICENSING</a> 
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                
+                            </div>
+                            
+                            
+                                <div class="panel-heading">
+                                    <h2>Administrators</h2>
+                                </div>
+                                <div class="panel-body" style="min-height: 270px;">
+                                    <div class="row">
+                                        <div class="col-md-20">
+                                            <div aria-label="Page Actions" class="btn-group" role="group"><a href="#" style="width:508px;" onclick="if(typeof jsfcljs == 'function'){jsfcljs(document.getElementById('pageId:formId'),'pageId:formId:j_id61,pageId:formId:j_id61','');}return false" class="btn btn-secondary btn-round btn-outline disable-on-validation">Create/Change eLICENSING Admin on Existing Account</a> 
+                                            </div>
+                                        </div>
+                                    </div>
+                                                             
+                                
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="alert alert-warning">  
+                                                <label class="control-label">
+                                                     
+                                                 To add another business or user to your existing license, log into eLICENSING and select MANAGE YOUR ACCOUNT.
+                                                    
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                            </div>
+                            
+                        </div>
+                        
+                        
+                        
+                        
+                    </div><div id="pageId:formId:j_id78"></div>
+</form>
+          </div>
+        </div>
+<form id="pageId:j_id64" name="pageId:j_id64" method="post" action="/customers/lace_login" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="pageId:j_id64" value="pageId:j_id64" />
+
+            <div aria-labelledby="softStopMessagesLabel" class="modal fade" id="softStopMessages" role="dialog" tabindex="-1">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">&times;</span></button>
+                                            <h4 class="modal-title" id="softStopMessagesLabel">     Do you have an account?   </h4>
+                                        </div>
+                                        <div class="modal-body">
+                                            <p>
+                                                <font size="3">
+                                                    If you are an Administrator or already have a current license in Texas, exit this screen.  You have reached it in error and need to Log In.
+                                                    
+                                                </font>                                                                                                        
+                                            </p>
+                                                     
+                                        </div>
+                                        <div class="modal-footer"><a href="#" onclick="if(typeof jsfcljs == 'function'){jsfcljs(document.getElementById('pageId:j_id64'),'pageId:j_id64:j_id66,pageId:j_id64:j_id66','');}return false" class="btn btn-primary btn-round">NEXT</a>
+                  
+                                           
+                                            <button class="btn btn-primary btn-round" data-dismiss="modal" type="button">CLOSE </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+            
+            
+                <div aria-labelledby="securityPolicyLabel" class="modal fade" id="securityPolicy" role="dialog" tabindex="-1">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            
+                                            <h4 class="modal-title" id="softStopMessagesLabel">     Texas Department of Motor Vehicles -Security Warning    </h4>
+                                        </div>
+                                        <div class="modal-body">
+                                            <p>
+                                                <font size="3">
+                                                    This is an official Texas Department of Motor Vehicles system for authorized use only. It is monitored to ensure proper operation 
+                                                    to verify the function of applicable security features and other link purposes. Unauthorized access is prohibited. Attempts to access
+                                                    this system for other than its intended purposes are prohibited and may result in prosecution under the Computer Fraud and Abuse Act of
+                                                    1986 or other applicable laws. User of this system should not expect a "right to privacy" to any data transmissions hereon.
+                                                </font>
+                                                
+                                            </p>
+                                                     
+                                        </div>
+                                        <div class="modal-footer">
+                        
+                                            
+                                           
+                                            
+                                            <button class="btn btn-primary btn-round" data-dismiss="modal" onclick="setSession();" type="button">I accept</button>
+                                            <button class="btn btn-primary btn-round" data-dismiss="modal" onclick="location.href = 'http://www.txdmv.gov';" type="button">Cancel</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div><div id="pageId:j_id64:j_id79"></div>
+</form><span id="pageId:j_id68">
+    <script type="text/javascript">
+        function openPrivacyPopup(){
+            
+            $j('#softStopMessagesPrivacy').modal('show');
+        }
+         function openAccessPopup(){
+         <!--******************************************************************-->
+            var url = 'http://www.txdmv.gov/accessibility';
+            window.open(url, '','');
+         <!--****************************************************************-->
+        }
+    </script>
+    <footer class="footer">
+        <div class="container">
+            <ul class="pull-left">
+                <li>&copy; Copyright 2016, Texas Department of Motor Vehicles. All rights reserved.</li>
+            </ul>
+                                  
+            <ul class="pull-right">
+                <li><a glance_button="startSession" href="javascript:;">Start Cobrowse</a></li>
+                <li><a href="Javscript:" onclick="openPrivacyPopup();">Privacy and Security Policy</a></li>
+                <li><a href="Javscript:;" onclick="openAccessPopup();return false">Accessibility Policy</a></li>
+            </ul>
+        </div>
+    </footer>
+    
+    <div class="old-browser-overlay" style="display:none;">
+        <div aria-labelledby="#unsupportedBrowserModalLabel" class="modal fade ng-scope in" id="unsupportedBrowserModal" role="dialog" style="display: block;" tabindex="-1">
+            <div class="modal-dialog modal-md" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title" id="#unsupportedBrowserModalLabel">Unsupported Browser</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <div class="alert alert-danger">
+                                    <h4>An Error Has Occurred</h4>
+                                    <p>You are browsing LACE using <span class="browser-version"><script>document.write(head.browser.name + ' ' + head.browser.version);</script></span>. This browser is not supported at this time. In order to use this site you must upgrade to the latest <span class="browser-version"><script>document.write(head.browser.name);</script></span> version. You can do this by visiting your browser manufacturer's website.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+               </div>
+            </div>
+        </div>
+        <div class="modal-backdrop in"></div>
+    </div>
+    
+   
+    <div aria-labelledby="softStopMessagesLabel" class="modal fade" id="softStopMessagesPrivacy" role="dialog" tabindex="-1">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button aria-label="Close" class="close" data-dismiss="modal" onclick="redirectSamePageJS();" type="button"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="softStopMessagesLabel">Privacy Statement</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="alert alert-warning">
+                       
+                        <ul>
+                        The Texas Department of Motor Vehicles maintains information collected through this form. With few exceptions, Texas Government Code Chapter 559 entitles you to: (a) request to be informed about this information, and (b) have TxDMV correct information about you that is incorrect. Chapter 552 of the Government Code entitles you to receive and review this information. You must submit requests for information in writing. Requests may be submitted via email to OGCOpenRecords@TxDMV.gov; by fax to (512) 465-4112; or by mail or in person to: TxDMV, OGC Open Records, 4000 Jackson Ave., Austin, TX 78731. For more information, please call TxDMV at (888) 368-4689.
+                        </ul>
+                    </div>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+    
+    <div aria-labelledby="softStopMessagesLabel2" class="modal fade" id="softStopMessagesAccesibility" role="dialog" tabindex="-1">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button aria-label="Close" class="close" data-dismiss="modal" onclick="redirectSamePageJS();" type="button"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="softStopMessagesLabel2">Accessibility Policy</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="alert alert-warning">
+                       
+                        <ul>
+                            We are committed to making our Web site accessible to all users. To make the site more accessible, we include several features designed to improve accessibility for users with disabilities. Some of these features are described below.
+A descriptive text equivalent is provided for images and other non-text elements, aiding users who listen to the content of the site by using a screen reader, rather than reading the site.Summary reports and other special publications that are made available on the Web site are generally available in html or other accessible format. When publishing a document in PDF, we will also post an accessible version or a link for simple conversion to html.
+We welcome comments on how to improve the site's accessibility for users with disabilities. If you use assistive technology and the format of any material on our Web site interferes with your ability to access the information, please e-mail us. To enable us to respond in a manner most helpful to you, please indicate the nature of your accessibility problem, the preferred format in which to receive the material, the Web address of the requested material and your contact information.
+Additional information about accessibility programs in Texas is available from the Governor's Committee on People with Disabilities.
+                        </ul>
+                    </div>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div class="no-js-overlay" style="display:none;">
+        <div aria-labelledby="#noJsModalLabel" class="modal fade ng-scope in" id="noJsModal" role="dialog" style="display: block;" tabindex="-1">
+            <div class="modal-dialog modal-md" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title" id="#noJsModalLabel">JavaScript Disabled</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <div class="alert alert-danger">
+                                    <h4>An Error Has Occurred</h4>
+                                    <p>In order to use LACE, you must have JavaScript enabled. Please check your browser settings and then reload this page to proceed.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal-backdrop in"></div>
+    </div></span>
+    </body><script type="text/javascript">Sfdc.onReady(function(){
+	SfdcApp && SfdcApp.Visualforce && SfdcApp.Visualforce.VSManager && SfdcApp.Visualforce.VSManager.vfPrepareForms(["pageId:j_id11:j_id12:j_id19","pageId:formId","pageId:j_id64"]);
+
+});</script>
