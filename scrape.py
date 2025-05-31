@@ -30,10 +30,15 @@ driver = webdriver.Chrome(options=chrome_options)
 
 visited = set()
 
-def sanitize_filename(title):
-    title = re.sub(r'[^\w\s-]', '', title).strip()
-    title = re.sub(r'[\s]+', '_', title)
-    return title[:60] if title else "untitled_page"
+def sanitize_filename(url_path):
+    # Remove leading and trailing slashes
+    path = url_path.strip('/')
+    # Replace remaining slashes with underscores
+    path = path.replace('/', '_')
+    # Remove any non-alphanumeric characters except underscores and hyphens
+    path = re.sub(r'[^\w\-]', '', path)
+    # Ensure the filename isn't too long
+    return path[:60] if path else "index"
 
 try:
     # Get the initial page
@@ -60,9 +65,9 @@ try:
             # Wait for the page to load
             time.sleep(5)  # Basic wait for dynamic content
             
-            # Get the page title
-            title = driver.title.strip() if driver.title else "Untitled Page"
-            filename = sanitize_filename(title) + ".html"
+            # Get the URL path for the filename
+            url_path = full_url.replace(base_url, '')
+            filename = sanitize_filename(url_path) + ".html"
             filepath = os.path.join(output_dir, filename)
 
             # Get the fully rendered HTML
