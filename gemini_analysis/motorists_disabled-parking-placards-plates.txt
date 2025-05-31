@@ -1,0 +1,171 @@
+## Product Requirements Document: Disabled Parking, Placards & Plates
+
+**1. Introduction**
+
+This document specifies the content requirements for the "Disabled Parking, Placards & Plates" page on the TxDMV.gov website.  The goal is to accurately convey information regarding eligibility, application processes, and regulations concerning disabled parking placards and license plates.
+
+**2.  Page Title:**
+
+*   Exact Text: "Disabled Parking, Placards & Plates"
+
+**3.  Breadcrumb Navigation:**
+
+*   "Home" -> "/ (link to homepage)"
+*   "Motorists" -> "/motorists (link to the motorists landing page)"
+
+**4.  Main Content Sections:**
+
+The main content is structured using Bootstrap Paragraphs. Here's a breakdown of the content within each paragraph and their relationships to each other
+
+4.  1.  **Gray Card Section**
+    *   Consists of three gray cards, side by side
+        *   **Gray Card 1:**
+
+            *   Title: Temporary
+            *   Image: <https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-02/disabled-placard-red_0.png>
+            *   Alt Text: "Temporary Placard"
+            *   Description: "A red placard is for a person who has a temporary disability. This placard expires in 6 months or less."
+        *   **Gray Card 2:**
+
+            *   Title: Permanent
+            *   Image: <https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-02/disabled-placard-blue_0.png>
+            *   Alt Text: "Permanent Placard"
+            *   Description: "A blue placard is for a person who has a permanent disability. This placard is renewable every 4 years."
+        *   **Gray Card 3:**
+
+            *   Title: Permanent
+            *   Image: <https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-02/disabled-plate_0.png>
+            *   Alt Text: "Permanent Plate"
+            *   Description: "A license plate with the International Symbol of Access (ISA) is for a person who has a permanent disability."
+4.  2.  **Basic Information:**
+        *   Text:"Those with a disabled parking placard or a license plate displaying the ISA may:"
+        *   Ordered List:
+
+            *   "Park in any spot designated for persons with disabilities"
+            *   "Be exempt from local and state government parking meters. State law does not allow you to exceed the meter limit, but cities may pass ordinances to extend your meter time"
+5.  3.  **Eligibility Section:**
+
+        *   Section Title: "Eligibility" (Anchor Link: #eligibility)
+        *   Text:
+
+            "Placard and plate eligibility is based on a medical condition that meets the legal definition of a disability. "Disability" means a condition in which a person has:"
+        *   Unordered List:
+
+            *   "Visual acuity of 20/200 or less in the better eye with correcting lenses"
+            *   "Visual acuity of more than 20/200 but with a limited field of vision in which the widest diameter of the visual field subtends an angle of 20 degrees or less"
+            *   "Mobility problems that substantially impair a person's ability to move around; these problems can be caused by:"
+        *   Nested Unordered List
+
+            *   "Paralysis"
+            *   "Lung disease"
+            *   "Cardiac deficiency"
+            *   "Wheelchair confinement"
+            *   "Arthritis"
+            *   "Foot disorder"
+            *   "Other medical condition causing a person to use a brace, cane, crutch or other assistive device."
+
+        *   Additional Notes:
+
+            *   "NOTE: A parking placard or plate is ONLY valid when being used by the person with the disability or someone who is driving the person with the disability."
+            *   "It is a violation of state law to use the placard or plates for a disabled parking spot without the person with the disability in the vehicle. People who misuse disabled parking placards are subject to fines of up to $1,250 and/or up to 50 hours of community service."
+6.  4.  **How to Apply Section:**
+
+        *   Section Title: "How to Apply" (Anchor Link: #how-to-apply)
+        *   Text: "You may apply for a placard and/or plate at your local county tax assessor-collector's office."
+        *   Text: "To apply for a "permanent" (blue) placard or "temporary" (red) placard, you must:"
+        *   Ordered List:
+
+            *   "Download the Application for Persons with Disabilities Parking Placard and/or License Plate (Form VTR-214)" (Link: /sites/default/files/form_files/VTR-214.pdf)
+            *   "Have your doctor or health care provider complete the Disability Statement section of the application"
+            *   "Submit the completed application and payment (if applicable) to your county tax office"
+
+7.  5.  **How to Renew Section:**
+
+        *   Section Title: "How to Renew" (Anchor Link: ##how-to-renew)
+        *   Two column display
+            *   Column One Text
+            *   "If you have a "temporary" (red) placard that expires, you will need to apply for a new placard if your temporary disability extends beyond the six-month limit. To renew a "permanent" (blue) placard, you must:"
+            *   Ordered List
+
+                *   "Download the Application for Persons with Disabilities Parking Placard and/or License Plate (Form VTR-214)" (Link: /sites/default/files/form_files/VTR-214.pdf)
+                *   "Complete all sections on page 1 of the new application (the doctor is not required to complete the disability statement on page 2)"
+                *   "Submit a copy of the original application, along with the new application to your county tax office. If you do not have a copy of your application, you may also submit your expiring placard(s) to your county tax office"
+            *   Column Two
+                *   **Find Your Local Tax Office & DMV**
+                    *   Webform
+                        *   County Selection
+
+                            *   Options are listed in the original HTML, this is a dropdown
+                        *   Find Offices (Submit button)
+8.  6.  **More Information Section:**
+
+        *   Section Title: "More Information" (Anchor Link: #more-information)
+        *   Text: "For more information, please call our customer help line at (888) 368-4689 or (512) 465-3000."
+        *   Accordion Menu
+
+            *   **Accordion Item 1:** Out-of-State/Out-of-Country Visitors
+                *   Text: "If you are visiting Texas from another state or country, your valid disabled parking placard and plates will be honored, providing the placard/plate is valid. However, you must abide by Texas laws regarding parking privileges, which may be different from your home state or country."
+                *   Text: "If the purpose of your visit is to seek medical treatment in Texas and you have a permanent disability, you may apply for a six-month disabled placard at no charge. If the six-month placard expires before your medical treatment ends, you will need to apply for a new one."
+            *   **Accordion Item 2:** Lost, Stolen, & Seized Placards
+                *   Sub-Heading: "Lost or Stolen Placard"
+                *   Text: "If your placard is lost or stolen, you can replace it by presenting a copy of the Form VTR-214 that you originally submitted, to your local county tax assessor-collector office. If you do not have a copy of the form or the county tax assessor-collector office cannot verify the placard was issued, you will need to apply for a new disabled placard by completing a new application."
+                *   Download Link: "Application for Persons with Disabilities Parking Placard and/or License Plate (Form VTR-214)" (/sites/default/files/form_files/VTR-214.pdf)
+                *   Sub-Heading: "Seizure of Placard"
+                *   Text: "If your placard was seized by a law enforcement officer and you would like a new one, you must apply for a new placard through your local county tax assessor-collector’s office. An Application for Persons with Disabilities Parking Placard and/or License Plate (Form VTR-214) will need to be completed and signed. The disability statement section will not need to be completed. The application is available by clicking on the link above."
+            *   **Accordion Item 3:** Disabled Veterans
+                *   Text: "Disabled Veteran license plates feature "DV" as part of the license plate number."
+                *   Text: "To qualify:"
+                *   Unordered List:
+
+                    *   "You must be a veteran of the U.S. Armed Forces, with a service-connected disability of at least 50 percent, or at least 40 percent due to the amputation of a lower extremity."
+                    *   "You must be receiving compensation from the U.S. government as a result of such disability."
+                    *   "Proof of eligibility may be provided with signed approval by the U.S. Department of Veterans Affairs on an Application for Disabled Veteran License Plates and Parking Placards (Form VTR-615), or a letter from Veterans Affairs stating eligibility."
+                    *   "Texas cities may provide parking privileges, such as free parking at the airport. Check with your local city officials. For information about campus parking privileges, please contact the institution of higher education."
+
+                *   Text: "In addition to the Disabled Veteran plate, certain military honors license plates are also eligible for exemptions from payment of certain parking fees, including:"
+                *   Unordered List:
+
+                    *   "Air Force Cross"
+                    *   "Air Medal"
+                    *   "Air Medal with Valor"
+                    *   "Army Distinguished Service Cross"
+                    *   "Bronze Star"
+                    *   "Bronze Star with Valor"
+                    *   "Congressional Medal of Honor"
+                    *   "Defense Superior Service Medal"
+                    *   "Distinguished Flying Cross"
+                    *   "Distinguished Service Medal"
+                    *   "Former Prisoner of War"
+                    *   "Legion of Merit"
+                    *   "Legion of Valor"
+                    *   "Medal of Honor"
+                    *   "Navy Cross"
+                    *   "Pearl Harbor Survivor"
+                    *   "Purple Heart"
+                    *   "Silver Star"
+                    *   "World War II Veterans"
+                *   **Disabled Veteran Plates and Parking Privileges**
+
+                *   Text: "Anyone parking in a disabled parking space must have a disabled person license plate or a disabled parking placard that features the International Symbol of Access (ISA). Disabled veteran license plates that do not include the ISA do not authorize the owner to park in a disabled parking space."
+                *   Text: "Texans with disabled veteran license plates wishing to use disabled parking spaces may apply for a disabled parking placard or for a new disabled veteran license plate featuring the ISA. The veteran must meet the eligibility requirements for a disabled parking placard or disabled person license plate featuring the ISA. Not all disabilities that qualify a veteran for disabled veteran license plates will qualify a veteran for a disabled veteran license plate featuring the ISA."
+                *   Text: "You may apply for a disabled parking placard and/or disabled veteran license plate at the office of your local county tax assessor-collector:"
+                *   Numbered List:
+
+                    *   "For a disabled parking placard, download the Application for Persons with Disabilities Parking Placard and/or License Plate (Form VTR-214)." (Link: /sites/default/files/form_files/VTR-214.pdf)
+                    *   "For a disabled veteran license plate with or without the ISA, download the Application for Disabled Veteran License Plates and/or Parking Placard (Form VTR-615)." (Link: /sites/default/files/form_files/VTR-615.pdf)
+                    *   "Have your doctor or health care provider complete the Disability Statement section of the application or provide an original prescription."
+                    *   "Submit the completed application(s) and payment (if applicable) to your county tax office."
+
+                *   Text: "Currently issued disabled parking placards will remain valid; however, the new requirements must be met at time of renewal."
+                *   Alert Message
+
+                    *   "SB 792 - Disabled Veteran Plates and Parking Privileges" (Link: /sites/default/files/body-files/SB792_DV-Plates-Parking.pdf)
+                    *   PDF Icon
+9.  7.  **View Motorist FAQ Link**
+    *   Link: /faq/motorists
+
+**5.  Related Documents:**
+
+*   Application for Persons with Disabilities Parking Placard and/or License Plate (Form VTR-214) (Link: /sites/default/files/form_files/VTR-214.pdf)
+*   Application for Disabled Veteran License Plates and Parking Placards (Form VTR-615) (Link: /sites/default/files/form_files/VTR-615.pdf)
+*   SB 792 - Disabled Veteran Plates and Parking Privileges (Link: /sites/default/files/body-files/SB792_DV-Plates-Parking.pdf)

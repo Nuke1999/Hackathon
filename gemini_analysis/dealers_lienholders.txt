@@ -1,0 +1,153 @@
+```text
+# Product Requirements Document: TxDMV Electronic Lien and Title Program (ELT)
+
+## 1. Introduction
+
+This document outlines the content requirements for the "Electronic Lien and Title Program (ELT)" page on the TxDMV.gov website, found at http://www.txdmv.gov/dealers/lienholders. This document focuses on the core content and linked resources necessary to recreate the page's functionality and information for users.
+
+## 2. Goals
+
+*   Provide dealers and lienholders with comprehensive information regarding the Electronic Lien and Title (ELT) program.
+*   Explain the benefits of ELT participation.
+*   Outline the steps required to participate in the ELT program.
+*   Offer resources and documentation for lienholders to manage their ELT participation.
+*   Answer frequently asked questions about the ELT program.
+
+## 3. Content Requirements
+
+### 3.1 Main Content Area
+
+#### 3.1.1 Introduction Paragraphs
+
+*   **Text:** "The Electronic Lien and Title Program (ELT) is a paperless method that allows TxDMV and a financial institution or lienholder to exchange vehicle title information electronically. The title record is sent electronically and the lienholder stores the electronic record instead of a paper certificate of title. The electronic title is created and held by TxDMV in the state motor vehicle database."
+*   **Text:** "Title applications are submitted and processed through the local county tax office. Under ELT, when a lien has been satisfied, the lender must submit an electronic release of lien. The lienholder is then removed from the record, receives an electronic notification and a paper title is sent to the owner."
+*   **Text:** "ELT supports:"
+*   A bulleted list containing the following:
+    *   "Electronic Lien notifications"
+    *   "Electronic Lien releases"
+    *   "Conversion of electronic titles to paper titles"
+
+#### 3.1.2 Lienholder Toolbox Card
+
+*   **Title:** "Lienholder Toolbox"
+*   A list of links, with associated text:
+    *   "Certified Lienholders" links to "/sites/default/files/body-files/Texas_Certified_Lienholders_List.pdf"
+    *   "Certified Vendors" links to "/sites/default/files/body-files/certified_vendors.pdf"
+    *   "Intake Form" links to "/sites/default/files/form_files/Intake_Form.pdf"
+    *   "Change Request Form" links to "/sites/default/files/form_files/Change_Request_Form.pdf"
+    *   "Service Level Agreement" links to "/sites/default/files/body-files/elt_sla.pdf"
+    *   "TxDMV Technical Specifications" links to "/sites/default/files/body-files/elt_specifications.pdf"
+
+#### 3.1.3 Highlight Box
+
+*   **Text:** "When a Paper Title is Necessary for a Record with an Active Lien, the Lienholder Can Request a Printed Title."
+
+#### 3.1.4 Benefits Section
+
+*   **Heading:** "Benefits"
+*   A bulleted list containing the following benefits of the ELT program:
+    *   "Cost savings as electronic records will not require the same handling, storage and mailing as paper titles"
+    *   "Reduces administrative burden for processing and filing paper titles"
+    *   "Improves data accuracy"
+    *   "Improves timeliness of data exchange"
+    *   "Improves data and forms security"
+    *   "Provides better customer service"
+
+#### 3.1.5 Participation in ELT Section
+
+*   **Heading:** "Participation in ELT"
+*   **Text:** "Lienholders and service providers interested in participating in ELT services need to:"
+*   A numbered list containing the following steps:
+    1.  "Complete the ELT intake form"
+    2.  "Sign our Service Level Agreement (SLA)"
+    3.  "Meet TxDMV's Technical Specifications"
+    4.  "Complete technical certification testing"
+    5.  "Submit forms via email to VTR_e-Titles@txdmv.gov"
+
+#### 3.1.6 ELT Lienholder Schedule
+
+*   **Heading:** "ELT Lienholder Schedule"
+*   **Subheading:** "New Lienholders"
+*   **Text:** "Important: Effective May 31, 2016, the deadline for submitting new lienholder requests will change from the last business day of the quarter to the 15th of the last month of the quarter. Requests received by the deadline will be implemented the third Friday of the following month."
+*   **Text:** "The Service Level Agreement (SLA) and Intake form must be completed and approved during the "Requests Received From" period."
+*   A table with the following columns and rows:
+    *   **Headers:** "Requests Received From", "Implement"
+    *   **Rows:**
+        *   "December 15 - March 15th", "Third Friday in April"
+        *   "March 16th - June 15th", "Third Friday in July"
+        *   "June 16 - September 15th", "Third Friday in October"
+        *   "September 16 - December 15th", "Third Friday in January"
+
+#### 3.1.7 Change Requests Section
+
+*   **Subheading:** "Change Requests"
+*   **Text:** "Request for name, address, and/or provider changes must be received by the last business day of the month. Changes received by the last business of the month will be implemented the third Friday of the following month. All change request require completion of the Change Request Form. A new SLA agreement may be required depending on the change request (refer to the Change Request Form) for a new SLA requirement. If you have any questions, please email us at VTR_e-Titles@txdmv.gov."
+*   **Text:** "Is the ELT program mandatory? No."
+
+#### 3.1.8 Service Level Agreement (SLA) Information Section
+
+*   **Subheading:** "Service Level Agreement (SLA) Information"
+*   **Text:** "A new SLA is required when a lienholder changes its name, files for bankruptcy or changes service providers. After submitting a signed SLA, TxDMV will assign a two-digit number to append to your Federal Employer Identification Number (FEIN)."
+*   **Text:** "Note: Outdated Service Level Agreements will be rejected."
+
+#### 3.1.9 Print Titles Section
+
+*   **Subheading:** "Print Titles"
+*   A bulleted list containing the following information:
+    *   "If your customer moves out of state or in cases of repossession, a printed title will need to be obtained."
+    *   "Once a lienholder is certified, they have the option to file a title either electronically or by paper (not all titles have to be electronic)."
+
+#### 3.1.10 FAQ Section
+
+*   **Question:** "How do I obtain a paper title for a vehicle taken in trade when paying off a loan, if title is electronic?"
+*   **Answer:** "When a dealer pays off a loan for a vehicle taken in trade with an e-Title, the lienholder has 10 business days after receipt of payment to release the lien. The lienholder sends an electronic transaction to TxDMV with the name and address of the dealer. TxDMV will remove the lien and mail the paper title to the dealer."
+*   **Question:** "If I have a Dealer Title Application (DTA) vendor who provides my dealership with software, how will ELT affect me?"
+*   **Answer:** "Each DTA vendor's software applications are different; contact your vendor for information on how ELT affects you."
+*   **Question:** "How will ELT affect my business?"
+*   **Answer:** "Download the revised Form 130-U and begin determining if your customer's lienholder is an ELT participant and prefers e-Titles."
+
+### 3.2 Back to Link
+
+* A "Back to Dealers" link, navigates to "/dealers".
+
+## 4. External Links
+
+*   "Renew Driver License at DPS" links to `https://www.dps.texas.gov/section/driver-license`
+*   "Specialty License Plates" links to `https://www.myplates.com`
+*   "webDEALER | eTAG Login/Password Reset" links to `https://webdealer.txdmv.gov/title/login.do`
+*   "Application Status Check" links to `https://txdmv.force.com/GetWorkItem`
+*   "Dealer License Lookup" links to `https://texasdmv.my.salesforce-sites.com/dealers`
+*   "Motor Vehicle Inquiry" links to `https://mvinet.txdmv.gov`
+*   "Two Steps, One Sticker" links to `http://twostepsonesticker.com`
+*   "Texas by Texas (TxT)" links to `https://txt.texas.gov/dmv/vehicle-registration-renewal?utm_source=txdmv&utm_medium=footer&utm_campaign=txt`
+*   "Texas by Texas (TxT) - Español" links to `https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm_source=txdmv&utm_medium=footer&utm_campaign=txt`
+*   "Texas.gov" links to `https://www.texas.gov`
+*   "Report Fraud, Waste or Abuse" links to `https://sao.fraud.texas.gov/`
+*   "Texas Veterans Portal" links to `https://veterans.portal.texas.gov/`
+*   "Border Programs Team" links to `https://gov.texas.gov/organization/hsgd`
+*   "Statewide Search" links to `https://www.tsl.texas.gov/trail/index.html`
+*   "Transparency" links to `https://comptroller.texas.gov/transparency/`
+*   "Facebook" links to `http://www.facebook.com/TxDMV`
+*   "Get Email Updates" links to `https://public.govdelivery.com/accounts/TXDMV/subscriber/new`
+*   "@TxDMV" links to `http://x.com/txdmv`
+
+## 5. PDF Resources
+
+*   "Compact With Texans" links to `/sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf`
+*   "Texas Certified Lienholders List" links to `/sites/default/files/body-files/Texas_Certified_Lienholders_List.pdf`
+*   "Certified Vendors" links to `/sites/default/files/body-files/certified_vendors.pdf`
+*   "Intake Form" links to `/sites/default/files/form_files/Intake_Form.pdf`
+*   "Change Request Form" links to `/sites/default/files/form_files/Change_Request_Form.pdf`
+*   "Service Level Agreement" links to `/sites/default/files/body-files/elt_sla.pdf`
+*   "TxDMV Technical Specifications" links to `/sites/default/files/body-files/elt_specifications.pdf`
+
+## 6. Email Address
+
+*   `VTR_e-Titles@txdmv.gov`
+
+## 7. Important Notes
+
+*   Ensure all links are functional and point to the correct resources.
+*   Maintain the text formatting (e.g., bulleted lists, numbered lists, table structure) as presented in this document.
+*   Pay close attention to the exact wording of all text elements, including headings, labels, and body copy.
+```

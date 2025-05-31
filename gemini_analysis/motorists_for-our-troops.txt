@@ -1,0 +1,204 @@
+## Product Requirements Document: TxDMV.gov - For Our Troops Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "For Our Troops" page on TxDMV.gov. This page aims to provide information and resources for military personnel, veterans, and their families regarding vehicle registration, titling, and other related services in Texas.
+
+**2. Goals**
+
+*   Provide a centralized resource for military-related information on the TxDMV website.
+*   Simplify the process for military personnel to understand and comply with Texas vehicle registration and titling requirements.
+*   Offer guidance and support to veterans and their families.
+
+**3. Target Audience**
+
+*   Active duty military personnel stationed in or relocating to Texas.
+*   Veterans residing in Texas.
+*   Family members of military personnel and veterans.
+
+**4. Content Requirements**
+
+**4.1. Introductory Text**
+
+*   **Text:** "TxDMV appreciates your service to our country and are proud to be able to provide special services to military personnel, veterans, and their families."
+*   **Text:** "We have grouped information, forms and links together based on what your needs are, for example, requirements for new residents, the process for transferring your vehicle, determining inspection requirements, applying for military plates, etc."
+*   **Text:** "If you are a Non-resident serving in Texas, you are allowed, but not required, to register your vehicle with your local county tax office."
+*   **Text:** "If you have any questions or would like additional help with your motor vehicle needs, call 1-888-DMV-GOTX or email us at [AskDMV@TxDMV.gov](mailto:AskDMV@TxDMV.gov)."
+
+**4.2. Welcome to Texas! Section**
+
+*   **Heading:** Welcome to Texas!
+*   **Text:** "We understand being in the military creates special situations when being relocated from one state to another, or from one country to another. Hopefully the tips and guidance we have gathered for you will help to eliminate some of your stress, or even make your relocation a breeze when it comes to your vehicle."
+*   **Text:** "If you are temporarily stationed in Texas, you may keep your vehicle registration from your home state. You are required to keep your registration current."
+*   **Text:** "If you find Texas as irresistible as we do and plan to make it your permanent home, then you need to register your vehicle here. As a new resident, you have 30 days to apply for a Texas title or registration along with obtaining insurance meeting the minimum amount of insurance coverage required by the State of Texas, and a Texas safety inspection (commercial vehicle) or emissions inspection and Vehicle Inspection Report."
+*   **Text:** "If you live in one of the following emissions counties you will need to obtain a passing vehicle emissions inspection prior to registering your vehicle: Brazoria, Collin, Dallas, Denton, El Paso, Ellis, Fort Bend, Galveston, Harris, Johnson, Kaufman, Montgomery, Parker, Rockwall, Tarrant, Travis, Williamson."
+*   **Image:** VeteransPortal.JPG (URL: `/images/content-motorists/VeteransPortal.JPG`). Alt Text: "VeteransPortal"
+*   **Link:** [https://veterans.portal.texas.gov/](https://veterans.portal.texas.gov/) . Text: "Texas Veterans Portal". Target: \_blank
+*   **Text:** "The [Texas Veterans Portal](https://veterans.portal.texas.gov/) is a resource for veterans, their families, and their survivors. It is a compilation of key information from many government agencies to help you find the assistance, services, and benefits you need."
+
+**4.3. Tabbed Information Section**
+
+**4.3.1. Tab 1: The Process**
+
+*   **Tab Title:** The Process
+*   **Heading:** Transferring Your Vehicle to Texas
+
+    *List:*
+
+    1.  **Text:** "Obtain a passing vehicle inspection if required. All commercial vehicles must continue to obtain a passing commercial inspection regardless of county of residence. Non-Commercial vehicles registered in one of the following 17 counties are not required to obtain a passing safety inspection, but must still obtain a passing emissions inspection prior to registration: Brazoria, Collin, Dallas, Denton, El Paso, Ellis, Fort Bend, Galveston, Harris, Johnson, Kaufman, Montgomery, Parker, Rockwall, Tarrant, Travis, Williamson."
+    2.  **Text:** "If safety or emissions inspections are not required, self-certify the vehicle identification number on the "Link: [/sites/default/files/form\_files/130-U.pdf] Application for Texas Title and/or Registration (Form 130-U)."
+    3.  **Text:** "Obtain insurance on the vehicle that meets the state’s minimum requirements. You will be required to furnish the declarations page for registration purposes."
+    4.  **Text:** "Proof of military service or Leave and Earnings Statement (LES) along with a copy of your current government issued identification."
+    5.  **Text:** "An " Link: [/sites/default/files/form\_files/130-U.pdf] Application for Texas Title and/or Registration (Form 130-U)."
+    6.  **Text:** "If you are applying for registration only (no title will be issued), you will need your current out of state registration receipt and to mark the “Registration Purposes Only” box on Form 130-U."
+
+        *   Sub-list:
+            *   "Your current out of state registration"
+            *   "To mark the “Registration Purposes Only” box at the top of the "Link: [/sites/default/files/form\_files/130-U.pdf] Application for Texas Title and/or Registration (Form 130-U)."
+    7.  **Text:** "Because we all enjoy the Texas roads and scenery, each vehicle registered in Texas pays fees unless you are exempt by law."
+
+    *Table: Fees*
+
+    | Description                                                     | Estimate                      |
+    | :-------------------------------------------------------------- | :---------------------------- |
+    | New Resident Tax (if applicable)                                | $90.00                       |
+    | Registration fee for passenger car or truck (6,000 lbs and less) | $51.75 (includes $1 Department of Public Safety insurance fee) |
+    | Title application fee (varies by county)                      | $28.00 or $33.00             |
+    | Local fee (varies by county)                                    | Up to $31.50 (varies by county) |
+    | Processing and Handling fee                                     | $4.75                        |
+    | State portion of the vehicle inspection fee                     | Up to $30.75 (varies by county, vehicle type, and vehicle use)       |
+
+    *   **Text:** "Since counties vary in their fees and their fees may change, be sure to check with your county for specific amounts."
+    *   **Heading:** Taxes
+    *   **Text:** "If you are a Texas resident and have not previously paid a Texas sales tax on the vehicle, you will pay either a 6.25% sales tax or the difference between the full amount of taxes less any taxes previously paid to another state. For used vehicles the value of the vehicle will be determined at the county and is based on the Standard Presumptive Value (SPV) of the vehicle. A SPV calculator is available on our home page for your reference. Information can be obtained by calling (800) 252-1382 or by visiting [www.window.state.tx.us](http://www.window.state.tx.us/)."
+    *   **Link:** [/sites/default/files/body-files/military-packet.pdf] Military Packet for more information
+
+**4.3.2. Tab 2: Insurance, Inspections & Importing**
+
+*   **Tab Title:** Insurance, Inspections & Importing
+*   **Heading:** Insurance
+    *List*
+    *   **Text:** "Texas law requires the following minimum amounts of coverage for your vehicle:"
+
+        *   Sub-List:
+            *   $30,000 bodily injury to or death of one person in any one accident
+            *   $60,000 bodily injury to or death of two or more persons in any one accident, with a $30,000 limit for one person
+            *   $25,000 because of injury to or destruction of property of others in any one accident
+    *   **Text:** ""No fault" insurance is not valid proof of financial responsibility in Texas. However, proof of financial responsibility from out of state or out of country is acceptable if the insurance company is licensed to do business in Texas and reflects the above minimum amounts."
+    *   **Heading:** Annual Vehicle Inspection
+    *   **Text:** "If you live in one of the following emissions counties you will need to obtain a passing vehicle emissions inspection prior to registering your vehicle: Brazoria, Collin, Dallas, Denton, El Paso, Ellis, Fort Bend, Galveston, Harris, Johnson, Kaufman, Montgomery, Parker, Rockwall, Tarrant, Travis, Williamson."
+    *   **Text:** "Texas-approved inspection stations conduct vehicle inspections and VIN verifications. Many mechanics, repair facilities, and full-service stations are approved to perform the safety inspection (commercial vehicle) and emissions inspections. Look for the state inspection sign at their place of business."
+    *   **Text:** "Contact the Texas Department of Public Safety (DPS) at (512) 424-7293 or visit their [website](https://www.dps.texas.gov/)." (Target: \_blank)
+    *   **Heading:** Importing a Vehicle
+    *   **Text:** "If you will be bringing in a vehicle purchased in another country, you are required to meet all federal and state importation requirements before you can title and/or register it in the state of Texas."
+    *   **Text:** "Your vehicle must meet the "Link: [https://www.nhtsa.gov/importing-vehicle] Federal Motor Vehicle Safety Standards (FMVSS) established by the National Highway Traffic Safety Administration" (Target: \_blank).
+    *   **Text:** "More information concerning duty or other Customs matters is available from the "Link: [http://www.cbp.gov/] U.S. Customs and Border Protection." (Target: \_blank).
+    *   **Text:** "Your vehicle must pass a visual verification of the vehicle identification number (VIN). If you live in one of the following emissions counties you will need to obtain a passing vehicle emissions inspection prior to registering your vehicle: Brazoria, Collin, Dallas, Denton, El Paso, Ellis, Fort Bend, Galveston, Harris, Johnson, Kaufman, Montgomery, Parker, Rockwall, Tarrant, Travis, Williamson."
+    *   **Text:** "You must provide a certified English translation of any document printed in any language other than English."
+
+**4.3.3. Tab 3: Leaving Texas**
+
+*   **Tab Title:** Leaving Texas
+*   **Text:** "If you are a Texas resident serving out of the state, you can retain your Texas title and continue to renew your registration. If you have a Texas title you must keep the registration valid and up to date."
+*   **Text:** "If your vehicle is out of state and you are unable to complete a Texas vehicle safety inspection (commercial vehicle) or emissions inspection required to renew your registration, you will be able to self-certify that the vehicle is out of state and will be permitted to register. In this instance, you will still be charged the state’s portion of the current inspection fee (commercial vehicle) or the Inspection Replacement Fee and the Emissions Inspection Fee, if applicable, at the time of registration. However, active duty military may be refunded this fee by completing a form that can be obtained by contacting a "Link: [/regional-service-centers] TxDMV Regional Service Center (RSC)." (Target: \_blank).
+*   **Text:** "You may renew your registration using self-certification online, by mail or in-person. Please contact your county tax office for more information about their requirements for out-of-state registration renewal."
+*   **Text:** "If you renew your registration using the out-of-state self-certification option, a remark will be placed on your vehicle record indicating that a safety inspection (commercial vehicle) or emissions inspection, if applicable, is still due. To ensure you do not receive a ticket or have to pay penalty fees for lack of a required inspection, you will need to have your vehicle inspected within 3 days after returning to Texas. Also, we recommend you keep the inspection report in your vehicle to prove you have completed it if you are stopped by law enforcement."
+*   **Text:** "Be sure to change the address at TxDMV for your registration to make sure there is no time delay. Thanks for visiting and thank you for serving our country."
+
+**4.3.4. Tab 4: Military License Plates**
+
+*   **Tab Title:** Military License Plates
+*   **Text:** "The emblem art featured on Texas Department of Motor Vehicles’ military license plates is sourced from "Link: [http://www.medalsofamerica.com] Medals of America." (Target: \_blank)
+*   **List Items:**
+    *   "Link: [https://www.myplates.com/design/personalized/passenger/11th-armored-cavalry-regiment/?attribute=39#microPlates] Order a Military Specialty Plate"(Target: \_blank)
+    *   "Link: [/sites/default/files/body-files/Military\_Plate\_Brochure.pdf] Military License Plates Brochure"
+    *   "Link: [/sites/default/files/body-files/DV\_Plate\_Brochure.pdf] Disabled Veterans License Plates Brochure"
+*   **Heading:** International Symbol of Access (ISA)
+*   **Image:** handicap_placard.png (URL: /images/handicap\_placard.png)
+*   **Text:** If you’re a disabled veteran, you may have the International Symbol of Access (ISA) displayed on your military license plates; or choose to receive a maximum of two (2) disabled person placards. To do so, please complete and submit "Link: [/sites/default/files/form\_files/VTR-615.pdf] Application for Disabled Veteran License Plates and Parking Placards (Form VTR-615)" to obtain your disabled license plates or placards."
+*   **Heading:** Replacement Plates
+*   **Text:** "If you order new military plates with a new design or an ISA to replace your existing military plates, a new plate number will be assigned. Disabled Veteran plate numbers will not change if an emblem or an ISA is added. When you receive your new plates, please surrender the old ones to your county tax assessor-collector so they may be destroyed or recycled."
+*   **Heading:** Transfer of Plates
+*   **Text:** "You may transfer your military plate to a new vehicle, but remember to inform your car dealer and/or county tax assessor-collector, so your vehicle’s registration record can be updated. You may be asked to clarify if the plate number is the designated “first set” or an additional set of plates, as registration fees differ."
+*   **Heading:** Surviving Spouses
+*   **Text:** "If you are a surviving spouse of a veteran, you may retain your spouse’s military plate unless it is a Disabled Veteran plate. You may also apply for a Surviving Spouse plate of your own. If you are the surviving spouse of a disabled veteran, you must pay $3 for the first set of plates. Additional sets are free, but annual registration fees and any additional fees will apply. If you would like an ISA displayed on your disabled surviving spouse license plate, you must provide proof of your disabled status by completing an "Link: [/sites/default/files/form\_files/VTR-214.pdf] Application for Persons with Disabilities Parking Placard and/or License Plate (Form VTR-214)."
+*   "Link: [/sites/default/files/form\_files/VTR-425.pdf] Application for Surviving Spouse of a Veteran License Plates (Form VTR-425)"
+*   **Heading:** Gold Star
+*   **Text:** "If you are an immediate family member (defined as a parent, child, sibling, or spouse) of a person who died while serving in the U.S. Armed Forces, you may order a Gold Star license plate. Only one set of Gold Star plates may be issued per person."
+*   "Link: [/sites/default/files/form\_files/VTR-423.pdf] Application for Gold Star License Plates (Form VTR-423)"
+*   **Heading:** Parking Privileges and Fee Exemptions for Vehicles with Military License Plates
+*   **Image:** handicap_placard.png (URL: /images/handicap\_placard.png)
+*   **Text:** "As of January 1, 2022, anyone parking in a disabled parking space must have a disabled person license plate or a disabled parking placard that features the International Symbol of Access (ISA). Currently, disabled veteran license plates do not feature the ISA."
+*   **Text:** "Texans with disabled veteran license plates wishing to use disabled parking spaces in 2022 may apply for a disabled parking placard or for a new disabled veteran license plate featuring the ISA. The veteran must meet the eligibility requirements for a disabled parking placard or disabled person license plate featuring the ISA. Not all disabilities that qualify a veteran for disabled veteran license plates will qualify a veteran for a disabled veteran license plate featuring the ISA."
+*   **Text:** "As of January 1, 2022, you may apply for a disabled parking placard and/or disabled veteran license plate at the office of your local county tax assessor-collector:"
+*   *List*:
+    1.  "For a disabled parking placard, download the "Link: [/sites/default/files/form\_files/VTR-214.pdf] Application for Persons with Disabilities Parking Placard and/or License Plate (Form VTR-214)" (Target: \_blank)
+    2.  "For a disabled veteran license plate with or without the ISA, download the "Link: [/sites/default/files/form\_files/VTR-615.pdf] Application for Disabled Veteran License Plates and/or Parking Placard (Form VTR-615)" (Target: \_blank)
+    3.  "Have your doctor or health care provider complete the Disability Statement section of the application or provide an original prescription."
+    4.  "Submit the completed application(s) and payment (if applicable) to your county tax office."
+*   **Text:** "Vehicles displaying the following license plates may park free of charge at a parking meter operated by a governmental authority other than the federal government (in alphabetical order):"
+
+#### Table
+| <li>(Congressional) Medal of Honor        | <li>Distinguished Service Medal     |
+| ------------------------------------------ | ---------------------------------- |
+| <li>Air Force Cross Medal                 | <li>Legion of Merit Medal           |
+| <li>Air and Air with Valor Medals           | <li>Meritorious Service Medal       |
+| <li>Airman's Medal                         | <li>Navy and Marine Corps Medal     |
+| <li>Army Distinguished Service Cross Medal | <li>Navy Cross Medal                |
+| <li>Bronze Star and Bronze Star with Valor Medals | <li>Pearl Harbor Survivor         |
+| <li>Coast Guard Medal                      | <li>Prisoner of War Medal           |
+| <li>Defense Meritorious Service Medal      | <li>Purple Heart Medal              |
+| <li>Defense Superior Service Medal         | <li>Silver Star Medal               |
+| <li>Disabled Veteran                       | <li>Soldier's Medal                 |
+|                                            | <li>World War II                    |
+
+*   **Text:** "You should not assume all local and state parking will be free. Please be aware that some private and local government parking garages (for example, airports) are bound by local ordinances, and may not exempt parking fees in some situations. Some federal facilities require an ISA either on the plates or a disabled person placard be displayed."
+*   **Text:** "Please call us at (512) 374-5010 if you have questions about military license plates."
+
+**4.4. Motor Vehicle Industry and Salvage Dealer Licensing Requirements**
+
+*   **Heading:** Motor Vehicle Industry and Salvage Dealer Licensing Requirements
+*   **Text:** "Military Benefits for Military Service Members, Veterans, and Spouses are extended to those applying for a new license or currently licensed as a motor vehicle or salvage dealer, converter, manufacturer, distributor, in-transit operator, lessor, or lease-facilitator. If you are current or former military, or a military spouse, you may qualify for a waiver or reduction in fees, expedited processing, or a waiver of requirements. The table below outlines the qualifications necessary to receive these benefits. For more information about dealer licensing, [please visit our Dealers page](/dealers)."
+    *   *List*:
+        *   **Heading:** Military Service Member
+        *   **Text:** "A current full time active duty member of the United State armed forces or an active duty member of the Texas military forces."
+        *   **Heading:** Military Spouse
+        *   **Text:** "A person who is married to a military service member."
+        *   **Heading:** Military Veteran
+        *   **Text:** "A person who has served on active duty as a Military Service Member and who was discharged or released from active duty."
+
+    *Table:*
+| If Your Status Is...                                    | Military Service Member (with or without another dealer license or previous Texas dealer license) | Military Service Member, Military Spouse, or Military Veteran AND licensed as a dealer in another state | Military Service Member, Military Spouse, or Military Veteran AND licensed as a Texas dealer in the last five years |
+| :------------------------------------------------------ | :---------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------- |
+| What we offer you:                                      | Waiver of late fees for renewals 2-year extension on renewal deadlines                                  | Expedited processing Initial license application fee waived **Eligible for discretionary waiver of application prerequisites | Expedited processing **Eligible for discretionary waiver of application prerequisites                                  |
+
+*   **Text:** "**If you feel you have special circumstances that are not listed, you may be eligible for a waiver of application prerequisites. Contact us at (888) 368-4689 for assistance on how to apply or provide documentation."
+*   **Text:** "If you are the spouse of an active military member and you currently hold an active motor vehicle or salvage industry license in another state, submit the "Link: [http://txdmv.force.com/MilitarySpouseExempt] Military Spouse Exempt" for verification before you apply for a Texas license. You may be eligible to operate as a license holder." (Target: \_blank).
+*   **Text:** "Refer to "Link: [http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.55.htm] Occupations Code Chapter 55" (Target: \_blank)  for details on licensing benefits for military service members, military veterans, and military spouses."
+
+**5.  Links to Include**:
+    *   [/motorists]
+    *   [AskDMV@TxDMV.gov](mailto:AskDMV@TxDMV.gov)
+    *   [https://veterans.portal.texas.gov/](https://veterans.portal.texas.gov/) (Texas Veterans Portal)
+    *   [/sites/default/files/form\_files/130-U.pdf] (Application for Texas Title and/or Registration (Form 130-U))
+    *   [www.window.state.tx.us](http://www.window.state.tx.us/)
+    *   [/sites/default/files/body-files/military-packet.pdf] (Military Packet)
+    *   [https://www.dps.texas.gov/](https://www.dps.texas.gov/) (Texas Department of Public Safety website)
+    *   [https://www.nhtsa.gov/importing-vehicle](https://www.nhtsa.gov/importing-vehicle) (Federal Motor Vehicle Safety Standards)
+    *   [http://www.cbp.gov/](http://www.cbp.gov/) (U.S. Customs and Border Protection)
+    *   [/regional-service-centers] (TxDMV Regional Service Center (RSC))
+    *   [http://www.medalsofamerica.com](http://www.medalsofamerica.com) (Medals of America)
+    *   [https://www.myplates.com/design/personalized/passenger/11th-armored-cavalry-regiment/?attribute=39#microPlates](https://www.myplates.com/design/personalized/passenger/11th-armored-cavalry-regiment/?attribute=39#microPlates) (Order a Military Specialty Plate)
+    *   [/sites/default/files/body-files/Military\_Plate\_Brochure.pdf] (Military License Plates Brochure)
+    *   [/sites/default/files/body-files/DV\_Plate\_Brochure.pdf] (Disabled Veterans License Plates Brochure)
+    *   [/sites/default/files/form\_files/VTR-615.pdf] (Application for Disabled Veteran License Plates and Parking Placards (Form VTR-615))
+    *   [/sites/default/files/form\_files/VTR-214.pdf] (Application for Persons with Disabilities Parking Placard and/or License Plate (Form VTR-214))
+    *   [/sites/default/files/form\_files/VTR-425.pdf] (Application for Surviving Spouse of a Veteran License Plates (Form VTR-425))
+    *   [/sites/default/files/form\_files/VTR-423.pdf] (Application for Gold Star License Plates (Form VTR-423))
+    *   [/dealers] (Dealers Page)
+    *   [http://txdmv.force.com/MilitarySpouseExempt](http://txdmv.force.com/MilitarySpouseExempt) (Military Spouse Exempt Form)
+    *   [http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.55.htm](http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.55.htm) (Occupations Code Chapter 55)
+
+**6. Images**
+*   /images/content-motorists/VeteransPortal.JPG: Alt Text: "VeteransPortal"
+*   /images/handicap_placard.png

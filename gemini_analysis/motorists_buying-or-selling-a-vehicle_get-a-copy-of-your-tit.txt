@@ -1,0 +1,117 @@
+```text
+# Product Requirements Document: Get a Copy of Your Vehicle Title
+
+## 1. Introduction
+
+This document outlines the content requirements for the "Get a Copy of Your Vehicle Title" page on TxDMV.gov. The goal is to provide a clear and comprehensive guide for users seeking to obtain a certified copy of their vehicle title.
+
+## 2. Goal
+
+*   Provide users with clear instructions on how to obtain a certified copy of their vehicle title.
+*   Offer multiple methods for application (mail, in person).
+*   Address special situations related to business or trust ownership.
+*   Offer contact information for further assistance.
+
+## 3. Target Audience
+
+*   Vehicle owners who have lost or had their title destroyed.
+*   Lienholders needing to obtain a copy of a title.
+*   Individuals acting as agents for vehicle owners.
+
+## 4. Content Requirements
+
+### 4.1. Main Content Area
+
+**4.1.1. Introductory Paragraph:**
+
+*   **Text:** "If a title is lost or destroyed, you may obtain a certified copy of title by following the steps below. If a lien is recorded, the lienholder should complete an application for certified copy of title, or provide you with an original release of lien. There is a 30-day waiting period to apply for a certified copy of title after the last one was issued."
+
+**4.1.2. Lien Information:**
+
+*   **Text:** "Note: A lien that has been paid off may still be recorded on the title. If that is the case, an original release of lien from the lienholder is required. A fax or photocopy is not acceptable."
+
+**4.1.3. Apply By Mail Section:**
+
+*   **Heading:** "Apply By Mail"
+*   **Introductory Text:** "Here are the steps to apply for a certified copy of title by mail:"
+*   **Numbered List of Steps:**
+    1.  **Text:** "Complete the <a href="/sites/default/files/form_files/VTR-34.pdf">Application for a Certified Copy of Title (Form VTR-34)</a>"
+    2.  **Details:** "All recorded owners must sign the form. Enclose a copy of the photo ID for all owners and $2 mail-in fee by check, cashier’s check or money order payable to the Texas Department of Motor Vehicles. An agent of the owner or lienholder must also provide a letter of signature authority on original letterhead, a business card or a copy of the agent's employee ID. An original release of lien letter is required if a lien is still on record."
+    3.  **Text:** "Mail the application to:"
+
+**4.1.4. Mailing Address Highlight Box:**
+
+*   **Heading:** "Mailing Address"
+*   **Address:**
+    *   "Texas Department of Motor Vehicles"
+    *   "1601 Southwest Parkway, Suite A"
+    *   "Wichita Falls, TX 76302"
+
+**4.1.5. Apply In Person Section:**
+
+*   **Heading:** "Apply in Person"
+*   **Introductory Text:** "Here are the steps to apply for a certified copy in person:"
+*   **Numbered List of Steps:**
+    1.  **Text:** "TxDMV Regional Service Centers **ENCOURAGE** you to <a href="https://nqa3.nemoqappointment.com/Booking/Booking/Index/uh5d75sjtv4" target="_blank">have an appointment</a>."
+    2.  **Text:** "Visit the nearest TxDMV Regional Service Centers."
+    3.  **Text:** "Complete the <a href="/sites/default/files/form_files/VTR-34.pdf">Application for a Certified Copy of Title (Form VTR-34)</a>. NOTE: All recorded owners must sign the form and provide photo ID (or a copy) at time of application."
+    4.  **Text:** "Provide a valid photo ID and $5.45 fee by check, cash, or money order. Credit cards are accepted with an added convenience fee. An agent of the owner or lienholder must also provide a letter of signature authority on original letterhead, a business card or a copy of the agent's employee ID. An original release of lien letter is required if a lien is still on record."
+
+**4.1.6. Appointment Scheduling Highlight Box:**
+
+*   **Text:** "<a href="https://nqa3.nemoqappointment.com/Booking/Booking/Index/uh5d75sjtv4" target="_blank">Click Here to Schedule an Appointment With Your Regional Service Center.</a>"
+
+**4.1.7. Special Situations Section:**
+
+*   **Heading:** "Special Situations"
+
+**4.1.8. Vehicle Titled in the Name of a Business Sub-section:**
+
+*   **Sub-heading:** "Vehicle Titled in the Name of a Business"
+*   **Text:** "If the motor vehicle is titled in the name of a business, government entity, leasing company, lienholder or organization, in addition to acceptable identification, an original business card of the agent or authorization on company letterhead matching the identification of the employee or agent is required. This authorization letter must be signed by someone other than the agent signing for the applicant."
+
+**4.1.9. Vehicle Titled in the Name of a Trust Sub-section:**
+
+*   **Sub-heading:** "Vehicle Titled in the Name of a Trust"
+*   **Text:** "If the motor vehicle is titled in the name of a trust, then the current identification of the trustee making the application must be presented. In order to identify the trustee(s) authorized to sign, the application should also be supported by one of the following:"
+    *   "Affidavit of Trust,"
+    *   "Statement of Fact for a Trust, or"
+    *   "Original or certified copy of the trust agreement."
+
+*   **Power of Attorney Notes:**
+    *   "If the title application is signed with a Power of Attorney, in addition to the requirements above, the following must also be provided:"
+        *   "Current identification matching the person or employee of the entity named as power of attorney,"
+        *   "Acceptable current identification of the owner(s) or lienholder, and,"
+        *   "If provided to a business, an original business card or authorization written on the letterhead of an entity named as power of attorney that matches the identification of the employee."
+    *   "NOTE: Businesses given power of attorney are required to provide a letter of signature authority on original letterhead, business card or a copy of employee ID."
+
+**4.1.10. More Information Section:**
+
+*   **Heading:** "More Information"
+*   **Text:** "If you have other questions regarding lost or destroyed titles, call us at (888) 368-4689 or (512) 465-3000."
+
+**4.1.11. FAQ Link:**
+*   Call to action box link to "/faq/motorists" with text "View Motorist FAQ"
+### 4.2. Related Links (Embedded within Content)
+
+*   **Application for a Certified Copy of Title (Form VTR-34):** `/sites/default/files/form_files/VTR-34.pdf`
+*   **TxDMV Regional Service Centers Appointment Scheduling:** `https://nqa3.nemoqappointment.com/Booking/Booking/Index/uh5d75sjtv4`
+### 4.3. Footer
+*Compact With Texans*
+*Disclaimer*
+*Driver's Privacy Protection Act*
+*Report Fraud, Waste or Abuse*
+*Site Policies*
+*Texas Veterans Portal*
+*Border Programs Team*
+*Statewide Search*
+*Transparency*
+## 5. Form Requirements
+"We Value Your Feedback"
+*Your message will go to our web team. Thank you for helping us to serve you better!<br/>
+If you want to contact a specific department and get a response, please go to the <a href="/about-us">About Us page</a>.*
+Email
+Message
+*Send Message*
+### 6. Breadcrumbs
+Home>Motorists>Buying or Selling a Vehicle

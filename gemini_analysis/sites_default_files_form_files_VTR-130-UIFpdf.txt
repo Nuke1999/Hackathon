@@ -1,0 +1,55 @@
+Okay, here is a Product Requirements Document (PRD) derived from the provided HTML, focusing on content and functionality, suitable for an AI implementor.  This document prioritizes accuracy and completeness, assuming the AI has limited contextual understanding beyond the explicit instructions.
+
+**Product Requirements Document: PDF Viewer**
+
+**1.  Introduction**
+
+This document outlines the requirements for recreating a simple PDF viewer web page. The primary function of this page is to display a PDF document within a full-screen embed.
+
+**2.  Goals**
+
+*   Accurately render a PDF document within a web page.
+*   Utilize the full browser window for PDF display.
+
+**3.  Content and Functionality Requirements**
+
+*   **3.1.  PDF Embed:**
+    *   **Element Type:** `<embed>` tag.
+    *   **Purpose:**  To render the PDF document directly within the webpage.
+    *   **Attributes:**
+        *   `height="100%"`:  Specifies that the embed should occupy 100% of the available vertical space.
+        *   `width="100%"`: Specifies that the embed should occupy 100% of the available horizontal space.
+        *   `type="application/pdf"`:  Indicates that the embedded content is a PDF document.
+        *   `src="about:blank"`: Specifies the source of the pdf document.
+        *   `style="position:absolute; left: 0; top: 0;"`: Positions the embed element absolutely, starting at the top-left corner of its containing element.
+
+*   **3.2.  Body Styling:**
+    *   **Purpose:** To ensure the embed element fills the entire browser window.
+    *   **Styles:**
+        *   `height: 100%;`: Ensures the `<body>` element takes up the full height of the viewport.
+        *   `width: 100%;`: Ensures the `<body>` element takes up the full width of the viewport.
+        *   `overflow: hidden;`: Prevents scrollbars from appearing if the embedded content exceeds the viewport size.
+        *   `margin: 0px;`: Removes any default margins from the `<body>` element, preventing unwanted whitespace around the embed.
+        * `background-color: rgb(40, 40, 40);`: Sets the background color of the body to dark grey.
+
+*   **3.3.  HTML Structure:**
+    *   The `<embed>` tag MUST be placed directly within the `<body>` tag.
+    *   The `<html>`, `<head>`, and `<body>` tags are required. The <head> tag can be empty.
+
+**4. Data Sources**
+
+*   **PDF Source:** Dynamically set a variable for `src` which is initially `"about:blank"`
+
+**5. Error Handling**
+
+*   If the PDF fails to load, the `about:blank` setting should be persistent.
+
+**6. Performance Requirements**
+
+*   The PDF should load as quickly as possible.  Consider lazy loading techniques if applicable in later versions.
+
+**7.  Notes for Implementor**
+
+*   The provided HTML aims for a full-screen PDF viewing experience.  Pay close attention to the CSS styles applied to the `<body>` and `<embed>` elements.
+*   The `src` attribute of the `<embed>` tag will eventually be populated with a valid URL pointing to a PDF file.
+*   This is a minimal implementation.  Consider adding error handling, loading indicators, and basic PDF controls (zoom, page navigation) in future iterations.

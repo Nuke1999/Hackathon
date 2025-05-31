@@ -1,0 +1,45 @@
+## Product Requirements Document: TxDMV Law Enforcement Data Assistance Processes
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "Law Enforcement Data Assistance Processes" page on the TxDMV.gov website.  The goal is to provide a clear and concise specification for an AI implementor to accurately reproduce the content of this page. This document focuses solely on the main content area, excluding global elements.
+
+**2. Page Title:** Law Enforcement Data Assistance Processes
+
+**3. Breadcrumb:** Home > Open Records
+
+**4. Main Content**
+
+The main content area consists of text blocks. Here's a breakdown of each section, including exact text to ensure accuracy.
+
+**4.1. Law Enforcement Assistance Team:**
+
+*   **Heading:** Law Enforcement Assistance Team:
+*   **Text:** The Texas Department of Motor Vehicles has worked with representatives of the Texas law enforcement community to develop multiple options for requesting motor vehicle records pertinent to law enforcement investigations. As a result of this work, the department established a dedicated Law Enforcement Assistance Team to efficiently guide officers through the process of requesting and obtaining motor vehicle records from the department and educating officers on the data available from TxDMV related to motor vehicle crimes.
+
+    Law Enforcement Assistance team employees can be reached at 512-465-1243 or <a href="mailto:ENF_LE_Assist@txdmv.gov">ENF_LE_Assist@txdmv.gov</a> to assist with verifying law enforcement representatives, guiding officers through the request process, and accessing the most relevant data to the requestor. The department must first verify that a requestor is acting on behalf of a law enforcement agency before assisting with a request. Any officer credentials provided to the department are kept confidential. Law enforcement officers can submit a <a href="/sites/default/files/form_files/TxDMV_LE_Verification_Form_and_Service_Agreement.pdf">verification form</a>  to the contact center email address to initiate that process.
+
+**4.2. Closed Motor Vehicle Data Portal:**
+
+*   **Heading:** Closed Motor Vehicle Data Portal:
+*   **Text:** Officers and investigators, verified by the TxDMV Law Enforcement Assistance Team, can receive access to the Texas Department of Motor Vehicles Closed Data Portal. The closed data portal provides law enforcement professionals direct access to regularly updated motor vehicle data sets through a web-based interface available 24 hours a day, 7 days a week.
+
+**4.3. Traditional Data Requests Process:**
+
+*   **Heading:** Traditional Data Requests Process:
+*   **Text:** Law enforcement entities may continue to use the department’s traditional data requests process to obtain motor vehicle record data, such as vehicle title or registration information, using <a href="/sites/default/files/form_files/VTR-275-LE.pdf">Form VTR-275-LE</a>. Form VTR-275-LE is only for law enforcement use and allows TxDMV to provide requested records for free. Law enforcement can submit a completed Form VTR-275-LE along with a copy of the requesting officer’s credentials, to <a href="mailto:ENF_LE_Assist@txdmv.gov">ENF_LE_Assist@txdmv.gov</a>. Officer credentials are kept confidential. To be considered complete, the request must specify the type of records being requested in the section provided. The form and credentials may be mailed, faxed, or emailed.
+
+**4.4. Subpoenas and Discovery:**
+
+*   **Heading:** Subpoenas and Discovery:
+*   **Text:** Subpoenas and discovery are not open records requests. To request information through a subpoena or deposition by written questions email the document to: <a href="mailto:GCO_General@txdmv.gov">GCO_General@txdmv.gov</a>.
+
+**5. Links to External Files/Pages**
+
+*   **/sites/default/files/form_files/TxDMV_LE_Verification_Form_and_Service_Agreement.pdf**:  Verification Form
+*   **/sites/default/files/form_files/VTR-275-LE.pdf**: Form VTR-275-LE
+
+**6. Email Addresses**
+
+*   <a href="mailto:ENF_LE_Assist@txdmv.gov">ENF_LE_Assist@txdmv.gov</a>
+*   <a href="mailto:GCO_General@txdmv.gov">GCO_General@txdmv.gov</a>

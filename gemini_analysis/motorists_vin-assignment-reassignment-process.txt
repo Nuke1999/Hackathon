@@ -1,0 +1,77 @@
+## Product Requirements Document: VIN Assignment / Reassignment Process
+
+**1.  Page Title:** VIN Assignment / Reassignment Process
+
+**2.  Content Section 1: Assigned and Reassigned Vehicle Identification Numbers**
+
+   *   **Heading:** Assigned and Reassigned Vehicle Identification Numbers
+   *   **Paragraph 1:** "If a permanent identification number was never assigned to a vehicle, or the original manufacturer’s number cannot be determined by law enforcement, the department can assign an identification number. If the original manufacturer's identification number can be determined by law enforcement, but it has been removed, altered, or obliterated, the department can reassign an original manufacturer’s identification number."
+   *   **Paragraph 2:** "A completed law enforcement inspection and acceptable evidence of ownership are required to obtain a number assignment or reassignment. Both documents must be submitted to a Texas Department of Motor Vehicle (TxDMV) Regional Service Center (RSC)."
+   *   **Paragraph 3:** "If a vehicle is manufactured and ownership evidence is not available or acceptable, ownership must be established by a court order. If a vehicle is assembled or homemade and ownership evidence is not available or acceptable, a bonded title can be used to establish ownership."
+
+**3.  Content Section 2: Steps to Obtaining an Assigned or Reassigned Number and Titling a Vehicle, Including a Trailer and Semitrailer**
+
+   *   **Heading:** Steps to Obtaining an Assigned or Reassigned Number and Titling a Vehicle, Including a Trailer and Semitrailer
+   *   **Step 1:**
+        *   **Text:** "Owner obtains a completed Law Enforcement Identification Number Inspection (Form VTR-68-A) from an authorized inspector. Authorized inspectors can be found by contacting an MVCPA grantee organization or by contacting a TxDMV Regional Service Center."
+        *   **Link 1:**
+            *   **Link Text:** MVCPA grantee organization
+            *   **URL:** /mvcpa-grantees
+            *   **Target:** _blank
+        *   **Link 2:**
+            *   **Link Text:** TxDMV Regional Service Center
+            *   **URL:** /regional-service-centers
+            *   **Target:** _blank
+        *   **Bullet Point 1:** "For manufactured vehicles, the completed Form VTR-68-A must include the vehicle's year and make identified by the authorized inspector. If a year and make cannot be determined, TxDMV cannot issue an assigned or reassigned number or title the vehicle."
+        *   **Bullet Point 2:** "For assembled or homemade vehicles, the authorized inspector must identify that the vehicle was assembled from parts on the completed Form VTR-68-A."
+   *   **Step 2:**
+        *   **Text:** "Owner confirms they have sufficient ownership evidence. Depending on the type of vehicle, ownership evidence may include:"
+        *   **Bullet Point 1:** "title in the name of or properly assigned to the applicant, which may be used when the original VIN is identified by an authorized inspector."
+        *   **Bullet Point 2:** "bill of sale or receipt, which may be used in limited situations."
+        *   **Bullet Point 3:** "bonded title application, which may be used for assembled or homemade vehicles."
+        *   **Note:** *Acceptable proof of ownership can vary depending on the vehicle. Contact a TxDMV Regional Service Center for assistance identifying acceptable documentation.*
+            *   **Link:**
+                *   **Link Text:** TxDMV Regional Service Center
+                *   **URL:** /regional-service-centers
+                *   **Target:** _blank
+   *   **Step 3:**
+        *   **Text:** "If the owner does not have and cannot get sufficient ownership evidence, the owner can get a court order awarding ownership to serve as acceptable evidence."
+        *   **Bullet Point 1:** "TxDMV should not be named as a party to a suit to establish ownership. TxDMV does not have any ownership interest in the vehicle and is not a proper or necessary party."
+        *   **Bullet Point 2:** "The court order must clearly declare that the applicant is the owner of the vehicle and list the year and make of the vehicle identified in the Form VTR-68-A, so TxDMV can tell both documents apply to the same vehicle. If the Form VTR-68-A identifies a different year, make, or VIN than what is listed in the court order, the court order will not be accepted as ownership evidence."
+   *   **Step 4:**
+        *   **Text:** "Owner applies for an assigned or reassigned vehicle identification number at a TxDMV Regional Service Center by providing the following documentation:"
+        *   **Link:**
+            *   **Link Text:** TxDMV Regional Service Center
+            *   **URL:** /regional-service-centers
+            *   **Target:** _blank
+        *   **Bullet Point 1:** "a completed Form VTR-68-A,"
+        *   **Bullet Point 2:** "acceptable ownership evidence,"
+        *   **Bullet Point 3:** "the $2.00 fee, and"
+        *   **Bullet Point 4:** "a photo of the vehicle, or the physical vehicle if seeking a reassigned manufacturer's VIN."
+   *   **Step 5:**
+        *   **Text:** "Upon review and approval of the documentation presented, TxDMV will assign or reassign a number and issue the owner a *Notice of Assigned or Reassigned Identification Number* (Form VTR-68-N)."
+   *   **Step 6:**
+        *   **Text:** "Owner applies for title at a county tax assessor-collector’s office with the following:"
+        *   **Bullet Point 1:** "copy of the *Law Enforcement Identification Number Inspection* (Form VTR-68-A)"
+        *   **Bullet Point 2:** "the *Notice of Assigned or Reassigned Identification Number* (Form VTR-68-N),"
+        *   **Bullet Point 3:** "an *Application for Texas Title and/or Registration* (Form 130-U),"
+            *   **Link:**
+                *   **Link Text:** (Form 130-U)
+                *   **URL:** /sites/default/files/form_files/130-U.pdf
+                *   **Target:** _blank
+        *   **Bullet Point 4:** "evidence of ownership, and"
+        *   **Bullet Point 5:** "any additional supporting documents necessary for titling the vehicle."
+
+**4. Page Feedback Form ("How can we make this page better for you?")**
+
+   *   **Heading:** We Value Your Feedback
+   *   **Description:** Your message will go to our web team. Thank you for helping us to serve you better! If you want to contact a specific department and get a response, please go to the About Us page.
+        *   **Link:**
+            *   **Link Text:** About Us page
+            *   **URL:** /about-us
+
+   *   **Form Fields:**
+        *   **Email:** (Required, type: email, placeholder: Email)
+        *   **Message:** (Required, type: textarea, placeholder: Your message)
+        *   **Middle:** (Hidden field, type: text, label: Leave this field blank)
+        *   **Submit Button:** (Text: Send message)

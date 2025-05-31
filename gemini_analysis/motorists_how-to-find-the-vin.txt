@@ -1,0 +1,57 @@
+## Product Requirements Document: TxDMV "How to Find the VIN" Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "How to Find the VIN" page on the TxDMV website. This document focuses on the specific content and features within the main content area of the page, excluding site-wide elements like navigation, search, and footer.
+
+**2. Goals**
+
+*   Provide users with clear instructions on how to locate the Vehicle Identification Number (VIN) on their vehicle and related documents.
+
+**3. Scope**
+
+This document covers all textual content, image inclusion, and internal/external links present within the core content area of the specified web page.
+
+**4. Content Requirements**
+
+**4.1 Main Content**
+
+The main content area should include the following elements, in the specified order:
+
+*   **Heading 1:** "How to Find the VIN"
+*   **Introductory Paragraph:** "A Vehicle Identification Number, also known as a VIN, is a serial number attached to each vehicle for identification purposes. You can find the VIN in the following places:"
+*   **Section: Inside the Vehicle**
+
+    *   **Heading 2:** "Inside the Vehicle"
+    *   **List:**
+        *   "On the driver’s side dashboard – stand outside the vehicle and look at the corner where the dashboard meets the windshield."
+        *   "In the driver's side door or door jamb – the VIN is usually printed on a sticker in that location."
+*   **Image:** "/assets/img/vinloc.jpg" with the alt text "vinloc". This image should be centered and have the `img-fluid` class.
+*   **Section: Other locations**
+
+    *   **Heading 2:** "Other locations"
+    *   **List:**
+        *   "Vehicle insurance card / insurance policy"
+        *   "Vehicle title"
+
+**4.2 Call to Action**
+
+*   The page should include a "How can we make this page better for you?" button
+
+**4.3 Feedback Form**
+
+*   By clicking the "How can we make this page better for you?" button the following text should appear
+    *   **Heading 3:** "We Value Your Feedback"
+    *   **Paragraph:** Your message will go to our web team. Thank you for helping us to serve you better!<br/> If you want to contact a specific department and get a response, please go to the About Us page.
+*   **Email Textbox (Required):**
+    *   Label: "Email"
+    *   Placeholder: "Email"
+*   **Message Textarea (Required):**
+    *   Label: "Message"
+    *   Placeholder: "Your message"
+*   **Button (submit):**
+    *   Label: "Send Message"
+
+**5. Links**
+
+*   **Paragraph:** "Your message will go to our web team. Thank you for helping us to serve you better!<br/> If you want to contact a specific department and get a response, please go to the [About Us page](/about-us)."

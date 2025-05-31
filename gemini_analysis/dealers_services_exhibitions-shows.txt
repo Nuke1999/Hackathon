@@ -1,0 +1,112 @@
+```text
+# Product Requirements Document: Exhibitions and Shows Page
+
+## 1. Introduction
+
+This document outlines the content requirements for the "Exhibitions and Shows" page on the TxDMV.gov website, found under Dealers > Dealer Tips and Services. The goal is to provide sufficient detail for an AI implementor to accurately recreate the page's content.
+
+## 2. Page Title
+
+*   **Text:** Exhibitions and Shows
+
+## 3. Breadcrumbs
+
+*   Home > Dealers > Dealer Tips and Services
+
+## 4. Main Content Area
+
+### 4.1. Introduction Paragraphs
+   
+*   **Text:** "New vehicle shows and exhibitions are regularly scheduled public events that feature multiple new vehicle vendors. Product specialists, sales, or other expert staff are typically on hand to educate consumers about new models and features in the new motor vehicles on display."
+
+*   **Text:** "Events are governed by the:
+
+    *   Texas Occupations Code §2301.358,
+    *   Texas Transportation Code Chapter §503.003 and §728.002
+    *   Texas Administrative Code, Title 43, Chapter 215."
+
+*   **Text:** "Texas law allows a license holder to display or sell certain types of motor vehicles at shows and exhibitions if the license holder notifies the Motor Vehicle Division before the event takes place. No fee is required."
+
+### 4.2. Vehicle Type Table
+
+*   **Text:** "This chart summarizes current law:"
+
+*   **Table:**
+
+| Vehicle Type                   | License Holders Who May *Display* at Events | License Holders Who May *Sell* at Events | Requires Notice to TxDMV? |
+| :----------------------------- | :------------------------------------------ | :--------------------------------------- | :------------------------- |
+| Ambulances                     | All                                         | Franchised Dealers                       | Yes                        |
+| Fire-Fighting Vehicles         | All                                         | Franchised Dealers                       | Yes                        |
+| Motor Homes                    | All                                         | Franchised Dealers                       | Yes                        |
+| Tow Trucks                     | All                                         | Underlying Chassis Franchised Dealers  | Yes                        |
+| Towable Recreational Vehicles  | All                                         | Franchised Dealers                       | Yes                        |
+| Automobiles                    | All                                         | None                                     | Yes                        |
+| Buses                          | All                                         | None                                     | Yes                        |
+| Converted Vehicles             | All                                         | None                                     | Yes                        |
+| Independent Mobility           | All                                         | None                                     | Yes                        |
+| Motorcycles & Autocycles       | All                                         | None                                     | Yes                        |
+| Motor Scooters & Mopeds        | All                                         | None                                     | Yes                        |
+| Trucks (all types)             | All                                         | None                                     | Yes                        |
+| All-Terrain Vehicles           | All                                         | None                                     | Yes                        |
+| Neighborhood Vehicles          | All                                         | None                                     | Yes                        |
+| Utility Vehicles               | All                                         | None                                     | Yes                        |
+| Utility Trailers/Semitrailers | All                                         | All                                      | No                         |
+
+### 4.3. Post-Table Paragraphs
+
+*   **Text:** "License holders must be licensed for the specific vehicle type and line-make displayed or sold, and include manufacturers, distributors, converters, and dealers depending on the vehicle type."
+
+*   **Text:** "License holders who are not legally authorized to sell a new motor vehicle at shows or exhibitions may only display a Manufacturer’s Standard Retail Price (MSRP) or a Monroney label or sticker in or near each vehicle. License holders who are authorized to sell vehicles at shows and exhibitions must follow the same rules that apply to vehicle sales at their licensed locations."
+
+*   **Text:** "Show or exhibition advertising must comply with TxDMV’s advertising rules found in 43 TEX. ADMIN. CODE §§ 215.241 - 215.271"
+
+*   **Link:**
+
+    *   **URL:** https://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=43&pt=10&ch=215&sch=H&rl=Y
+    *   **Text:** Texas Administrative Code- Advertising Rules
+    *   **Target:** \_blank
+
+*   **Text:** "Failing to timely file the notification or providing incomplete or inaccurate information may be used as evidence and result in civil penalties."
+
+### 4.4. "How to Notify the Motor Vehicle Division" Section
+
+*   **Heading:** How to Notify the Motor Vehicle Division
+
+*   **Text:** "License holders complete Notification Form "
+
+*   **Link:**
+
+    *   **URL:** /sites/default/files/form_files/MVD-NF101.pdf
+    *   **Text:** Exhibition and Show Notification (MVD-NF101)
+
+*   **Text:** ". Completed forms must be emailed to "
+
+*   **Email Link:**
+
+    *   **Email Address:** MVD-Show\_and\_Exhibitions@TxDMV.gov
+    *   **Text:** MVD-Show\_and\_Exhibitions@TxDMV.gov
+
+*   **Text:** " or faxed to (512) 465-4135. Please keep a copy for your records."
+
+### 4.5. "New Motor Vehicle Displays Not Requiring Notice" Section
+
+*   **Heading:** New Motor Vehicle Displays Not Requiring Notice
+
+*   **Text:** "Not all public displays of new motor vehicles qualify as a show or exhibition. A license holder is not required to provide notice for the following:"
+
+*   **Bulleted List:**
+
+    *   "a public display of a new motor vehicle if the license holder’s employee or agent will not be present at the display;"
+    *   "a public display of a new motor vehicle at a charity, civic, or community event (e.g. fundraisers, rodeos, parades, and fairs); or"
+    *   "a new vehicle displayed at a private event that is not open to the public."
+
+*   **Text:** "Utility trailer/semi-trailer license holders are not required to give notice before participating in a show or exhibition."
+
+## 5. Feedback form:
+        *   **We Value Your Feedback**
+        *   **Email** (required)
+        *   **Message** (required)
+        *   **Send message** button
+        *   Your message will go to our web team. Thank you for helping us to serve you better!<br/>
+        If you want to contact a specific department and get a response, please go to the <a href="/about-us">About Us page</a>.
+```

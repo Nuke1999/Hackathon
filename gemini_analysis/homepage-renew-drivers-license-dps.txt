@@ -1,0 +1,63 @@
+## Product Requirements Document
+
+**Website Title:** www.dps.texas.gov (This title should be displayed in the browser tab)
+
+**Website Purpose:** This website appears to be currently unavailable and displays an error message to the user.  The purpose of this document is to provide content requirements to recreate the error page shown in the HTML.
+
+### 1.  Error Page Content
+
+The core content of the page is the error message indicating the website is unreachable.
+
+**1.1 Main Error Message:**
+
+*   **Heading:** "This site can’t be reached"
+*   **Paragraph:** "**www.dps.texas.gov**’s server IP address could not be found."
+
+**1.2 Suggestions List:**
+
+*   **Introduction:** "Try:"
+*   **List Items:**
+    *   "Checking the connection"
+    *   "Checking the proxy, firewall, and DNS configuration" - This text should be a link. The link functionality should toggle display of the “Details” section below the suggestions (JavaScript functionality).
+
+**1.3 Error Code:**
+
+*   "ERR_NAME_NOT_RESOLVED"
+
+**1.4 Navigation Wrapper (Buttons):**
+
+*   **Reload Button:**
+    *   Text: "Reload"
+    *   Data URL: `https://www.dps.texas.gov/section/driver-license` - When clicked, this button should navigate the user to this URL.
+
+*   **Details Button:**
+    *   Text: "Details"
+    *   Functionality: When clicked, this button should toggle the display of the “Details” section (JavaScript functionality).
+
+**1.5 Details Section (Suggestions):**
+
+This section contains a series of suggestions to help the user resolve the connection issue.  Each suggestion has a header and a body.
+
+*   **Suggestion 1:**
+    *   Header: "Check your Internet connection"
+    *   Body: "Check any cables and reboot any routers, modems, or other network devices you may be using."
+
+*   **Suggestion 2:**
+    *   Header: "Check your DNS settings"
+    *   Body: "Contact your network administrator if you're not sure what this means."
+
+*   **Suggestion 3:**
+    *   Header: "Try disabling network prediction"
+    *   Body: "Go to the Chrome menu &gt; <span>Settings</span> &gt; <span>Show advanced settings…</span> and deselect "<span>Use a prediction service to load pages more quickly</span>." If this does not resolve the issue, we recommend selecting this option again for improved performance."
+
+*   **Suggestion 4:**
+    *   Header: "Allow Chrome to access the network in your firewall or antivirus settings."
+    *   Body: "If it is already listed as a program allowed to access the network, try removing it from the list and adding it again."
+
+*   **Suggestion 5:**
+    *   Header: "If you use a proxy server…"
+    *   Body: "Go to Applications &gt; System Settings &gt; Network, select the active network, click the Details… button, and deselect any proxies that may have been selected."
+
+**1.6 Sub-frame Error Details:**
+
+*   "**www.dps.texas.gov**’s server IP address could not be found."

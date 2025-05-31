@@ -1,0 +1,146 @@
+```text
+## Product Requirements Document: Sponsoring a Specialty License Plate - TxDMV.gov
+
+**1.  Introduction**
+
+This document details the content requirements for the "Sponsoring a Specialty License Plate" page on the TxDMV.gov website. It provides the necessary information to recreate the page's content, excluding design elements.
+
+**2.  Page Title:** Sponsoring a Specialty License Plate
+
+**3.  Breadcrumbs:**
+
+*   Home
+*   Motorists
+*   License Plates
+
+**4.  Main Content**
+
+4.1. **Introductory Paragraph:**
+
+*   **Text:** "New specialty plate designs may be proposed by the public, the legislature, the specialty plates vendor, non-profit and for-profit organizations. Please refer to our How to Propose a Specialty License Plate brochure for more details."
+*   **Link:**
+    *   **Link Text:** How to Propose a Specialty License Plate
+    *   **URL:** /sites/default/files/body-files/slp_brochure.pdf (This is a relative URL)
+
+4.2. **Application Process Highlight Box:**
+
+*   **Title:** Application Process
+*   **Text:** "Please complete an Application for Organizational Specialty License Plates (Form VTR-950) and submit it with your plate design. All designs must meet the guidelines set in our template."
+*   **Link:**
+    *   **Link Text:** Application for Organizational Specialty License Plates (Form VTR-950)
+    *   **URL:** /sites/default/files/form_files/VTR-950.pdf (This is a relative URL)
+
+*   **List of License Plate Specifications:**
+    *   TxDMV License Plate Specifications
+        *   **/sites/default/files/body-files/License_Plate_Specifications.pdf**
+    *   Specialty License Plate 5 Character Template
+        *   **/sites/default/files/body-files/Specialty_License_Plate-Template_5-character.pdf**
+    *   Specialty License Plate 6 Character Template
+        *   **/sites/default/files/body-files/Specialty_License_Plate_Template_6-character.pdf**
+
+4.3. **Approval Process and Time Frame**
+*   Text: We will review your application for completeness and your license plate design to ensure it meets specifications and it is not similar to an existing plate’s design. Next, we will upload your plate design on our website for a 10-day period of public comment known as eView. Finally, your plate will be presented to the TxDMV Board for its consideration during a public meeting.
+*   Text: We will work with you throughout the process, which typically takes up to six months. Changes to a design or the TxDMV's Board meeting schedule could extend the time.
+*   Text: The TxDMV does not limit the number of plate designs it approves. Each application is given full consideration.
+
+4.4. **Next Steps:**
+
+*   Text: If the TxDMV Board does not approve your plate application, you may apply for a new plate.
+*   Text: If the TxDMV Board does approve your plate application, an $8,000 deposit is required before your plate can be produced. The deposit offsets TxDMV’s initial costs to produce, sell, and distribute the plate.
+
+4.5. **Contact Us Highlight Box:**
+
+*   **Title:** Contact Us
+*   **List of Contact Methods:**
+    *   By email: specialtyplates@txdmv.gov
+    *   By telephone: (512) 374-5010
+*   **Note:** The email address is a mailto link with the subject line "TxDMV Website: Sponsoring a Specialty License Plate"
+
+**5.  Footer**
+
+5.1 **Contact**
+*   Text: TxDMV Business Hours
+*   Text: Mon to Fri, 8AM-5PM (Central Time)
+*   Link: View Detailed Contact Information
+        *   URL: /contact-us
+
+5.2 **Resources**
+*   Link: Cobrowse
+        *   URL: /
+*   Link: Media
+        *   URL: /about-us/txdmv-media
+*   Link: Open Records
+        *   URL: /open-records
+*   Link: Reports & Data
+        *   URL: /about-us/reports-and-data
+*   Link: Texas.gov
+        *   URL: https://www.texas.gov
+*   Link: Texas by Texas (TXT)
+        *   URL:https://txt.texas.gov/dmv/vehicle-registration-renewal?utm_source=txdmv&utm_medium=footer&utm_campaign=txt
+*   Link: Texas by Texas (TXT) - Español
+        *   URL:https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm_source=txdmv&utm_medium=footer&utm_campaign=txt
+*   Link: Troops & Veterans
+        *   URL: /motorists/for-our-troops
+
+5.3 **Work With Us**
+*   Link: Careers
+        *   URL: /careers
+*   Link: Contractors/Vendors
+        *   URL: /tax-assessor-collectors/contractors-vendors
+*   Link: Lienholders
+        *   URL: /dealers/lienholders
+*   Link: MVCPA Grantees
+        *   URL: /about-us/MVCPA/grantees
+*   Link: Law Enforcement Data Assistance
+        *   URL: /open-records/law-enforcement-data-assistance-processes
+*   Link: Regional Service Centers
+        *   URL: /regional-service-centers
+*   Link: Tax Assessor-Collectors
+        *   URL: /tax-assessor-collectors
+
+5.4 **Connect With Us**
+*   Link: Facebook
+        *   URL: https://www.facebook.com/TxDMV
+*   Link: Get Email Updates
+        *   URL: https://public.govdelivery.com/accounts/TXDMV/subscriber/new
+*   Link: @TxDMV
+        *   URL: https://x.com/txdmv
+
+5.5 **Footer Blue Links**
+*   Link: Compact with Texans
+        *   URL: /sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf
+*   Link: Disclaimer
+        *   URL: /site-policies/disclaimer
+*   Link: Drivers' Privacy Protection Act
+        *   URL: /site-policies/drivers-privacy-protection-act
+*   Link: Report Fraud, Waste or Abuse
+        *   URL: https://sao.fraud.texas.gov/
+*   Link: Site Policies
+        *   URL: /site-policies
+*   Link: Texas Veterans Portal
+        *   URL: https://veterans.portal.texas.gov/
+*   Link: Border Programs Team
+        *   URL: https://gov.texas.gov/organization/hsgd
+*   Link: Statewide Search
+        *   URL: https://www.tsl.texas.gov/trail/index.html
+*   Link: Transparency
+        *   URL: https://comptroller.texas.gov/transparency/
+
+**6.  "How can we make this page better for you?" Feedback Form**
+
+*   **Email Field:**
+    *   Label: Email
+    *   Required: Yes
+    *   Type: Email
+*   **Message Field:**
+    *   Label: Message
+    *   Required: Yes
+    *   Type: Textarea
+*   **Submit Button:**
+    *   Text: Send message
+
+*   **Success Message:**
+*   Your message will go to our web team. Thank you for helping us to serve you better!
+    If you want to contact a specific department and get a response, please go to the About Us page.
+        *   URL: /about-us
+```

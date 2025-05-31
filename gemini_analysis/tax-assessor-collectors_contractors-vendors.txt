@@ -1,0 +1,140 @@
+```
+# Product Requirements Document: TxDMV Contractors and Vendors Page
+
+## 1. Introduction
+
+This document details the content requirements for recreating the "Contractors and Vendors" page on the TxDMV website.  It focuses on the core content areas, ensuring that a clear and accurate representation of the original page is achieved.
+
+## 2. Page Title:
+
+*   Text: "Contractors and Vendors"
+
+## 3. Main Content Area:
+
+### 3.1. Introduction Paragraph:
+
+*   Text: "Below is a list of resources for our partners as well as services and information frequently requested by contractors, consultants, and businesses."
+
+### 3.2. Useful Links Card:
+
+*   Card Title: "Useful Links"
+*   Content:
+    *   List of Links:
+        *   Link 1:
+            *   Text: "Dept. of Info. Resources (DIR)"
+            *   URL: "https://dir.texas.gov/"
+            *   Title: "Dept. of Info. Resources (DIR)"
+        *   Link 2:
+            *   Text: "Texas.gov"
+            *   URL: "https://www.texas.gov/"
+            *   Title: "Texas.gov"
+        *   Link 3:
+            *   Text: "Data Center Services (DCS)"
+            *   URL: "https://www.dir.texas.gov/View-About-DIR/Data-Center/Landing.aspx"
+            *   Title: "Data Center Services (DSC)"
+        *   Link 4:
+            *   Text: "Texas Administrative Code"
+            *   URL: "https://www.sos.texas.gov/tac/index.shtml"
+            *   Title: "Texas Administrative Code"
+        *   Link 5:
+            *   Text: "Texas State Comptroller"
+            *   URL: "https://comptroller.texas.gov/purchasing/"
+            *   Title: "Texas State Comptroller"
+
+### 3.3. Tabs Section
+
+#### 3.3.1 Tab 1: Selling to TxDMV
+
+*   Tab Title: "Selling to TxDMV"
+*   Content:
+
+    *   Text: "Rules established by the Texas Comptroller of Public Accounts (CPA) govern the purchasing practices of TxDMV."
+    *   Link 1:
+        *   Text: "TxDMV Contract Uniform Terms and Conditions (Version 2.0)"
+        *   URL: "/sites/default/files/body-files/TxDMV_Contract_Uniform_Terms_and_Conditions_v2-0.pdf"
+    *   Link 2:
+        *   Text: "TxDMV Supplemental Terms for DIR Cooperative Purchases (Version 1.2)"
+        *   URL: "/sites/default/files/body-files/TxDMV_Supplemental_Terms_for_DIR_COOP_Purchases_v1-2.pdf"
+    *   Link 3:
+        *   Text: "TxDMV W-9"
+        *   URL: "/sites/default/files/form_files/TxDMV_W-9_Signed.pdf"
+    *   Sub-heading: "Where to Start"
+        *   Text: "Register on the Centralized Master Bidders List (CMBL) through the CPA.\nState agencies select vendors from the CMBL for solicitations based on the following dollar thresholds:"
+        *   Bullet Points:
+            *   "Over $25,000 – Solicitations (IFB, RFP, RFO) are advertised on the open market and posted on the Electronic State Business Daily site. All CMBL-listed vendors under the class and item for the requested commodity or service will receive notice of the solicitation. Solicitations are formal, requiring sealed responses by a specified opening or closing date and time. Other interested vendors may make a written request any time prior to the bid opening date and time."
+            *   "$5,000 to $25,000 – A minimum of three (3) vendors from the CMBL are solicited. Two-thirds of the vendors solicited should be Historically Underutilized Businesses (HUBs)."
+            *   "Under $5,000 – One quote may be requested from a CMBL vendor for a purchase order award."
+    *   Sub-heading: "Obtaining Historically Underutilized Business (HUB) Certification"
+        *   Text: "The TxDMV is committed to purchasing and contracting with HUBs. The purpose of the HUB program is to promote full and equal business opportunities for all businesses in state contracting. All state agencies and universities are required to make a good faith effort to include HUBs in procurement opportunities for goods and services. HUB certification increases exposure to solicitations for the procurement of goods and services."
+        *   Text: "Companies interested in doing business with TxDMV are encouraged to become HUB certified. This may be accomplished by completing a HUB application and submitting it to the Texas Comptroller of Public Accounts. Vendors may be eligible for the State of Texas HUB Program if their business is located in the state of Texas and majority owned by an Asian Pacific American, African American, Hispanic American, Native American, American Woman, and/or Service Disabled Veteran. HUB certification is free of charge and can be renewed every four (4) years."
+        *   Text: "Questions regarding TxDMV HUB Program can be sent to: "
+            *   Email: HUB@txdmv.gov
+    *   Sub-heading: "Products and Services Purchased by TxDMV include but are not limited to:"
+    *   Column 1:
+        *   Bullet Points:
+            *   "Computer software"
+            *   "Office equipment and supplies"
+            *   "Office furniture and modular furniture"
+            *   "Temporary personnel services"
+    *   Column 2:
+        *   Bullet Points:
+            *   "Recycled products"
+            *   "Office equipment maintenance"
+            *   "Telecommunications"
+            *   "Computer equipment and peripherals"
+    *   Sub-heading: "Selling IT Services to TxDMV"
+        *   Text: "The Department of Information Resources (DIR)’s Cooperative (Co-op) Contracts program is a streamlined cooperative purchasing program for state and local government, public education, and other public entities in Texas, as well as public entities outside the state."
+        *   Text: "They currently offer more than 650 cooperative purchasing contracts for technology products and services including hardware, software, staffing services, maintenance, and other services with a high customer demand, such as managed services and technology training. TxDMV purchases professional services through DIR."
+        *   Text: "Visit the "
+            *   Link:
+                *   Text: "DIR website"
+                *   URL: "https://dir.texas.gov/"
+                *   Target: "_blank"
+            *   Text: " for instructions and information on how to contract for Cooperative Contracts, Deliverables-Based IT Services (DBITS), Data Center Services (DCS), Information Security Services, or Telecommunications Services."
+
+#### 3.3.2. Tab 2: Contract Reporting
+
+*   Tab Title: "Contract Reporting"
+*   Content:
+    *   Link 1:
+        *   Text: "Texas Senate Bill 20 Expenditure Disclosure"
+        *   URL: "/business-portal/fas-contract-review"
+    *   Link 2:
+        *   Text: "Interagency Contracts (IACs) over $10 million"
+        *   URL: "/sites/default/files/report-files/Interagency-Contracts-over-$10_million.pdf"
+
+#### 3.3.3. Tab 3: Subcontractors
+
+*   Tab Title: "Subcontractors"
+*   Content:
+    *   Sub-heading: "About webSUB"
+        *   Text: "The following are useful documents and training materials specifically for subcontractors of any county who currently use or will be using the webAGENT-Subcontractor (webSUB) application to process registration renewals."
+        *   Link 1:
+            *   Text: "webSUB System Requirements"
+            *   URL: "/sites/default/files/body-files/WebAgentSystemRequirements.pdf"
+    *   Sub-heading: "Training Material"
+        *   Link 1:
+            *   Text: "New User Login Job Aid"
+            *   URL: "/sites/default/files/body-files/New_User_Login-Job_Aid.pdf"
+        *   Link 2:
+            *   Text: "Add a User/Agent Job Aid"
+            *   URL: "/sites/default/files/body-files/Add_User_Agent_Job_Aid.pdf"
+        *   Link 3:
+            *   Text: "Manual Inspection Verification Job Aid"
+            *   URL: "/sites/default/files/body-files/Manual_Inspection_Verification-Job_Aid.pdf"
+        *   Link 4:
+            *   Text: "Managing Batches Job Aid"
+            *   URL: "/sites/default/files/body-files/Managing_Batches-Job_aid.pdf"
+        *   Link 5:
+            *   Text: "Error Codes Job Aid"
+            *   URL: "/sites/default/files/body-files/Error_Codes-job_Aid.pdf"
+
+#### 3.3.4. Tab 4: Contract Management
+
+*   Tab Title: "Contract Management"
+*   Content:
+    *   Text: "Senate Bill 20 (84-R) required the Comptroller's office to examine the feasibility and practicality of consolidating state purchasing functions and examine the cost savings to the state."
+    *   Link 1:
+        *   Text: "2018 TxDMV Contract Management Handbook"
+        *   URL: "/sites/default/files/body-files/TxDMV_Contract-Management-Handbook.pdf"
+```

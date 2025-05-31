@@ -1,0 +1,148 @@
+```text
+# Product Requirements Document: webDEALER | eTAG Troubleshooting
+
+## 1.  Introduction
+
+This document outlines the content requirements for the "webDEALER | eTAG Troubleshooting" page on the TxDMV.gov website. This page aims to provide solutions and guidance for dealers experiencing technical difficulties with the webDEALER and eTAG systems.
+
+## 2.  Goal
+
+To provide clear and concise troubleshooting steps and contact information to assist dealers in resolving issues with the webDEALER | eTAG system.
+
+## 3. Detailed Content Requirements
+
+**Page Title:** webDEALER | eTAG Troubleshooting
+
+### 3.1. Tabbed Content
+
+The main content is organized into four tabs:
+
+#### 3.1.1. Tab 1: Computer Settings
+
+**Tab Title:** Computer Settings
+
+**Content:**
+
+*   "Pop-up blockers will need to be disabled for the webDEALER system. In most cases, you can set your pop-up blocker to "always allow" for the webDEALER system. If you are not automatically prompted to allow for pop-ups when you enter the webDEALER system, you will need to enter **https://webdealer.txdmv.gov/** into your pop-up program as an allowed site."
+*   "Plug-ins should be enabled for the webDEALER site."
+*   "ActiveX filtering should be unchecked within the webDEALER site. If you have problems printing with the Adobe Reader® ActiveX® plug-in while using the Internet Explorer® browser, here is another workaround:"
+    1.  "In Adobe Reader® or Acrobat®, choose Edit > Preferences."
+    2.  "Select Internet."
+    3.  "Deselect "Display PDF In Browser", and then click OK."
+*   "Phishing filters may interfere with processing webDEALER. Disable the filters on your computer or set them to "always allow" access from **https://webdealer.txdmv.gov/**."
+*   "Set your computer's security setting at medium or make an exception for the webDEALER system by adding **https://webdealer.txdmv.gov/** to your allowed sites."
+*   "Your computer's content advisor may need to be disabled or set to allow access to https://webdealer.txdmv.gov/."
+
+"If you are unsure of how to change the settings on your computer, please consult the "Help" manual that was installed on your computer with the operating system. If you have installed other programs, such as an anti-virus program or your online provider gave you phishing filters and pop-up blocker features, please consult with your internet service provider about how to change your settings for use with the webDEALER system."
+
+"Other considerations"
+
+*   "Check for any critical updates to your operating system, browser(s) and Adobe Acrobat® or Adobe Reader®. Visit the respective software manufacturer's website to check for updates and follow their instructions for downloading and installing these updates."
+*   "If problems persist, you may uninstall and reinstall Adobe Reader®. Sometimes, an incomplete installation of this application may prevent printing."
+*   "If printing problems persist while using Internet Explorer®, you may wish to install another browser to use with webDEALER, such as Mozilla Firefox®."
+
+#### 3.1.2. Tab 2: Printing Problems
+
+**Tab Title:** Printing Problems
+
+**Content:**
+
+"If you click on "Print Tag" or "Reprint Tag" and get an error message, first be sure you have Adobe Reader installed on your computer."
+
+"If you are still having trouble printing with Internet Explorer and Adobe Reader, try using an alternate web browser or change your Adobe Reader preferences to open documents directly in Adobe Reader. Here's how:"
+
+1.  "Open Adobe Acrobat Reader."
+2.  "Select "Preferences" from the Edit menu."
+3.  "Select "Internet" from the Categories: list."
+4.  "Uncheck the box that says "Display PDF in browser""
+
+"When you click on "Print Tag" Internet Explorer will ask you to verify that you want to download the file. Then retry the webpage. The tag and receipts will now open in a separate, stand-alone version of the Adobe Reader."
+
+"If you can log in but cannot print or if you can't log in to the webDEALER system"
+
+*   "If you can log onto the system but can't print the eTAG images, try reprinting the tag image. If this does not work, use an Internet Down Tag to manually enter the owner and vehicle information, and contact the webDEALER | eTAG Help Desk for assistance."
+*   "If you have already received your login information from MVD and you can't login to the webDEALER database then contact the webDEALER | eTAG Help Desk by emailing eTag@TxDMV.gov or call (512) 465-4010 for assistance, Monday – Friday 7:00 a.m. - 5:30 p.m."
+
+#### 3.1.3. Tab 3: Trailers without VINs
+
+**Tab Title:** Trailers without VINs
+
+**Content:**
+
+"Many utility trailers less than 4,000 lbs. do not have a VIN. The eTAG System requires a VIN to obtain a buyer's tag or a vehicle-specific dealer tag. To complete the transaction, in the VIN field, you will enter the words "novin" along with the date and time."
+
+"For example: novin04052015341 represents a no VIN trailer eTAG transaction was processed on 04/05/2015 at 3:41 pm."
+
+"You will still have the option to obtain a VIN for the trailer frame from the TxDMV Regional Service Centers."
+
+#### 3.1.4. Tab 4: More Help
+
+**Tab Title:** More Help
+
+**Content:**
+
+"If you have problems with the webDEALER Database, please provide feedback with as much specific information as possible so we can troubleshoot the problem. Here’s what we need to know:"
+
+"**1. Your contact information**"
+
+*   "Name,"
+*   "Phone or email,"
+*   "webDEALER | eTAG username,"
+*   "Your license (P) number"
+
+"**2. A description of the problem (examples enclosed)**"
+
+*   "I receive a message “Invalid username or password” when logging into the system."
+*   "I have created my allotment of Internet Down Tags and now I need more allotted."
+*   "The webDEALER system works on some computers but not others."
+*   "The webDEALER system prints to some printers but not others."
+*   "There is a message about pop-ups."
+*   "The webDEALER system displays a message “There has been an error in the operation you are trying to perform, please contact the system administrator.”"
+*   "The webDEALER system displays a message “You don’t have permission to view this page.”"
+*   "The webDEALER system will not create an eTAG image. (Specify what type of tags this is affecting.)"
+*   "The webDEALER system creates an eTAG image but it will not print."
+*   "Other - Provide a description of the problem you are experiencing with the webDEALER system."
+
+"**3. Where and when the problem occurs**"
+
+*   "When logging on"
+*   "All screens after login"
+*   "When an item is selected (specify what item)"
+*   "Only with printing/viewing all tags"
+*   "Only with printing/viewing specific tags"
+
+"Call (toll free) 1-877-933-2020 or email webDEALER | eTAG Support at eTag@TxDMV.gov."
+
+"If your DBA(s) is missing or your location information is incorrect, please contact the TxDMV Contact Center at (888) 368-4689 or MVD_Licensing_inquires@txdmv.gov. We will review the license record to determine the next steps necessary. Please provide:"
+
+*   "Your license (P) number"
+*   "All locations tied to the license number"
+*   "All DBAs associated to that license (and location of each DBA)"
+*   "A contact person and a phone number where they can be reached"
+
+"If you have any questions regarding the rules for use of temporary tags, or other motor vehicle dealer licensing, please call (888) 368-4689 or DealerLicense@txdmv.gov"
+
+## 4. Associated Links (To be integrated within the content where mentioned)
+
+*   **https://webdealer.txdmv.gov/** (webDEALER system login):  Specifically listed as an "allowed site" for pop-up blockers and phishing filters.
+
+## 5. Contact Information (To be integrated within the "More Help" tab)
+
+*   **webDEALER | eTAG Help Desk:**
+    *   Email: eTag@TxDMV.gov
+    *   Phone: (512) 465-4010, Monday – Friday 7:00 a.m. - 5:30 p.m.
+*   **TxDMV Contact Center:**
+    *   Phone: (888) 368-4689
+    *   Email: MVD_Licensing_inquires@txdmv.gov
+*   **Dealer Licensing Questions:**
+    *   Phone: (888) 368-4689
+    *   Email: DealerLicense@txdmv.gov
+*   **Call (toll free):** 1-877-933-2020
+
+## 6. Error Messages
+
+Error messages mentioned in the content that need to be considered for user guidance are:
+
+*   “Invalid username or password”
+*   "There has been an error in the operation you are trying to perform, please contact the system administrator.”
+*   “You don’t have permission to view this page.”

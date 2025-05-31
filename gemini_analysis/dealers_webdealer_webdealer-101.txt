@@ -1,0 +1,189 @@
+```text
+# Product Requirements Document: eTAG 101 Page
+
+## 1. Introduction
+
+This document outlines the content requirements for recreating the "eTAG 101" page on the TxDMV.gov website. It provides the text and structural elements necessary for implementation.
+
+## 2. Goal
+
+To accurately represent the information provided on the existing eTAG 101 page, ensuring dealers can understand and utilize the webDEALER | eTAG system effectively.
+
+## 3. Scope
+
+This document covers only the main content area of the "eTAG 101" page. Elements such as navigation, header, footer, and search functionality are excluded as they are considered global elements.
+
+## 4. Content Requirements
+
+### 4.1. Introductory Text
+
+"webDEALER is the system used to create Buyer Tags (or other tags) and process title applications. Users who have accounts for **both** eTAG and webDEALER can now issue tags and create title applications within the webDEALER system. As a result of House Bill (HB) 3927, 87th Legislature, Regular Session (2021), there is now a limit to the number of temporary tags a dealer or converter can issue. More information regarding the yearly temporary tag limits can be viewed below."
+
+"The webDEALER | eTAG system is designed to make processing dealer tags fast and easy for dealerships throughout the state while making temporary tag information available in almost real-time to law enforcement."
+
+*   "Works via a web-based application"
+*   "Provides greater security by using unique numbers on every eTAG"
+*   "Replaces old style tags that are no longer legal"
+
+"Make sure you have printed your allotment of Internet Down tags in case they are needed when webDEALER is unavailable."
+
+### 4.2. webDEALER Login Card
+
+This section is presented in a card format with the title "webDEALER".
+
+Link to: https://webdealer.txdmv.gov/title/login.do
+Link Text: Login to webDEALER
+
+### 4.3. Tabs Section
+
+This section contains information organized within tabs. The tabs and their respective content are described below.
+
+#### 4.3.1. Type of Tags Tab
+
+"Dealers and Converters use the webDEALER | eTAG system and are required by law to have Internet access at their place of business to connect to the webDEALER Database."
+
+"Dealers who hold a General Distinguishing Number license may issue dealer temporary tags, buyer's temporary tags, and Internet-down temporary tags for each type of vehicle the dealer is licensed to sell. Beginning December 9, 2022 a new temporary tag design will be released for use replacing the previous design; click here for more information on the new tag design and why it was developed."
+Link to: /temporarytags
+Link Text: click here
+
+"A converter may only issue converter temporary tags."
+
+*   **Dealer Agent and Converter Tags Accordion**
+
+"These tags contain vehicle-specific information or agent-specific information."
+
+*   "Uses:"
+    *   "Vehicle demonstration"
+    *   "Transit from dealer to dealer"
+    *   "Auction"
+    *   "Reconditioning, etc."
+    *   "May be used on a loaner to a customer while vehicle is being repaired"
+*   "CANNOT be used for carrying a load UNLESS vehicle is carrying another vehicle with a temp tag from same dealer on the way to or from the auction"
+*   "Cannot be used by dealership personnel for personal use"
+*   "MUST be displayed and properly secured in rear plate holder"
+*   "Does NOT need current inspection"
+*   "CANNOT display signs on vehicle"
+*   "Valid from 1 to 60 days"
+*   "More than one tag may be issued to any agent but only one tag may be assigned to any specific vehicle at a time."
+*   "TITLE must be in name of or assigned to dealership"
+*   "Fees are not collected for these tags."
+
+*   **Buyer Tags Accordion**
+
+"The buyer’s tag is issued with a retail sale. The dealer must enter the vehicle’s and the buyer’s information into the e-TAG System. The system then assigns a vehicle-specific number to the transaction, which can be printed out in the form of a temporary registration tag."
+
+*   "Issued to a retail purchaser"
+*   "MUST have current inspection"
+*   "MUST be displayed and properly secured in rear plate holder"
+*   "MUST keep Buyer’s Tag Receipt in vehicle until registered"
+*   "If tag is stolen or lost, replacement is reprinted with original expiration date"
+*   "CAN display signs and carry load on vehicle"
+*   "TAG is good for 60 calendar days"
+*   "Dealer is required to apply for title and registration within 20 working days of the date of sale or 45 calendar days if Seller financed"
+
+"The law requires you to collect a $5.00 fee from each buyer that is issued a buyer's eTAG. This fee will be paid to the county at the time the title and registration is filed just like the TT&L. The buyer tag is the only tag for which this fee is charged. This fee also applies to out of state transactions."
+Link to: /sites/default/files/body-files/eTag-$5_fee_facts.pdf
+Link Text: $5 Buyer Tag Fee Facts
+"Buyer tags are good for 60 days. Only one tag is allowed for one VIN/Buyer."
+
+*   **Internet-Down Tags Accordion**
+
+"If the webDEALER System is unavailable at the time of a retail sale, you must use an Internet-down tag and provide a buyer's receipt. You will enter sales information into the database once the webDEALER System is available again. This must be no later than the close of the next business day that you have access to the Internet."
+
+*   "Used when Internet is down as an alternate Buyer’s tag. Tags and receipts are preprinted by dealer with the assigned number. Buyer and vehicle info is hand-printed by the dealer."
+*   "Dealer required to enter all information into webDEALER database within 24 hours of resuming Internet service."
+*   "Issued to a retail purchaser"
+*   "MUST have current inspection"
+*   "MUST be displayed and properly secured in rear plate holder"
+*   "MUST keep Buyer’s Tag Receipt in vehicle until registered"
+*   "If tag is stolen or lost, replacement is reprinted with original expiration date"
+*   "CAN display signs and carry load on vehicle"
+*   "TAG is good for 60 calendar days"
+*   "Dealer is required to apply for title and registration within 20 working days of the date of sale or 45 calendar days if Seller financed"
+
+"All dealers should make sure they have printed their allotment of Internet Down tags in case they are needed when eTAG is unavailable."
+
+"If you need more than your allotment, please send us an email at etag_allotment@txdmv.gov to request an increase to your eTAG Internet-down tags allotment."
+Email Address: etag_allotment@TxDMV.gov
+
+*   **Dealer's Metal Plate Accordion**
+
+Image: (plp_dealer.jpg)
+
+*   "Uses:"
+    *   "Vehicle demonstration"
+    *   "Personal Use"
+    *   "Only on vehicles dealer is licensed to sell"
+    *   "Only one plate is issued for display on vehicle and must be displayed and properly secured in rear plate holder."
+    *   "MUST have current inspection"
+    *   "CANNOT display signs on vehicle"
+    *   "CANNOT be displayed on vehicle carrying load"
+    *   "TITLE must be in name of or assigned to dealership"
+
+#### 4.3.2. How to Use the Tags Tab
+
+"Where They Go"
+
+"eTAG is to be placed on all (new, used, and trailers) vehicles sold."
+
+*   "eTAG needs to be placed in the rear license plate display area of the vehicle."
+*   "Paper tags should be secured with double sided tape or with a license plate holder to keep the tag from flapping up in the wind."
+*   "If the buyer wants to put their old plates on the “new” vehicle they buy, the eTAG must go on top of the old plate until the registration sticker is issued by the county tax office. As a service to the customer, the temporary tag may be placed over the metal plate so the buyer can simply remove the paper tag once they receive their registration sticker from you."
+
+"Transporting Vehicles To and From Auctions"
+
+"When sending a vehicle to the auction, you may issue a vehicle-specific dealer tag for the specific vehicle that will be driven to the auction to be sold. If the vehicle is not sold, it can be brought back to the lot on that same tag. If the vehicle is sold, then the buying dealer will put a dealer agent tag on the vehicle."
+
+"If you are buying vehicles from an auction, you should take agent specific dealer tags with you to the auction to put on the vehicles you buy to be transported back to your lot. If you buy through an online auction, you can fax your agent specific dealer tags to the transport company for mounting on the vehicle if it is driven back to the dealer lot."
+
+#### 4.3.3. Reprinting and Voiding Tags Tab
+
+"The webDEALER | eTAG System allows you to:"
+
+*   "Void tags"
+*   "Correct errors and reissue the tag"
+*   "Replace lost or stolen tags by reprinting the same tag"
+
+"Here are a few tips:"
+
+*   "You do not have to print a dealer's tag every time a vehicle is demonstrated: With the Agent Specific eTAG you can issue an agent’s tag to a particular agent to be used by that person on whatever vehicle they drive for the dealer. The dealer is still responsible for that agent’s tag and can void it at any time."
+*   "To reprint a specific numbered tag image: look under the Tags tab and select “Reprint Tag Images.” Enter the tag number, VIN, or Name of Purchaser and select “Search.” Follow the screen instructions to reprint the eTAG."
+*   "To create an Agent Specific Dealer Tag: first add agent names to the list. Click on the Home Page select “Manage Agent” from the Account Maintenance section. Click “Create Agent” then type in the First and Last Name of the agent; then click “save”. The name will now appear on the list of agents when you create agent specific tags."
+
+"Please note: only one tag at one time can be issued for a VIN, whether it is a dealer tag or buyer tag."
+
+#### 4.3.4. Temporary Tag Limits Tab
+
+"The TxDMV has been authorized to establish a maximum number of temporary tags a dealer or converter may issue in a calendar year. As part of this process, the dealer or converter will be able to monitor their temporary tag limits in real time through the eTAG system. The maximum temporary tag limit and how many temporary tags are remaining will be updated every time a tag is assigned."
+
+"When a new dealer or converter is licensed, they are automatically given a standard number of temporary tags. Generally, the amount of temporary tags given to a dealer or converter will be sufficient for the remainder of the calendar year. However, a dealer or converter may request additional tags once they have used 50% of the annual allotment for each specific tag type (agent tag, buyer tag, vehicle specific tag, and/or converter tag). The requests must be submitted in eLICENSING by selecting “apply” under the eTAG Limits icon."
+
+"For more information regarding how the dealer’s yearly limits are calculated please review TAC §215.152."
+Link to: https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=43&pt=10&ch=215&rl=152
+Link Text: TAC §215.152
+
+"**TxDMV Temporary Tag Limits FAQ**"
+
+"**Q**: What types of documentation should I use to request additional temporary tags?<br/>
+**A**: Supporting documentation that can be used to request additional temporary tags can include, but is not limited to, the following: filed sales & tax reports, written explanation for why the tag increase is needed, and/or other supporting documentation that explains the dealer or converter’s expected growth or changes expected to occur in the market."
+
+"**Q**: How many requests can I make for additional temporary tags?<br/>
+**A**: The department will review one temporary tag request at a time. Once a determination on that request has been made, a dealer or converter can make additional requests if needed for more temporary tags. Please note that new supporting documentation will be required if the previous request for additional temporary tags was denied."
+
+"**Q**: How long will it take the department to review my temporary tag increase request?<br/>
+**A**: The initial review of your request will be completed within 3 to 5 business days. If additional documentation or review is required please note that processing times may increase."
+
+"**Q**: How do I submit a request for a temporary tag increase?<br/>
+**A**: The increase request must be submitted though eLICENSING by selecting “apply” under the eTAG Limits icon."
+
+Link to: https://texasdmv.my.site.com/customers/lace_login
+Link Text: eLicensing Application/Login
+
+## 5. Links to other Websites
+
+https://webdealer.txdmv.gov/title/login.do
+/temporarytags
+/sites/default/files/body-files/eTag-$5_fee_facts.pdf
+https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=43&pt=10&ch=215&rl=152
+https://texasdmv.my.site.com/customers/lace_login
+```

@@ -1,0 +1,113 @@
+```text
+# Product Requirements Document: webDEALER 101
+
+## 1. Introduction
+This document outlines the content requirements for the "webDEALER 101" page on the TxDMV.gov website, found at http://www.txdmv.gov/dealers/webdealer/making-webdealer-work-for-you.
+
+## 2. Goals
+*   Provide dealers with information about the webDEALER system.
+*   Offer training resources for using webDEALER.
+*   Specify system requirements for optimal performance.
+*   Provide login information and communication methods.
+*   Outline record-keeping practices related to webDEALER.
+
+## 3. General Content
+
+### 3.1. Introduction Paragraph
+
+*   **Text:** "webDEALER is now the system used to create Buyer Tags (or other tags) and process title applications. Users who have accounts for **both** eTAG and webDEALER can now issue tags and create title applications within the webDEALER system."
+
+### 3.2. webDEALER Training Webinars
+
+*   **Text:** "On July 1, 2025, a new law requires all licensed Texas dealers to use the TxDMV webDEALER system to electronically process title and registration for vehicle sales. Dealers without webDEALER accounts will not be able to complete sales transactions beginning July 1, 2025."
+*   **Text:** "We offer training for dealers on the webDEALER system through live webinars listed on our events calendar and through on-demand training available at any time:"
+*   Webinar Links:
+    *   "webDEALER 101 Training - English": Link to https://register.gotowebinar.com/register/3976896617031502934
+    *   "webDEALER 101 Training - Español": Link to https://register.gotowebinar.com/register/5611149127908024918
+    *   "webDEALER 102 Training - English": Link to https://attendee.gotowebinar.com/register/8236925834883215196
+    *   "webDEALER 102 Training – Español - Coming soon!"
+
+## 4. Tabbed Content
+
+The main content area is structured using tabs. The following sections describe the content within each tab.
+
+### 4.1. webDEALER Tab
+
+*   **Text:** "The webDEALER system allows dealers to process title applications and new registrations online. TxDMV Regional Service Centers assist county tax offices with setting up dealer access to the system."
+*   **Text:** "Phase 1 of webDEALER included statewide rollout to dealers of new vehicles. Phase 2 has included rollout to dealers of used vehicles, beginning with a pilot group and extending statewide to all dealers March 1, 2015. Future phases of webDEALER will expand use to salvage dealers and private party sales."
+*   **Text:** "If you would like to sign up for webDEALER, contact your local county tax office."
+*   Grey Card Element:
+    *   Title: webDEALER
+    *   Image: Use the image located at https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-10/web-dealer-icon.jpg.  The `alt` attribute should read "Login to webDEALER".
+    *   Link: "Login to webDEALER," linking to https://webdealer.txdmv.gov/title/login.do
+
+### 4.2. System Requirements Tab
+
+*   **Text:** "The webDEALER | eTAG system was developed so that it could be readily used in a typical business environment that uses a Windows-based operating system, the most commonly used Web browser, and high-speed broadband (DSL) or cable internet connections. While it is possible to vary from these standards somewhat, for your convenience, we have spelled out the optimal hardware and software environment for dealers below."
+*   **Text:** "Hardware and Software to Optimize webDEALER Performance"
+*   List of System Requirements:
+    1.  "Internet connection: High-speed broadband (DSL) or cable. (Note: Dial-up and slow broadband connections put you in the slow lane and will require patience.)"
+    2.  "Computer: Windows Intel Pentium® III or faster (or equivalent processor) with a minimum of 512mb of memory"
+    3.  "Operating system: Windows XP with Service Pack 2, Vista, or Windows 7"
+    4.  "Browser: Internet Explorer 9.0 or higher, the most current version of Google Chrome, Safari or Mozilla Firefox. All of these browsers are available free of charge."
+        *   "Internet Explorer": Link to https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads
+        *   "Google Chrome": Link to https://www.google.com/chrome/browser/
+        *   "Safari": Link to https://support.apple.com/downloads/safari
+        *   "Mozilla Firefox": Link to https://www.mozilla.org/en-US/firefox/new/?f=86
+    5.  "Printer: Any printer supported by the Windows XP, Vista, or Windows 7 operating systems, but laser will produce the highest quality."
+    6.  "Software: Adobe Reader 8 or higher. You must have Adobe Acrobat® Reader installed on your computer. You can visit Adobe's website to install the latest version of the Adobe Reader for free. Uncheck the box next to “Free Google Toolbar” then click “Download Now” to begin the download. When the download is complete, follow the screen instructions to install Adobe Reader. Please double check the System Requirements section to see if your computer is compliant with Adobe Reader V 8.0 or higher."
+        *   "Adobe's website": Link to http://get.adobe.com/reader/
+
+### 4.3. Login Information Tab
+
+*   **Text:** "Usernames and Passwords"
+*   **Text:** "When a dealer license is approved, a user name and password is sent to the email address you provided in the eLICENSING application."
+*   **Text:** "If you do not receive your username and password, contact the Motor Vehicle Division (MVD) by sending an email to MVD_OnlineSupport@TxDMV.gov. Please include your license number (‘P’ number) with your request."
+    *   Email address "MVD_OnlineSupport@TxDMV.gov" should be a `mailto:` link.
+*   **Text:** "If you need to reset or change your username or password, please use the links on the webDEALER login page."
+*   Link:
+    *   "Change to eTAG Contact Information (Form DMV-LF702)": Link to /sites/default/files/form_files/dmv_LF702.pdf
+
+### 4.4. Communication Tab
+
+*   **Text:** "All dealers with eTAG accounts and all new dealers are automatically subscribed to a mailing list for eTAG Updates. Important messages, including webDEALER status, are relayed to all dealers on our mailing list."
+*   **Text:** "These updates are distributed to authorized dealers through email and you should check your email regularly for new messages."
+*   **Text:** "Please remember that this list is only as good as the email address you provide when you create your account."
+*   **Text:** "This list is owned exclusively by TxDMV and will not be sold or used by anyone for any purposes other than the distribution MVD or VTR related information."
+
+### 4.5. Record Keeping Tab
+
+*   **Text:** "Access to the webDEALER database"
+*   **Text:** "Only current, GDN licensees and Converters can access the Dealer eTAG application."
+*   **Text:** "Unless a dealer is careless with his username and password, no unlicensed entities will be able to obtain a system generated number."
+*   **Text:** "Multiple user accounts"
+*   **Text:** "The dealer’s primary webDEALER | eTAG user will have the ability to act as system administrator for the dealer."
+*   **Text:** "He/she may assign permissions and add or remove association for your location. Dealers may allow more employees to issue eTAGs."
+*   **Text:** "Visibility of records"
+*   **Text:** "Only state agency personnel will have access to records."
+*   **Text:** "Licensees can only view their own entries into the database."
+*   **Text:** "Only dealership personnel with a TxDMV username and password will be able to access your records."
+
+## 5. Additional Elements
+
+### 5.1. Local Tax Office Finder
+
+*   Title: "Find your Local Tax Office & DMV"
+*   Form: Location search form including a dropdown to "Select a county" and "Find Offices" submit button.
+
+### 5.2. "Equipment Requirements for webDEALER" link
+Link to /sites/default/files/body-files/Equipment_Requirements_for_webDEALER.pdf
+
+### 5.3. "webDEALER 4.1.1 Dealer User Guide" link
+Link to /sites/default/files/body-files/webDEALER_4.1.1_Dealer_User_Guide_0.pdf
+
+### 5.4. "webDEALER 3.1.1 Commercial Fleet Buyer User Guide" link
+Link to /sites/default/files/body-files/webDEALER_3.1.1_CFB_User_Guide_0.pdf
+
+## 6. Related Documents
+This document provides the content requirements, implementors should consult other documents related to functionality of each item within.
+
+## 7. Disclaimer
+
+*This document is intended for AI implementors only. Design elements, repetitive details, navigation menus and website footer and header is not included.*
+```

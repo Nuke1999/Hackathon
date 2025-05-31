@@ -1,0 +1,361 @@
+```json
+{
+  "title": "Dealers | TxDMV.gov",
+  "sections": [
+    {
+      "type": "removable-box",
+      "title": "Important Updates",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "New webDEALER Requirement: July 1, 2025\nAs of July 1, 2025, all licensed dealers in Texas must use the TxDMV webDEALER system to electronically process title and registration for vehicle sales. Dealers without webDEALER accounts will not be able to complete sales transactions beginning July 1, 2025. webDEALER training is available on demand online 24/7 or during one of our live webinars."
+        },
+        {
+          "type": "paragraph",
+          "content": "24/7 On-Demand Training\nYou can access the pre-recorded webDEALER 101 or webDEALER 102 training at any time:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "<a href=\"https://register.gotowebinar.com/register/3976896617031502934\" target=\"_blank\">webDEALER 101 Training in English</a>",
+            "<a href=\"https://register.gotowebinar.com/register/5611149127908024918\" target=\"_blank\">Entrenamiento webDEALER 101 en Español</a>",
+            "<a href=\"https://attendee.gotowebinar.com/register/8236925834883215196\" target=\"_blank\">webDEALER 102 Training in English</a>",
+            "webDEALER 102 Training – Español - Coming soon!"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Live Webinars\nLive dealer training webinars are listed on our <a href=\"/calendar\">events calendar</a>."
+        },
+        {
+          "type": "paragraph",
+          "content": "Guidance on the implementation of the new metal license plate requirements is also available in English: <a href=\"https://register.gotowebinar.com/register/3251508116736670808\" target=\"_blank\">Your Complete Guide to Metal Plate Implementation - English</a>"
+        },
+        {
+          "type": "paragraph",
+          "content": "Increased Application Processing Times\nPlease be advised that the Motor Vehicle Division has implemented a number of new processes to prevent fraudulent access to vehicle regulatory processes. These processes have resulted in an increase in application processing times.  Dealers may submit renewal applications up to 180 days in advance of their license expiration date. We strongly recommend submission of renewal applications as early as possible."
+        },
+        {
+          "type": "paragraph",
+          "content": "Fingerprinting Now Required for Certain License Holders\nOn April 11, 2024, the Board of the Texas Department of Motor Vehicles adopted rules requiring salvage vehicle dealer and in-transit drive-a-way operator license holders and applicants to be fingerprinted. Applications submitted on or after June 1, 2024, will be subject to this fingerprint requirement."
+        },
+        {
+          "type": "paragraph",
+          "content": "For more detailed information on the fingerprinting requirements, including FAQs, please visit TxDMV’s Fingerprinting resource page  <a href=\"/dealers/fingerprinting\" target=\"_blank\">here</a>."
+        },
+        {
+          "type": "paragraph",
+          "content": "New License Requirements for Certain Licenses\nOn April 11, 2024, the Board of the Texas Department of Motor Vehicles adopted new and amended rules for certain licenses in 43 Texas Administrative Code Chapters 215 and 221. New and amended rules are effective June 1, 2024. To access the rules and review requirements, please access the rules <a href=\"/dealers/statutes-and-rules\" target=\"_blank\">here</a>."
+        },
+        {
+          "type": "paragraph",
+          "content": "Under the new rules, Dealer, Manufacturer, Distributor, Converter, and In-Transit Drive-a-way Operator License Holders are subject to new requirements for plates and licensure. Checklists and other resources are available <a href=\"/dealers/licensing\" target=\"_blank\">here</a>."
+        },
+        {
+          "type": "horizontal-rule"
+        },
+        {
+          "type": "paragraph",
+          "content": "Independent Dealer Pre-Licensing Training is now available in Spanish. Go to <a href=\"https://texasdealereducation.com/\" target=\"_blank\">texasdealereducation.com</a> and click on en Español in the blue navigation bar to enroll."
+        },
+        {
+          "type": "paragraph",
+          "content": "webDEALER System: Effective July 1, 2025, all dealers will be required to use TxDMV’s webDEALER system. Please check TxDMV’s calendar for webDEALER training webinar opportunities. The TxDMV Calendar is available <a href=\"/calendar\" target=\"_blank\">here</a>."
+        },
+        {
+          "type": "paragraph",
+          "content": "We Are Excited To Announce the addition of <a href=\"/sites/default/files/body-files/eTITLE_User_Guide.pdf\">eTITLE</a> to webDEALER. This new feature will facilitate the secure electronic transfer of titles between dealers in the wholesale market, making the title transfer process faster and easier than ever before. If you are using webDEALER, you already have access."
+        },
+        {
+          "type": "ordered-list",
+          "items": [
+            "<a href=\"http://ftp.txdmv.gov/pub/txdmv-info/vtr/media/2019-07-Dealer_eTITLE_Training.mp4\">Dealer eTITLE Training</a>",
+            "<a href=\"/sites/default/files/body-files/eTITLE_User_Guide.pdf\">eTITLE User Guide</a>"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Texas Motor Vehicle Dealers and Other Licensees with Metal Plates: Return canceled, damaged, or unneeded metal plates to any of our 16 Regional Service Centers or the TxDMV Headquarters. To cancel metal plates login to your eLICENSING account and select “Plates & Stickers.”"
+        },
+        {
+          "type": "paragraph",
+          "content": "Under TxDMV’s Board Rules, license holders with metal plates have 10 days from the time the license is revoked, closed, or canceled to return industry license plates to TxDMV.”"
+        },
+        {
+          "type": "paragraph",
+          "content": "In addition to reducing the potential for fraudulent use of industry license plates, this requirement provides Texas licensees a way to responsibly recycle over 4,000 industry plates every year."
+        },
+        {
+          "type": "paragraph",
+          "content": "For more information click the button below or contact us toll-free at 1-888-DMV-GOTX (1-888-368-4689) or at (512) 465-3000 from 8:00 a.m. to 5:00 p.m. Central Time, Monday through Friday."
+        },
+        {
+          "type": "paragraph",
+          "content": "Dealers: Please continue to return metal plates from customers’ motor vehicles to your local TAC office."
+        },
+        {
+          "type": "list",
+          "items": [
+            "<a href=\"/dealers/dealer-license-plates\">Plate Return Resources</a>"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "header",
+      "level": 2,
+      "content": "System Logins"
+    },
+    {
+      "type": "grid",
+      "columns": [
+        {
+          "title": "webDEALER",
+          "image": "https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-02/icon-webdealer.png",
+          "link": "https://webdealer.txdmv.gov/title/login",
+          "description": "Create Buyer Tags (or other tags), process title applications and print Internet Down tags."
+        },
+        {
+          "title": "eLICENSING",
+          "image": "https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-02/icon-elicensing.png",
+          "link": "https://texasdmv.force.com/customers/lace_login",
+          "description": "Access licensing information, submit license applications and payments, and track the progress of submitted applications."
+        },
+        {
+          "title": "MVInet",
+          "image": "https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-02/icon-mvinet.png",
+          "link": "https://mvinet.txdmv.gov/",
+          "description": "Submit and track Motor Vehicle Inquiries."
+        },
+        {
+          "title": "webSALVAGE",
+          "image": "https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-02/icon-websalvage.png",
+          "link": "https://webdealer.txdmv.gov/title/salvageLogin",
+          "description": "Create and submit salvage and nonrepairable vehicle title applications online."
+        }
+      ]
+    },
+    {
+      "type": "header",
+      "level": 2,
+      "content": "Dealer Resources"
+    },
+    {
+      "type": "grid",
+      "columns": [
+        {
+          "title": "webDEALER | eTAG",
+          "content": [
+            "<a href=\"/dealers/webdealer\">Welcome to webDEALER | eTAG</a>",
+            "<a href=\"/dealers/webdealer/making-webdealer-work-for-you\">webDEALER 101</a>",
+            "<a href=\"/dealers/webdealer/webdealer-101\">eTAG 101</a>",
+            "<a href=\"/dealers/webdealer/resources\">webDEALER | eTAG Resources</a>",
+            "<a href=\"/dealers/webdealer/troubleshooting\">webDEALER | eTAG Troubleshooting</a>",
+            "<a href=\"https://webdealer.txdmv.gov/title/login.do\">webDEALER | eTAG Login/Password Reset</a>"
+          ]
+        },
+        {
+          "title": "Licensing",
+          "content": [
+            "<a href=\"/dealers/fingerprinting\">Fingerprinting Requirements</a>",
+            "<a href=\"/dealers/criminal-history-evaluation-letter\">Criminal History Evaluation Letter </a>",
+            "<a href=\"/dealers/criminal-history-review-process\">Criminal History Review Process</a>",
+            "<a href=\"https://txdmv.force.com/GetWorkItem\">Dealer Application Status Check</a>",
+            "<a href=\"/dealers/licensing/elicensing-resources\">eLICENSING Resources</a>",
+            "<a href=\"/dealers/licensing\">Licensing</a>",
+            "<a href=\"/dealers/starting-your-new-dealership\">Starting Your New Dealership</a>"
+          ]
+        },
+        {
+          "title": "Dealer Plates & Liens",
+          "content": [
+            "<a href=\"/dealers/dealer-license-plates\">Dealer License Plates</a>",
+            "<a href=\"/dealers/electric-lien-titles\">Electronic Lien/Titles</a>"
+          ]
+        },
+        {
+          "title": "Dealer Tips & Services",
+          "content": [
+            "<a href=\"/dealers/education\">Dealer Education Requirements</a>",
+            "<a href=\"/dealers/services\">Dealer Services</a>",
+            "<a href=\"/dealers/services/tips\">Dealer Tips</a>",
+            "<a href=\"/dealers/services/training-seminars\">Dealer Training Seminars</a>",
+            "<a href=\"/dealers/services/exhibitions-shows\">Exhibitions & Shows</a>",
+            "<a href=\"https://mvinet.txdmv.gov/\" target=\"_blank\">Motor Vehicle Inquiry</a>"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "header",
+      "level": 2,
+      "content": "Helpful Tools"
+    },
+    {
+      "type": "grid",
+      "columns": [
+        {
+          "title": "Find Your Local Tax Office & DMV",
+          "form": {
+            "type": "location-search",
+            "label": "County",
+            "options": [
+              "Anderson", "Andrews", "Angelina", "Aransas", "Archer", "Armstrong", "Atascosa", "Austin", "Bailey", "Bandera", "Bastrop", "Baylor", "Bee", "Bell", "Bexar", "Blanco", "Borden", "Bosque", "Bowie", "Brazoria", "Brazos", "Brewster", "Briscoe", "Brooks", "Brown", "Burleson", "Burnet", "Caldwell", "Calhoun", "Callahan", "Cameron", "Camp", "Carson", "Cass", "Castro", "Chambers", "Cherokee", "Childress", "Clay", "Cochran", "Coke", "Coleman", "Collin", "Collingsworth", "Colorado", "Comal", "Comanche", "Concho", "Cooke", "Corpus Christi", "Coryell", "Cottle", "Crane", "Crockett", "Crosby", "Culberson", "Dallam", "Dallas", "Dawson", "Deaf Smith", "Delta", "Denton", "DeWitt", "Dickens", "Dimmit", "Donley", "Duval", "Eastland", "Ector", "Edwards", "El Paso", "Ellis", "Erath", "Falls", "Fannin", "Fayette", "Fisher", "Floyd", "Foard", "Fort Bend", "Franklin", "Freestone", "Frio", "Gaines", "Galveston", "Garza", "Gillespie", "Glasscock", "Goliad", "Gonzales", "Gray", "Grayson", "Gregg", "Grimes", "Guadalupe", "Hale", "Hall", "Hamilton", "Hansford", "Hardeman", "Hardin", "Harris", "Harrison", "Hartley", "Haskell", "Hays", "Hemphill", "Henderson", "Hidalgo", "Hill", "Hockley", "Hood", "Hopkins", "Houston", "Howard", "Hudspeth", "Hunt", "Hutchinson", "Irion", "Jack", "Jackson", "Jasper", "Jeff Davis", "Jefferson", "Jim Hogg", "Jim Wells", "Johnson", "Jones", "Karnes", "Kaufman", "Kendall", "Kenedy", "Kent", "Kerr", "Kimble", "King", "Kinney", "Kleberg", "Knox", "La Salle", "Lamar", "Lamb", "Lampasas", "Lavaca", "Lee", "Leon", "Liberty", "Limestone", "Lipscomb", "Live Oak", "Llano", "Loving", "Lubbock", "Lynn", "Madison", "Marion", "Martin", "Mason", "Matagorda", "Maverick", "McCulloch", "McLennan", "McMullen", "Medina", "Menard", "Midland", "Milam", "Mills", "Mitchell", "Montague", "Montgomery", "Moore", "Morris", "Motley", "Nacogdoches", "Navarro", "Newton", "Nolan", "Nueces", "Ochiltree", "Oldham", "Orange", "Palo Pinto", "Panola", "Parker", "Parmer", "Pecos", "Polk", "Potter", "Presidio", "Rains", "Randall", "Reagan", "Real", "Red River", "Reeves", "Refugio", "Roberts", "Robertson", "Rockwall", "Runnels", "Rusk", "Sabine", "San Augustine", "San Jacinto", "San Patricio", "San Saba", "Schleicher", "Scurry", "Shackelford", "Shelby", "Sherman", "Smith", "Somervell", "Starr", "Stephens", "Sterling", "Stonewall", "Sutton", "Swisher", "Tarrant", "Taylor", "Terrell", "Terry", "Throckmorton", "Titus", "Tom Green", "Travis", "Trinity", "Tyler", "Upshur", "Upton", "Uvalde", "Val Verde", "Van Zandt", "Victoria", "Walker", "Waller", "Ward", "Washington", "Webb", "Wharton", "Wheeler", "Wichita", "Wilbarger", "Willacy", "Williamson", "Wilson", "Winkler", "Wise", "Wood", "Yoakum", "Young", "Zapata", "Zavala"
+            ],
+            "submit_button_label": "Find Offices"
+          }
+        },
+        {
+          "title": "Dealer Toolbox",
+          "content": [
+            "<a href=\"/complaints\">File a Complaint</a>",
+            "<a href=\"/forms\">Forms</a>",
+            "<a href=\"/photo-id-requirements\">Photo ID Requirements</a>",
+            "<a href=\"/publications\">Publications & Manuals</a>",
+            "<a href=\"/statutes-and-rules\">Statutes & Rules</a>"
+          ]
+        },
+        {
+          "title": "License Holders",
+          "content": [
+            "<a href=\"https://txdmv.force.com/dealers/motorvehicledealerliststaging\">Motor Vehicle Dealers List</a>",
+            "<a href=\"https://txdmv.force.com/dealers/motorvehiclemanufacturerstaging\">Motor Vehicle Manufacturers & Distributors List</a>",
+            "<a href=\"https://txdmv.force.com/dealers/rvmanufacturerstaging\">RV Manufacturers List</a>",
+            "<a href=\"https://txdmv.force.com/dealers/salvagedealerstaging\">Salvage Dealers List</a>"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "call-to-action",
+      "text": "View Dealer FAQ",
+      "link": "/faq/dealers"
+    }
+  ],
+  "footer": {
+    "contact": {
+      "phone": "1 (888) 368-4689",
+      "toll_free": "1 (888) DMV-GOTX",
+      "business_hours": "TxDMV Business Hours\nMon to Fri, 8AM-5PM (Central Time)",
+      "link": "/contact-us"
+    },
+    "resources": [
+      {
+        "text": "Cobrowse",
+        "link": "/"
+      },
+      {
+        "text": "Media",
+        "link": "/about-us/txdmv-media"
+      },
+      {
+        "text": "Open Records",
+        "link": "/open-records"
+      },
+      {
+        "text": "Reports & Data",
+        "link": "/about-us/reports-and-data"
+      },
+      {
+        "text": "Texas.gov",
+        "link": "https://www.texas.gov"
+      },
+      {
+        "text": "Texas by Texas (TxT)",
+        "link": "https://txt.texas.gov/dmv/vehicle-registration-renewal?utm_source=txdmv&utm_medium=footer&utm_campaign=txt"
+      },
+      {
+        "text": "Texas by Texas (TxT) - Español",
+        "link": "https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm_source=txdmv&utm_medium=footer&utm_campaign=txt"
+      },
+      {
+        "text": "Troops & Veterans",
+        "link": "/motorists/for-our-troops"
+      }
+    ],
+    "work_with_us": [
+      {
+        "text": "Careers",
+        "link": "/careers"
+      },
+      {
+        "text": "Contractors/Vendors",
+        "link": "/tax-assessor-collectors/contractors-vendors"
+      },
+      {
+        "text": "Lienholders",
+        "link": "/dealers/lienholders"
+      },
+      {
+        "text": "MVCPA Grantees",
+        "link": "/about-us/MVCPA/grantees"
+      },
+       {
+        "text": "Law Enforcement Data Assistance",
+        "link": "/open-records/law-enforcement-data-assistance-processes"
+      },
+      {
+        "text": "Regional Service Centers",
+        "link": "/regional-service-centers"
+      },
+      {
+        "text": "Tax Assessor-Collectors",
+        "link": "/tax-assessor-collectors"
+      }
+    ],
+    "connect_with_us": [
+      {
+        "text": "Facebook",
+        "link": "http://www.facebook.com/TxDMV"
+      },
+      {
+        "text": "Get Email Updates",
+        "link": "https://public.govdelivery.com/accounts/TXDMV/subscriber/new"
+      },
+      {
+        "text": "@TxDMV",
+        "link": "http://x.com/txdmv"
+      }
+    ],
+    "footer_links": [
+      {
+        "text": "Compact With Texans",
+        "link": "/sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf"
+      },
+      {
+        "text": "Disclaimer",
+        "link": "/site-policies/disclaimer"
+      },
+      {
+        "text": "Driver's Privacy Protection Act",
+        "link": "/site-policies/drivers-privacy-protection-act"
+      },
+      {
+        "text": "Report Fraud, Waste or Abuse",
+        "link": "https://sao.fraud.texas.gov/"
+      },
+      {
+        "text": "Site Policies",
+        "link": "/site-policies"
+      },
+      {
+        "text": "Texas Veterans Portal",
+        "link": "https://veterans.portal.texas.gov/"
+      },
+      {
+        "text": "Border Programs Team",
+        "link": "https://gov.texas.gov/organization/hsgd"
+      },
+      {
+        "text": "Statewide Search",
+        "link": "https://www.tsl.texas.gov/trail/index.html"
+      },
+      {
+        "text": "Transparency",
+        "link": "https://comptroller.texas.gov/transparency/"
+      }
+    ],
+    "copyright": "© 2025 Texas Department of Motor Vehicles. All rights reserved."
+  }
+}
+```

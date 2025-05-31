@@ -1,0 +1,151 @@
+```
+## Product Requirements Document: TxDMV MVCPA Grantees Page
+
+**1.  Introduction**
+
+   This document outlines the content requirements for recreating the "MVCPA Grantees" page on the TxDMV website. It focuses solely on the main content elements of the page, omitting design, navigation, and standard website features.
+
+**2.  Page Title**
+
+*   **Text:** MVCPA Grantees
+
+**3.  Breadcrumb Navigation**
+
+*   Home > About Us > Motor Vehicle Crime Prevention Authority
+
+**4.  Main Content**
+
+   The main content area is structured using Bootstrap Paragraphs.
+
+   **4.1. Column Wrapper Paragraph**
+
+      *   Consists of a container that holds the following elements:
+
+          **4.1.1. Highlight Box Paragraph**
+
+             *   **Content:**
+                *  <i aria-hidden="true" class="fa fa-external-link-square fa-lg"></i> <a href="/about-us/MVCPA">About MVCPA</a>
+
+          **4.1.2. Spacer Paragraph**
+
+             *   60px Spacer (Height: 60px)
+
+          **4.1.3. Columns Paragraph**
+
+             *   Two Column Layout
+
+                 *   **Column 1:**
+                     *   **WYSIWYG Paragraph:**
+                         *   **Content:**
+                            Motor Vehicle Crime Prevention Authority (MVCPA) awards financial grants to agencies, organizations, and concerned parties in an effort to raise public awareness of vehicle theft and burglary and implement education and prevention initiatives.
+
+                 *   **Column 2:**
+                     *   **Card Paragraph:**
+                         *   **Card Title:** MVCPA Publications
+                         *   **Card Content:**
+                             *   **WYSIWYG Paragraph:**
+                                 *   **Content:**
+                                     *   List Items:
+                                         *   <a href="/sites/default/files/body-files/MVCPA_FY2026_Request_for_Application-Taskforce_Grants.pdf" target="_blank">MVCPA FY2026 Request for Application-Taskforce Grants</a>
+                                         *   <a href="/sites/default/files/body-files/MVCPA_FY2023_Funds_Report.pdf" target="_blank">MVCPA FY2023 Funds Report</a>
+                                         *    <a href="https://ftp.txdmv.gov/pub/txdmv-info/mvcpa/calendar/2022/MVCPA_Plan_of_Operations_FY24-FY25.pdf" target="_blank">MVCPA FY2024-2025 Plan of Operations</a>
+                                         *   <a href="/sites/default/files/body-files/MVCPA_2025_Grant_Administrative_Manual.pdf" target="_blank">MVCPA 2025 Grant Administrative Manual</a>
+
+          **4.1.4. Spacer Paragraph**
+
+             *   60px Spacer (Height: 60px)
+
+          **4.1.5. Highlight Box Paragraph**
+
+             *   **Content:**
+                *   The Motor Vehicle Crime Prevention Authority awarded grants for the Fiscal Year 2024 programs designed to reduce the incidence of motor vehicle burglary and theft.
+                *    <a href="/sites/default/files/body-files/MVCPA-FY-2024-Grant-Listing.pdf">FY2024 Grant Awards</a> <a href="/sites/default/files/body-files/MVCPA-FY-2024-Grant-Listing.pdf"><i aria-hidden="true" class="fa fa-file fa-sm"></i></a>
+                *   **Purposes for Which the Grants are Awarded**
+                  The Motor Vehicle Crime Prevention Authority (MVCPA) awards grants to local law enforcement agencies and other organizations to combat motor vehicle crime to achieve the purposes of Texas Transportation Code 1006. This includes (1) providing financial support to law enforcement agencies for economic motor vehicle theft and fraud-related motor vehicle crime enforcement teams; (2) providing financial support to law enforcement agencies, local prosecutors, judicial agencies, and neighborhood, community, business, and nonprofit organizations for programs designed to reduce the incidence of economic motor vehicle theft and fraud-related motor vehicle crime;  (3) conducting educational programs designed to inform motor vehicle owners of methods of preventing motor vehicle burglary or theft and fraud-related motor vehicle crime; (4) providing equipment, for experimental purposes, to assist motor vehicle owners in preventing motor vehicle burglary or theft; and (5) establishing a uniform program to prevent stolen motor vehicles from entering Mexico. The Texas Legislature prescribed performance measures are to (a) increase the recovery of stolen motor vehicles; (b) increase the clearance of motor vehicle crime cases (motor vehicle burglaries, motor vehicle theft, and fraud-related motor vehicle crimes); and (c) increase the number of persons arrested for motor vehicle crimes. Border and port security reporting are added in Article IX of the General Appropriations Act for some grantees.
+
+          **4.1.6. Spacer Paragraph**
+
+             *   30px Spacer (Height: 30px)
+
+          **4.1.7. WYSIWYG Paragraph:**
+
+             *   **Content:**
+                *   <h2>More Information</h2>
+                *   For more information, please email the Motor Vehicle Crime Prevention Authority at <a href="mailto:askmvcpa@txdmv.gov">AskMVCPA</a> or call (512) 465-1485.
+
+          **4.1.8. Tabs Paragraph:**
+
+             *   One Tab: "List of Grantees"
+
+                 *   **Tab Content:**
+                     *   **WYSIWYG Paragraph:**
+                         *   **Content:**
+                            The Motor Vehicle Crime Prevention Authority (MVCPA) oversees the impact of auto theft in Texas and provides financial support to fight it.
+
+                            Use the map below to find your local area task force or view the complete list.
+
+                            <iframe frameborder="0" height="450" marginheight="0" marginwidth="0" scrolling="no" src="https://www.google.com/maps/d/embed?mid=zGj8fIpo79Ow.ktvfPNKNFt3s" title="MVCPA Grantee Map Locations" width="600"></iframe><br/><small>View <a href="https://www.google.com/maps/d/viewer?mid=zGj8fIpo79Ow.ktvfPNKNFt3s" style="color: #0000ff; text-align: left;" target="_blank">MVCPA Grantees</a> in a larger map</small>
+
+                            *Table of Grantees:*
+
+                            | Grantee                                                                           | Address                                                                           | Phone           | Website                                                                                                         |
+                            | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------- | ----------------------------------------------------------------------------------------------------------------- |
+                            | <a href="/mvcpa-grantees/austin">Austin Auto Theft Interdiction Project</a>       | 715 E. 8th Street Austin, Texas 78701                                             | <a href="tel:512-974-5265">512-974-5265</a> | <a class="btn btn-outline-primary btn-sm" href="http://www.austintexas.gov/department/auto-theft">website</a> |
+                            | <a href="/mvcpa-grantees/beaumont-southeast-texas">Beaumont Southeast Texas Auto Theft Task Force</a> | 2430 W. Cardinal Drive, Suite C Beaumont, Texas 77705                               | <a href="tel:409-654-3600">409-654-3600</a> | <a class="btn btn-outline-primary btn-sm" href="https://www.facebook.com/SETXATTF">website</a>
+                            | <a href="/mvcpa-grantees/burnet-county">Burnet County Heart of Texas Auto Theft Task Force</a>  | 1601 E Polk Burnet, TX 78611                                                          | <a href="tel:254-757-0701">254-757-0701</a> | <a class="btn btn-outline-primary btn-sm" href="https://www.facebook.com/adminattf">website</a>
+                            | <a href="/mvcpa-grantees/corpus-christi">Corpus Christi Auto Theft Prevention Grant</a>          | 321 John Sartain Corpus Christi, TX 78401                                        | <a href="tel:361-886-2889">361-886-2889</a> | <a class="btn btn-outline-primary btn-sm" href="http://www.cctexas.com/police">website</a>
+                            | <a href="/mvcpa-grantees/dallas">Dallas Commercial Auto Theft Interdiction Squad</a>      | 1400 S. Lamar Dallas, TX 75215                                                      | <a href="tel:214-670-5900">214-670-5900</a> | <a class="btn btn-outline-primary btn-sm" href="http://www.dallaspolice.net/division/autotheft">website</a>
+                            | <a href="/mvcpa-grantees/dallas-county">Dallas County North Texas Auto Theft Task Force</a>  | 133 North Riverfront Blvd LB 31 Dallas, TX 75207                                   | <a href="tel:214-653-3430">214-653-3430</a> | <a class="btn btn-outline-primary btn-sm" href="https://www.dallascounty.org/departments/sheriff/north-texas-auto-theft-task-force/">website</a>
+                            | <a href="/mvcpa-grantees/eagle-pass">Eagle Pass Police Department Auto Theft &amp; Interdiction Unit</a> | 100 South Monroe Street Eagle Pass, TX 78852                                       | <a href="tel:830-773-9044">830-773-9044</a> | <a class="btn btn-outline-primary btn-sm" href="http://www.eaglepasstx.us/192/Criminal-Division">website</a>
+                            | <a href="/mvcpa-grantees/el-paso">El Paso Police Department Auto Theft Task Force</a>          | 9600 Dyer Street El Paso, TX 79924                                                   | <a href="tel:915-212-0310">915-212-0310</a> | <a class="btn btn-outline-primary btn-sm" href="https://www.elpasotexas.gov/">website</a>
+                            | <a href="/mvcpa-grantees/galveston-county">Galveston County Auto Crimes Task Force</a>             | 1620 Gill Road Dickinson, TX 77539                                                   | <a href="tel:409-766-4500">409-766-4500</a> | <a class="btn btn-outline-primary btn-sm" href="https://www.galvestoncountytx.gov/county-offices/auto-crimes-task-force">website</a>
+                            | <a href="/mvcpa-grantees/harris-county">Harris County Auto Theft Division</a>                        | 1200 Baker Street Houston, TX 77002                                                   | <a href="tel:281-446-4399">281-446-4399</a> | <a class="btn btn-outline-primary btn-sm" href="https://harriscountyso.org/">website</a>
+                            | <a href="/mvcpa-grantees/houston-auto">Houston Auto Crimes Task Force (H.A.C.T.F.)</a>              | 1200 Travis, Suite 500 Houston, TX 77002                                             | <a href="tel:713-308-3500">713-308-3500</a> | <a class="btn btn-outline-primary btn-sm" href="http://www.houstontx.gov/police/auto_theft/investigation.htm">website</a>
+                            | <a href="/mvcpa-grantees/laredo">Laredo Auto Theft Task Force</a>                                | 4712 Maher Avenue Laredo, TX 78041                                                    | <a href="tel:956-795-2339">956-795-2339</a> | <a class="btn btn-outline-primary btn-sm" href="http://laredopd.com/">website</a>
+                            | <a href="/mvcpa-grantees/lubbock-county">Lubbock County South Plains Auto Theft Task Force</a>       | 916 Main, Suite 205 Lubbock, Texas 79401                                             | <a href="tel:806-775-1569">806-775-1569</a> | <a class="btn btn-outline-primary btn-sm" href="http://www.co.lubbock.tx.us/department/division.php?structureid=78">website</a>
+                            | <a href="/mvcpa-grantees/mansfield-tri-county">Mansfield Tri-County Auto Burglary and Theft Prevention Task Force</a> | 1305 East Broad Street Mansfield, TX 76063                                  | <a href="tel:817-728-3910">817-728-3910</a> | <a class="btn btn-outline-primary btn-sm" href="https://www.mansfieldtexas.gov/904/Auto-Burglary-Auto-Theft-Investigations">website</a>
+                            | <a href="/mvcpa-grantees/montgomery-county">Montgomery County Auto Theft Task Force</a>                   | 102 Academy Drive Conroe, TX 77301                                                     | <a href="tel:936-760-5847">936-760-5847</a> | <a class="btn btn-outline-primary btn-sm" href="https://www.mctxsheriff.org/divisions/patrol_west/attf/index.php">website</a>
+                            | <a href="/mvcpa-grantees/panhandle-auto-burglary-and-theft-unit">Panhandle Auto Burglary and Theft Unit</a> | 900 S Polk Suite 206 Amarillo, Texas 79101                                                   | <a href="tel:806-379-2871">806-379-2871</a> | <a class="btn btn-outline-primary btn-sm" href="https://www.facebook.com/PABTU/">website</a>
+                            | <a href="/mvcpa-grantees/paris-northeast-texas">Paris Northeast Texas Auto Theft Task Force</a>            | 2910 Clarksville Street Paris, TX 75460                                                | <a href="tel:903-737-4193">903-737-4136</a> | <a class="btn btn-outline-primary btn-sm" href="http://www.paristexas.gov/index.aspx?nid=126">website</a>
+                            | <a href="/mvcpa-grantees/pasadena">Pasadena Police Department Auto Theft Division</a>                | 1201 Davis Street Pasadena, TX 77506                                                  | <a href="tel:713-477-1221">713-477-1221</a> | <a class="btn btn-outline-primary btn-sm" href="https://www.pasadenatx.gov/221/Auto-Crimes-Division">website</a>
+                            | <a href="/mvcpa-grantees/san-antonio">San Antonio Regional Auto Crimes Taskforce</a>                     | 555 Academic Ct., 354 San Antonio, TX 78204                                          | <a href="tel:210-207-7345">210-207-7345</a> | <a class="btn btn-outline-primary btn-sm" href="http://www.sanantonio.gov/sapd.aspx">website</a>
+                            | <a href="/mvcpa-grantees/smith-county">Smith County East Texas Crushers Auto Theft Task Force</a>      | 1517 W. Fronts St. Suite 360 Tyler, Texas 75702                                        | <a href="tel:903-590-4910">903-590-4910</a>  <a href="tel:903-590-4916">903-590-4916</a>  | <a class="btn btn-outline-primary btn-sm" href="https://www.facebook.com/pages/category/Government-Organization/East-Texas-Auto-Theft-Task-Force-521669844514708/">website</a>
+                            | <a href="/mvcpa-grantees/brownsville">South Texas Auto Theft Enforcement Task Force</a>               | 600 E. Jackson Street Brownsville, TX 78520                                             | <a href="tel:956-548-7144">956-548-7144</a> | <a class="btn btn-outline-primary btn-sm" href="http://police.cob.us/">website</a>
+                            | <a href="/mvcpa-grantees/tarrant">Tarrant Regional Auto Crimes Task Force</a>                        | 200 Taylor Street Fort Worth, Texas 76102                                               | <a href="tel:817-560-6560">817-560-6560</a> | <a class="btn btn-outline-primary btn-sm" href="https://www.tarrantcounty.com/en/sheriff/operations-bureau/criminal-investigations/auto-crimes-task-force.html">website</a>
+                            | <a href="/mvcpa-grantees/travis-county">Travis County Sheriff's Combined Auto Theft Task Force</a>        | PO Box 1748 Austin, TX 78767                                                          | <a href="tel:512-854-9735">512-854-9735</a> | <a class="btn btn-outline-primary btn-sm" href="https://www.tcsheriff.org/services/vehicle-resources/auto-theft-task-force">website</a>
+                            | <a href="/mvcpa-grantees/victoria">Victoria Police Department</a>                                  | 306 South Bridge Street Victoria, TX 77901                                              | <a href="tel:361-485-3700">361-485-3700</a> | <a class="btn btn-outline-primary btn-sm" href="https://www.victoriatx.gov/534/Auto-Theft-Burglary-Task-Force">website</a>
+
+          **4.1.9. Spacer Paragraph**
+
+             *   60px Spacer (Height: 60px)
+
+**5. Back to Link**
+
+   *No Content*
+
+**6. Featured Bottom Content**
+
+   *No Content*
+
+**7. Feedback Form**
+
+   *   Form Title: We Value Your Feedback
+   *   Form Description:
+       *   Your message will go to our web team. Thank you for helping us to serve you better!
+       *   If you want to contact a specific department and get a response, please go to the <a href="/about-us">About Us page</a>.
+   *   Fields:
+       *   Email (required, email type)
+       *   Message (required, textarea)
+       *   Middle (hidden text field, used for spam prevention)
+   *   Submit Button Text: Send message
+
+**8. Footer**
+   *Not included in this requirement document*
+
+**Important Notes:**
+
+*   Any URLs specified should maintain their link structure and `target="_blank"` attribute where applicable.
+*   The table of grantees needs to be accurately reproduced with all links.
+*   The Google Maps embed needs to be included.
+*   Hidden text field "middle" is present in the feedback form as a spam deterrent and should be implemented as such and hidden from the user.
+```

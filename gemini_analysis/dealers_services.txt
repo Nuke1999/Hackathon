@@ -1,0 +1,196 @@
+```text
+## Product Requirements Document: Dealer Tips and Services Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "Dealer Tips and Services" page from the provided HTML. This page is intended to provide resources and information for existing and prospective motor vehicle dealers and licensees.
+
+**2. Page Title:**
+
+*   Text: Dealer Tips and Services
+
+**3. Main Content:**
+
+3.1. Introductory Paragraph:
+
+*   Text: TxDMV Motor Vehicle Division and Enforcement Division is pleased to offer services to our existing dealers/licensees and those in the application process. We are here to serve you. Whatever your needs are, our goal is to assist you quickly with clear, straightforward information. Stay tuned for rule updates on the website, and let us know how we can make your experience with TxDMV a better one! We appreciate working with you.
+
+3.2. Tabbed Content: The main content is organized into the following tabs:
+
+    *   webDEALER
+    *   Tools & Training
+    *   Selling Vehicles
+    *   License Plates
+    *   Renewals
+    *   Mediation
+
+3.2.1. webDEALER Tab:
+
+*   webDEALER Description:
+    *   Text: The webDEALER system allows dealers to process title applications and new registrations online. TxDMV Regional Service Centers assist county tax offices with setting up dealer access to the system. Phase 1 of webDEALER included statewide rollout to dealers of new vehicles. Phase 2 has included rollout to dealers of used vehicles, beginning with a pilot group and extending statewide to all dealers March 1, 2015. Future phases of webDEALER will expand use to salvage dealers and private party sales. If you would like to sign up for webDEALER, contact your local county tax office.
+
+*   webDEALER Login Card:
+    *   Title: webDEALER
+    *   Image: (URL: `https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-09/web-dealer-icon_1.jpg`, Alt text: Login to webDEALER)
+    *   Link: (URL: `https://webdealer.txdmv.gov/title/login.do`, Text: Login to webDEALER)
+
+*   More Information Section:
+    *   Equipment Requirements for webDEALER: (URL: `/sites/default/files/body-files/Equipment_Requirements_for_webDEALER.pdf`, Text: Equipment Requirements for webDEALER)
+    *   Getting Started with webDEALER: (URL: `http://ftp.txdmv.gov/pub/txdmv-info/vtr/media/2020-04-17_15.12_Getting_Started_with_webDEALER_(for_Motor_Vehicle_Dealers).mp4`, Text: Getting Started with webDEALER)
+    *   Using webDEALER: (URL: `http://ftp.txdmv.gov/pub/txdmv-info/vtr/media/2020-05-29_11.45_Using_webDEALER_(for_Motor_Vehicle_Dealers).mp4`, Text: Using webDEALER)
+    *   webDEALER 3.1.1 Commercial Fleet Buyer User Guide: (URL: `/sites/default/files/body-files/webDEALER_3.1.1_CFB_User_Guide_0.pdf`, Text: webDEALER 3.1.1 Commercial Fleet Buyer User Guide)
+    *   webDEALER 4.1.1 Dealer User Guide: (URL: `/sites/default/files/body-files/webDEALER_4.1.1_Dealer_User_Guide_0.pdf`, Text: webDEALER 4.1.1 Dealer User Guide)
+
+*   Find your Local Tax Office & DMV Card:
+    *   Title: Find your Local Tax Office & DMV
+
+        *   Form: DMV Locator
+            *   County Selection Box: "- Select a county -" and County names
+
+3.2.2. Tools & Training Tab:
+
+*   Tools at Your Service:
+
+    *   Text: These applications have icons to quickly launch the tool you need. Here’s what these tools do for you:
+
+*   License Application Status Check Card:
+
+    *   Title: License Application Status Check
+    *   Image: (URL: `https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-09/app-status_0.png`, Alt text: License Application Status Check)
+    *   Link: (URL: `http://txdmv.force.com/GetWorkItem`, Text: Visit License Application Status Check)
+    *   Description: Check the status of your license application by entering your assigned work item number
+
+*   Motor Vehicle Inquiry Card:
+
+    *   Title: Motor Vehicle Inquiry
+    *   Image: (URL: `https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-09/inquiry_0.png`, Alt text: Motor Vehicle Inquiry)
+    *   Link: (URL: `https://mvinet.txdmv.gov/`, Text: Visit Motor Vehicle Inquiry)
+    *   Description: Establish a motor vehicle inquiry account that allows for remote access to motor vehicle title and registration records under certain conditions
+
+*   We also have tools to help you with your business needs:
+
+    *   Dealer Training Seminars - TxDMV offers free training seminars for dealers to educate the licensee body about the rules and regulations that govern their business (URL: `/dealers/services/training-seminars`, Text: Dealer Training Seminars)
+
+3.2.3. Selling Vehicles Tab:
+
+*   Electronic Lien Titles
+
+    *   Text: Electronic Lien Titles: Helpful tips for handling Electronic Lien Titles (or e-titles) on vehicles taken in trade. URL: `/dealers/electric-lien-titles`
+
+*   Use of Power of Attorney and Dealer Reassignment Forms
+    *   RTB 010-15: (URL: `http://txdmv.blogs.govdelivery.com/rtb-010-15-reinforcement-on-appropriate-use-of-powers-of-attorney-by-dealers/`, Text: RTB 010-15)
+    *   RTB 011-15: (URL: `http://txdmv.blogs.govdelivery.com/rtb-011-15-use-of-the-dealer-reassignment-of-title-for-a-motor-vehicle-form-vtr-41-a-with-open-reassignments/`, Text: RTB 011-15)
+    *   Webinar for RTB 010-15 and 011-15: (URL: `https://ftp.txdmv.gov/pub/txdmv-info/vtr/rtb/2015/RTB%20_010-15_and_RTB_011-15.mp4`, Text: Webinar for RTB 010-15 and 011-15)
+
+*   eTAG Card:
+
+    *   Title: eTAG
+    *   Image: (URL: `https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-09/eTAG-icon_64x64_72dpi.png`, Alt text: eTAG Login)
+    *   Link: (URL: `https://webdealer.txdmv.gov/title/login.do`, Text: Go straight to the eTAG database)
+
+3.2.4. License Plates Tab:
+
+*   Eligibility
+    *   image URL `/images/plp_dealer.jpg`
+    *   Licensee categories eligible for metal dealer plates include:
+        *   Distributor
+        *   Franchised or Independent motor vehicle dealers
+        *   Franchised or Independent motorcycle dealers
+        *   Franchised or Independent travel trailer dealers
+        *   In-transit operator
+        *   Independent mobility motor vehicle dealers
+        *   Manufacturer
+        *   Motor vehicle converter
+        *   Motorcycle converter
+        *   Utility trailers or Semi-trailer dealers
+        *   Wholesale dealer
+
+            *   Licensees may apply for metal plates online in eLICENSING. URL: `https://texasdmv.force.com/customers/lace_login`
+*   More Information
+
+    *   Additional information can be found on the Dealer License Plate page (URL: `/dealers/dealer-license-plates`)
+
+3.2.5. Renewals Tab:
+
+*   License Renewals
+
+    *   Text: License holders are required to regularly renew their licenses in order to continue business activities. All license holders, except Salvage Dealers, renew every two years. Salvage Dealers renew annually. Renew your license directly within the eLICENSING system by logging on and choosing Renew a License. (URL: `https://texasdmv.force.com/customers/lace_login`) Renewals must be received by TxDMV before the expiration date in order to continue your business activities. A license holder may not engage in licensed activities with an expired license. The license holder may submit a renewal application along with a late fee as follows:
+        *   Salvage Dealers – may be submitted up to one year after the license expires. If your renewal is received before your expiration date, no late fee is charged and you may continue to operate. If it is received after the expiration date you may not engage in licensed activities until the renewal is approved.
+        *   All others – may submit up to one year after the license expires. If your renewal is received before your expiration date, no late fee is charged and you may continue to operate. If it is received after the expiration date you may not engage in licensed activities until the renewal is approved.
+        *   All others – may submit up to 90 days after the license expires. If your renewal is received before your expiration date, no late fee is charged and you may continue to operate. If it is received after the expiration date you may not engage in licensed activities until the renewal is approved.
+            *   Note: If you do not submit a renewal application by the end of the grace period, you will have to apply for a new license to resume operations.
+*   Renewal Fees
+    *   Renewal Fee Table:
+
+    | License Type                | Renewal Fee                                                                | Plate Renewal Fee* (per plate) | License Period | Late Fees                                                                     |
+    | :------------------------- | :------------------------------------------------------------------------- | :------------------------------- | :------------- | :---------------------------------------------------------------------------- |
+    | Manufacturer/Distributor   | $1800 + $40 for each dealer franchised                                    | $90                             | 2 years        | 50% of license fee for each 30 days late                                   |
+    | Franchise                  | $350 - $1,500 (depending on sales) + $400 for each GDN + $200 for each service-only facility (without a showroom)                  | $90                             | 2 years        | 50% of license fee for each 30 days late                                   |
+    | GDN                        | $400                                                                       | $90                             | 2 years        | 50% of license fee for each 30 days late                                   |
+    | In Transit                 | $90                                                                        | $10                             | 2 years        | 50% of license fee for each 30 days late                                   |
+    | Converter                  | $750                                                                       | $40                             | 2 years        | 50% of license fee (Converter) for each 30 days late                       |
+    | Lessor                     | $350 - $1500 (depending on number of vehicles leased)                    | n/a                              | 2 years        | 50% of license fee for each 30 days late                                   |
+    | Lease Facilitator          | $750                                                                       | n/a                              | 2 years        | 50% of license fee for each 30 days late                                   |
+    | Salvage Dealer             | Salvage licenses that expire after 9/1/19 will require a new application for the comprehensive license at the time of renewal. Renewal notices for the comprehensive license will be emailed 90 days before the expiration date. | n/a                              | 1 year        |                                                                             |
+
+        *   *The annual fee for personalized prestige dealer's license plates is $40, in addition to all regular fees.*
+
+3.2.6. Mediation Tab:
+
+*   Mediation for Franchise Dealers and Manufacturers
+*   Texas Occupations Code §2301.703 requires parties to contested cases filed under Chapter 2301 or Chapter 503 of the Transportation Code to participate in mediation before they may have a hearing at the State Office of Administrative Hearings (SOAH). The MVD Mediation Program provides mediators to help settle contested cases at no charge. MVD mediators are:
+    *   Licensed attorneys who have mediation training and experience
+    *   Impartial
+    *   Knowledgeable of relevant laws, department precedent, and division procedures.
+
+*   Benefits of Mediation
+
+    *   The goal of mediation is to reach a settlement among the parties and thus avoid the need for a contested case hearing. MVD mediators have no authority to make judicial or arbitration-type decisions. MVD mediators help by facilitating focused dialogue, offering guidance, suggesting possible options, and assisting the parties to communicate their interests. Any information provided by a party to a mediator is confidential and will not be shared without the express permission of the party.
+*   Mediation Process
+
+    *   Getting Started
+        *   A contested case begins when a protest or complaint is filed with MVD. The mediator(s) send a letter to the parties with acknowledgement of the case and information about the mediation process.
+    *   Mediator Preference
+
+        *   In response to the letter, each party must return the Mediation Preference Request Form choosing to use the MVD mediator(s); to request another MVD mediator; or to hire an outside mediator. When MVD receives the signed form selecting MVD Mediation, a mediator contacts each party by phone to discuss the case, the issues, and the mediation process.
+    *   How It Works
+
+        *   MVD mediator(s) continue to discuss the issues and desired outcomes with the parties involved and work to find a solution. Communications may be by phone, by email, or in-person. Cases often settle without the need for an in-person mediation meeting.
+        *   Mediation is scheduled to conclude within 60 days from the date the MVD Acknowledgement Letter is sent. However, extensions may be granted.
+            *   If an in-person meeting is necessary, it will be held at TxDMV headquarters in Austin, Texas. Each party is required to bring at least one person who has full settlement authority. The mediation meetings may be individual or joint sessions among the parties. The mediator(s) will discuss what each party hopes to gain from the process. It is not the mediator's role to discourage protests or pressure parties into settling.
+    *   Conclusion of the Mediation Process
+
+        *   If a settlement is reached, the mediators will offer to draft a written agreement for all parties to sign before the meeting is over. If full settlement is not reached, the remaining issues will be referred to SOAH. Within 10 days of the conclusion of mediation, the mediator(s) will provide a written report to the MVD Director and to the parties stating:
+            *   whether the parties participated in mediation;
+            *   whether the matter settled in whole or in part;
+            *   any unresolved issues; and
+            *   any other information the parties agree to report.
+*   Need More Information?
+
+    *   If you have questions about this process or are unsure whether it applies to your matter, call MVD at (512) 465-4029, and ask for the Motor Vehicle Division docket clerk.
+
+4.  Dealer Tips Section:
+
+*   Text: This section provides motor vehicle dealers with abbreviated guidelines, observations or considerations to increase the dealer's success in complying with the Texas Rules and Statutes.
+
+    *   Advertising Update
+        *   Advertising Seminar (URL: `/sites/default/files/body-files/Dealer_Advertising_Presentation.pdf`, Text: Advertising Seminar)
+    *   The Do's and Don'ts of Advertising with Coupons
+        *   Text: The guidelines below were compiled from over 600 complaints received by TxDMV as well as dialogue with industry organizations.
+
+    *   Do's and Don'ts Table:
+        | **DO**                                                                                                                                                             | **DON'T**                                                                                                                                                                                                                                               |
+        | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+        | Keep in mind that ALL advertisements, regardless of format, must be compliant with TxDMV advertising rules.                                                     | Advertise "free" items in your coupon if the vehicle can be purchased or leased for a lesser price without the merchandise or enticement, or if the price of the vehicle has been increased to cover the cost or any part of the cost of the merchandise or enticement. |
+        | As a starting point, always ask "Is the advertisement false, deceptive, or misleading?"                                                                            | Advertise a savings claim or discount offer on used motor vehicles with your coupon.                                                                                                                                                       |
+        | Inform customers on the face of the coupon that any amount listed is only available to be used toward a lease if that is the case.                                | Make guarantees or claims in your coupon that you cannot support with facts and evidence.                                                                                                                                               |
+        | Disclose the conditions and requirements necessary for a consumer to receive any advertised cash amount.                                                         | Use your coupon to advertise a guaranteed amount for a consumer trade-in.                                                                                                                                                                |
+        | Fully disclose that your coupon only pertains to one specific vehicle by listing a stock number if you only intend to honor the coupon for that one vehicle.        | Advertise in a misleading or deceptive manner. Consumer protection statutes in every state protect against these types of actions and if you are caught attempting to deceive consumers, the punishment can be more than monetary - your business reputation will also suffer.                                                               |
+        | Let the consumer know if your coupon only applies toward the purchase of a demonstrator or factory executive/official vehicle.                                      | Think you can "write yourself" out of having to comply with the rules by hiding all the important information into a disclaimer at the bottom of the coupon using a small type or font.                                                    |
+        | Remember that any featured savings claim or discount offer for a new motor vehicle, when advertised, must be the savings claim or discount which is available to any and all members of the buying public. | Mislead consumers as to which vehicle or vehicles your coupon applies to by using confusing layouts, headlines, illustrations, or type or font size in your coupon, especially if it is part of a boarded advertisement.                        |
+
+**5. "How can we make this page better for you?" Feedback Form**
+*Email Input Box*
+*Message Input Box*
+*Send message button*
+```

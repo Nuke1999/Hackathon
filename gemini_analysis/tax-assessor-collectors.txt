@@ -1,0 +1,469 @@
+```
+## Product Requirements Document: TxDMV Tax Assessor-Collectors Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the Tax Assessor-Collectors page on the TxDMV.gov website.  It focuses solely on the main content elements, excluding design specifications, repetitive elements like navigation menus and footers, and focusing on the unique information presented on this specific page.
+
+**2. Goals**
+
+*   Provide Tax Assessor-Collectors with important updates, access to resources, training, and other tools relevant to their roles.
+*   Enable easy access to webDEALER, eLICENSING, and contact information.
+
+**3. Main Content Requirements**
+
+**3.1. Important Updates (Removable Box)**
+
+*   **Title:** Important Updates
+*   **Content:**
+    *   **eTAG/webDEALER: County Out-of-State Buyer Tag Payment Process**
+        *   Text: For your convenience, the TxDMV is providing step by step instructions on how to process Out-of-State Buyer Tag Payments.
+        *   Link 1: Text: County Out-of-State Buyer Tag Payment Process (2 minutes)
+        *   Link 1 URL: [http://ftp.txdmv.gov/pub/txdmv-info/vtr/tac/rts/County_Out-of-State_Buyer_Tag_Payment_Process.mp4](http://ftp.txdmv.gov/pub/txdmv-info/vtr/tac/rts/County_Out-of-State_Buyer_Tag_Payment_Process.mp4)
+    *   **eLICENSING: Dealer Complaints**
+        *   Text: For your convenience, the TxDMV is providing step by step instructions on how to file dealer complaints using the new eLICENSING system.
+        *   Link 1: Text: eLICENSING for Tax Assessor-Collectors: How to Submit a Complaint (6 minutes)
+        *   Link 1 URL: [https://youtu.be/Q4sWh2LZB44](https://youtu.be/Q4sWh2LZB44)
+        *   Link 2: Text: Filing a Dealer Complaint in eLICENSING - For Tax Assessor-Collectors
+        *   Link 2 URL: /sites/default/files/body-files/eLICENSING\_TAC\_DealerComplaint.pdf
+
+**3.2.  Quick Links**
+
+*These are presented as cards in a three-column layout.*
+
+    *webDEALER Card*
+*   Title: webDEALER
+*   Image:  icon-webdealer.png (URL: [https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-09/icon-webdealer.png](https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-09/icon-webdealer.png))
+*   Link:
+    *   Text: Login to webDEALER
+    *   URL:  [https://webdealer.txdmv.gov/title/login.do](https://webdealer.txdmv.gov/title/login.do)
+
+    *Red Flag Card*
+*   Title: Red Flag
+*   Image: elicensing.png (URL: [https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2022-02/elicensing.png](https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2022-02/elicensing.png))
+*   Link:
+    *   Text: TxDMV Red Flag Complaint Form
+    *   URL: [https://txdmv.secure.force.com/Complaint/LACE_RedFlagComplaintPurchaserInfo](https://txdmv.secure.force.com/Complaint/LACE_RedFlagComplaintPurchaserInfo)
+
+    *Find Your Local Tax Office & DMV Card*
+*   Title: Find Your Local Tax Office & DMV
+*   Location Search Form:
+    *   Label: County
+    *   Select Options: (See below for county list)
+    *   Button: Find Offices
+
+**COUNTY LIST FOR LOCATION SEARCH FORM**
+Anderson
+Andrews
+Angelina
+Aransas
+Archer
+Armstrong
+Atascosa
+Austin
+Bailey
+Bandera
+Bastrop
+Baylor
+Bee
+Bell
+Bexar
+Blanco
+Borden
+Bosque
+Bowie
+Brazoria
+Brazos
+Brewster
+Briscoe
+Brooks
+Brown
+Burleson
+Burnet
+Caldwell
+Calhoun
+Callahan
+Cameron
+Camp
+Carson
+Cass
+Castro
+Chambers
+Cherokee
+Childress
+Clay
+Cochran
+Coke
+Coleman
+Collin
+Collingsworth
+Colorado
+Comal
+Comanche
+Concho
+Cooke
+Corpus Christi
+Coryell
+Cottle
+Crane
+Crockett
+Crosby
+Culberson
+Dallam
+Dallas
+Dawson
+Deaf Smith
+Delta
+Denton
+Dewitt
+Dickens
+Dimmit
+Donley
+Duval
+Eastland
+Ector
+Edwards
+El Paso
+Ellis
+Erath
+Falls
+Fannin
+Fayette
+Fisher
+Floyd
+Foard
+Fort Bend
+Franklin
+Freestone
+Frio
+Gaines
+Galveston
+Garza
+Gillespie
+Glasscock
+Goliad
+Gonzales
+Gray
+Grayson
+Gregg
+Grimes
+Guadalupe
+Hale
+Hall
+Hamilton
+Hansford
+Hardeman
+Hardin
+Harris
+Harrison
+Hartley
+Haskell
+Hays
+Hemphill
+Henderson
+Hidalgo
+Hill
+Hockley
+Hood
+Hopkins
+Houston
+Howard
+Hudspeth
+Hunt
+Hutchinson
+Irion
+Jack
+Jackson
+Jasper
+Jeff Davis
+Jefferson
+Jim Hogg
+Jim Wells
+Johnson
+Jones
+Karnes
+Kaufman
+Kendall
+Kenedy
+Kent
+Kerr
+Kimble
+King
+Kinney
+Kleberg
+Knox
+La Salle
+Lamar
+Lamb
+Lampasas
+Lavaca
+Lee
+Leon
+Liberty
+Limestone
+Lipscomb
+Live Oak
+Llano
+Loving
+Lubbock
+Lynn
+Madison
+Marion
+Martin
+Mason
+Matagorda
+Maverick
+Mcculloch
+Mclennan
+Mcmullen
+Medina
+Menard
+Midland
+Milam
+Mills
+Mitchell
+Montague
+Montgomery
+Moore
+Morris
+Motley
+Nacogdoches
+Navarro
+Newton
+Nolan
+Nueces
+Ochiltree
+Oldham
+Orange
+Palo Pinto
+Panola
+Parker
+Parmer
+Pecos
+Polk
+Potter
+Presidio
+Rains
+Randall
+Reagan
+Real
+Red River
+Reeves
+Refugio
+Roberts
+Robertson
+Rockwall
+Runnels
+Rusk
+Sabine
+San Augustine
+San Jacinto
+San Patricio
+San Saba
+Schleicher
+Scurry
+Shackelford
+Shelby
+Sherman
+Smith
+Somervell
+Starr
+Stephens
+Sterling
+Stonewall
+Sutton
+Swisher
+Tarrant
+Taylor
+Terrell
+Terry
+Throckmorton
+Titus
+Tom Green
+Travis
+Trinity
+Tyler
+Upshur
+Upton
+Uvalde
+Val Verde
+Van Zandt
+Victoria
+Walker
+Waller
+Ward
+Washington
+Webb
+Wharton
+Wheeler
+Wichita
+Wilbarger
+Willacy
+Williamson
+Wilson
+Winkler
+Wise
+Wood
+Yoakum
+Young
+Zapata
+Zavala
+
+**3.3. Resources Section**
+
+*These are presented as cards in a three-column layout.*
+
+    *Title Check Card*
+*   Title: Title Check
+*   Image: title-check.png (URL: [https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-09/title-check.png](https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-09/title-check.png))
+*   Link:
+    *   Text: Title Check – Look Before You Buy
+    *   URL: /motorists/buying-or-selling-a-vehicle/title-check-look-before-you-buy
+
+    *Education Card*
+*   Title: Education
+*   Image: Continuing-Education.png (URL: [https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-09/Continuing-Education.png](https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-09/Continuing-Education.png))
+*   Link:
+    *   Text: Continuing Education Credit Hours
+    *   URL: /tax-assessor-collectors/continuing-education-credit-hours
+
+    *Learning Center Card*
+*   Title: Learning Center
+*   Image: Learning-Center.png (URL: [https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-09/Learning-Center.png](https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-09/Learning-Center.png))
+*   Link:
+    *   Text: TxDMV Learning Center Information
+    *   URL: /learning-center-info
+
+**3.4.  Communications Link**
+
+*   Call to Action Box:
+    *   Text: Full list of Communications
+    *   URL: [http://txdmv.blogs.govdelivery.com/category/tax-assessor-collectors](http://txdmv.blogs.govdelivery.com/category/tax-assessor-collectors)
+
+**3.5. Tabs Section: Release Notes & Support, Webinars & Presentations, Resources, Training, Equipment Guide**
+
+    *Tab 1: Release Notes & Support*
+        *RTS Release Notes*
+        *RTS 25.2*
+        *Link 1:* RTS 25.2 County Release Notes; sites/default/files/body-files/RTS%2025.2%20County%20Release%20Notes%20.pdf
+        *Link 2:* RTS 25.2 Point of Sale Release Notes for Headquarters and RSCs; sites/default/files/body-files/RTS%2025.2%20Point%20of%20Sale%20Release%20Notes%20for%20Headquarters%20and%20RSCs%20.pdf
+        *RTS 25.1.1*
+        *Link 1:* RTS 25.1.1 County Release Notes; sites/default/files/body-files/RTS%2025.1.1-County-Release-Notes.pdf
+        *Link 2:* RTS 25.1.1 Point of Sale Release Notes for Headquarters and RSCs; /sites/default/files/body-files/RTS-25.1.1-POS-Release-Notes-Hqs-and-RSCs.pdf
+        *RTS 25.1*
+        *Link 1:* RTS 25.1 County Release Notes; /sites/default/files/body-files/RTS-25.1-County-Release-Notes.pdf
+        *Link 2:* RTS 25.1 Point of Sale Release Notes for Headquarters and RSCs; /sites/default/files/body-files/RTS-25.1-POS-Release-Notes-Hqs-and-RSCs.pdf
+        *RTS 24.3.1*
+        *Link 1:* RTS 24.3.1 County Release Notes; /sites/default/files/body-files/RTS-24.3.1-County-Release-Notes.pdf
+        *Link 2:* RTS 24.3.1 Point of Sale Release Notes for Headquarters and RSCs; /sites/default/files/body-files/RTS-24.3.1-POS-Release-Notes-Hqs-and-RSCs.pdf
+        *RTS 24.3*
+        *Link 1:* RTS 24.3 County Release Notes; /sites/default/files/body-files/RTS-24.3-County-Release-Notes.pdf
+        *Link 2:* RTS 24.3 Point of Sale Release Notes for Headquarters and RSCs; /sites/default/files/body-files/RTS-24.3-POS-Release-Notes-Hqs-and-RSCs.pdf
+        *RTS 24.2*
+        *Link 1:* RTS 24.2 County Release Notes; /sites/default/files/body-files/24.2-RTS-POS-County-Release-Notes.pdf
+        *Link 2:* RTS 24.2 Point of Sale Release Notes for Headquarters and RSCs; /sites/default/files/body-files/24.2-RTS-POS-HQ-RSC-Release-Notes.pdf
+        *RTS 24.1*
+        *Link 1:* RTS 24.1 County Release Notes; /sites/default/files/body-files/24.1-RTS-POS-County-Release-Notes.pdf
+        *Link 2:* RTS 24.1 Point of Sale Release Notes for Headquarters and RSCs; /sites/default/files/body-files/24.1-RTS-POS-HQ-RSC-Release-Notes.pdf
+        *RTS 23.4.1*
+        *Link 1:* RTS 23.4.1 County Release Notes; /sites/default/files/body-files/23.4.1_RTS_County_Release_Notes.pdf
+        *Link 2:* RTS 23.4.1 Point of Sale Release Notes for Headquarters and RSCs; /sites/default/files/body-files/23.4.1_RTS_POS_HQ_RSC_Release_Notes.pdf
+        *RTS 23.4*
+        *Link 1:* RTS 23.4 County Release Notes; /sites/default/files/body-files/23.4_RTS_POS_County_Release_Notes.pdf
+        *Link 2:* RTS 23.4 eLICENSING Release Notes; /sites/default/files/body-files/23.4_eLICENSING_County_Release_Notes_0.pdf
+        *Link 3:* RTS 23.4 Point of Sale Release Notes for Headquarters and RSCs; /sites/default/files/body-files/23.4_RTS_POS_HQ-RSC_Release_Notes.pdf
+        *RTS 23.3*
+        *Link 1:* RTS 23.3 County Release Notes; /sites/default/files/body-files/23.3_RTS_POS_County_Release_Notes_1.pdf
+        *Link 2:* RTS 23.3 Point of Sale Release Notes for Headquarters and RSCs; /sites/default/files/body-files/23.3_RTS_POS_HQ-RSC_Release_Notes.pdf
+        *RTS 23.2*
+        *Link 1:* RTS 23.2 County Release Notes; /sites/default/files/body-files/23.2_RTS_POS_County_Release_Notes.pdf
+        *Link 2:* RTS 23.2 Point of Sale Release Notes for Headquarters and RSCs; /sites/default/files/body-files/23.2_RTS_POS_HQ-RSC_Release_Notes.pdf
+        *RTS 23.1*
+        *Link 1:* RTS 23.1 County Release Notes; /sites/default/files/body-files/23.1_RTS_POS_County_Release_Notes.pdf
+        *Link 2:* RTS 23.1 Point of Sale Release Notes for Headquarters and RSCs; /sites/default/files/body-files/23.1_RTS_POS_HQ-RSC_Release_Notes.pdf
+        *RTS 13.0*
+        *Link 1:* RTS 13.0 County Release Notes; /sites/default/files/body-files/13.0.0_RTS_POS_County_Release_Notes.pdf
+        *Link 2:* RTS 13.0 Point of Sale Release Notes for Headquarters and RSCs; /sites/default/files/body-files/13.0.0_RTS_POS_HQ-RSC_Release_Notes.pdf
+        *RTS 12.0*
+        *Link 1:* RTS 12.0 Hot Fix County Release Notes; /sites/default/files/body-files/12.0-E_Hot_Fix_County_Release_Notes.pdf
+        *Link 2:* RTS 12.0 County Release Notes; /sites/default/files/body-files/12.0.0_County_Release_Notes.pdf
+        *Link 3:* RTS 12.0 Point of Sale Release Notes for Headquarters and RSCs; /sites/default/files/body-files/12.0.0_HQ-RSC_Release_Notes.pdf
+        *RTS 11.0*
+        *Link 1:* RTS 11.0 County Release Notes; /sites/default/files/body-files/11.0.0_County_Release_Notes.pdf
+        *Link 2:* RTS 11.0 Point of Sale Release Notes for Headquarters and RSCs; /sites/default/files/body-files/11.0.0_HQ-RSC_Release_Notes.pdf
+        *RTS 10.2*
+        *Link 1:* RTS 10.2 County Release Notes; /sites/default/files/body-files/10.2.0%20County%20Release%20Notes.pdf
+        *Link 2:* RTS 10.2 Point of Sale Release Notes for Headquarters and RSCs; /sites/default/files/body-files/10.2.0%20HQ-RSC%20Release%20Notes.pdf
+        *RTS 10.1*
+        *Link 1:* RTS 10.1 County Release Notes; /sites/default/files/body-files/10.1.0 County Release Notes.pdf
+        *Link 2:* RTS 10.1 Point of Sale Release Notes for Headquarters and RSCs; /sites/default/files/body-files/10.1.0 HQ-RSC Release Notes.pdf
+        *Cognos Release Notes*
+        *Cognos 9.1*
+        *Link 1:* Cognos Release Notes 9.1; https://content.govdelivery.com/attachments/TXDMV/2018/05/16/file_attachments/1008188/9.1.0%2BCognos%2BRelease%2BNotes%2Bfor%2BCounties.pdf
+        *webAGENT*
+        *webSUB Training Materials*
+        *Link 1:* Add an Administrator Job Aid; /sites/default/files/body-files/Add\_Administrator\_Job\_Aid.pdf
+        *Link 2:* Add Location for Agent/TAC Job Aid; /sites/default/files/body-files/Add\_Location\_for\_Agent\_TAC.pdf
+        *Link 3:* County All-in-One (LMS); https://learningtxdmv.articulate-online.com/Login.aspx
+        *Link 4:* Error Codes Job Aid; /sites/default/files/body-files/Error\_Codes-job\_Aid.pdf
+        *Link 5:* Managing Batches Job Aid; /sites/default/files/body-files/Managing\_Batches-Job\_aid.pdf
+        *Link 6:* Manual Inspection Verification Job Aid; /sites/default/files/body-files/Manual\_Inspection\_Verification-Job\_Aid.pdf
+        *Link 7:* New User Login Job Aid; /sites/default/files/body-files/New\_User\_Login-Job\_Aid.pdf
+        *webDEALER*
+        *webDEALER 25.2*
+        *Link 1:* RTS 25.2 webDEALER Addendum; /sites/default/files/body-files/RTS%2025.2%20webDEALER%20Addendum%20.pdf
+        *webDEALER 25.1*
+        *Link 1:* RTS 25.1 webDEALER Addendum; /sites/default/files/body-files/RTS-25.1-webDEALER-Addendum.pdf
+        *webDEALER 24.3*
+        *Link 1:* webDEALER Dealer User Guide Addendum Release 24.3; /sites/default/files/body-files/webDEALER-Addendum-24.3.pdf
+        *webDEALER 24.2*
+        *Link 1:* webDEALER Dealer User Guide Addendum Release 24.2; /sites/default/files/body-files/RTS-24.2-webDEALER-Addendum.pdf
+        *webDEALER 24.1*
+        *Link 1:* webDEALER Dealer User Guide Addendum Release 24.1; /sites/default/files/body-files/RTS-24.1-webDEALER-Addendum.pdf
+        *webDEALER 23.4.1*
+        *Link 1:* webDEALER Dealer User Guide Addendum Release 23.4.1; /sites/default/files/body-files/23.4.1_RTS_webDEALER_Addendum.pdf
+        *webDEALER 23.4*
+        *Link 1:* webDEALER User Guide Addendum Release 23.4; /sites/default/files/body-files/23.4_webDEALER_Addendum.pdf
+        *webDEALER 23.3*
+        *Link 1:* webDEALER User Guide Addendum Release 23.3; /sites/default/files/body-files/23.3_RTS_Release_Notes_webDEALER_Addendum.pdf
+        *webDEALER 23.2*
+        *Link 1:* webDEALER Dealer User Guide Addendum Release 23.2; /sites/default/files/body-files/23.2_webDEALER_Addendum.pdf
+        *webDEALER 23.1*
+        *Link 1:* webDEALER Dealer User Guide Addendum Release 23.1; /sites/default/files/body-files/23.1_webDEALER_Addendum.pdf
+        *webDEALER 4.0.0*
+        *Link 1:* webDEALER eTAG Addendum Release 4.0.0; /sites/default/files/body-files/webDEALER_Import_eTAG_Addendum.pdf
+        *eLICENSING Release Notes*
+        *25.2.2*
+        *Link 1:* eLICENSING 25.2.2 Release Notes; /sites/default/files/body-files/25.2.2%20eLICENSING%20Release%20Notes.pdf
+        *25.2.1*
+        *Link 1:* eLICENSING 25.2.1 Release Notes; /sites/default/files/body-files/eLICENSING_Release_Notes_25.2.1.pdf
+        *25.2*
+        *Link 1:* eLICENSING 25.2 Release Notes; /sites/default/files/body-files/eLICENSING%2025.2%20%20Release%20Notes%20.pdf
+        *25.1*
+        *Link 1:* eLICENSING 25.1 Release Notes; /sites/default/files/body-files/25.1-eLICENSING-Release-Notes.pdf
+        *24.3*
+        *Link 1:* eLICENSING 24.3 Release Notes; /sites/default/files/body-files/24.3-eLICENSING-Release-Notes.pdf
+        *24.2*
+        *Link 1:* eLICENSING 24.2 Release Notes; /sites/default/files/body-files/24.2-eLICENSING-Release-Notes.pdf
+        *23.2*
+        *Link 1:* eLICENSING 23.2 Release Notes; /sites/default/files/body-files/23.2_eLICENSING_Release_Notes.pdf
+        *23.1*
+        *Link 1:* eLICENSING 23.1 Release Notes; /sites/default/files/body-files/23.1_eLICENSING_Release_Notes.pdf
+
+    *Tab 2: Webinars & Presentations*
+        *Webinar Header Text*: Downloadable webinar videos are provided below the Webinars heading. Additional materials are available below under the Presentations heading, including copies of the PowerPoint presentations used in some of the webinars.
+
+        *webDEALER*
+        *Link 1*: Getting Started with webDEALER, [http://ftp.txdmv.gov/pub/txdmv-info/vtr/tac/webinar/2020-04-17_15.36_Getting_Started_with_webDEALER_(for_County_Tax_Assessor-Collectors).mp4](http://ftp.txdmv.gov/pub/txdmv-info/vtr/tac/webinar/2020-04-17_15.36_Getting_Started_with_webDEALER_(for_County_Tax_Assessor-Collectors).mp4)
+        *Link 2*: Using webDEALER, [http://ftp.txdmv.gov/pub/txdmv-info/vtr/tac/webinar/2020-05-29_11.28_Using_webDEALER_(for_County_Tax_Assessor-Collectors).mp4](http://ftp.txdmv.gov/pub/txdmv-info/vtr/tac/webinar/2020-05-29_11.28_Using_webDEALER_(for_County_Tax_Assessor-Collectors).mp4)
+
+        *Webinars*
+        *Link 1*: RTB #005-24 HB 3297, [https://ftp.txdmv.gov/pub/txdmv-info/vtr/rtb/2024/HB-3297-RTB-005-24.pdf](https://ftp.txdmv.gov/pub/txdmv-info/vtr/rtb/2024/HB-3297-RTB-005-24.pdf) | Video [https://ftp.txdmv.gov/pub/txdmv-info/vtr/rtb/2024/Webinar-RTB-005-24.mp4](https://ftp.txdmv.gov/pub/txdmv-info/vtr/rtb/2024/Webinar-RTB-005-24.mp4)
+        *Link 2*: Senate Bill 876: Processing of Title and Registration Transactions by Any Willing County, [https://ftp.txdmv.gov/pub/txdmv-info/vtr/tac/webinar/Webinar_for_SB876-Processing_of_Title_and_Registration_Transactions_by_any_Willing_County.pdf](https://ftp.txdmv.gov/pub/txdmv-info/vtr/tac/webinar/Webinar_for_SB876-Processing_of_Title_and_Registration_Transactions_by_any_Willing_County.pdf) | Video [https://ftp.txdmv.gov/pub/txdmv-info/vtr/tac/webinar/2022-01-20_10.02_Webinars_for_Senate_Bill_876.mp4](https://ftp.txdmv.gov/pub/txdmv-info/vtr/tac/webinar/2022-01-20_10.02_Webinars_for_Senate_Bill_876.mp4)
+        *Link 3*: Requirements and Availability of the Disabled Veteran (DV) License Plate with the International Symbol of Access (ISA), [https://txdmv.blogs.govdelivery.com/rtb-004-21-requirements-and-availability-of-the-disabled-veteran-dv-license-plate-with-the-international-symbol-of-access-isa/](https://txdmv.blogs.govdelivery.com/rtb-004-21-requirements-and-availability-of-the-disabled-veteran-dv-license-plate-with-the-international-symbol-of-access-isa/) | Video [https://ftp.txdmv.gov/pub/txdmv-info/vtr/rtb/2021/2022-01-04_10.03_Webinar_for_RTB004-21.mp4](https://ftp.txdmv.gov/pub/txdmv-info/vtr/rtb/2021/2022-01-04_10.03_Webinar_for_RTB004-21.mp4)
+        *Link 4*: RTB 003-23 Senate Bill (SB) 505 - Electric Vehicle (EV) Fee, [https://content.govdelivery.com/attachments/TXDMV/2023/08/23/file_attachments/2592355/RTB%20003-23%20Electric%20Vehicle%20Fee%20%28SB%20505%29.pdf](https://content.govdelivery.com/attachments/TXDMV/2023/08/23/file_attachments/2592355/RTB%20003-23%20Electric%20Vehicle%20Fee%20%28SB%20505%29.pdf) | Video [https://ftp.txdmv.gov/pub/txdmv-info/vtr/rtb/2023/2023-08-30-10.00-Webinar-for-RTB003-23-and-RTB004-23.mp4](https://ftp.txdmv.gov/pub/txdmv-info/vtr/rtb/2023/2023-08-30-10.00-Webinar-for-RTB003-23-and-RTB004-23.mp4)
+        *Link 5*: RTB 004-23 House Bill 198 Self-Inspection of Travel Trailers More Than 7,500 lbs., [https://content.govdelivery.com/attachments/TXDMV/2023/08/24/file_attachments/2593471/RTB%20004-23%20Travel%20Trailers%20%28HB%20198%29.pdf](https://content.govdelivery.com/attachments/TXDMV/2023/08/24/file_attachments/2593471/RTB%20004-23%20Travel%20Trailers%20%28HB%20198%29.pdf) | Video [https://ftp.txdmv.gov/pub/txdmv-info/vtr/rtb/2023/2023-08-30-10.00-Webinar-for-RTB003-23-and-RTB004-23.mp4](https://ftp.txdmv.gov/pub/txdmv-info/vtr/rtb/2023/2023-08-30-10.00-Webinar-for-RTB003-23-and-RTB004-23.mp4)
+        *Link 6*: RTB 007-23 Unclaimed Seized Vehicle Sale Procedures, [https://content.govdelivery.com/attachments/TXDMV/2023/08/31/file_attachments/2601265/RTB%20007-23%20Unclaimed%20Seized%20Vehicle%20Sale%20Procedures.pdf](https://content.govdelivery.com/attachments/TXDMV/2023/08/31/file_attachments/2601265/RTB%20007-23%20Unclaimed%20Seized%20Vehicle%20Sale%20Procedures.pdf) | Video [https://ftp.txdmv.gov/pub/txdmv-info/vtr/rtb/2023/2023-09-06-Webinar-for-RTB007-23.mp4](https://ftp.txdmv.gov/pub/txdmv-info/vtr/rtb/2023/2023-09-06-Webinar-for-RTB007-23.mp4)
+        *Link 7*: Cognos Reports Training Session, [https://ftp.txdmv.gov/pub/txdmv-info/vtr/tac/webinar/Cognos_Reports_Training_Session_2015-05-19.mp4](https://ftp.txdmv.gov/pub/txdmv-info/vtr/tac/webinar/Cognos_Reports_Training_Session_2015-05-19.mp4)
+        *Link 8*: County Issue Communication Process, [http://ftp.txdmv.gov/pub/txdmv-info/vtr/tac/webinar/County_Issue_Communication_Process.mp4](http://ftp.txdmv.gov/pub/txdmv-info/vtr/tac/webinar/County_Issue_Communication_Process.mp4)
+        *Link 9*: Heavy Vehicle Use Tax (HVUT) Orientation, [http://ftp.txdmv.gov/pub/txdmv-info/vtr/tac/webinar/2019-10-03_08.02_Heavy

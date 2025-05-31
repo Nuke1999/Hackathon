@@ -1,0 +1,96 @@
+```json
+{
+  "pageTitle": "Bought a Vehicle Without a Title? | TxDMV.gov",
+  "mainContent": {
+    "title": "Bought a Vehicle Without A Title?",
+    "introduction": "If you receive incomplete or incorrect evidence of ownership or have lost the evidence of ownership and cannot contact the seller for the necessary documentation, you may have the option of using the bonded title procedure to transfer ownership. Here are the steps to do so.",
+    "tabs": [
+      {
+        "title": "1- Determine Your Eligibility",
+        "content": [
+          "In order to qualify, you must be:",
+          "A Texas resident, or",
+          "Military personnel stationed in Texas.",
+          "The vehicle must be in your possession and cannot be considered junked, nonrepairable, or otherwise ineligible for a title. Although not required to be operational, it must be a complete vehicle including a frame, body and motor or if a motorcycle, a frame and motor.",
+          "If you meet the above eligibility requirements you may take or mail the following documents and a $15.00 administrative fee (TxDMV accepts cash, checks, and money orders as payment) to the TxDMV Regional Service Center that serves your county:",
+          "Documents",
+          "Bonded Title Application (Form VTR-130-SOF)",
+          "Link: /sites/default/files/form_files/VTR-130-SOF.pdf",
+          "Any supporting evidence of ownership (Bill of Sale, Invoice, Cancelled Check, etc.)",
+          "An original release(s) of lien or letter(s) of no interest if the vehicle has a lien of less than 10 years old",
+          "Acceptable photo ID",
+          "Note: You are not eligible for a bonded title if you are unable to obtain a release of lien or letter of no interest from a recorded lienholder of 10 years or less. You may consult with a lawyer to obtain a court order awarding you ownership of the motor vehicle free and clear of any lien(s). The Texas Department of Motor Vehicles should not be named as a party to any lawsuit attempting to establish ownership of a vehicle free and clear of lien(s).",
+          "You may make same-day or next-day Regional Service Center appointments online.",
+          "Link: https://nqa3.nemoqappointment.com/Booking/Booking/Index/uh5d75sjtv4",
+          "Text: Regional Service Center appointments online",
+          "Out of State Vehicles",
+          "If the applicant is a Texas resident, but the evidence indicates that the vehicle is an out of state vehicle, the vehicle identification number must be verified by a Texas certified Safety Inspection Station (Vehicle Inspection Report).",
+          "Additionally, if the vehicle has never been titled or registered in Texas then a vehicle identification number inspection is required from an auto theft investigator on the Law Enforcement Identification Number Inspection (Form VTR-68-A). Inquire with local law enforcement agencies such as the police department or sheriff’s office to determine when and where your local law enforcement offers these inspections. These inspections are not offered by the TxDMV. Upon completion of the inspection, the inspecting officer will provide you with a Form VTR-68-A.",
+          "Upon Approval",
+          "If your documents are approved, you will be issued a Notice of Determination for a Bonded Title or Tax Assessor-Collector Hearing (Form VTR-130-ND) stating the amount of the bond you must purchase. The amount is equal to 1 ½ times the value of the vehicle. The department will determine the value of the vehicle using:",
+          "The Standard Presumptive Value (SPV) from our web site as the primary source",
+          "If an SPV is not available, the National Auto Dealers Association (NADA) reference guide will be used, or",
+          "If a value is not available either through SPV or NADA, a licensed motor vehicle dealer or insurance adjuster may appraise the vehicle on form Motor Vehicle Appraisal for Tax Collector Hearing / Bonded Title (Form VTR-125) provided by TxDMV.",
+          "Form Link: /sites/default/files/form_files/VTR-125.pdf",
+          "Note: For appraisals under $4,000 on vehicles 25 years old or older, the value will be set at $4,000."
+        ]
+      },
+      {
+        "title": "2- Purchase a Surety Bond",
+        "content": [
+          "Take the Notice of Determination for a Bonded Title or Tax Assessor-Collector Hearing (Form VTR-130-ND) and other documents given to you by the TxDMV Regional Service Center to an auto insurance agency or any agency that is licensed to sell vehicle Surety Bonds in Texas.",
+          "You have one year from the date of the notice to purchase a Surety Bond in the amount shown on the notice, otherwise a new notice and bond will be required.",
+          "Note: If records indicate that the vehicle has a lien that is less than 10 years old, the applicant is responsible for providing an original release of lien or letter of no interest from each applicable lienholder."
+        ]
+      },
+      {
+        "title": "3- Apply for a Bonded Title",
+        "content": [
+          "Within 30 days of purchasing the surety bond, take the original Notice of Determination for a Bonded Title or Tax Assessor-Collector Hearing (Form VTR-130-ND) given to you by the Regional Service Center and the documents listed in Step 1, to your county tax office, in addition to:",
+          "Completed Application for Texas Title and/or Registration (Form 130-U)",
+          "Form Link: /sites/default/files/form_files/130-U.pdf",
+          "If no Texas record: Law Enforcement Identification Number Inspection (Form VTR-68-A), completed by an auto theft investigator",
+          "If previously titled out-of-state: Vehicle Identification Report (VIR), completed by an authorized Safety Inspection Station",
+          "If commercial vehicle or truck: weight certificate",
+          "If the vehicle is imported: Customs documents indicating that the vehicle was properly imported and is compliant or exempt from all Federal safety regulations"
+        ]
+      }
+    ]
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Motorists",
+      "url": "/motorists"
+    },
+    {
+      "label": "Buying or Selling a Vehicle",
+      "url": "/motorists/buying-or-selling-a-vehicle"
+    }
+  ],
+  "bottomContent": {
+    "feedbackPrompt": "How can we make this page better for you?",
+    "feedbackForm": {
+      "title": "We Value Your Feedback",
+      "description": "Your message will go to our web team. Thank you for helping us to serve you better!\nIf you want to contact a specific department and get a response, please go to the About Us page.",
+      "fields": [
+        {
+          "label": "Email",
+          "type": "email",
+          "required": true
+        },
+        {
+          "label": "Message",
+          "type": "textarea",
+          "required": true
+        }
+      ]
+    }
+  },
+"howCanWeMakeThisBetterURL": "/about-us",
+"regionalServiceCenterURL": "/regional-service-centers"
+}
+```

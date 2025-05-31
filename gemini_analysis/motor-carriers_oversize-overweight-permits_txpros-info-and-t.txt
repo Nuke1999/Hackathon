@@ -1,0 +1,68 @@
+```
+## Product Requirements Document: TxPROS Information & Tutorials Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "TxPROS Information & Tutorials" page from the provided HTML.  The goal is to ensure accurate representation of the page's core information.
+
+**2. Goal**
+
+The primary goal of this page is to inform motor carriers about the Texas Permitting & Routing Optimization System (TxPROS) and provide resources for using it effectively.
+
+**3. Functional Requirements**
+
+*   **Content Display:** The page should display all informational text and links as described below.
+*   **External Links:** All external links should be functional and direct users to the correct resources.
+
+**4. Content Specifications**
+
+**4.1. Main Content Area**
+
+*   **Section Title:** TxPROS Information & Tutorials
+
+*   **Introduction Paragraphs:**
+    *   "The Texas Permitting & Routing Optimization System (TxPROS) is an online permitting and GIS-based mapping system that allows customers to apply for and self issue many permits. It modernizes the routing and permitting of oversize and overweight loads and provides real-time restriction management."
+    *   "TxPROS allows you to manage your company's account information. You are encouraged to "clean-up" your account in TxPROS when you first access the new system. Please add missing information and update addresses, phone numbers and email addresses. Adding an email address to your account will allow TxDMV to send you important information related to oversize/overweight permits and the motor carrier industry."
+
+*   **"Using TxPROS" Section**
+    *   "A username and password is required to log in to TxPROS. If you don’t have an account set-up, simply click **Create a New Company Account** on the TxPROS home page."
+    *   Link to TxPROS home page: `https://txpros.txdmv.gov/` (Text: TxPROS home page)
+
+*   **"Need Help with TxPROS?" Section**
+    *   "TxDMV offers live webinar training sessions each month, covering both foundational and advanced topics. These sessions provide valuable insights and guidance to enhance your understanding of key processes. For additional information or to register, please contact us at <a href="mailto:MCD_TxPROS-Training@txdmv.gov">MCD_TxPROS-Training@txdmv.gov</a>"
+
+*   **"More Information" Section**
+    *   "TxPROS delivers several benefits to oversize and overweight load permit customers, including the following:"
+    *   List of benefits:
+        *   Increased route safety
+        *   Faster permit issuance
+        *   Self-issue capabilities
+        *   Turn-by-turn directions
+    *   "Designed in cooperation between TxDMV and the motor carrier industry, TxPROS comes with the following features:"
+    *   List of features:
+        *   Permit Wizard - An optional tool to help customers understand which permit may be best for their move. It will make permit recommendations based on answers to a series of questions regarding load type, size and weight.
+        *   Customer Dashboard - This tool will include current permit application status, messages from TxDMV, customer statistics and links to various functions. Functions will include company data, yards, account user set up, vehicle inventory, and report generation.
+
+*   **Call to Action Box:**
+    *   Link to TxPROS Synopsis PDF: `/sites/default/files/body-files/txpros-synopsis.pdf` (Text: TxPROS: Details on Development, Launch and Operation).
+
+**5.  External Links**
+
+*   `https://txpros.txdmv.gov/`
+*   `mailto:MCD_TxPROS-Training@txdmv.gov`
+*   `/sites/default/files/body-files/txpros-synopsis.pdf`
+
+**6.  Images**
+
+*   TxPROS Logo: `/images/TxPROS_mark_stacked_NOtagLine_rgb.png` with the alt text "TxPROS mark stacked NOtagLine rgb"
+*   TxPROS application icon: `/images/icons-application/carriers/txpros.png` with alt text "txpros"
+
+**7.  Topics A-Z drop down menu**
+
+*   File a Lemon Law Complaint? - `/motorists/consumer-protection/lemon-law`
+*   Find the Right Mover for Me? - `/motorists/consumer-protection/dont-make-a-move`
+*   Get a Copy of My Title? - `/motorists/buying-or-selling-a-vehicle/get-a-copy-of-your-title`
+*   Notify The TxDMV That I Sold My Vehicle? - `https://webdealer.txdmv.gov/title/publicVehicleTransfer`
+*   Register My Vehicle with the TxDMV? - `/motorists/register-your-vehicle`
+*   Transfer my license plates? - `/motorists/license-plates`
+

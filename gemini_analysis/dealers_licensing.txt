@@ -1,0 +1,146 @@
+```
+## Product Requirements Document: TxDMV.gov - Licensing Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the Licensing page on TxDMV.gov, specifically focusing on the core content elements within the main content area. This document is intended for an AI implementor who will be recreating the site.
+
+**2. Goals**
+
+*   Accurately represent the information about dealer licensing provided on the original page.
+*   Maintain links to internal and external resources.
+*   Present information in a clear and organized manner.
+
+**3. Functional Requirements**
+
+The system should:
+
+*   Display a title for the page: "Licensing".
+*   Provide a link to check the application status: "Check the Status of Your Application" that leads to "https://txdmv.force.com/GetWorkItem".
+*   Display the introductory text: "TxDMV issues and renews the various types of licenses necessary for different facets of the sale and distribution of motor vehicles in Texas. The rules for licenses, vehicle advertising, hearings, and the Lemon Law are set by the TxDMV Board and are located in the Statutes and Rules section."
+*   Include a section titled "eLICENSING" with a link "Login to eLICENSING" that leads to "https://texasdmv.force.com/customers/lace_login".
+*   Display a section titled "Most-Used License Types" with a table containing information on Franchise, Independent (GDN), and Salvage Dealer licenses.
+
+    *   **Franchise:**
+        *   Description:
+            *   Necessary for new vehicle sales
+            *   Operate under agreements with manufacturers or distributors
+        *   Link: "View More Information" to "/dealers/licensing/franchise".
+        *   Image: Source path = “/images/content-dealers/licensing/franchise.jpg" with alt text = "Franchise".
+    *   **Independent (GDN):**
+        *   Description:
+            *   Basic dealer license
+            *   Allows to buy, sell or exchange the type of used vehicle for which the GDN is issued
+        *   Link: "View More Information" to "/dealers/licensing/independent-gdn".
+        *   Image: Source path = “/images/content-dealers/licensing/independent.jpg” with alt text = "Independent (GDN)".
+    *   **Salvage Dealer:**
+        *   Description:
+            *   Buy or sell more than five salvage or nonrepairable motor vehicles in a calendar year;
+            *   Repairs or rebuilds more than five salvage motor vehicles in the same calendar year.
+        *   Link: "View More Information" to "/dealers/licensing/salvage-dealer".
+        *   Image: Source path = “http://test-origin.txdmv.gov/images/content-dealers/licensing/Salvage.jpg" with alt text = "Salvage Dealers".
+*   Display a section titled "Other License Types" with a table containing information on Converter, Distributor, In-Transit, Leasing, and Manufacturer licenses.
+
+    *   **Converter:**
+        *   Description:
+            *   Assembles, installs, or affixes a body, cab or special equipment to a chassis, or
+            *   Substantially adds, subtracts from or modifies a previously assembled or manufactured motor vehicle other than a motor home, ambulance or fire-fighting vehicle.
+        *   Link: "View More Information" to "/dealers/licensing/converter".
+    *   **Distributor:**
+        *   Description:
+            *   Distributes or sells new motor vehicles to a franchised dealer, or
+            *   Enters into franchise agreements with franchised dealers on behalf of the manufacturer
+        *   Link: "View More Information" to "/dealers/licensing/distributor".
+    *   **In-Transit:**
+        *   Description:
+            *   Allows drive-a-way operator to transport and deliver a vehicle in Texas from the manufacturer or another point of origin
+            *   Drive-a-way operators may apply for, receive, and attach metal in-transit license plates to the vehicles they transport.
+        *   Link: "View More Information" to "/dealers/licensing/in-transit".
+    *   **Leasing:**
+        *   Description:
+            *   The lease facilitator license may operate as a leasing agent or leasing company.
+            *   The lessor license is required, under the terms of a lease agreement, to give another person the right to possess and use a motor vehicle.
+            *   Franchised dealers do not have to apply for a separate lessor license to be able to lease the vehicles they are licensed to sell.
+        *   Link: "View More Information" to "/dealers/licensing/leasing".
+    *   **Manufacturer:**
+        *   Description:
+            *   Manufactures or assembles new motor vehicles.
+        *   Link: "View More Information" to "/dealers/licensing/manufacturer".
+
+*   Include a link to the Dealer FAQ at "/faq/dealers" with the text "View Dealer FAQ".
+*   Include a feedback form with the following fields:
+    *   Email (required)
+    *   Message (required)
+    *   A hidden "middle" text field
+
+**4. Content Details**
+
+*   **Page Title:** Licensing
+*   **Breadcrumb Navigation:** Home > Dealers
+*   **Introductory Text:**  TxDMV issues and renews the various types of licenses necessary for different facets of the sale and distribution of motor vehicles in Texas. The rules for licenses, vehicle advertising, hearings, and the Lemon Law are set by the TxDMV Board and are located in the Statutes and Rules section.
+*   **eLICENSING Title:** eLICENSING
+*   **eLicensing image:** Source path = “https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-09/elicensing-icon-sized-for-website.png" with alt text = "Login to eLICENSING", width = “64”, height = “64”, loading = “lazy”.
+*   **eLICENSING Link Text:** Login to eLICENSING
+*   **Most-Used License Types Title:** Most-Used License Types
+*   **Other License Types Title:** Other License Types
+*   **Feedback Form:**
+    *   Title: We Value Your Feedback
+    *   Message: Your message will go to our web team. Thank you for helping us to serve you better! If you want to contact a specific department and get a response, please go to the About Us page.
+    *   Email Field Label: Email
+    *   Message Field Label: Message
+    *   "Leave this field blank" instructions: Leave this field blank
+
+**5. External Links**
+
+*   Check Application Status: <https://txdmv.force.com/GetWorkItem>
+*   Login to eLICENSING: <https://texasdmv.force.com/customers/lace_login>
+*   Texas.gov: <https://www.texas.gov>
+*   Texas by Texas (TxT): <https://txt.texas.gov/dmv/vehicle-registration-renewal?utm_source=txdmv&utm_medium=footer&utm_campaign=txt>
+*   Texas by Texas (TxT) - Español: <https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm_source=txdmv&utm_medium=footer&utm_campaign=txt>
+*   Facebook: <http://www.facebook.com/TxDMV>
+*   Get Email Updates: <https://public.govdelivery.com/accounts/TXDMV/subscriber/new>
+*   @TxDMV: <http://x.com/txdmv>
+*   Report Fraud, Waste or Abuse: <https://sao.fraud.texas.gov/>
+*   Texas Veterans Portal: <https://veterans.portal.texas.gov/>
+*   Border Programs Team: <https://gov.texas.gov/organization/hsgd>
+*   Statewide Search: <https://www.tsl.texas.gov/trail/index.html>
+*   Transparency: <https://comptroller.texas.gov/transparency/>
+
+**6. Internal Links**
+
+*   View More Information (Franchise): /dealers/licensing/franchise
+*   View More Information (Independent GDN): /dealers/licensing/independent-gdn
+*   View More Information (Salvage Dealer): /dealers/licensing/salvage-dealer
+*   View More Information (Converter): /dealers/licensing/converter
+*   View More Information (Distributor): /dealers/licensing/distributor
+*   View More Information (In-Transit): /dealers/licensing/in-transit
+*   View More Information (Leasing): /dealers/licensing/leasing
+*   View More Information (Manufacturer): /dealers/licensing/manufacturer
+*   Dealer FAQ: /faq/dealers
+*   About Us: /about-us
+*   Compact With Texans: /sites/default/files/report-files/TxDMV\_Compact\_with\_Texans.pdf
+*   Disclaimer: /site-policies/disclaimer
+*   Driver's Privacy Protection Act: /site-policies/drivers-privacy-protection-act
+*   Site Policies: /site-policies
+*   Careers: /careers
+*   Contractors/Vendors: /tax-assessor-collectors/contractors-vendors
+*   Lienholders: /dealers/lienholders
+*   MVCPA Grantees: /about-us/MVCPA/grantees
+*    Law Enforcement Data Assistance:/open-records/law-enforcement-data-assistance-processes
+*   Regional Service Centers: /regional-service-centers
+*   Tax Assessor-Collectors: /tax-assessor-collectors
+*   Reports & Data: /about-us/reports-and-data
+*   Home: /
+
+**7. Error Handling**
+
+*   If any linked page is not found, display a standard error message (e.g., "Page Not Found").
+
+**8. Notes**
+
+*   The images should be optimized for web use.
+*   The feedback form should be protected against spam.
+*   The back to link has been removed for brevity
+*   The Cobrowse button has been removed for brevity
+
+```

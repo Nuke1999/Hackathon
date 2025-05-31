@@ -1,0 +1,173 @@
+## Product Requirements Document: TxDMV Office of Administrative Hearings Page
+
+**1.  Introduction**
+
+    This document details the content requirements for recreating the TxDMV Office of Administrative Hearings webpage. It focuses on extracting and structuring the information presented on the page, while excluding design elements, navigation, and repetitive elements. The goal is to enable an AI implementor to reconstruct the core content accurately.
+
+**2.  Page Title**
+
+    *   Text: "Office of Administrative Hearings"
+
+**3.  Breadcrumbs**
+
+    *   "Home" -> "/"
+    *   "Motorists" -> "/motorists"
+    *   "Consumer Protection" -> "/motorists/consumer-protection"
+
+**4.  Main Content**
+
+    The main content area consists of a series of paragraphs and tabbed sections containing important information.
+
+    **4.1. Introductory Paragraph**
+
+    *   Text: "The Office of Administrative Hearings (OAH) was created by HB 1692 (83rd Texas Legislature, Reg. Session) and began operations on January 1, 2014. OAH conducts hearings statewide adjudicating Lemon Law and Warranty Performance complaints filed by Texas consumers. OAH ensures that the complaints are resolved efficiently and effectively by issuing decisions and orders in a consistent and timely manner. The Hearing Examiners are based in Austin and travel throughout the state in order to conduct the hearings."
+
+    **4.2. Tabbed Content:**
+
+    The following sections should be implemented as tabs or accordions for mobile responsiveness.
+*   Prehearing Procedures
+*   Hearing Procedures
+*   Decision and Final Order
+*   Frequently Asked Questions
+
+    **4.2.1. Prehearing Procedures Tab**
+
+        *   Text: "A Lemon Law or Warranty Performance complaint is initiated in the Lemon Law Section of the Texas Department of Motor Vehicles’ (TxDMV) Enforcement Division. The Lemon Law case advisors help the parties attempt to resolve the complaint without the need for a hearing. If a resolution cannot be reached, then the complaint is referred to the Office of Administrative Hearings (OAH) for a hearing.
+
+            Once a complaint has been referred to OAH, a hearing notice will be mailed to the parties. The notice will inform the parties of the date, time, and location of the scheduled hearing, as well as the legal authority under which the hearing is conducted. In addition, the notice provides information to the parties of the hearing procedures, the parties’ right to representation, the parties’ right to submit exhibits and how to submit them, along with other necessary information.
+
+            Discovery may begin immediately. Parties may informally seek discovery anytime and persons may voluntarily provide documents and testimony. Formal discovery requires a subpoena. Parties may request subpoenas to require production of documents and subpoenas to require attendance at hearings. The following deadlines apply unless ordered otherwise. The discovery period ends 10 days before the hearing. Discovery requests must be served at least 40 days before the hearing (30 days before the discovery period ends). Responses to discovery requests shall be made within 30 days after receipt of the request. A party alleging failure to comply with a discovery request shall file a motion to compel no later than 10 days before the hearing. Parties may obtain subpoena request forms from the Office of Administrative Hearings.
+
+            All hearings are scheduled for four hours and are conducted in or near the complainant’s city of residence. The hearings are informal and, as such, the parties are not required to be represented by an attorney. However, a party may have an attorney or an authorized representative represent the party. If a party decides to obtain an attorney or an authorized representative for a hearing, the party must notify the hearings examiner at least five business days prior to the hearing date of the identity of the attorney or authorized representative. In addition, an attorney must file a written notice of appearance to be the attorney of record. Parties are not entitled to have an attorney appointed for them.
+
+            Prior to the scheduled hearing date, the hearings examiner will conduct a prehearing telephone conference with the parties. During the prehearing conference, the hearings examiner will address the hearing date, time, and location; the identities of representatives and witnesses; exhibits; arranging for a prehearing vehicle inspection, if necessary; and any other matters that may assist in the fair, efficient, and expeditious conduct of the hearing. No evidence regarding the underlying complaint will be taken by the hearings examiner during the prehearing conference, as its purpose is informational and it is not a fact-finding procedure.
+
+            **Law and Rules Governing Hearings**
+
+            OAH has the authority to conduct hearings and issue decisions under <a href="https://statutes.capitol.texas.gov/Docs/OC/htm/OC.2301.htm#2301.601">Sections 2301.601 - .613 of the Texas Occupations Code</a>. In addition, the hearing procedures followed by the hearings examiner can be found in <a href="https://statutes.capitol.texas.gov/Docs/OC/htm/OC.2301.htm#2301.701">Sections 2301.701 - .713 of the Texas Occupations Code</a> and the Texas Administrative Code, Title 43, Part 10, Chapter 224, Subchapters A and G.
+
+            <a href="https://texas-sos.appianportalsgov.com/rules-and-meetings?chapter=224&amp;interface=VIEW_TAC&amp;part=10&amp;subchapter=A&amp;title=43" target="_blank">Texas Administrative Code – Title 43, Part 10, Chapter 224, Subchapter A: General Provisions</a><br/>
+            <a href="https://texas-sos.appianportalsgov.com/rules-and-meetings?chapter=224&amp;interface=VIEW_TAC&amp;part=10&amp;subchapter=G&amp;title=43" target="_blank">Texas Administrative Code – Title 43, Part 10, Chapter 224, Subchapter G: Lemon Law and Warranty Performance Claims</a>"
+
+    **4.2.2. Hearing Procedures Tab**
+*   Iframe element embedded (Video)
+*   <h5>Presentation of Evidence</h5>
+*   Text: "In each hearing, the Complainant has the burden of proof to establish that the vehicle has a complained of defect that the respondent (the manufacturer, distributor, or converter) or its agent has been unable to repair. Since the complainant has the burden of proof, s/he presents his/her evidence first, followed by the respondent. All testimony will be taken under oath."
+*   <h5>Witnesses</h5>
+*    Text: "Each party may call witnesses. Witnesses first answer questions from the party who called them, and then opposing parties may cross-examine the witness. The hearings examiner may question a witness at any time. In some circumstances, witnesses may be required to wait outside the hearing room until they are called in to the room to testify."
+*   <h5>Exhibits</h5>
+*   Text: "The hearings examiner frequently requests that a party provide certain documents to be entered into evidence at the hearing. The most commonly requested documents are: the vehicle sales contract or purchase order, an odometer statement for the vehicle, warranty documents, repair orders or receipts for repairs performed to the vehicle, correspondence with the respondent relating to the repairs, and written notice to the respondent of the alleged defect/nonconformity in the vehicle. A party submitting a document to be used as evidence, must bring two copies of the document to the hearing: one for the hearings examiner and one for the opposing party. In addition, the submitting party should have a copy of the document for reference at the hearing. Some documents a party may wish to submit may be inadmissible and excluded by the hearings examiner. The Texas Rules of Evidence govern objections and what may be admitted as evidence. When submitting any documents, correspondence or e-mails to OAH, please ensure that all parties are copied."
+*   <h5>Vehicle Inspection</h5>
+*   Text: "The TxDMV’s rules generally require the complainant to bring the subject vehicle to the hearing so that the vehicle may be inspected and test driven, unless otherwise ordered by the hearings examiner upon a showing of good cause by the Complainant."
+*   <h5>Closing Statement</h5>
+*   Text: "Each party may summarize what the evidence shows and argue why the hearings examiner should decide in that party’s favor. The closing statement is not evidence and should not be used as an opportunity to provide additional evidence that was not submitted earlier in the hearing."
+
+    **4.2.3. Decision and Final Order Tab**
+
+        *   Text: "After the hearing is completed and the hearing record closed, the hearings examiner will prepare a written decision and final order based on all of the evidence admitted at the hearing. The hearings examiner must issue the decision and final order within 60 days from the date that the hearing record closes.
+
+            If the hearings examiner determines that the vehicle has a defect or nonconformity that still exists, then he can order replacement, repurchase, or repair of the vehicle in question. If the hearings examiner determines that the Complainant has not established that a defect still exists in the vehicle, that the vehicle has been repaired, or that the Complainant has not met all of the requirements to establish relief under the Lemon Law, then the hearings examiner can dismiss the complaint.
+
+            Once a decision and final order is issued, either party may file a motion for rehearing if they disagree with it. A motion for rehearing must specify the findings of fact or conclusions of law which the party disagrees with and any evidentiary or legal ruling that they are claiming to be wrong. The motion must also state the legal and factual basis for the claimed error. When submitting a motion for rehearing, the moving party must ensure that the opposing party or parties are served a copy of the motion.
+
+            A motion for rehearing must be filed with OAH not later than the 25th day after the date the decision and final order is signed. The opposing party may file a reply to a motion for rehearing not later than the 40th day after the date the decision and final order is signed. The Chief Hearings Examiner must act on the motion for rehearing not later than the 55th day after the date the decision and final order is signed.
+
+            According to Texas Government Code §2001.146(g): A motion for rehearing must identify with particularity findings of fact or conclusions of law that are the subject of the complaint and any evidentiary or legal ruling claimed to be erroneous. The motion must also state the legal and factual basis for the claimed error. <a href="https://statutes.capitol.texas.gov/Docs/GV/htm/GV.2001.htm" target="_blank">https://statutes.capitol.texas.gov/Docs/GV/htm/GV.2001.htm</a>
+
+            If a party’s motion for rehearing on a Lemon Law complaint filed under Subchapter M of Chapter 2301 of the Occupation Code is denied, then the party may file a petition for judicial review of the decision in a district court in Travis County. However, if a party’s motion for rehearing in a Warranty Performance case is denied, then the petition for judicial review of the decision may be filed in a district court in Travis County or the Third Court of Appeals. Any petition for judicial review must be filed not later than the 30th day after the date on which the decision became final and appealable."
+*   Call to Action box
+
+     "List of Decisions and Final Orders" -Link:"/decisions-and-orders"
+
+    **4.2.4. Frequently Asked Questions Tab**
+
+        *   What is the Office of Administrative Hearings (OAH)?
+
+        Text: "House Bill 1692 (83rd Texas Legislature, Regular Session) established the Texas Department of Motor Vehicles’ (TxDMV) Office of Administrative Hearings (OAH) effective January 1, 2014, to streamline the process of conducting hearings under the Texas Lemon Law. OAH is tasked with conducting fair and unbiased administrative hearings and issuing decisions in a timely manner."
+
+            *   What is a Hearings Examiner?
+
+        Text: "A hearings examiner is a neutral presiding officer who is an unbiased, independent adjudicator. The hearings examiner conducts the hearing, listens to the evidence and arguments of the parties, and writes a decision and final order based on the evidence presented at the hearing. In addition, the hearings examiner is authorized to conduct conferences before and after the hearings, issue written orders, and generally control the course of the hearing. OAH’s hearings examiners are licensed Texas attorneys."
+
+            *   What is an administrative hearing?
+
+        Text: "An administrative hearing is similar to a trial in court. An administrative hearing is conducted in basically the same way as a trial, but more informally. The parties may present documentary evidence to be entered as exhibits in the hearing. They have the right to question their own witnesses and cross-examine opposing witnesses. In addition, the parties are provided with an opportunity for a closing statement indicating why they believe that the hearings examiner should rule in their favor. The hearings examiner rules on objections and the admissibility of evidence and acts as both the judge and fact finder."
+
+            *   I feel that my vehicle is a lemon, how do I file a Lemon Law complaint?
+
+        Text: "Lemon Law complaints may be filed with TxDMV’s Enforcement Division’s Lemon Law Section. A request for replacement or repurchase of the complained of vehicle, must be accompanied by a $35 filing fee. Additional information regarding the complaint process can be found here: <a href="/motorists/consumer-protection/lemon-law">/motorists/consumer-protection/lemon-law</a>"
+
+            *   Do I need an attorney or may I represent myself?
+
+        Text: "If you are a party in an OAH hearing, you are not required to be represented by an attorney. You may represent yourself in the hearing. The hearings examiner is responsible for ensuring that the hearing record is fully developed and that you have been given an opportunity to present all of your evidence. However, the hearings examiner cannot provide you with legal advice."
+
+            *   Can I resolve my complaint without an administrative hearing?
+
+        Text: "Even though your complaint may have been forwarded to OAH and a hearing scheduled, you are always free to attempt to settle your complaint with the manufacturer. If you do reach a settlement prior to the hearing date, please notify OAH of the settlement and request a dismissal of your complaint. The dismissal request must be in writing and mailed or e-mailed to OAH with a copy to the other party. <a href="/sites/default/files/form_files/Motion_to_Dismiss_form.pdf">This is a sample of a Motion to Dismiss.</a>"
+
+            *   What if I need an interpreter?
+
+        Text: "If you need a language or sign language interpreter to participate in your hearing, please contact OAH at least two weeks before the hearing date so an interpreter can be scheduled. OAH will arrange and pay for the interpreter."
+
+            *   Where will my hearing be held?
+
+        Text: "Hearings are conducted in various locations throughout the state. OAH attempts to set the hearing in a location near the Complainant’s home, but some travel to the hearing location may be required by the parties.
+
+            The main locations for our hearings are:
+
+        *   Austin — <a href="https://www.google.com/maps/place/3800+Jackson+Ave,+Austin,+TX+78731/@30.3120482,-97.7582639,17z/data=!3m1!4b1!4m5!3m4!1s0x8644ca90e37b3c7d:0xd4b987849b8c10a9!8m2!3d30.3120482!4d-97.7560752" target="_blank">TxDMV</a>
+        *   Carrollton — <a href="https://www.google.com/maps/place/1925+E+Belt+Line+Rd+%23100Carrollton,+Carrollton,+TX+75006/@32.9541708,-96.889484,17z/data=!3m1!4b1!4m5!3m4!1s0x864c265d1f5eed35:0x31505c9d6904be64!8m2!3d32.9541708!4d-96.8872953" target="_blank">TxDMV</a>
+        *   Corpus Christi — <a href="https://www.google.com/maps/place/1701+S+Padre+Island+Dr,+Corpus+Christi,+TX+78416/@27.7401257,-97.4433147,17z/data=!3m1!4b1!4m5!3m4!1s0x866860090670a1a1:0xf007befd32920f66!8m2!3d27.7401257!4d-97.441126" target="_blank">TxDMV</a>
+        *   Fort Worth — <a href="https://www.google.com/maps/place/2501+SW+Loop+820,+Fort+Worth,+TX+76133/@32.6666726,-97.3569257,17z/data=!3m1!4b1!4m5!3m4!1s0x864e6de3d1e5cb91:0x65c77eeee305b7dc!8m2!3d32.6666726!4d-97.354737" target="_blank">TxDOT</a>
+        *   Houston — <a href="https://www.google.com/maps/place/2110+E+Governors+Cir,+Houston,+TX+77092/@29.8071753,-95.4494736,17z/data=!4m5!3m4!1s0x8640c6f06278e0af:0x74e8a4503b84b1b7!8m2!3d29.8071803!4d-95.4472738" target="_blank">TxDMV</a> and <a href="https://www.google.com/maps/place/7600+Washington+Ave,+Houston,+TX+77007/@29.7792842,-95.43268,17z/data=!3m1!4b1!4m5!3m4!1s0x8640c72f2cedace3:0xf3ff2c3643be20b0!8m2!3d29.7792842!4d-95.4304913" target="_blank">TxDOT </a>
+        *   Pharr — <a href="https://www.google.com/maps/place/600+W+Expy+83,+Pharr,+TX+78577/@26.2088657,-98.1908354,17z/data=!3m1!4b1!4m5!3m4!1s0x8665a092a3ee681f:0x10c25b5c899b0187!8m2!3d26.2088657!4d-98.1886467" target="_blank">TxDOT</a>
+        *   San Antonio — <a href="https://www.google.com/maps/place/15150+Nacogdoches+Rd+%23100,+San+Antonio,+TX+78247/@29.5784324,-98.3723939,17z/data=!3m1!4b1!4m5!3m4!1s0x865c8c5c6aea59af:0xc5a456ea625dbff8!8m2!3d29.5784324!4d-98.3702052" target="_blank">TxDMV</a>"
+
+            *   May I submit a video or audio recording as evidence for a hearing?
+
+        Text: "Video or audio recordings may be submitted as evidence in a hearing. However, the recording must be on a USB flash drive or a CD or DVD. In addition, copies of the recording must be submitted to the opposing party at least five (5) days prior to the hearing date."
+
+            *   Can I obtain a transcript of my hearing?
+
+        Text: "OAH does not provide written transcripts of the hearing recording. However, you can obtain a CD with the recording by submitting a <a href="/sites/default/files/form_files/Request_for_Audio_Recording.pdf">Request For Audio Recording</a>"
+
+            *   Can I request a Motion for Continuance?
+
+        Text: "A party may request a continuance of a hearing prior to the hearing date by filing a <a href="/sites/default/files/form_files/Motion_for_Continuance.pdf">Motion for Continuance</a>. The motion must be provided to the opposing party, as well as OAH as soon as the need for a continuance is determined. The opposing party in the hearing will be given an opportunity to protest the granting of any continuance. A continuance will be granted by the hearings examiner at his discretion."
+
+        Text: "If you have any questions regarding your hearing or any other matter related to the hearing process, please do not contact the hearings examiner directly as this is prohibited without the opposing party’s presence. OAH staff can answer any questions and can be contacted by phone at (512) 465-5000 or via e-mail at <a href="mailto:officeadminhearings@txdmv.gov">officeadminhearings@txdmv.gov</a>"
+
+            *   What if my address changes?
+
+        Text: "OAH requires the parties to notify our office of any telephone, email or address changes."
+
+            *   Additional documents
+
+        "Public Information Request" - Link:"/open-records"
+
+    **4.3. Contact Information Box**
+
+*   <h2>Contact Us</h2>
+*   Phone: (512) 465-5000
+*   Fax: (512) 465-5656
+*   Email: <a href="mailto:officeadminhearings@txdmv.gov">officeadminhearings@txdmv.gov</a>
+
+**5.  Feedback Form**
+
+    This section includes a feedback form.
+
+    *   Title: "We Value Your Feedback"
+    *   Text: "Your message will go to our web team. Thank you for helping us to serve you better! If you want to contact a specific department and get a response, please go to the <a href="/about-us">About Us page</a>."
+    *   Form Fields:
+        *   Email (required)
+        *   Message (required)
+    *   Submit Button: "Send message"
+
+**6.  Related Links (Bottom of Content)**
+*   "How can we make this page better for you?" Button(not a link)
+
+**Important Notes:**
+
+*   All links to external sites (e.g., texas.gov, third-party maps) must open in a new tab or window (`target="_blank"`).
+*   Pay close attention to the exact wording and formatting of text, especially headings and links.
+*   Ensure the tabbed sections are implemented correctly to maintain readability and usability.

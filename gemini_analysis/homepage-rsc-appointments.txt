@@ -1,0 +1,108 @@
+```
+# Product Requirements Document
+
+## 1. Introduction
+
+This document specifies the content requirements for recreating the Texas Department of Motor Vehicles (TxDMV) appointment booking webpage. This document focuses solely on the text and functional elements within the main content area of the page, excluding design elements, navigation, language selection, search functionality, and standard footer information. This document intends to enable implementors to build the site with the core elements.
+
+## 2. Overall Page Content
+
+*   **Heading:** "Texas Department of Motor Vehicles" (H1)
+*   **Introductory Paragraph:** "Welcome to the Texas Department of Motor Vehicles (TxDMV) Regional Service Center appointment system. To make an appointment, click "Make an appointment" at the bottom of the page. Existing appointments may also be canceled or rescheduled using “Edit Appointment” below. To make a new appointment, you must acknowledge that your personal data will be stored."
+*   ***TxDMV APPOINTMENT INFORMATION*** (H4)
+    *   "Customers with appointments receive priority. All other customers will receive service on a first come, first serve basis depending on their service request."
+    *   "Appointments are available for the current day and next two days. For example, on Mondays, appointments are available for Monday, Tuesday, and Wednesday."
+    *   "At certain locations, dealers, title service companies, and their runners are eligible to book appointments by selecting ‘Motor Vehicle Dealers’ or ‘Title Companies and Runners’ from the Appointment Type menu. At all other locations, dealers, title service companies, and their runners are not eligible to book appointments. Appointments booked by these entities will be canceled."
+    *   "**NOTE: A face cover is not required; however, we kindly ask for your consideration in wearing a face cover to optimize the safety and wellbeing of our staff and other customers.**"
+
+## 3. Content Blocks
+
+### 3.1. Driver License, ID Card, Learner Permit
+
+*   **Heading:** "Driver License, ID Card, Learner Permit" (H2)
+*   **Form:**
+    *   **Action:** `https://www.dps.texas.gov/section/driver-license/driver-license-services-appointments`
+    *   **Method:** `post`
+    *   **Submit Button:**
+        *   **Type:** `submit`
+        *   **Name:** `StartNextButton`
+        *   **Value:** "Make an appointment with Texas DPS"
+        *   **Title:** "Make an appointment with Texas DPS"
+
+### 3.2. Registration and Renewal
+
+*   **Heading:** "Registration and Renewal" (H2)
+*   **Form:**
+    *   **Action:** `https://www.txdmv.gov/motorists/register-your-vehicle`
+    *   **Method:** `post`
+    *   **Submit Button:**
+        *   **Type:** `submit`
+        *   **Name:** `StartNextButton`
+        *   **Value:** "Registration and Renewal"
+        *   **Title:** "Registration and Renewal"
+
+### 3.3. TxDMV Appointment (for Replacement/Duplicate Titles, Bonded Title, Apportion, etc.)
+
+*   **Heading:** "TxDMV Appointment (for Replacement/Duplicate Titles, Bonded Title, Apportion, etc.)" (H2)
+    *   **Sub-text:**  `<font size="1">(for Replacement/Duplicate Titles, Bonded Title, Apportion, etc.)</font>`
+    *   **Help Text Alt:** Help instructions
+    *   **Help Text Title:** If you want to make a new appointment, click on the button "Make an appointment". Then read through and acknowledge the terms and conditions for storage of personal data on the next page. Without doing so, you can not create a new appointment.
+*   **Form:**
+    *   **Action:** `/Booking/Booking/Next/uh5d75sjtv4`
+    *   **Method:** `post`
+    *   **Hidden Input:**
+        *   **Name:** `__RequestVerificationToken`
+        *   **Value:** `CGQT09GPfLQTuW7HqAZNM-zuyTD1TyQFJjJOJcu8Gg22NRhTssvHrJu5m4PLft5fmRhGxzKgVR4vl9hLnuc23OH9zHpW5zLVRUmtKXCPEtRNvC24wHy2PpTkvZ8VIf7daGTJqofUnxt1V5qFNWvCNG0xglMG4Pisv8ZP1rHOGco1`
+    *   **Hidden Input:**
+        *   **Name:** `FormId`
+        *   **Value:** `1`
+    *   **Hidden Input:**
+        *   **Name:** `ServiceGroupId`
+        *   **Value:** `229`
+    *   **Hidden Label:**
+        *   **For:** `ServiceGroupId`
+    *   **Control Free Text:** Texas Department of Motor Vehicles
+    *   **Submit Button:**
+        *   **Type:** `submit`
+        *   **Name:** `StartNextButton`
+        *   **Value:** "Make an appointment"
+        *   **Title:** "Make an appointment"
+
+### 3.4. Edit/Cancel TxDMV Appointment
+
+*   **Heading:** "Edit/Cancel TxDMV Appointment" (H2)
+    *   **Help Text Alt:** Help instructions
+    *   **Help Text Title:** If you want to edit your appointment, enter your appointment number and the e-mail address that was used when the appointment was created. Then, click the button "Edit appointment".
+*   **Form:**
+    *   **Action:** `/Booking/Booking/Next/uh5d75sjtv4`
+    *   **Method:** `post`
+    *   **Hidden Input:**
+        *   **Name:** `__RequestVerificationToken`
+        *   **Value:** `sNKoUwl4tYAqQVnwEnnGzVlbONNhVGiwvfAKMU-ZW-jEmyBN2szNPtaLVb32OKLia6DvnXSM2h504s0QhNGS3l9txKrxyI7CwuwX_rVXbs-DZFkVe5Y393yxYgf1dTi-7vSqCv72VGGHMHX_MER02bxilbLNi0R7X2YLx4v0Rss1`
+    *   **Hidden Input:**
+        *   **Name:** `FormId`
+        *   **Value:** `2`
+    *   **Appointment Number Field:**
+        *   **Label:** "Appointment Number:"
+        *   **ID:** `BookingNumber`
+        *   **Name:** `BookingNumber`
+        *   **Type:** `text`
+        *   **Required:** `required`
+    *   **Email/Phone Number Field:**
+        *   **Label:** "Email/Phone Number:"
+        *   **ID:** `ContactInfo`
+        *   **Name:** `ContactInfo`
+        *   **Type:** `text`
+        *   **Required:** `required`
+    *   **Submit Button:**
+        *   **Type:** `submit`
+        *   **Name:** `NextButtonID6`
+        *   **Value:** "Edit Appointment"
+        *   **Title:** "Edit Appointment"
+
+## 4. Footer
+
+*   **Link:** Cookies
+    *   **URL:** `/Booking/Info/Cookies/uh5d75sjtv4`
+    *   **Target:** `_blank`
+```

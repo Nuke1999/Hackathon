@@ -1,0 +1,59 @@
+```json
+{
+  "product_requirements_document": {
+    "page_title": "Railroad-Crossing Safety",
+    "breadcrumb_navigation": [
+      {"link_text": "Home", "link_url": "/"},
+      {"link_text": "Motor Carriers", "link_url": "/motor-carriers"}
+    ],
+    "main_content": [
+      {
+        "type": "wysiwyg",
+        "content": "<p><img alt=\"7 Steps for Safety Highway-Rail Grade Crossings\" src=\"/images/content-motorcarriers/Banner1.jpg\" style=\"margin-bottom: 10px; width: 100%; height: auto;\"/></p>\n<ol>\n<li><strong>Approach with care.</strong><br/>\tWarn others that you are slowing down. Turn on 4-way flashers. Use pull-out lane if available.</li>\n<br/>\n<li><strong>Prepare to stop.</strong><br/>\tTurn off fans and radio and roll down windows. Locate your cell phone for use in emergency.<br/>\n<br/>\t<strong>Stop</strong> at least 15 feet, but not more than 50 feet, from nearest rail.</li>\n<br/>\n<li><strong>Look and listen both ways, carefully.</strong><br/>\tBend forward to see around mirrors and A-pillars.</li>\n<br/>\n<li><strong>If it won't fit, don't commit.</strong><br/>\t<strong>Do not enter a crossing unless you can drive completely through without stopping!</strong><br/>\n<br/>\tAnd, remember, trains are wider than the track. Before you pull onto the track, make sure there is enough room on the other side for the back of your vehicle (and any overhanging cargo) to be at least 3 feet beyond the furthest rail.</li>\n<br/>\n<li><strong>Look again.</strong><br/>\tBefore you move, look again in both directions.</li>\n<br/>\n<li><strong>Cross tracks with care.</strong><br/>\tSignal, watch for a safe gap, pull back onto the road if you used a pull-out lane. Use highest gear that will let you cross without shifting.</li>\n<br/>\n<li><strong>Keep going once you start, even if lights start to flash or gates come down.</strong></li>\n</ol>\n<p><img alt=\"What to do if your vehicle stalls or hangs up on the tracks\" src=\"/images/content-motorcarriers/Banner2.jpg\" style=\"margin-bottom: 10px; width: 100%; height: auto;\"/></p>\n<ol>\n<li><span style=\"color: #ff0000;\"><strong>GET OUT IMMEDIATELY</strong></span><br/>\tEvacuate your vehicle. (Trains traveling at 60 mph may take a mile or more to stop.)</li>\n<br/>\n<li><strong><span style=\"color: #ff0000;\">Move away.</span></strong><br/>\tWalk <strong>toward the oncoming train, and away from the tracks</strong> at a 45-degree angle. (If your vehicle is hit, debris will spread out from the tracks in the same direction the train is moving.)</li>\n<br/>\n<li><strong><span style=\"color: #ff0000;\">Locate the emergency phone number.</span></strong><br/>\tWhen you are safely away from the tracks, find the railroad's emergency phone number and the DOT crossing identification number posted near the crossing. (See sample locations below.)<br/>\n<br/>\n<img 100%;\" alt=\"Railroad identification, emergency phone numbers, and DOT number locations.\" auto;\" height:=\"\" src=\"/images/content-motorcarriers/Locations.jpg\" style=\"margin-bottom: 10px;\" width:=\"\"/></li>\n<li><strong><span style=\"color: #ff0000;\">Call for help!</span></strong><br/>\tCall the railroad's emergency phone number, the local police, or 911. <strong>Tell them a vehicle is on the tracks.</strong> Provide the location, crossing number (if posted), and the name of the road or highway.</li>\n</ol>\n<h3><img alt=\"icon important\" data-entity-type=\"\" data-entity-uuid=\"\" height=\"22\" src=\"/images/icons-content/icon_important.png\" width=\"22\"/> Railroads' Emergency Phone Numbers</h3>\n<table border=\"0\">\n<thead>\n<tr>\n<th>Railroad</th>\n<th>Emergency Phone Number</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Amtrack</td>\n<td>1-800-331-0008</td>\n</tr>\n<tr>\n<td>BNSF Railway</td>\n<td>1-800-832-5452</td>\n</tr>\n<tr>\n<td>CSX</td>\n<td>1-800-232-0144</td>\n</tr>\n<tr>\n<td>Canadian National</td>\n<td>1-800-465-9239</td>\n</tr>\n<tr>\n<td>Canadian Pacific</td>\n<td>1-800-716-9132</td>\n</tr>\n<tr>\n<td>Kansas City Southern</td>\n<td>1-877-527-9464 or 1-800-892-6295</td>\n</tr>\n<tr>\n<td>Norfolk Southern</td>\n<td>1-800-453-2530</td>\n</tr>\n<tr>\n<td>Union Pacific</td>\n<td>1-888-877-7267</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Call the local police or 911 if you cannot locate the railroad emergency phone number at the site.</strong></p>\n<p>For more information on railroad safety, please visit the U.S. Department of Transportation Federal Motor Carrier Safety Administration website at <a href=\"https://www.fmcsa.dot.gov\" target=\"_blank\">www.fmcsa.dot.gov</a></p>"
+      }
+    ],
+    "footer": {
+       "contact_information": {
+        "heading": "Contact",
+        "content": "<strong>TxDMV Business Hours</strong><br/>\n<span style=\"font-size: 0.875rem;\">Mon to Fri, 8AM-5PM (Central Time)</span>"
+      },
+        "resources_links": [
+        {"text": "Cobrowse", "url": "/"},
+        {"text": "Media", "url": "/about-us/txdmv-media"},
+        {"text": "Open Records", "url": "/open-records"},
+        {"text": "Reports & Data", "url": "/about-us/reports-and-data"},
+        {"text": "Texas.gov", "url": "https://www.texas.gov", "external": true},
+        {"text": "Texas by Texas (TxT)", "url": "https://txt.texas.gov/dmv/vehicle-registration-renewal?utm_source=txdmv&utm_medium=footer&utm_campaign=txt", "external": true},
+        {"text": "Texas by Texas (TxT) - Español", "url": "https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm_source=txdmv&utm_medium=footer&utm_campaign=txt", "external": true},
+        {"text": "Troops & Veterans", "url": "/motorists/for-our-troops"}
+      ],
+      "work_with_us_links": [
+        {"text": "Careers", "url": "/careers"},
+        {"text": "Contractors/Vendors", "url": "/tax-assessor-collectors/contractors-vendors"},
+        {"text": "Lienholders", "url": "/dealers/lienholders"},
+        {"text": "MVCPA Grantees", "url": "/about-us/MVCPA/grantees"},
+         {"text": "Law Enforcement Data Assistance", "url": "/open-records/law-enforcement-data-assistance-processes"},
+        {"text": "Regional Service Centers", "url": "/regional-service-centers"},
+        {"text": "Tax Assessor-Collectors", "url": "/tax-assessor-collectors"}
+      ],
+      "connect_with_us": {
+        "facebook": {"url": "http://www.facebook.com/TxDMV", "text": "Facebook"},
+        "email_updates": {"url": "https://public.govdelivery.com/accounts/TXDMV/subscriber/new", "text": "Get Email Updates"},
+        "twitter": {"url": "http://x.com/txdmv", "text": "@TxDMV"}
+      },
+       "footer_links": [
+        {"text": "Compact With Texans", "url": "/sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf"},
+        {"text": "Disclaimer", "url": "/site-policies/disclaimer"},
+        {"text": "Driver's Privacy Protection Act", "url": "/site-policies/drivers-privacy-protection-act"},
+        {"text": "Report Fraud, Waste or Abuse", "url": "https://sao.fraud.texas.gov/", "external": true},
+        {"text": "Site Policies", "url": "/site-policies"},
+        {"text": "Texas Veterans Portal", "url": "https://veterans.portal.texas.gov/", "external": true},
+        {"text": "Border Programs Team", "url": "https://gov.texas.gov/organization/hsgd", "external": true},
+        {"text": "Statewide Search", "url": "https://www.tsl.texas.gov/trail/index.html", "external": true},
+        {"text": "Transparency", "url": "https://comptroller.texas.gov/transparency/", "external": true}
+      ],
+    "copyright": "© 2025 Texas Department of Motor Vehicles. All rights reserved."
+    }
+  }
+}
+```

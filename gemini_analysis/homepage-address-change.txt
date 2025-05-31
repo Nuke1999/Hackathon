@@ -1,0 +1,91 @@
+```text
+## Product Requirements Document: Texas.gov Address Change
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the Texas.gov address change webpage. The focus is on accurately representing the textual content and functional links of the original page. Design and styling elements are not included.
+
+**2. Content Sections**
+
+**2.1. Header Area**
+
+*   **Image:** A header image with embedded links.
+    *   *Embedded Link 1:* Top Left Corner(do nothing).
+        *   `coords="0,0"`
+        *   `href=""`
+        *   `shape="rect"`
+        *   `target="_blank"`
+    *   *Embedded Link 2:* "DMV Home" button
+        *   `coords="37,153,402,190"`
+        *   `onclick="javascript:gotoMainMenu('/Renew/common/jsp/txdot_vtr_main_menu.jsp');"`
+        *   `shape="rect"`
+    *   *Embedded Link 3:* "En Espanol" button
+        *   `coords="427,102,888,111"`
+        *   `href="javascript:changeLanguage('esp',url = '/Renew/addresschange/jsp/txdot_addr_chg_welcome.jsp');"`
+        *   `shape="rect"`
+
+**2.2. Main Content Area**
+
+*   **Header Image:** Image with "Change of Address" title.
+
+*   **Introductory Paragraph:**
+    *   "Changing your address is easy. Just keep the following in mind:"
+
+*   **Content Table:**
+    *   **Column 1:**
+        *   **Point 1:** "You can only use texas.gov to change the address where your registration renewal notice is mailed."
+        *   **Point 2:** "You cannot use texas.gov to change the address of the vehicle owner (the address shown on your title) or the address of the vehicle location. To change either of these addresses, <a href='http://www.txdmv.gov/txdmv-forms/doc_download/1001-vtr-146-change-of-address-for-texas-vehicle-registration' target='_blank'>click here</a> to download an Address Change Form."
+        *   **Point 3:** "When changing an address online, be ready to provide the vehicle's license plate number and last four digits of the Vehicle Identification Number(VIN).You can find this information on (1) your insurance card, (2) your registration renewal notice, if you received one, or (3) last year's registration sticker receipt.*"
+
+    *   **Column 2:**
+        *   **Point 4:** "Address changes take effect within 2 business days."
+        *   **Point 5:** "If you have questions, contact one of our regional offices. You can find the numbers and addresses by <a href='http://www.txdmv.gov/wheretogo/regional_offices.htm' target='_blank'>clicking here.</a>"
+        *   "(Continue on and you can sign up for an eReminder — a friendly e-mail from us that your vehicle registration sticker is coming due.)"
+
+*   **Buttons:**
+    *   **Continue Button:**  "Continue" image button that calls the javascript function goTo(1).
+        *   `href="javascript:goTo(1);"`
+        *   `id="continueBtn"`
+    *   **Cancel Button:**  "Cancel" image button that calls the javascript function goTo(12).
+        *   `href="javascript:goTo(12);"`
+
+**2.3. Footer Area**
+    *   **Link 1:** Link to "Contact Us"
+        *   `coords="341,28,489,42"`
+        *   `href=""`
+        *   `shape="rect"`
+        *   `target="_blank"`
+    *   **Link 2:** Link to "TxDMV"
+        *   `coords="515,27,581,42"`
+        *   `href="http://www.txdmv.gov"`
+        *   `shape="rect"`
+        *   `target="_blank"`
+    *   **Link 3:** Link to "Texas.gov"
+        *   `coords="770,10,810,10,812,21,915,21,915,45,812,45,810,50,770,50"`
+        *   `href="http://www.texas.gov/"`
+        *   `shape="poly"`
+        *   `target="_blank"`
+    *   **Link 4:** Link to "Privacy Policy"
+        *   `coords="684,77,832,88"`
+        *   `href="http://www.texas.gov/en/about/Pages/privacy-policy.aspx"`
+        *   `shape="rect"`
+        *   `target="_blank"`
+    *   **Link 5:** Link to "Help"
+        *   `coords="846,77,922,87"`
+        *   `href="/Renew/common/jsp/txdot_vtr_help.jsp"`
+        *   `shape="rect"`
+        *   `target="_blank"`
+
+**3. Functional Requirements**
+
+*   **Links:** All hyperlinks (<a> tags) must be functional and point to the URLs specified in the source HTML. The `target="_blank"` attribute should be respected.
+*   **JavaScript Functions:** The `goTo()` and `changeLanguage()` JavaScript functions should be stubbed or implemented to provide basic navigation or language selection functionality. The actual implementation of these functions is outside the scope of this document.
+*   **Forms:** While the form itself contains hidden fields, the form submission action `/Renew/AddressChangeServlet` and method `POST` should be preserved.
+
+**4. Exclusions**
+
+*   **CSS Styling:** All CSS styling (e.g., colors, fonts, layout) is excluded.
+*   **Images:** While image references are noted (e.g., header images, button images), the actual image files themselves are not provided and should be represented with placeholders.
+*   **Search, Navigation, and Standard Footer:** These common elements, while likely present on the live site, are excluded from this document to focus on the specific content of the address change page.
+
+```

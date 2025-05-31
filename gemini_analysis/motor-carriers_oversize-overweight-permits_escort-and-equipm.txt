@@ -1,0 +1,110 @@
+## Product Requirements Document: TxDMV.gov - Escort and Equipment Requirements
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "Escort and Equipment Requirements" page on TxDMV.gov. It focuses on the textual and structural content, excluding design and UI/UX elements. The purpose is to guide an AI implementor in accurately reproducing the information presented on the original page.
+
+**2. Page Title**
+
+*   **Text:** Escort and Equipment Requirements
+
+**3. Breadcrumbs**
+
+*   Home
+*   Motor Carriers
+*   Oversize/Overweight Permits
+
+**4. Main Content**
+
+**4.1. Introductory Text**
+
+*   **Text:** Escort flag vehicles are required to ensure the safety of the traveling public and the safe movement of the permitted vehicle.
+
+    In addition to private escorts, TxDMV may require you to obtain law enforcement escorts for your permitted vehicle.
+
+**4.2. Tabs Content**
+
+The main content is structured within a tabbed interface. The following describes the content within each tab:
+
+**4.2.1. General Tab**
+
+*   **Text:** The escort flag vehicle operator must warn the traveling public when any of the following conditions exists:
+    *   A permitted vehicle must travel over the center line of a narrow bridge or roadway.
+    *   A permitted vehicle makes any turning movement that will require the permitted vehicle to travel in the opposing traffic lanes.
+    *   A permitted vehicle reduces speed to cross under a low overhead obstruction or over a bridge.
+    *   A permitted vehicle creates an abnormal and unusual traffic flow pattern.
+*   **Text:** Special requirements apply to escort flaggers that will direct or control the flow of traffic. See Escort Flaggers section for more information.
+*   **Text:** See MFD Housing & Portable Bldgs for the special escort requirements that apply to those permits. Escort requirements for most loads and permit types are listed below.
+
+| Dimension | Measurement        | Number and Placement of Escort(s) |
+| :-------- | :----------------- | :-------------------------------- |
+| Width     | Exceeding 14' to 16'   | 1 Front – two-lane highway       |
+|           | Exceeding 14' to 16'   | 1 Rear - multi-lane highway        |
+|           | Exceeding 16'        | 1 Front and 1 Rear – all roads    |
+| Height    | Exceeding 17'        | 1 Front – equipped with height pole |
+|           | Exceeding 18'        | 1 Front and 1 Rear – all roads    |
+|           | Exceeding 18'        | Front must be equipped with height pole    |
+| Length    | Exceeding 110' to 125' | 1 Front – two-lane highway       |
+|           | Exceeding 110' to 125' | 1 Rear - multi-lane highway       |
+|           | Exceeding 125'       | 1 Front and 1 Rear – all roads    |
+| Overhang  | Front overhang exceeds 20' | 1 Rear - all roads      |
+|           | Rear overhang exceeds 20'  | 1 Rear – all roads    |
+
+*   **Text:** If a load exceeds escort requirements in two dimensions, front and rear escorts are required. For example, if a load is 16-feet wide and 112-feet long, one escort is required for the width and one escort is required for the length. Or, if a load is 115-feet long and has 25-feet of rear overhang, one escort is required for the overall length and one escort is required for the overhang.
+*   **Text:** Convoy
+*   **Text:** Overlength loads may convoy and share escorts under the following conditions:
+*   **Text:** 110 feet to 150 feet long – Convoy up to four loads with one front and one rear escort
+*   **Text:** 150 feet, 1 inch to 180 feet long – Convoy two loads with one front and one rear escort
+
+**4.2.2. Vehicle Equip. Tab**
+
+*   **Text:** For general lighting requirements for certain large vehicles, such as buses, trucks, truck-tractors, trailers or semitrailers please visit Texas Transportation Code, Chapter 547, Subchapter E.
+    Link to: `https://statutes.capitol.texas.gov/Docs/TN/htm/TN.547.htm#547.351`
+*   **Text:** Lights
+*   **Text:** A vehicle transporting a load that extends to the rear more than four feet beyond the bed or body of the of the vehicle must have on the extreme end of the load two red lamps visible at a distance of at least 500 feet from the rear; two red reflectors that indicate the maximum width and are visible at nighttime at all distances from 100 to 600 feet from the rear when directly in front of lawful lower beams of headlamps; and two red lamps, one on each side, that indicate the maximum overhang and are visible at a distance of at least 500 feet from the side.
+*   **Text:** Each permitted load in a convoy must have a rotating amber beacon or an amber pulsating light not less than either inches in diameter mounted at the top, rear of the load.
+*   **Text:** Flags
+*   **Text:** A vehicle transporting a load that extends beyond the vehicle’s sides or more than four feet beyond the vehicle’s rear must have 12-inch red flags marking the extremities of the load. Vehicles transporting a load that extends more than four feet beyond the bed or body of the vehicle must place the flags where a lamp is required. See Lights section above.
+
+**4.2.3. Escort Vehicle Equip. Tab**
+
+*   **Text:** The following requirements do not apply to Manufactured Housing and Portable Building permits. See the MFD Housing & Portable Bldgs for special requirements that apply to those permits.
+*   **Text:** Escort flag vehicles are required to be a single unit with a gross vehicle weight of not less than 1,000 pounds and not more than 10,000 pounds. Escort flag vehicles must be equipped as follows:
+*   **Text:** Lights
+*   **Text:** An escort flag vehicle must have two flashing amber lights, one rotating amber beacon of not less than eight inches in diameter, or alternating/flashing blue and amber lights fixed to the roof of the escort flag vehicle. The lights must be visible from all sides of the escort flag vehicle.
+*   **Text:** Signs
+*   **Text:** An escort flag vehicle must display a sign on either the roof of the vehicle or the front and rear of the vehicle with the words "OVERSIZE LOAD" or "WIDE LOAD." The sign must be:
+    *   Color - yellow background with black lettering
+    *   Size – 5 to 7 feet in length, 12 to 18 inches in height
+    *   Size of lettering – 8 to 10 inches high with a brush stroke at least 1.41 inches wide
+    *   Visibility - visible from the front and rear of the vehicle while escorting the permitted load
+    *   The sign must not be used at any other time.
+*   **Text:** Radio
+*   **Text:** An escort flag vehicle must maintain two-way communications with the permitted vehicle and other escort flag vehicles involved with the movement of the permitted vehicle.
+*   **Text:** Height pole
+*   **Text:** Any permitted vehicle that exceeds 17-feet in height must have a front escort flag vehicle equipped with a height pole made of nonconductive metal to accurately measure overhead obstructions.
+*   **Text:** Motorcycles
+*   **Text:** An official law enforcement motorcycle may be used as a primary escort flag vehicle for a permitted vehicle traveling within the limits of an incorporated city if a highway patrol officer, sheriff, duly authorized deputy or municipal police officer operates the motorcycle.
+*   **Text:** An escort motorcycle must maintain two-way radio communications with the permitted vehicle and other escort vehicles involved with the movement of the permitted vehicle.
+
+**4.2.4. MFD Housing & Portable Bldgs Tab**
+
+*   **Text:** Manufactured housing and portable buildings have special escort requirements when moved under the provisions of permit types specific to these load types.
+*   **Text:** The number of required escorts and escort placement are as follows:
+    *   If the load exceeds 16 feet wide, but does not exceed 18-feet wide, one escort is required. If traveling on a two-lane highway, the escort must be in the front of the load. If traveling on a highway with four or more lanes, the escort must be in the rear.
+    *   If the load exceeds 18 feet wide, two escorts are required: one in the front and one in the rear.
+    *   Two manufactured homes or two sections of a multi-section manufactured home may be moved in a convoy and share the required escorts if the distance between the two units does not exceed 1,000 feet.
+*   **Text:** Lights
+*   **Text:** A manufactured house over 12 feet wide must have one rotating amber beacon not less than eight inches in diameter mounted somewhere on the roof at the rear of the manufactured house. Or, instead of a roof beacon, two five-inch flashing amber lights may be mounted approximately six feet from ground level at the rear corners of the manufactured house.
+*   **Text:** The towing vehicle is required to have one rotating amber beacon not less than eight inches in diameter mounted on the top of the cab. These beacons are to be operational and luminous during any permitted move over the highway.
+*   **Text:** The escort vehicle must have, visible from the front and rear of the vehicle, two lights flashing simultaneously or one rotating amber beacon.
+*   **Text:** Flags
+*   **Text:** The escort vehicle must have a 16-inch red flag mounted on each of the four corners of the vehicle.
+*   **Text:** Signs
+*   **Text:** The escort vehicle must have signs that are mounted on the front and rear of the vehicle. The signs must have a yellow background and black letters at least eight inches high stating “wide load”.
+
+**4.2.5. Escort Flaggers Tab**
+
+*   **Text:** An escort flagger is anyone who directs or controls the flow of traffic as required by an oversize/overweight permit issued by TxDMV.
+*   **Text:** Escort flaggers must successfully complete a training program in traffic direction. The program must meet the basic peace officer course curriculum requirements for traffic direction that have been established by the Texas Commission on Law Enforcement (TCOLE). Visit the TCOLE website for information and resources regarding training for escort flaggers, <a href="https://www.tcole.texas.gov/document/escort-flaggers-3-6-20.pdf" target="_blank">https://www.tcole.texas.gov/document/escort-flaggers-3-6-20.pdf</a>.
+*   **Text:** Please note: training requirements do not apply to escort vehicle operators or flagmen who are not directing traffic.

@@ -1,0 +1,139 @@
+```text
+## Product Requirements Document: Trailers Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "Trailers" page on the TxDMV.gov website. This page provides information about trailer registration and titling in Texas.
+
+**2. Goals**
+
+*   Provide clear and accurate information about trailer registration and titling requirements in Texas.
+*   Differentiate requirements based on trailer type (manufactured, homemade/assembled, farm) and weight.
+*   Guide users to the appropriate forms and resources.
+*   Offer resources for locating local tax offices and DMVs.
+
+**3. Content Requirements**
+
+**3.1 Main Content Area**
+
+**3.1.1 Introduction Text:**
+
+"Registration is required for all non-farm trailers operating on public highways. Registration and titling requirements vary according to trailer type and weight. Most utility trailers fall into two categories:
+
+1.  Manufactured (built by a trailer manufacturer)
+2.  Homemade (built by an individual in their garage or shop)
+
+In addition, trailers are categorized by:
+
+*   Gross weights (the trailer weight plus the weight it can carry) under
+*   Over 4,000 lbs."
+
+**3.1.2 Section: Determine the Type of Trailer You Have**
+
+"Start by looking on the trailer tongue. This is where you are most likely to find the manufacturer’s name, which confirms you have a manufactured trailer. If you do not know whether the trailer is manufactured or homemade, it must be inspected by an auto theft law enforcement officer. To find the nearest inspection location with an auto theft law enforcement officer, contact your local county tax assessor-collector office or TxDMV Regional Service Center."
+
+**3.1.3 Tabbed Content:**
+
+The following information should be presented within a tabbed interface with the following tabs:
+
+*   **Manufactured Trailers**
+    *   "If your manufactured trailer's gross weight exceeds 4,000 lbs., it must be titled. Submit the following documents to your county tax assessor-collector office:"
+        *   "A completed [Application for Texas Title and or Registration (Form 130-U)](/sites/default/files/form_files/130-U.pdf)"
+        *   "Applicable fees"
+        *   "Evidence of ownership, as defined in the table below"
+        *   "Instructions for Completing the Application for Texas Title and/or Registration" - links to "/sites/default/files/form_files/VTR-130-UIF.pdf"
+    *   Table:
+
+        | Type of Trailer                                            | Evidence of Ownership                                                              |
+        | :--------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+        | New trailer                                                | Manufacturer Certificate of Origin\*                                                 |
+        | Used trailer over 4,000 lbs. gross weight                | Certificate of Title                                                               |
+        | Used trailer less than or equal to 4,000 lbs. gross weight | Bill of Sale + Registration Receipt                                                |
+
+        " \* The Manufacturer's Certificate of Origin (MCO) is the document that allows you to register and/or title a new trailer. This is your trailer's "birth certificate," showing its unique identification information. A trailer manufacturer is required to provide a MCO to dealers or purchasers for every vehicle it manufactures."
+
+        **Note:** "A manufactured trailer with missing paperwork cannot be registered as a homemade trailer."
+
+*   **Assembled Trailers**
+    *   "Newly assembled trailers (including farm trailers) must be titled regardless of weight. For additional information on required documents and the titling process, please visit [Assembled Vehicles](/motorists/assembled-vehicles). Assembled trailers with a non-titled record in Texas or registration receipt from another state may continue to be non-titled. If you currently have a non-titled record, and you opt to apply for title for your assembled trailer then the documents below are required."
+        *   Evidence of ownership:
+
+            *   New trailer: Completed [Trailer Verification Statement of Fact (Form VTR-141)](/sites/default/files/form_files/VTR-141.pdf)
+            *   Used trailer over 4,000 lbs. gross weight: Certificate of Title, or
+            *   Used trailer less than or equal to 4,000 lbs. gross weight: Bill of Sale + Registration Receipt
+        *   "A completed [Application for Texas Title and or Registration (Form 130-U)](/sites/default/files/form_files/130-U.pdf)"
+        *   Applicable fees
+    *   "If the assembled trailer does not have a Vehicle Identification Number (VIN), a completed *Law Enforcement Identification Number Inspection (Form VTR-68A)*, and *Notice of Assigned or Reassigned Identification Number (Form VTR-68-N)* will be required."
+    *   "Instructions for Completing the Application for Texas Title and/or Registration" - links to "/sites/default/files/form_files/VTR-130-UIF.pdf"
+    *   "Vehicle Identification Number"
+        *   "Newly assembled trailers are required to have a VIN. To acquire a VIN for your assembled trailer, you must first have the trailer inspected by an auto theft law enforcement officer. For more information on how to obtain a VIN, contact your local TxDMV Regional Service Center."
+*   **Farm Trailers**
+    *   "A farmer or rancher who owns a farm trailer or farm semitrailer may obtain a distinguishing Farm Trailer license plate for a $5 fee under certain conditions provided the trailer/semitrailer only transports:"
+        *   "Agricultural products,"
+        *   "Livestock"
+        *   "Farm Supplies"
+        *   "Participates in equine activities or livestock shows"
+    *   "Titling and registration requirements for farm trailers vary. For information about all required documentation and fees, contact your county tax assessor-collector office."
+    *   "Application for Farm Trailer/Semitrailer, Farm Truck, or Farm Truck Tractor License Plates" - Links to "/sites/default/files/form_files/VTR-52-A.pdf"
+    *   "Farm Trailers 4,000 lbs. or less"
+        *   "Exempt from title and registration requirements if primarily used as a farm vehicle."
+        *   "Temporary additional weight receipts issued for hauling seasonal agricultural products do not affect a semitrailer's gross weight and status for titling purposes."
+    *   "Farm Trailers in excess of 4,000 lbs. and no more than 34,000 lbs."
+        *   "Exempt from title requirements."
+        *   "Qualify for Farm Trailer license plate."
+        *   "May be titled at the owner's request by submitting the application with appropriate fee."
+    *   "Trailers in excess of 34,000 lbs."
+        *   "Must be titled and registered with Trailer license plates."
+        *   "Do not qualify for Farm Trailer license plates."
+
+**3.1.4 Section: More Information**
+
+"In some cases, you may be asked to provide additional information such as:
+
+*   Weight Certificate
+*   Photograph of trailer
+
+For information about all required documentation and fees, contact your county tax assessor-collector office."
+
+**3.1.5 DMV Locator**
+
+*   A form to find local Tax Office and DMV locations by county.
+    *   County dropdown menu.
+    *   Submit button labeled "Find Offices".
+
+**3.2 Right Column "View Motorist FAQ"**
+
+*   A link to "/faq/motorist" with the text "View Motorist FAQ".
+
+**3.3 How can we make this page better for you? Link**
+*   When clicked, the link turns into a closeable webform "We Value Your Feedback".
+*   The link can be re-enabled if closed.
+*   The form's content is:
+*   Email text box
+*   Message text area
+*   Send message button.
+    *   A hidden "Leave this field blank"
+
+**4. Associated Forms (Links to PDFs)**
+
+*   Application for Texas Title and or Registration (Form 130-U): `/sites/default/files/form_files/130-U.pdf`
+*   Instructions for Completing the Application for Texas Title and/or Registration: `/sites/default/files/form_files/VTR-130-UIF.pdf`
+*   Trailer Verification Statement of Fact (Form VTR-141): `/sites/default/files/form_files/VTR-141.pdf`
+*   Application for Farm Trailer/Semitrailer, Farm Truck, or Farm Truck Tractor License Plates: `/sites/default/files/form_files/VTR-52-A.pdf`
+
+**5. Navigation**
+
+*   Breadcrumb: Home > Motorists > Buying or Selling a Vehicle
+
+**6. Related Links**
+
+*   Assembled Vehicles: `/motorists/assembled-vehicles`
+*   TxDMV Regional Service Center
+
+**7. Notes**
+
+*   Ensure all links are functional and point to the correct resources.
+*   The DMV Locator form should dynamically update the list of Tax Office / DMV locations based on the selected county.
+*   Content should be written in clear, concise language suitable for a general audience.
+    * The How can we make this page better for you link/webform must be implemented with the exact text found.
+```

@@ -1,0 +1,195 @@
+```json
+{
+  "product_requirements_document": {
+    "page_title": "Title Litigation | TxDMV.gov",
+    "main_content": [
+      {
+        "type": "disclaimer",
+        "content": [
+          "Disclaimer",
+          "The Texas Department of Motor Vehicles (TxDMV) provides the following information on title litigation as a public service. TxDMV believes this information to be accurate and reliable but we cannot promise it is always up-to-date and correct. TxDMV assumes no responsibility or liability for any errors in the information or for the use of the information provided. TxDMV is not providing this information as legal advice to address the circumstances of your case. The contents of this page are not rules or binding guidance of the TxDMV and cannot be used as such in a court or any other dispute with TxDMV. When in doubt about a specific case or requirement, you should consult with a lawyer."
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Title Litigation Related to TxDMV",
+        "content": [
+          "TxDMV has instituted changes to the handling of title disputes to better align with current statutory requirements and protect the rights of titleholders in Texas. TxDMV should not be named as a party to lawsuits to establish ownership between private parties because it is not a proper or necessary party to such a suit.",
+          "The Texas Legislature has established exclusive options for a party who disagrees with a TxDMV action denying, revoking or suspending a motor vehicle title. A court order directing TxDMV to issue a title or cancel a title is not within those options and cannot be used to circumvent statutory requirements or remedies. The exclusive remedies provided by the legislature are described below:"
+        ]
+      },
+      {
+        "type": "subsection",
+        "title": "TAC Hearing:",
+        "content": [
+          "Texas Transportation Code §501.052 allows an interested person aggrieved by the TxDMV’s refusal, rescission, cancellation, suspension, or revocation of a title to request a hearing with the County Tax Assessor Collector in the county in which the person resides. An applicant aggrieved by the Tax Assessor Collector (TAC) decision is authorized to appeal that decision in the county or district court."
+        ]
+      },
+      {
+        "type": "subsection",
+        "title": "Bonded Title:",
+        "content": [
+          "Texas Transportation Code §501.053 allows persons to obtain a title by filing a bond with TxDMV if the vehicle is in the possession of the applicant and there is no security interest on the vehicle; any lien on the vehicle is at least 10 years old; or the person provides a release of all liens with a bond. Bonded titles provide applicants a means of obtaining a title when they are lacking documentation or evidence that is otherwise required by the Transportation Code and TxDMV rule, because the required bond provides a safety net for anyone damaged by the issuance of a title by allowing them to recover damages through an action against the bond.",
+          "More information about obtaining a bonded title can be found at",
+          {
+            "type": "link",
+            "text": "this page",
+            "url": "https://www.txdmv.gov/motorists/buying-or-selling-a-vehicle/bought-a-vehicle-with-no-title"
+          }
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Title Litigation Related to Ownership or Lien Interest",
+        "content": [
+          "TxDMV recognizes there will be times when a lawsuit between private parties and a court order are needed to provide evidence of ownership when a title is missing or there is a dispute over the ownership and/or an interest in a motor vehicle. In addition, a court order might be needed to resolve any outstanding liens pertaining to a motor vehicle. See FAQs below for more information. During the course of any such lawsuits, a party may request TxDMV to place a hold on any title applications until the conclusion of the lawsuit. See FAQ No. 4 for more information about placing a hold on title applications.",
+          "Please note that TxDMV should not be named as a party in such lawsuits and TxDMV will actively oppose any such lawsuits that attempt to direct state action or do not conform to the law. As such, any lawsuit brought against TxDMV, other than an appeal of a TAC hearing under Texas Transportation Code §501.052(e), may be subject to dismissal on grounds of sovereign immunity.",
+          "Please note lawsuits should be filed in county or district courts as justice of the peace and municipal courts are prohibited from issuing orders related to motor vehicle titles under Texas Transportation Code §501.0521, except in cases involving law enforcement or enforcement of a lien. The department will not accept orders related to motor vehicle titles issued by such courts if the case does not involve law enforcement or lien enforcement."
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Service of Process",
+        "content": [
+          "To Process Servers:",
+          "The TxDMV headquarters office at 4000 Jackson Avenue the TxDMV does not accept service of process and citation by email."
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Title and Registration Service Support",
+        "content": [
+          "TxDMV maintains a telephone information center to provide title and registration service support. The Call Center's telephone number is (512) 465-3000 or toll-free 1-888-368-4689. Send written correspondence to TxDMV - VTR, 4000 Jackson Ave, Austin, Texas 78731 or by internet at",
+          {
+            "type": "link",
+            "text": "www.TxDMV.gov",
+            "url": "https://www.txdmv.gov/"
+          },
+          ". In addition, there are TxDMV Regional Service Centers located in various counties throughout the state to provide support and assistance."
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Frequently Asked Questions",
+        "content": []
+      },
+      {
+        "type": "faq",
+        "question": "My application for title was denied, what are my options?",
+        "answer": [
+          "You may file an application for bonded title under",
+          {
+            "type": "link",
+            "text": "Texas Transportation Code §501.053",
+            "url": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.501.htm#501.053",
+            "target": "_blank"
+          },
+          "or request a hearing on the refusal to issue title with the Tax Assessor Collector in the county where you reside under",
+          {
+            "type": "link",
+            "text": "Texas Transportation Code §501.052.",
+            "url": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.501.htm#501.052",
+            "target": "_blank"
+          },
+          "Bonded Title: You will need to submit a completed",
+          {
+            "type": "link",
+            "text": "Bonded Title Statement of Fact Form (Form VTR-130-SOF),",
+            "url": "/sites/default/files/form_files/VTR-130-SOF.pdf"
+          },
+          "copy of applicant's current driver license or",
+          {
+            "type": "link",
+            "text": "government-issued photo identification",
+            "url": "/photo-id-requirements",
+            "target": "_blank"
+          },
+          "and a $15 fee, in person (check, cash or money order) or by mail (check or money order) to the",
+          {
+            "type": "link",
+            "text": "Texas Department of Motor Vehicles Regional Service Center",
+            "url": "/regional-service-centers"
+          },
+          "to determine eligibility.",
+          "Tax Assessor Collector Hearing: The legal requirements for requesting a Tax Assessor Collector Hearing are set out in",
+          {
+            "type": "link",
+            "text": "Texas Transportation Code §501.052",
+            "url": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.501.htm#501.052",
+            "target": "_blank"
+          },
+          "Please contact the Tax Assessor Collector in the county where you reside for specific details and requirements concerning the hearing process."
+        ]
+      },
+      {
+        "type": "faq",
+        "question": "My bonded title application was denied because I am unable to obtain a release of lien or letter of no interest from a recorded lien holder on the motor vehicle. What do I do?",
+        "answer": [
+          "Applicants ineligible for a bonded title because they are unable to obtain a release of lien or letter of no interest from a recorded lien holder may file a lawsuit and attempt to obtain a court order awarding the applicant ownership of the motor vehicle free and clear of any liens. The court order must include, at a minimum, a declaration of who is the owner of the motor vehicle, that ownership is awarded free and clear of any liens, and information describing the vehicle including the make, model, and vehicle identification number (VIN). Court Orders that fail to include the VIN will not be sufficient.",
+          "Note: TxDMV should not be named as a party to any lawsuit attempting to establish ownership of a vehicle free and clear of lien(s)."
+        ]
+      },
+      {
+        "type": "faq",
+        "question": "I just got a letter stating that the TxDMV has issued a “Notice of Determination for a Bonded Title or Tax Assessor-Collector Hearing for a Motor Vehicle.” What does this mean?",
+        "answer": [
+          "The TxDMV issues a Notice of Determination for a Bonded Title or Tax Assessor-Collector Hearing for a motor vehicle when an application for title is rejected. You received the letter from the TxDMV because you are listed as a lien holder or current owner on the title record on the vehicle for which an application for title was made and rejected. An Applicant whose title application has been rejected may apply for a bonded title under",
+          {
+            "type": "link",
+            "text": "Texas Transportation Code §501.053",
+            "url": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.501.htm#501.053",
+            "target": "_blank"
+          },
+          "or request a hearing on the TxDMV’s refusal to issue title before the Tax-Assessor Collector in the applicant’s county of residence under",
+          {
+            "type": "link",
+            "text": "Texas Transportation Code §501.052",
+            "url": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.501.htm#501.052",
+            "target": "_blank"
+          },
+          "What do I need to do?",
+          "A bonded title will not issue on a vehicle with a lien less than 10 years old unless the department receives a release of lien or a letter of no interest from the recorded lien holder. If you are still concerned and wish to prevent a title transfer, you may file a lawsuit against the person or business that applied for the bonded title and request TxDMV to place a hold on the issuance of the bonded title until the conclusion of the litigation. See FAQ No. 4 and No. 5 for more information about placing a hold on title applications and obtaining information regarding bonded title applicant.",
+          "Note: TxDMV should not be named as a party in the lawsuit."
+        ]
+      },
+      {
+        "type": "faq",
+        "question": "How do I place a hold on processing title applications for a motor vehicle?",
+        "answer": [
+          "If you would like for our office to place a 10-day title processing hold on your behalf, please consider submitting a formal request to",
+          {
+            "type": "link",
+            "text": "VTR_TitleLitigation@txdmv.gov",
+            "url": "mailto:VTR_TitleLitigation@txdmv.gov"
+          },
+          "A request for a processing hold must include the year, make, model and VIN of the vehicle along with a brief explanation of why the hold is needed. Please include your name, telephone number, mailing address, and email address (if available) so we may contact you if we need additional information to process your hold request.",
+          "If you would like to extend your title processing hold, our office will a file-stamped copy of a pleading issued by a county or district court, showing that a lawsuit has been filed in a court.",
+          "More information about title processing holds can be found at",
+          {
+            "type": "link",
+            "text": "the Texas Administrative Code",
+            "url": "https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=43&pt=10&ch=217&rl=6",
+            "target": "_blank"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "faq",
+        "question": "How do I find out who applied for a bonded title application for my motor vehicle?",
+        "answer": [
+          "You will need to complete a DMV VTR-275 form.",
+          "Please be sure to check the box “Other” under the Records Request Section on page one of the form and attach a copy of the letter you received from the TxDMV notifying you that a Notice of Determination for a Bonded Title or Tax Assessor-Collector Hearing was issued pertaining to the motor vehicle.",
+          "You can deliver the form with attached documents to a TxDMV Regional Service Center or submit it to",
+          {
+            "type": "link",
+            "text": "OpenRecords@txdmv.gov",
+            "url": "mailto:OpenRecords@txdmv.gov"
+          },
+          "Please note that TxDMV Regional Service Centers are typically able to fulfill requests through a DMV VTR-275 form the same day. Forms submitted by email will take longer to process."
+        ]
+      }
+    ]
+  }
+}
+```

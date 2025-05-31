@@ -1,0 +1,110 @@
+```json
+{
+  "title": "Careers | TxDMV.gov",
+  "main_content": [
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "TxDMV Careers"
+    },
+    {
+      "type": "paragraph",
+      "text": "TxDMV is a dynamic agency dedicated to you – our customers. We’re glad you are interested in becoming a part of our team."
+    },
+    {
+      "type": "paragraph",
+      "text": "Search for job openings by clicking \"TxDMV Job Openings” below."
+    },
+    {
+      "type": "paragraph",
+      "text": "To submit your application for employment, select the job opening of interest, then select Apply Online. Complete your on-line applicant profile and the State of Texas Application for Employment. TxDMV does not accept paper applications."
+    },
+    {
+      "type": "paragraph",
+      "text": "For job opening inquiries or to request a reasonable accommodation under the Americans with Disabilities Act please contact the TxDMV Human Resources Division by calling (512) 465-4015 or (512) 465-4014."
+    },
+    {
+      "type": "link_group",
+      "links": [
+        {
+          "text": "TxDMV Job Openings",
+          "url": "https://capps.taleo.net/careersection/608/jobsearch.ftl?lang=en"
+        },
+        {
+          "text": "TxDMV is a GOOD Place to Work",
+          "url": "/careers/txdmv-a-good-place-to-work"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "EEO Commitment"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Texas Department of Motor Vehicles is an equal employment opportunity (EEO) employer committed to providing fair and equal treatment for all employees and applicants without regard to race, color, religion, sex, national origin, pregnancy, disability, military status, age, or any other characteristic protected by federal or state law. This commitment extends to vendors, contractors, and the customers we serve. Our workplace is comprised of a team of dedicated professionals striving toward a productive and efficient environment free of discrimination, intimidation, harassment, and retaliation."
+    },
+    {
+      "type": "link_group",
+      "links": [
+        {
+          "text": "Military Liaison Contact",
+          "url": "/sites/default/files/body-files/TxDMV_Military_Liaison.pdf"
+        },
+        {
+          "text": "Tuition Reimbursement",
+          "url": "/sites/default/files/body-files/TxDMV_Tuition_Reimursement_Policy.pdf"
+        },
+        {
+          "text": "TxDMV Leave Policies",
+          "url": "/sites/default/files/body-files/TxDMV_Leave_Policies.pdf"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "E-Verify"
+    },
+    {
+      "type": "paragraph",
+      "text": "TxDMV participates in E-Verify, managed by the U.S. Department of Homeland Security and the Social Security Administration."
+    },
+    {
+      "type": "image",
+      "alt_text": "EVerify logo",
+      "src": "/images/work-with-us/E-Verify_Logo_4-Color_CMYK_SM_JPG.jpg"
+    },
+    {
+      "type": "link_group",
+      "links": [
+        {
+          "text": "E-Verify - English",
+          "url": "/sites/default/files/body-files/everifyposterenglish.pdf"
+        },
+        {
+          "text": "E-Verify - Español",
+          "url": "/sites/default/files/body-files/everifyposterspanish.pdf"
+        },
+        {
+          "text": "Right to Work - English",
+          "url": "/sites/default/files/body-files/rtwposterenglish.pdf"
+        },
+        {
+          "text": "Right to Work - Español",
+          "url": "/sites/default/files/body-files/rtwposterspanish.pdf"
+        }
+      ]
+    },
+    {
+      "type": "button",
+      "text": "How can we make this page better for you?"
+    },
+       {
+      "type": "paragraph",
+      "text": "Your message will go to our web team. Thank you for helping us to serve you better!<br/>\n    If you want to contact a specific department and get a response, please go to the About Us page."
+    }
+  ]
+}
+```

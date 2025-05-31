@@ -1,0 +1,234 @@
+## Product Requirements Document: Standard Presumptive Values Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "Standard Presumptive Values" page on the TxDMV.gov website, focusing on the primary content area.
+
+**2. Goals**
+
+*   Provide users with clear information about the Standard Presumptive Value (SPV) and its relevance to vehicle sales tax.
+*   Enable users to calculate the SPV of a used vehicle.
+*   Inform users about exceptions to SPV taxation and resources for further information.
+
+**3. Page Title**
+
+"Standard Presumptive Values"
+
+**4. Main Content**
+
+**4.1. Introduction Text**
+
+"Texans who buy a used vehicle from anyone other than a licensed vehicle dealer are required to pay motor vehicle sales tax of 6.25 percent on the purchase price or standard presumptive value (SPV), whichever is the highest value.
+
+SPV applies wherever you buy the vehicle, in Texas or out of state. A vehicle's SPV is its worth based on similar sales in the Texas region. The Texas Legislature passed the law in 2009 to raise additional revenue to fund Texas schools. Black Book, the national guide that provides the values, uses an average wholesale used vehicle value based on Texas sales data. You can preview the full SPV of a used vehicle by entering the vehicle identification number (VIN) and odometer reading (not needed for motorcycles) in the boxes below."
+
+**4.2. SPV Calculator Notes**
+
+*   "Values are updated weekly."
+*   "SPV should be used for estimation purposes only."
+*   "Actual sales tax due is calculated at the county tax office when the title transaction is submitted."
+*   "If a value for a late-model vehicle is not available, tax is based on the purchase price."
+*   "This SPV calculator does not contain mileage adjustments for vehicles older than 2005."
+
+**4.3. Appraisal Information**
+
+"If you paid less than the standard presumptive value for your vehicle, you may pay sales taxes on an appraisal amount provided it is certified by a licensed insurance adjuster or a licensed motor vehicle dealer; and obtained within 20 working days of the date of purchase."
+
+**4.4. Appraisal Form Link**
+
+"Used Motor Vehicle Appraisal Form" - Link to: "https://comptroller.texas.gov/forms/14-128.pdf" (Opens in a new tab/window).
+
+**4.5. SPV Calculator Iframe**
+
+Embed an iframe with the following attributes:
+
+*   `allowtransparency="true"`
+*   `class="iframe iframe-form"`
+*   `frameborder="0"`
+*   `height="250"`
+*   `scrolling="no"`
+*   `src="https://tools.txdmv.gov/tools/SPV/spv_lookup.php"`
+*   `title="Calculate Your Vehicle's Value"`
+*   `width="100%"`
+
+**4.6. Protesting the Standard Presumptive Value Heading**
+
+"Protesting the Standard Presumptive Value"
+
+**4.7. Protesting the Standard Presumptive Value Text**
+
+"State sales tax is regulated and enforced by the [Texas Comptroller of Public Accounts](https://comptroller.texas.gov/), which can provide more information about tax rates and vehicle appraisals."
+
+**4.8. Vehicles Not Subject to Taxation based on Standard Presumptive Value Heading**
+
+"Vehicles Not Subject to Taxation based on Standard Presumptive Value"
+
+**4.9. Vehicles Not Subject to Taxation based on Standard Presumptive Value**
+
+*   "New vehicles (not previously titled)"
+*   "Vehicles purchased from licensed dealers (dealers use purchase price only)"
+*   "Vehicles purchased at a governmental or foreclosure auction"
+*   "Vehicles 25 years old or older"
+*   "Off-road vehicles, such as dirt bikes or all-terrain vehicles (ATVs)"
+*   "Salvage or abandoned vehicles (except rebuilt salvage vehicles)"
+*   "Vehicles sold through a mechanic or storage lien"
+*   "Vehicles given as gifts (see Affidavit of Motor Vehicle Gift Transfer)"
+*   "Even-trade vehicles, when vehicles of equal value are swapped by the owners"
+
+**4.10. SPV Further Information**
+
+"For more information about SPV, you may contact the Comptroller of Public Accounts at (800) 252-1382 or you can visit the Comptroller's Web site.
+
+To determine if a vehicle is subject to SPV, you may contact our TxDMV Call Center at (888) 368-4689 and (512) 465-3000."
+
+**4.11. Comptroller of Public Accounts Link**
+
+"Texas Comptroller of Public Accounts" - Link to: "[https://comptroller.texas.gov/](https://comptroller.texas.gov/)" (Opens in a new tab/window).
+
+**4.12. Affidavit of Motor Vehicle Gift Transfer Link**
+
+"Affidavit of Motor Vehicle Gift Transfer" - Link to: "[https://comptroller.texas.gov/forms/14-317.pdf](https://comptroller.texas.gov/forms/14-317.pdf)" (Opens in a new tab/window).
+
+**4.13** "How can we make this page better for you?"
+**4.14** "We value your feedback"
+**4.15** "Your message will go to our web team. Thank you for helping us to serve you better!"
+**4.16** "If you want to contact a specific department and get a response, please go to the [About Us page](/about-us)."
+**4.17** "Email"
+**4.18** "Message"
+**4.19** "Leave this field blank"
+**4.20** "Send message"
+
+**5.  Outbound Links**
+
+This section lists all URLs referenced in the content, ensuring accurate linking.
+
+*   [https://comptroller.texas.gov/forms/14-128.pdf](https://comptroller.texas.gov/forms/14-128.pdf)
+*   [https://tools.txdmv.gov/tools/SPV/spv_lookup.php](https://tools.txdmv.gov/tools/SPV/spv_lookup.php)
+*   [https://comptroller.texas.gov/](https://comptroller.texas.gov/)
+*   [https://comptroller.texas.gov/forms/14-317.pdf](https://comptroller.texas.gov/forms/14-317.pdf)
+*   [https://comptroller.texas.gov/forms/14-128.pdf](https://comptroller.texas.gov/forms/14-128.pdf)
+*   [/about-us]
+
+**6.  Footer Content**
+
+   **6.1** 1 (888) 368-4689
+
+   **6.2** TxDMV Business Hours
+
+   **6.3** View Detailed Contact Information
+
+   **6.4** Resources
+
+   **6.5** Cobrowse
+
+   **6.6** Media
+
+   **6.7** Open Records
+
+   **6.8** Reports & Data
+
+   **6.9** Texas.gov
+
+   **6.10** Texas by Texas (TXT)
+
+   **6.11** Texas by Texas (TXT) - Español
+
+   **6.12** Troops & Veterans
+
+   **6.13** Work with Us
+
+   **6.14** Careers
+
+   **6.15** Contractors/Vendors
+
+   **6.16** Lienholders
+
+   **6.17** MVCPA Grantees
+
+   **6.18** Law Enforcement Data Assistance
+
+   **6.19** Regional Service Centers
+
+   **6.20** Tax Assessor-Collectors
+
+   **6.21** Connect with Us
+
+   **6.22** Facebook
+
+   **6.23** Get Email Updates
+
+   **6.24** @TxDMV
+
+   **6.25** Compact With Texans
+
+   **6.26** Disclaimer
+
+   **6.27** Driver's Privacy Protection Act
+
+   **6.28** Report Fraud, Waste or Abuse
+
+   **6.29** Site Policies
+
+   **6.30** Texas Veterans Portal
+
+   **6.31** Border Programs Team
+
+   **6.32** Statewide Search
+
+   **6.33** Transparency
+
+   **6.34** © 2025 Texas Department of Motor Vehicles. All rights reserved.
+
+   **6.35** http://www.facebook.com/TxDMV
+
+   **6.36** https://public.govdelivery.com/accounts/TXDMV/subscriber/new
+
+   **6.37** http://x.com/txdmv
+
+   **6.38** /sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf
+
+   **6.39** /site-policies/disclaimer
+
+   **6.40** /site-policies/drivers-privacy-protection-act
+
+   **6.41** https://sao.fraud.texas.gov/
+
+   **6.42** /site-policies
+
+   **6.43** https://veterans.portal.texas.gov/
+
+   **6.44** https://gov.texas.gov/organization/hsgd
+
+   **6.45** https://www.tsl.texas.gov/trail/index.html
+
+   **6.46** https://comptroller.texas.gov/transparency/
+
+   **6.47** glance\_button="startSession"
+
+   **6.48** https://txt.texas.gov/dmv/vehicle-registration-renewal?utm\_source=txdmv&utm\_medium=footer&utm\_campaign=txt
+
+   **6.49** https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm\_source=txdmv&utm\_medium=footer&utm\_campaign=txt
+
+   **6.50** /contact-us
+
+   **6.51** /about-us/txdmv-media
+
+   **6.52** /open-records
+
+   **6.53** /about-us/reports-and-data
+
+   **6.54** /motorists/for-our-troops
+
+   **6.55** /careers
+
+   **6.56** /tax-assessor-collectors/contractors-vendors
+
+   **6.57** /dealers/lienholders
+
+   **6.58** /about-us/MVCPA/grantees
+
+   **6.59** /open-records/law-enforcement-data-assistance-processes
+
+   **6.60** /regional-service-centers
+
+   **6.61** /tax-assessor-collectors

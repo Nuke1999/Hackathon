@@ -1,0 +1,171 @@
+## Product Requirements Document: TxDMV.gov Media Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "Media" page of the TxDMV.gov website. It focuses on the main content area and essential links, excluding general elements like navigation menus and footers.
+
+**2. Goal**
+
+To accurately reproduce the content of the TxDMV Media page, enabling users to access press releases, social media links, and contact information.
+
+**3. Detailed Content Requirements**
+
+**3.1. Introductory Text:**
+
+*   **Text:** "The Texas Department of Motor Vehicles welcomes questions from the news media."
+*   **Text:** "Please send media inquiries via email to <a href="mailto:Media@TxDMV.gov">Media@TxDMV.gov</a> or call our media contact, Adam Shaivitz, at (512) 465-1484."
+*   **Text:** "If you are not with the news media please call 1-888-368-4689 or visit our main contact page via our website's header."
+*   **Text:** "TxDMV budget and expenditure numbers are available at <a href="http://www.texastransparency.org" target="_blank">www.texastransparency.org</a>."
+
+**3.2. Driver's Privacy Protection Act Call to Action:**
+
+*   **Link Text:** "Driver's Privacy Protection Act and Public Information"
+*   **Link URL:** "https://prod-origin.txdmv.gov/drivers-privacy-protection-act"
+
+**3.3. Social Media Section (Tab 1: Social Media):**
+
+*   **Text:** "Stay on top of the latest news at the TxDMV by liking us on Facebook, subscribing to our YouTube channel and following us on Twitter."
+*   **Subheading:** "Connect with Us"
+    *   **Facebook Link:**
+        *   **Text:** "Facebook"
+        *   **Link URL:** "https://www.facebook.com/TxDMV"
+    *   **YouTube Channel Link:**
+        *   **Text:** "YouTube Channel"
+        *   **Link URL:** "https://www.youtube.com/user/TxDMV"
+    *   **Twitter Link:**
+        *   **Text:** "Twitter"
+        *   **Link URL:** "http://twitter.com/txdmv"
+*   **Subheading:** "Social Media Comments and Questions Guidelines"
+*   **Text:** "The Texas Department of Motor Vehicles (TxDMV) welcomes your comments and questions via social media. We’re happy to help you during regular business hours. But please be aware that for some inquiries we may ask you to follow up with us by <a href="/contact-us#phone">phone or email</a>, especially if we’ll need your personal information (vehicle identification number, address, etc.) in order to research your question."
+*   **Text:** "The TxDMV strives for effective communication and respectful dialogue on our Facebook page. Any posts or comments that are counter to these guidelines will be removed:"
+    *   **Text:** "Comments must be relevant to the topic of discussion and avoid any malicious, offensive, threatening or profane language as well as any personal attacks."
+    *   **Text:** "Links to external websites may be deleted if they are not relevant to the topic of discussion or appropriate for all audiences."
+    *   **Text:** "Do not post any personal information such as your address, phone number or vehicle information."
+    *   **Text:** "Political campaign messages are prohibited."
+    *   **Text:** "Solicitations or advertisements are prohibited. This includes promotion or endorsement of any financial, commercial or non-governmental agency."
+*   **Text:** "Our social media sites are hosted outside of the TxDMV website. Please remember that the best way to receive a secure, official, personal response (especially when sensitive information is involved) is to contact our agency through <a href="/contact-us#contact-us-online">these methods</a>."
+
+**3.4. Press Releases Section (Tab 2: Press Releases):**
+
+The press releases are organized in a collapsible accordion structure, grouped by year. Each year contains a table with the title and date of each press release.
+
+**3.4.1. 2024 Press Releases:**
+
+| Title                                                                                                                     | Date        |
+| :------------------------------------------------------------------------------------------------------------------------ | :---------- |
+| <a href="/sites/default/files/body-files/2024-12-17-Vehicle-Inspection-Changes.pdf">Reminder: Texas Vehicle Inspection Changes Coming Soon</a> | December 17 |
+| <a href="/sites/default/files/body-files/2024-09-24 TxDMV San Antonio Office Relocation V2.pdf">San Antonio Regional Service Center Relocation</a> | September 24 |
+| <a href="/sites/default/files/body-files/2024-09-09-Vehicle-Inspection-Changes.pdf">Texas vehicle inspection changes coming soon</a>     | September 9  |
+
+**3.4.2. 2023 Press Releases:**
+
+| Title                                                                                                                      | Date     |
+| :------------------------------------------------------------------------------------------------------------------------ | :------- |
+| <a href="/sites/default/files/body-files/2023-07-25_Electric_Vehicle_Registration_Fee_Release.pdf">New registration fee for electric vehicles begins September 1, 2023</a> | July 25  |
+| <a href="/sites/default/files/body-files/2023-05-30_AAMVA_Awards.pdf">Simplifying services and fighting fraud garner industry recognition</a>                    | May 30   |
+| <a href="/sites/default/files/body-files/2023-03-08_Performance_Quality_Recognition_Award.pdf">County residents receive award-winning motor vehicle services</a>                    | March 8  |
+
+**3.4.3. 2022 Press Releases:**
+
+| Title                                                                                                                                | Date       |
+| :----------------------------------------------------------------------------------------------------------------------------------- | :--------- |
+| <a href="/sites/default/files/body-files/2022-12-14_Motor_Vehicle_Crime_Prevention_News_Release.pdf">Don’t make it a happy holiday for car thieves</a>                        | December 14|
+| <a href="/sites/default/files/body-files/2022-12-09_Temporary_Tag_Redesign_Reminder.pdf">Reminder: Deployment of Redesigned Texas Temporary Tags</a>                                    | December 9 |
+| <a href="/sites/default/files/body-files/2022-11-17_Temporary_Tag_Redesign_News_Release.pdf">TxDMV Announces Upcoming Deployment of Redesigned Temporary Tags</a>                           | November 17|
+| <a href="/sites/default/files/body-files/Watch_Your_Car_Month_News_Release19JUL22.pdf">Governor Proclaims July “Watch Your Car Month”</a>                        | July 19|
+| <a href="/sites/default/files/body-files/06_14_22_Digital_License_Plates_News_Release.pdf">Move over, metal license plates</a>                        | June 14|
+| <a href="/sites/default/files/body-files/06_09_22-Motor-Vehicle-Crime-Grant-Awards-Press-Release.pdf">Texas Communities Combat Motor Vehicle Crime</a>                        | June 9|
+| <a href="/sites/default/files/body-files/TxDMV_Executive_Director_Announcement_05192022.pdf">TxDMV Board Appoints Daniel Avitia Executive Director</a>                        | May 19|
+| <a href="/sites/default/files/body-files/05_04_22-Performance-Quality-Recognition-Program-Press-Release.pdf">TxDMV Recognizes Four Texas Counties for Outstanding Performance </a>                        | May 4|
+| <a href="/sites/default/files/body-files/Oversize_Overweight_Permit_Award_Press_Release-05-02-22.pdf">TxDMV Recognized for Oversize/Overweight Permit Process Enhancements </a>                        | May 2|
+| <a href="/sites/default/files/body-files/Acting-Executive-Director-Announcement-Press-Release11FEB2022.pdf">TxDMV Board Appoints Daniel Avitia Acting Executive Director </a>                        | February 11|
+| <a href="/sites/default/files/body-files/Executive_Director_Announcement.pdf">Texas Department of Motor Vehicles Announces Departure of Executive Director</a>                        | February 7|
+| <a href="/sites/default/files/body-files/Texas-by-Texas_PressRelease_01312022.pdf">State of Texas Announces Launch of Texas by Texas</a>                        | January 31|
+| <a href="/sites/default/files/body-files/01_28_22-Temporary-Tags-Update-Press-Release.pdf">TxDMV Board Takes Action to Prevent the Fraudulent Production and Use of Temporary Tags</a>                        | January 28|
+| <a href="/sites/default/files/body-files/01_25_22_Temporary_Tag_Collaboration_News_Release.pdf">TxDMV Collaborates with Law Enforcement to Curtail Unlawful Use of Temporary Vehicle Tags</a>                        | January 25|
+
+**3.4.4. 2021 Press Releases:**
+
+| Title                                                                                                                 | Date        |
+| :-------------------------------------------------------------------------------------------------------------------- | :---------- |
+| <a href="/sites/default/files/body-files/Disabled-Veteran-Plates-Press-Release-30DEC2021.pdf">Reminder: Changes to Disabled Veteran License Plates Coming in 2022</a> | December 30 |
+| <a href="/sites/default/files/body-files/Online-Renewal-Extension-News-Release-30DEC2021.pdf">Change in state law allows additional time for online registration renewal eligibility</a> | December 30 |
+| <a href="/sites/default/files/body-files/08_26_21-Disabled-Veteran-Plates.pdf">Changes to Disabled Veteran License Plates Coming in 2022</a>  | August 26   |
+| <a href="/sites/default/files/body-files/MVCPA-Grant-Award-Press-Release03AUG21.pdf">Texas Communities Combat Crime Thanks to New Grant Funding</a> | August 3    |
+| <a href="/sites/default/files/body-files/Cyber_Alert_Media_Advisory_17JUN21.pdf">Cyber Alert Media Advisory</a>                 | June 17     |
+| <a href="/sites/default/files/body-files/End_of_Vehicle_Title_%26_Registration_Waiver.pdf">Vehicle Title &amp; Registration Waiver Ends April 14, 2021</a> | April 5     |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2021/02_12_21-End_of_Vehicle_Title_Registration_Waiver.pdf">Reminder: Vehicle Title &amp; Registration Waiver Ends April 14, 2021</a> | February 12 |
+
+**3.4.5. 2020 Press Releases:**
+
+| Title                                                                                                                                | Date        |
+| :----------------------------------------------------------------------------------------------------------------------------------- | :---------- |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2020/12_15_20_End_of_Vehicle_Title-Registration_Waiver_Press_Release.pdf">Temporary Waiver of Vehicle Title &amp; Registration Requirements Ends April 14, 2021</a> | December 15 |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2020/11_25_20-Motor_Vehicle_Crime_Prevention_Press_Release.pdf">Don’t Make It a Happy Holiday for Car Thieves</a>                        | November 25 |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2020/07_09_20-Motor-Vehicle-Crime-Prevention-Grants-Press-Release.pdf">Texas Communities Combat Crime Thanks to New Grant Funding</a> | July 9      |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2020/07_03_20_Vehicle_Title_and_Registration_Waiver_Media_Advisory.pdf">Temporary Waiver of Vehicle Title and Registration Requirements Remains in Effect</a> | July 3       |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2020/TxDMV-Pharr-Regional-Office-Reopening-Press-Release28MAY2020.pdf">TxDMV Pharr Regional Service Center Reopening</a>                 | May 28        |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2020/RSC-Closed-To-Public_03_17_20.pdf">Regional Offices Reopening for In-Person Transactions This Week</a>       | May 24        |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2020/Vehicle_Registration_Titling_and_Disabled_Placards_Requirements_Waiver-03_16_20.pdf">TxDMV Regional Service Centers Closed to Public for In-Person Transactions</a> | March 17      |
+
+**3.4.6. 2019 Press Releases:**
+
+| Title                                                                                                         | Date      |
+| :------------------------------------------------------------------------------------------------------------ | :-------- |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2019/07_17_19_County_Performance_Quality_Press_Release.pdf">Go for the gold! TxDMV recognizes seven Texas counties for outstanding performance</a> | July 17   |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2019/05_26_19_Statement_on_the_loss_of_Gary_Painter.pdf">Statement on the loss of Board Member Gary Painter</a>         | May 26   |
+
+**3.4.7. 2018 Press Releases:**
+
+| Title                                                                                                         | Date         |
+| :------------------------------------------------------------------------------------------------------------ | :----------- |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2018/Holiday_Alert_Press_Release_20NOV18.pdf">Holiday Alert Press Release</a>  | November 20  |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2018/Watch_Your_Car_Month_press_release-08-29-18.pdf">Governor Proclaims August “Watch Your Car Month” Press Release</a>    | August 26     |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2018/Sale_of_the_Century_press_release_08_16_18.pdf">Last Chance for the Sale of the Century</a> | August 16      |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2018/Don't_Make_A_Move_Without_Us__press_release_08_09_18.pdf">Don't Make a Move Without Us Press Release</a>    | August 8     |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2018/County_Performance_Quality_Press_Release-06_20_18.pdf">County Performance Quality Press Release</a>| June 20|
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2018/Flood-Damaged-Vehicles-Press-Release-05_22_18.pdf">TxDMV Warns Buyers to Beware of Flood-Damaged Vehicles</a> | May 22 |
+
+**3.4.8. 2017 Press Releases:**
+
+| Title                                                                                                         | Date         |
+| :------------------------------------------------------------------------------------------------------------ | :----------- |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2017/Flood-Damaged_Vehicle_Owners_Press_Release_10_23_17.pdf">TxDMV Informs Owners of Flood-Damaged Vehicles of Duty to Brand Their Title</a>| October 23 |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2017/Hurricane_Harvey_Vehicle_Registration_News_Release_08_31_17.pdf">Texas Suspends Vehicle Titling and Registration Requirements in Hurricane Harvey Disaster Counties</a>    | August 31    |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2017/2017_MediaAdvisory_SanAntonioRSCRelocation_081817.pdf">Media Advisory: TxDMV San Antonio Regional Service Center Relocation</a>| August 18      |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2017/100_Year_Plate_News_Release_08_17_17.pdf">Sale of the Century: Texas Introduces 100th Anniversary License Plate</a>   | August 17    |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2017/Odometer_Fraud_Press_Release_07_19_17.pdf">Texas Slams the Brakes on a Major Odometer Fraud Operation</a>| July 19     |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2017/2017_eLICENSING-Launch_Press_Release_051917.pdf">TxDMV Launches eLICENSING, a New Self-Service Hub for Motor Vehicle and Salvage Dealer Licensing</a>   | May 19    |
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2017/2017_NationalMovingMonthPressRelease_050217.pdf">2017 National Moving Month Press Release</a>| May 2|
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2017/2017_MovingMonth_MediaAdvisory_042517.pdf">National Moving Month Media Advisory</a>| April 25|
+| <a href="http://ftp.txdmv.gov/pub/txdmv-info/media/2017/MediaAdvisory-Corpus-Christi-Office-Relocation_03_21_17.pdf">Upcoming Corpus Christi RSC Relocation</a>| March 21|
+
+**3.5. "How can we make this page better for you?" Feedback Form:**
+
+*   **Form Title:** "We Value Your Feedback"
+*   **Form Introduction:** "Your message will go to our web team. Thank you for helping us to serve you better! If you want to contact a specific department and get a response, please go to the <a href="/about-us">About Us page</a>."
+*   **Form Fields:**
+    *   **Email:**
+        *   **Label:** "Email"
+        *   **Type:** Email input
+        *   **Required:** Yes
+        *   **Placeholder:** "Email"
+    *   **Message:**
+        *   **Label:** "Message"
+        *   **Type:** Textarea
+        *   **Required:** Yes
+        *   **Placeholder:** "Your message"
+    *   **Middle:**
+        *   **Label:** "Leave this field blank"
+        *   **Type:** Text input
+        *   Hidden and has autocompletion disabled
+
+*   **Button Text:** "Send message"
+
+**4. Out of Scope**
+
+*   Design elements (colors, fonts, layout)
+*   Page headers, navigation, and footers
+*   SEO considerations
+*   Accessibility features beyond basic semantic HTML
+*   Server-side logic and form submission handling

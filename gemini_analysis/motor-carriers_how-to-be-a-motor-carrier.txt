@@ -1,0 +1,135 @@
+## Product Requirements Document: How To Be a Motor Carrier
+
+**1. Introduction**
+
+This document specifies the content requirements for the "How To Be a Motor Carrier" page on the TxDMV website. It outlines the text, FAQs, and external links needed to recreate the page. This document focuses solely on content; all design elements are excluded.
+
+**2. Page Title:**
+
+*   "How To Be a Motor Carrier"
+
+**3. Breadcrumbs:**
+
+*   Home > Motor Carriers > [Current Page Title]
+
+**4. Main Content:**
+
+This section details the FAQ content.
+
+*   **Heading:** FAQ: Getting and Maintaining Your Intrastate Motor Carrier Operating Authority (TxDMV #)
+
+*   **FAQ 1:**
+    *   **Question:** "I want to operate as an independent contractor or household goods mover. Do I need a U.S. Department of Transportation (USDOT) Number?"
+    *   **Answer:** "To work in Texas, yes. To get started in the trucking or moving business, go to the USDOT first through its Federal Motor Carrier Safety Administration (FMCSA) office to get a USDOT Number.
+        To keep your USDOT Number active, you need to file a report (Form MCS-150) with FMCSA every two years. If you tell FMCSA on that report that you’re an interstate operator, you also need to go to UCR.gov every year to register and pay your Unified Carrier Registration (UCR) fees."
+        *   **Link 1:** Federal Motor Carrier Safety Administration (FMCSA): `https://www.fmcsa.dot.gov/`
+        *   **Link 2:** UCR.gov: `https://www.ucr.gov/`
+
+*   **FAQ 2:**
+    *   **Question:** "I’ve got my USDOT number. Can I hit the road?"
+    *   **Answer:** "Not yet! The USDOT Number is not an authority to get on the road. Now you need Operating Authority. To haul across state lines, you need *Interstate Operating Authority* - a "Motor Carrier (MC) Number" from FMCSA.
+        If you’re performing local moves, or hauling a load without crossing state lines, you need *Intrastate Operating Authority* – a TxDMV certificate. (Formerly known as a “TxDOT” number because the Texas Department of Transportation used to issue them.)"
+
+*   **FAQ 3:**
+    *   **Question:** "Do I need Intrastate Operating Authority, Interstate Authority, or both?"
+    *   **Answer:** "If you do both, you need both! Having the operating authority to do one doesn’t give you permission to do the other. To get TxDMV Intrastate Operating Authority, start your application on the Electronic Licensing, Insurance and Credentialing (eLINC) system on our Motor Carriers page. Once you get a certificate, you can access it on the Motor Carrier Credentialing System (MCCS), also on our Motor Carriers page."
+        *   **Link 1:** Electronic Licensing, Insurance and Credentialing (eLINC) system: `https://apps.txdmv.gov/apps/mccs/txelinc/`
+        *   **Link 2:** Motor Carriers page: `/motor-carriers`
+        *   **Link 3:** Motor Carrier Credentialing System (MCCS): `https://apps.txdmv.gov/apps/mccs/motorcarrier/`
+        *   **Link 4:** Motor Carriers page: `/motor-carriers`
+
+*   **FAQ 4:**
+    *   **Question:** "Do I need a third party to help me apply?"
+    *   **Answer:** "No! Plenty of businesses will offer to help, but we’re here to help, too. Please call the Motor Carrier Division at 800-299-1700 (options 3-4-3) for application assistance. And be careful out there – you’ll get solicitations from businesses pretending they’re government agencies, charging you to file things that you can file on your own, for free!"
+
+*   **FAQ 5:**
+    *   **Question:** "Must I have insurance?"
+    *   **Answer:** "You not only have to have it, we have to see it - online. Your application won’t be granted until your insurer electronically files your coverage here. How much coverage you need depends on what you do. Your commercial auto policy filing is called the Form E. Household goods movers also need cargo insurance – the Form H&I. If you change insurers, you need to make sure your new insurer files a new Form E before your previous one expires."
+
+*   **FAQ 6:**
+    *   **Question:** "I bought insurance. Is it filed?"
+    *   **Answer:** "There are plenty of ways to find out:
+        1.  We’ll send you an email the moment your insurance is filed. We’ll also email you warnings if your insurer ever takes the filing away. That’s an important email that can save you heartache and money, so make sure it’s **your** email address on your application!
+        2.  Once you have your certificate, you can log onto your registration in MCCS to see your filings.
+        3.  We publish our insurance data on our “Truck Stop” website. That means you – and anybody else – can look up any company to see if its insurance filings are current."
+        *   **Link 1:** MCCS: `http://dmv-mccs-web2/APPS/MCCS/motorcarrier/mccs.asp`
+        *   **Link 2:** "Truck Stop” website: `https://apps.txdmv.gov/apps/mccs/truckstop/`
+
+*   **FAQ 7:**
+    *   **Question:** "But if the insurer files my coverage, isn’t this their problem?"
+    *   **Answer:** "Not under state law. It’s up to you to make sure insurance is filed here 24/7. That’s why our email warnings are so important. So here it is again - make sure it’s your email address on your registration!
+        If you get an Enforcement letter about your insurance filings, your first step should be to log onto MCCS to see what your insurance filings are. That will help you understand the letter so you can answer it."
+        *   **Link 1:** MCCS: `http://dmv-mccs-web2/APPS/MCCS/motorcarrier/mccs.asp`
+
+*   **FAQ 8:**
+    *   **Question:** "My truck broke down…or I just want a break from the business. What next?"
+    *   **Answer:** "Your truck doesn’t hold that operating authority, you do! Holding that TxDMV certificate requires you to keep insurance filed with TxDMV and you can be fined if you hold it without an insurance filing – even if you’re no longer operating. So, your first step should be to cancel your certificate on MCCS. The “Cancel Certificate” option is under the Supplemental tab. If you’re having trouble, you can call the Motor Carrier Division for help at 800-299-1700 (options 3-4-3). And don’t worry, this isn’t starting over! If you cancel your certificate, you can re-register it later."
+        *   **Link 1:** MCCS: `http://dmv-mccs-web2/APPS/MCCS/motorcarrier/mccs.asp`
+
+*   **FAQ 9:**
+    *   **Question:** "I’m going to “lease on” to another company. What next?"
+    *   **Answer:** "If you run under someone else’s operating authority and insurance, that motor carrier is responsible for maintaining its TxDMV certificate and making sure your vehicle is on it. But you are still responsible for managing your own certificate if you have one! If you’re going to cancel your own commercial auto policy, cancel your own operating authority first. If you created an LLC or corporation, cancelling your TxDMV certificate doesn’t make your company go away; it just inactivates the operating authority that you’re not currently insuring or using right now."
+
+*   **FAQ 10:**
+    *   **Question:** "Does TxDMV issue Commercial Driver Licenses or conduct safety audits on motor carriers?"
+    *   **Answer:** "TxDMV does not regulate any driver license or safety issues. The Texas Department of Public Safety handles these issues."
+        *   **Link 1:** Texas Department of Public Safety: `https://www.dps.texas.gov/`
+
+*   **FAQ 11:**
+    *   **Question:** "What else do I need to know?"
+    *   **Answer:** "There’s a ton to learn, and we teach it! Check out our Outreach and Training page for more information, including free live webinars where you can get your questions answered."
+        *   **Link 1:** Outreach and Training page: `/motor-carriers/outreach-and-training`
+
+**5.  Related Content / Call to Action:**
+
+(These are pulled into the template, but are required to include)
+
+*   **Note:** There are elements that may be in a Call to Action Link section.
+
+*   **Block Title:** "How Can We Make This Page Better For You?"
+*   **Descriptive Text:** "We Value Your Feedback. Your message will go to our web team. Thank you for helping us to serve you better! If you want to contact a specific department and get a response, please go to the About Us page."
+*   **Email Field:** Label: "Email"
+*   **Message Field:** Label: "Message"
+*   **Submit Button:** "Send message"
+*   **About Us Page Link:** `/about-us`
+
+**6. Footer Content (Standard Across Site - Included for Completeness):**
+
+*   **Column 1: Contact**
+    *   "TxDMV Business Hours: Mon to Fri, 8AM-5PM (Central Time)"
+    *   Link to "View Detailed Contact Information": `/contact-us`
+*   **Column 2: Resources**
+    *   Links:
+        *   Cobrowse: `/` (glance_button="startSession")
+        *   Media: `/about-us/txdmv-media`
+        *   Open Records: `/open-records`
+        *   Reports & Data: `/about-us/reports-and-data`
+        *   Texas.gov: `https://www.texas.gov`
+        *   Texas by Texas (TxT): `https://txt.texas.gov/dmv/vehicle-registration-renewal?utm_source=txdmv&utm_medium=footer&utm_campaign=txt`
+        *   Texas by Texas (TxT) - Español: `https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm_source=txdmv&utm_medium=footer&utm_campaign=txt`
+        *   Troops & Veterans: `/motorists/for-our-troops`
+*   **Column 3: Work with Us**
+    *   Links:
+        *   Careers: `/careers`
+        *   Contractors/Vendors: `/tax-assessor-collectors/contractors-vendors`
+        *   Lienholders: `/dealers/lienholders`
+        *   MVCPA Grantees: `/about-us/MVCPA/grantees`
+        * Law Enforcement Data Assistance: `/open-records/law-enforcement-data-assistance-processes`
+        *   Regional Service Centers: `/regional-service-centers`
+        *   Tax Assessor-Collectors: `/tax-assessor-collectors`
+*   **Column 4: Connect with Us**
+    *   Links:
+        *   Facebook: `http://www.facebook.com/TxDMV`
+        *   Get Email Updates: `https://public.govdelivery.com/accounts/TXDMV/subscriber/new`
+        *   @TxDMV: `http://x.com/txdmv`
+*   **Footer Blue Links:**
+    *   Compact With Texans: `/sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf`
+    *   Disclaimer: `/site-policies/disclaimer`
+    *   Driver's Privacy Protection Act: `/site-policies/drivers-privacy-protection-act`
+    *   Report Fraud, Waste or Abuse: `https://sao.fraud.texas.gov/`
+    *   Site Policies: `/site-policies`
+    *   Texas Veterans Portal: `https://veterans.portal.texas.gov/`
+    *   Border Programs Team: `https://gov.texas.gov/organization/hsgd`
+    *   Statewide Search: `https://www.tsl.texas.gov/trail/index.html`
+    *   Transparency: `https://comptroller.texas.gov/transparency/`
+*   **Copyright:** © 2025 Texas Department of Motor Vehicles. All rights reserved.

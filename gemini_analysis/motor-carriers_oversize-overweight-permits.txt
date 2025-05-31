@@ -1,0 +1,388 @@
+## Product Requirements Document: Oversize/Overweight Permits | TxDMV.gov
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "Oversize/Overweight Permits" page on the TxDMV.gov website. It focuses on replicating the information within the main content area of the page, specifically the textual and linked elements. It excludes design elements, navigation menus, footers, and other site-wide components.
+
+**2. Goal**
+
+To provide a detailed specification of the content on the Oversize/Overweight Permits page (http://www.txdmv.gov/motor-carriers/oversize-overweight-permits) that enables accurate replication of the information for end-users.
+
+**3. Content Specifications**
+
+**3.1. Introductory Text**
+
+*   **Text:** "Vehicles and loads that exceed legal size or weight limits need an oversize/overweight (OS/OW) permit and route from the TxDMV to travel on Texas roads."
+
+**3.2. Important Note**
+
+*   **Text:** "Note: You must verify the size and weight limits needed BEFORE seeking a special permit."
+*   **Link:**
+    *   **Text:** "Texas Size & Weight Limits"
+    *   **URL:** /motor-carriers/oversize-overweight-permits/texas-size-weight-limits
+
+**3.3. Assistance Information**
+
+*   **Text:** "For assistance in determining the permit types available for your vehicle and/or load, log in to the Texas Permitting & Routing Optimization System (TxPROS) and select the Permit Wizard, or call us at (800) 299-1700."
+    *   **Link:**
+        *   **Text:** "Texas Permitting & Routing Optimization System (TxPROS)"
+        *   **URL:** <https://txpros.txdmv.gov/>
+*   **Text**: "The normal hours of operation for our Oversize/Overweight Permits Office are 8 a.m. - 5 p.m. Monday through Friday. REMINDER: The toll-free phone line shuts down 30 minutes prior to the end of office hours each day."
+
+**3.4. Roadway Information**
+
+*   **Card Title:** Roadway Information
+*   **List of Links:**
+    *   **Link:**
+        *   **Text:** Hazardous Materials Routing
+        *   **URL:** <https://www.txdot.gov/inside-txdot/forms-publications/publications/nrhm.html>
+    *   **Link:**
+        *   **Text:** Load-Restricted Bridge Map
+        *   **URL:** <http://apps3.txdot.gov/apps/gis/lrbm/>
+    *   **Link:**
+        *   **Text:** Load-Zoned Roads
+        *   **URL:** <http://apps3.txdot.gov/apps/gis/loadzone/>
+    *   **Link:**
+        *   **Text:** Permit Restrictions by County & District
+        *   **URL:** /motorcarriers/permit-restrictions
+    *   **Link:**
+        *   **Text:** Structures with Low Vertical Clearance
+        *   **URL:** /motorcarriers/low-clearance
+
+**3.5. Permit Options Title**
+*   **Text:** "Permit Options"
+
+**3.6. Permit Option Cards**
+
+The following details the information for each "Permit Option" card displayed on the page.
+
+**3.6.1. General Single-Trip**
+
+*   **Title:** General Single-Trip
+*   **Content:**
+    *   Non-divisible load
+    *   Single, continuous movement from Point A to Point B
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/general-single-trip
+
+**3.6.2. Manufactured Housing Single-Trip**
+
+*   **Title:** Manufactured Housing Single-Trip
+*   **Content:**
+    *   Transport manufactured housing and industrialized buildings and housing
+    *   Single, continuous movement from point A to point B
+    *   Valid for five days
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/manufactured-housing-single-trip
+
+**3.6.3. Portable Building**
+
+*   **Title:** Portable Building
+*   **Content:**
+    *   Transport portable buildings and compatible cargo
+    *   Single, continuous movement from Point A to Point B
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/portable-buildings-single-trip-permits
+
+**3.6.4. Superheavy**
+
+*   **Title:** Superheavy
+*   **Content:**
+    *   Non-divisible load
+    *   Gross weight may exceed 254,300 lbs. or 200,000 lbs. with less than 95 feet of axle spacing
+    *   May exceed maximum permit weights on axle or axle group
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/superheavy-single-trip
+
+**3.6.5. House Move**
+
+*   **Title:** House Move
+*   **Content:**
+    *   Transport houses that exceed 20-feet wide
+    *   Single, continuous movement from Point A to Point B
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/house-move
+
+**3.6.6. Intermodal Shipping Container Port Permit**
+
+*   **Title:** Intermodal Shipping Container Port Permit
+*   **Content:**
+    *   Intermodal shipping containers
+    *   Travel within 30 miles of port authorities or ports of entry
+    *   Valid for one year
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/intermodal-shipping-container-port-permit
+
+**3.6.7. Unladen Lift Equipment Motor Vehicle & Well Service Unit Mileage**
+
+*   **Title:** Unladen Lift Equipment Motor Vehicle & Well Service Unit Mileage
+*   **Content:**
+    *   Fixed-load machinery used to drill, service or clean oil wells
+    *   Single, continuous movement
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/unladen-lift-equipment-and-well-service-units
+
+**3.6.8. Self-Propelled Off Road Equipment**
+
+*   **Title:** Self-Propelled Off Road Equipment
+*   **Content:**
+    *   Drive off-road equipment on state roadways
+    *   Single, continuous movement from Point A to Point B
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/self-propelled-off-road-equipment
+
+**3.6.9. Temporary Registration**
+
+*   **Title:** Temporary Registration
+*   **Content:**
+    *   Temporary movement of vehicles without proper registration
+    *   Document carried in cab of vehicle, not a paper display tag
+    *   72-hour, 144-hour or one-trip
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/temporary-vehicle-registration
+
+**3.6.10. 30/60/90 Day Width or Length**
+
+*   **Title:** 30/60/90 Day Width or Length
+*   **Content:**
+    *   Non-divisible loads
+    *   Use width and length permits in conjunction with one another
+    *   Select 30, 60 or 90 day effective period
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/30-60-90-day
+
+**3.6.11. Company Specific Envelope**
+
+*   **Title:** Company Specific Envelope
+*   **Content:**
+    *   Non-divisible loads
+    *   Can be used to operate any truck owned or leased by company one at a time
+    *   Valid for one year
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/company-specific-envelope
+
+**3.6.12. Vehicle Specific Envelope**
+
+*   **Title:** Vehicle Specific Envelope
+*   **Content:**
+    *   Non-divisible loads
+    *   Valid for one year
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/vehicle-specific-envelope
+
+**3.6.13. Fracking Trailer**
+
+*   **Title:** Fracking Trailer
+*   **Content:**
+    *   Semitrailer containing a tank and pump unit
+    *   Valid for one year
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/annual-fracking-trailer
+
+**3.6.14. Hay**
+
+*   **Title:** Hay
+*   **Content:**
+    *   Transport round bales of hay
+    *   Side-by-side loading
+    *   Valid for one year
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/annual-hay
+
+**3.6.15. Quarterly Hubometer**
+
+*   **Title:** Quarterly Hubometer
+*   **Content:**
+    *   Drive or transport hubometer-equipped fixed-load machinery and unladen lift equipment motor vehicles
+    *   Mileage based fees
+    *   Valid for 91 days
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/quarterly-hubometer
+
+**3.6.16. Implements of Husbandry**
+
+*   **Title:** Implements of Husbandry
+*   **Content:**
+    *   Transport farm implements used to till soil
+    *   Valid for one year
+    *   Transport and spread fertilizer
+    *   Deliver feed to livestock
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/implements-of-husbandry
+
+**3.6.17. Manufactured Housing Annual**
+
+*   **Title:** Manufactured Housing Annual
+*   **Content:**
+    *   Transport new homes to temporary storage location (20 mile radius)
+    *   May be used by multiple vehicles
+    *   Valid for one year
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/annual-manufactured-housing
+
+**3.6.18. Unladen Lift Equipment Motor Vehicle (Annual)**
+
+*   **Title:** Unladen Lift Equipment Motor Vehicle (Annual)
+*   **Content:**
+    *   Exceeding width and weight limits
+    *   Valid for one year
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/unladen-lift-equipment
+
+**3.6.19. Well Servicing Unit (Annual)**
+
+*   **Title:** Well Servicing Unit (Annual)
+*   **Content:**
+    *   Legal size and weight units
+    *   Must have Texas "P" (Permit) plate
+    *   Valid for one year
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/annual-well-servicing-unit
+
+**3.6.20. Over Axle/Over Gross Weight Tolerance**
+
+*   **Title:** Over Axle/Over Gross Weight Tolerance
+*   **Content:**
+    *   Haul divisible commodities
+    *   Travel on state-maintained and county roads in select counties
+    *   Valid for one year
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/annual-over-axle-over-gross-weight-tolerance
+
+**3.6.21. Rig-Up Truck**
+
+*   **Title:** Rig-Up Truck
+*   **Content:**
+    *   Truck equipped with a winch and gin poles
+    *   Valid for one year
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/rig-up-truck
+
+**3.6.22. Utility Pole**
+
+*   **Title:** Utility Pole
+*   **Content:**
+    *   Transport poles required for electrical power transmission and line distribution
+    *   Night movement allowed for emergencies
+    *   Valid for one year
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/utility-pole
+
+**3.6.23. Water Well Drilling Machinery & Equipment**
+
+*   **Title:** Water Well Drilling Machinery & Equipment
+*   **Content:**
+    *   Self-propelled or mounted machinery used exclusively for drilling water wells
+    *   Valid for one year
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/water-well-drilling-machinery-and-equipment
+
+**3.6.24. Annual Timber Permit**
+
+*   **Title:** Annual Timber Permit
+*   **Content:**
+    *   Transport unrefined timber, wood chips or woody biomass
+    *   Travel on state-maintained and county roads in select counties
+    *   Valid for one year
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/timber-permit
+
+**3.6.25. Ready-Mixed Concrete Trucks**
+
+*   **Title:** Ready-Mixed Concrete Trucks
+*   **Content:**
+    *   Trucks operating on three axles
+    *   Travel on state-maintained and county roads in select counties
+    *   Valid for one year
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/rmct-permit
+
+**3.6.26. Annual Length Permit**
+
+*   **Title:** Annual Length Permit
+*   **Content:**
+    *   Non-divisible overlength loads
+    *   Valid for one year
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/annual-length-permit
+
+**3.6.27. Federal Disaster Relief Permit**
+
+*   **Title:** Federal Disaster Relief Permit
+*   **Content:**
+    *   To deliver relief supplies (entire load must be relief supplies)
+    *   To assist in expediting debris removal
+    *   Expires 120 days from date of President's disaster declaration
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/emergency-relief-permit
+
+**3.6.28. North Texas Intermodal Permits**
+
+*   **Title:** North Texas Intermodal Permits
+*   **Content:**
+    *   Intermodal shipping containers
+    *   Travel within five miles of Texas/Arkansas border
+    *   Valid for one year
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/north-texas-intermodal-permits
+
+**3.6.29. Fluid Milk Transport Permit**
+
+*   **Title:** Fluid Milk Transport Permit
+*   **Content:**
+    *   Transport fluid milk
+    *   Travel on dairy routes approved by TxDOT
+    *   Valid for one year
+*   **Link:**
+    *   **Text:** View More Information
+    *   **URL:** /motor-carriers/oversize-overweight-permits/fluid-milk-transport-permit
+
+**3.7. FAQs link**
+*   **Link:**
+    *   **Text:** View Motor Carrier FAQ
+    *   **URL:** /faq/motor-carriers
+
+**4. Out of Scope**
+
+*   Design elements (colors, fonts, spacing, etc.)
+*   Website header and footer
+*   Navigation menus
+*   Search functionality
+*   Language selection
+*   "How can we make this page better for you?" form
+*   Social media links
+
+**5. Notes**
+
+* All relative URLs should be interpreted relative to the base URL of the TxDMV website (www.txdmv.gov).
+* The order of content elements (e.g., Permit Option cards) should be preserved during implementation.
+
+This document provides the necessary content information to recreate the Oversize/Overweight Permits page accurately. The AI implementor should prioritize accurate replication of the text and links specified in this document.

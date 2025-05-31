@@ -1,0 +1,142 @@
+```text
+# Product Requirements Document: Dealer Education Requirements for Licensing
+
+## 1. Introduction
+
+This document outlines the content requirements for the "Dealer Education Requirements for Licensing" page on the TxDMV.gov website. The goal is to provide clear and concise specifications for recreating the page's content, ensuring accurate information and proper linking.
+
+## 2. Goal
+
+To present accurate information about the pre-licensing training requirements for independent motor vehicle dealers in Texas, as mandated by the Texas Transportation Code §503.029 and TEXAS ADMIN. CODE § 215.161.
+
+## 3. Content Specifications
+
+### 3.1. Main Content Area
+
+**3.1.1. Introductory Text:**
+
+"Texas Transportation Code §503.029 requires a pre-licensing training to be completed by certain independent motor vehicle dealers. This requirement affects:"
+
+1.  "All new license applicants"
+2.  "Renewal applicants licensed less than 10 years as of September 1, 2019."
+
+**3.1.2. Additional Requirements Text:**
+
+"Additionally, the law requires:"
+
+*   "The training to be offered online."
+*   "The training must include information on laws, Board rules, and consequences of violations."
+*   "The training must be developed or approved by TxDMV."
+*   "The training requirement is one time only; after completing the training, applicants are not required to retake the training for subsequent license renewals."
+
+**3.1.3. Board Approval and Rule Text:**
+
+"The Board approved the related rule, TEXAS ADMIN. CODE § 215.161, effective March 1, 2020, that requires:"
+
+1.  "Course providers must be either a Texas institution of higher education, as defined by Education Code, §61.003, or a motor vehicle trade association domiciled in Texas."
+2.  "The licensing education course must consist of at least 6 hours of online instruction for new applicants and 3 hours of online instruction for renewal applicants."
+3.  "The cost for the licensing education course must not exceed $150 per person. A trade association course provider may not charge a different rate to a nonmember."
+4.  "The course provider must issue a certificate of completion to each person who successfully completes the licensing education course."
+
+**3.1.4. Effective Date and Approved Courses Text:**
+
+"The training requirement was effective June 20, 2020, and courses for renewal applicants and new applicants have been approved by TxDMV. Prospective dealers may access approved courses at:"
+
+1.  "Texas Dealer Education"
+    *   URL: http://texasdealereducation.com/ (External Link, opens in new tab)
+
+2.  "Texas Dealer License Training"
+    *   URL: https://texasdealers.com/ (External Link, opens in new tab)
+
+**3.1.5. Course Requirement and Department Update Text:**
+
+"Only one course is required; prospective dealers may elect to complete either of the above options. The department will update this website in the event new course options are approved."
+
+**3.1.6. Upload Certificate Text:**
+
+"Independent motor vehicle GDN holders and applicants must upload their certificate of course completion into eLICENSING as part of the regular application process."
+
+### 3.2. TxDMV Dealer Education FAQ
+
+**3.2.1. FAQ Header Text:**
+
+"TxDMV Dealer Education FAQ"
+
+**3.2.2. Question 1:**
+
+"Which dealers must take the new pre-licensing training?"
+
+*   **Answer:** "The pre-licensing training requirement applies only to dealers with an independent motor vehicle GDN. These dealers are licensed to buy, sell, or exchange used cars, trucks, motor homes, neighborhood vehicles, recreational off-road vehicles (ROV), all-terrain vehicles (ATV), and utility vehicles (UTV). All applicants for new licenses and renewal applicants licensed less than 10 years on September 1, 2019 will be required to complete the one-time training."
+
+**3.2.3. Question 2:**
+
+"Which dealers don’t have to take the new training?"
+
+*   **Answer:** "The licensing training requirement does not apply to independent motorcycle dealers, independent travel trailer dealers, independent mobility motor vehicle dealers, utility trailer/semi-trailer dealers, wholesale dealers, wholesale auction dealers, salvage dealers, or franchised license dealers."
+
+**3.2.4. Question 3:**
+
+"When will the new requirement be implemented?"
+
+*   **Answer:** "The new requirement will be effective June 20, 2020. Currently, one course for renewal applicants and one course for new applicants has been approved by TxDMV. You may access these courses at TexasDealerEducation.com"
+    *   URL: http://texasdealereducation.com/ (External Link, opens in new tab)
+
+**3.2.5. Question 4:**
+
+"How will applicants show that they have completed the required training?"
+
+*   **Answer:** "After the training requirement goes into effect, the eLICENSING system will prompt affected applicants to upload their certificate of course completion as part of the regular application process."
+
+**3.2.6. Question 5:**
+
+"Is every employee of the dealership required to take the course?"
+
+*   **Answer:** "No, only one owner and/or operating manager for the business is required to take the course. The individual who completes the course must be one of the owners or managers for the business listed on the application."
+
+**3.2.7. Question 6:**
+
+"What if the individual who completes the course is no longer with the business?"
+
+*   **Answer:** "A new owner and/or operating manager for the business must complete the course prior to the next license renewal."
+
+**3.2.8. Question 7:**
+
+"I changed legal entities four years ago, so my license active date doesn’t reflect my 15 years of experience. Do I have to take the course?"
+
+*   **Answer:** "No, you will not need to take the course. When eLICENSING prompts you to upload a certificate of course completion, you should upload a statement listing the dates, license holder names, and license numbers you have been associated with over the years. Once your license specialist verifies you were licensed for more than 10 years on September 1, 2019, you will not be required to take the course."
+
+**3.2.9. Question 8:**
+
+"I have more than 10 years of experience as an Independent Motor Vehicle license holder, but closed one license, then obtained a new license. When I renew my license will I have to take the course?"
+
+*   **Answer:** "No, you will not need to take the course. When eLICENSING prompts you to upload a certificate of course completion, you should upload a statement listing the dates, license holder names, and license numbers you have been associated with over the years. Once your license specialist verifies you were licensed for more than 10 years on September 1, 2019, you will not be required to take the course."
+
+**3.2.10. Question 9:**
+
+"If I have multiple independent motor vehicle GDNs, can I take the course once and upload the same certificate of completion?"
+
+*   **Answer:** "If you, as an owner and/or operating manager for the business, have already completed the course, you do not need to take it again. You may upload the same course completion certificate for each renewal application."
+
+**3.2.11. Question 10:**
+
+"Are courses available in Spanish?"
+
+*   **Answer:** "Yes, the pre-licensing course is available in Spanish at texasdealereducation.com. To enroll in the course, click on “en Español” in the blue navigation bar near the top of the page."
+    *   URL: https://texasdealereducation.com/ (External Link, opens in new tab)
+
+**3.2.12. Question 11:**
+
+"I have a question that is not answered in the FAQ – how do I contact TxDMV for more information?"
+
+*   **Answer:** "You may email questions to MVD_Licensing_Inquiries@TxDMV.gov at any time, or call 1 (888) 368-4689 from 8 a.m. to 5 p.m. Monday through Friday for more information."
+
+## 4. Links to Other Pages
+*   eLicensing: Unspecified location.
+*   Texas ADMIN. CODE § 215.161: https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=T&amp;app=9&amp;p_dir=P&amp;p_rloc=182903&amp;p_tloc=&amp;p_ploc=1&amp;pg=2&amp;p_tac=&amp;ti=43&amp;pt=10&amp;ch=215&amp;rl=171
+*   About Us page: /about-us.
+
+## 5. Notes
+
+*   All external links should open in a new tab.
+*   Ensure accuracy of phone numbers and email addresses.
+```

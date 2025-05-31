@@ -1,0 +1,80 @@
+```json
+{
+  "productName": "Texas Lemon Law",
+  "pageTitle": "Texas Lemon Law | TxDMV.gov",
+  "contentSections": [
+    {
+      "sectionTitle": "Introduction",
+      "contentType": "wysiwyg",
+      "content": "<img alt=\"LemonLaw\" class=\"float-right\" height=\"181\" src=\"/images/LemonLaw.gif\" style=\"margin: 0 100px;\" width=\"200\"/>If you are having repeated problems getting your new vehicle to operate the way that it should, the Texas Lemon Law may help you get it repurchased, replaced or repaired."
+    },
+    {
+      "sectionTitle": "Tabbed Content",
+      "contentType": "tabs",
+      "tabs": [
+        {
+          "tabTitle": "Eligibility",
+          "contentType": "wysiwyg",
+          "content": "<h5>How does the Lemon Law work?</h5>\nThe Texas Lemon Law is a state law administered by the Texas Department of Motor Vehicles that helps consumers who buy or lease new motor vehicles and have repeated problems getting their vehicles properly repaired under the manufacturer’s original warranty. The Lemon Law can help a consumer get the vehicle repurchased, replaced or repaired. It can be less complicated and less expensive than going to court.\n<h5>What does it cover?</h5>\nNew vehicles, including cars, trucks, vans, motorcycles, all-terrain vehicles, motor homes, towable recreational vehicles (TRVs), and neighborhood electric vehicles that develop a defect(s) covered by a <strong>manufacturer’s written warranty</strong>. Demonstrator vehicles that have not been previously titled are considered new vehicles.\n\nThe law does not cover repossessed vehicles, non-travel trailers, boats, or farm equipment. Nor does it cover defects that do not substantially impair the use or market value of the vehicle such as minor rattles, radio static, etc.\n<h5>Are used motor vehicles covered?</h5>\nYour used vehicle may be covered under current state laws. Texas law related to warranty performance may cover your used vehicle if it is still covered by the manufacturer’s original warranty (not an extended service contract), or if the defect started and was reported to the dealer while under the manufacturer’s original warranty and the defect continues to exist, repair assistance for that problem may be available to you.\n<h5>How do I know if my vehicle is a Lemon?</h5>\nThe vehicle must meet all of the following conditions:\n<ol>\n<li>It has a substantial manufacturing defect</li>\n<li>The defect is covered by a manufacturer’s written warranty</li>\n<li>The owner reports the defect to the dealer or manufacturer within the warranty term</li>\n<li>The owner gives the dealer a reasonable number of attempts to repair the defect or condition</li>\n<li>The owner gives the manufacturer written notice (preferably by certified mail) of the defect and at least one opportunity to cure the defect; <a href=\"/sites/default/files/body-files/sampleletter.pdf\">(Sample letter)</a></li>\n<li>The defect persists and substantially impairs the vehicle’s use or market value, or creates a serious safety hazard.</li>\n</ol>\n<h5>How many chances does the dealer get to fix the problem?</h5>\nThe law presumes you have given the manufacturer or authorized dealer a reasonable number of attempts to fix the defect if you pass one of the tests listed below. Determining if the dealer has had a reasonable number of repairs is easy. Simply see if you pass the four-times test, the serious safety-hazard test, or the 30-day test. The mileage requirements generally do not apply to TRVs or other vehicles that do not have an odometer.\n<h5>Four-times test</h5>\nYou pass the four-times test if you have taken the vehicle to a dealership for repairs:\n<ul>\n<li>Four times for the same defect within the first 24 months or 24,000 miles, whichever comes first, and the defect is still not repaired.</li>\n</ul>\n<h5>Serious safety-hazard test</h5>\nA serious safety hazard is a life-threatening malfunction that substantially impedes your ability to control or operate the vehicle normally or that creates a substantial risk of fire/explosion.\n\nYou pass the serious safety-hazard test if you have taken the vehicle for repair of a serious safety-hazard:\n<ul>\n<li>Twice during the first 24 months or 24,000 miles, whichever comes first, and the defect is still not repaired.</li>\n</ul>\n<h5>30-day test</h5>\nYou pass the 30-day test if your vehicle has been out of service for repair because of a defect covered by the original factory warranty:\n<ul>\n<li>For a total of 30 days or more - not necessarily all at one time - during the first 24 months or 24,000 miles (if a comparable loaner vehicle was provided while the vehicle was being repaired, that time does not count toward the 30 days) a substantial defect still exists.</li>\n</ul>\n<h5>How long do I have to file a Lemon Law complaint?</h5>\nA Lemon Law complaint must be filed within six (6) months following the earlier of:\n<ol>\n<li>Expiration of the express warranty term;</li>\n<li>24 months after purchase; or</li>\n<li>24,000 miles following the date of delivery of the vehicle (except TRVs).</li>\n</ol>\nThe filing period is determined by which of the above events comes first. To be safe, the complaint should be filed as soon as the consumer realizes the dealer is having problems repairing the vehicle.\n<h5>What happens if I win?</h5>\nThe law provides basic guidelines for what type of relief you may get if you prove your case. Every situation is different. The department reviews the facts of each particular case when making a decision.\n\nIf you win your case, the department can order one of the following (Please Note: only new vehicles can qualify for a refund or replacement):\n<h5>Refund</h5>\nThe manufacturer must buy back the vehicle for the purchase price (including taxes, title and license fee) minus an amount charged for vehicle use. The amount deducted is decided according to a formula, (see spreadsheet links below) that takes into account the number of miles on the vehicle at the time of the hearing and other factors. This does not include any interest paid on the vehicle.\n<ul>\n<li><a href=\"/sites/default/files/body-files/Lease-Repurchase_Calculations.xls\">Lease Repurchase Calculations</a></li>\n<li><a href=\"/sites/default/files/body-files/Lemon-Law-Repurchase_Calculations.xls\">Lemon Law Repurchase Calculations</a></li>\n<li><a href=\"/sites/default/files/body-files/TRV-Repurchase_Calculations.XLS\">Towable Recreational Vehicle Repurchase Calculations</a></li>\n</ul>\n<h5>Replacement</h5>\nThe manufacturer must replace the defective vehicle with one that is comparable to the original vehicle (usually same make, model and accessories) and acceptable to the consumer, minus the mileage used. The consumer is responsible for any vehicle upgrades.\n<h5>Repair</h5>\nThe manufacturer must fix the vehicle’s defects. Out-of-pocket expenses for repairs that should have been covered by the warranty may also be reimbursed."
+        },
+        {
+          "tabTitle": "Complaint Process",
+          "contentType": "wysiwyg",
+          "content": "Relief under the Lemon Law is available to eligible consumers. The process is simple, easy-to-follow and includes the following:\n<ol>\n<li>The consumer files a Lemon Law complaint with the $35 filing fee with the Texas Department of Motor Vehicles and provides notice of the complaint with a last opportunity to repair defect to the applicable manufacturer.\n<ul>\n<li>For the fastest processing of your complaint, go to the <a href=\"https://txdmv.secure.force.com/Complaint/\" target=\"_blank\">Motor Vehicle Dealer Online Complaint System</a>.</li>\n</ul>\n</li>\n<li>The complaint is reviewed by Lemon Law Section administrative staff and the assigned TxDMV staff case advisor for completeness of the complaint and eligibility for statutory relief, and an attempt to resolve the complaint through mediation between the parties will be made.</li>\n<li>If unresolved, the matter will be referred for a hearing before an assigned hearing examiner in which both parties will be able to present their case. For information about the hearing process see the <a href=\"/motorists/consumer-protection/the-office-of-administrative-hearings\" target=\"_blank\">Office of Administrative Hearings</a>.</li>\n<li>The hearing examiner will issue a final written decision to the parties on the matter within 60 days after the close of the hearing; and</li>\n<li>Either party may challenge the final order by filing a motion for rehearing with TxDMV. If still dissatisfied, the aggrieved party may file an appeal with a state district court in Travis County, Texas.</li>\n</ol>\nBecause the filing deadline and other requirements are very specific, call the Texas Department of Motor Vehicles Lemon Law Section for more information or assistance concerning warranty repair problems at (888) 368-4689, or promptly consult legal counsel of your choice."
+        },
+        {
+          "tabTitle": "Vehicle Ownership Tips",
+          "contentType": "wysiwyg",
+          "content": "<h6>Taking The First Step (“An ounce of prevention is worth a pound of cure.”)</h6>\n<ul>\n<li>Read your warranty and owner’s manual to know what parts and systems are covered by the manufacturer’s warranty.</li>\n<li>If you have a problem with your vehicle, take the vehicle to your servicing dealer and inform the dealer about the specific problem(s).</li>\n<li>The problem(s) under repair should be fully described on the repair order and confirmed by the vehicle owner.</li>\n<li>Be certain the problem has been repaired by the dealer and return the vehicle for additional repair, if the problem persists.</li>\n<li>If the problem(s) with your vehicle are recurring, maintain a log that describes the issue with date/time and location recorded.</li>\n<li>Keep all repair orders and records for your vehicle in a safe place.</li>\n<li>Maintain good communications with the dealer’s service department.</li>\n<li>Follow your vehicle’s maintenance schedule.</li>\n</ul>\n<h6>Stay Informed</h6>\nCheck manufacturer’s website for any technical service bulletins (TSB) on your vehicle. Stay aware of any recall information on your vehicle. Check the <a href=\"https://www.nhtsa.gov/recalls\" target=\"_blank\">National Highway Traffic Safety Administration</a> for additional information on TSBs and recalls.\n<h6>If You Need to File a Lemon Law Complaint</h6>\n<ul>\n<li>Check the information on the Texas Lemon Law disclosure pamphlet that came with your vehicle. This website will provide you with further information on your rights under the law and the complaint process and eligibility.</li>\n<li>Consult with legal counsel, if necessary.</li>\n</ul>\n<h6>Dispute Resolution</h6>\n<ul>\n<li>TxDMV can help the parties settle lemon law cases, which can save you time and money.</li>\n<li>Keep good records on your vehicle</li>\n<li>Keep lines of communications open between yourself and the manufacturer.</li>\n</ul>\n<h6>If I Have a Hearing</h6>\n<ul>\n<li>Lemon Law cases are heard by an independent administrative hearing examiner.</li>\n<li>Be prepared.</li>\n<li>Organize the major points.</li>\n<li>Bring your vehicle for inspection and any witnesses you may have.</li>\n<li>After the hearing, review the hearing examiner’s written recommendation on your case.</li>\n<li>If you disagree with it, file your objections timely with the hearing examiner.</li>\n</ul>\n<h6>Final Determination by TxDMV</h6>\n<ul>\n<li>The Texas Department of Motor Vehicles is responsible for issuing a final order. If you disagree with the final order, you may file an appeal with the agency, and if still not satisfied, a Travis County, Texas State District Court.</li>\n<li>Contact a licensed attorney or TxDMV for details.</li>\n</ul>\n<h6>Vehicle Care Tips</h6>\n<ul>\n<li>“Take care of your vehicle and it will take care of you.”</li>\n<li>Service and maintain your vehicle according to the owner’s manual.</li>\n<li>Make sure an authorized dealer performs warranty repairs on your vehicle.</li>\n</ul>\n<p><strong>Look before you leap! Research</strong> the manufacturer of the make and model of the motor vehicle you wish to buy before you buy!!! It could save you future headaches.</p>"
+        },
+        {
+          "tabTitle": "Recalls and Safety",
+          "contentType": "wysiwyg",
+          "content": "Texas motorists who want to see if their vehicle is subject to a manufacturer’s recall can check the <a href=\"http://www.nhtsa.gov/recalls\" target=\"_blank\">National Highway Traffic Safety Administration’s (NHTSA) website.</a>\n\nIf Texas consumers seek to file a case under the Texas Lemon Law alleging a substantial defect[s] with his/her motor vehicle, they are required to comply with the statutory provisions under Chapter 2301, Subchapter M of the Texas Occupations Code.\n\nIf consumers have further questions on these issues, they may contact the TxDMV at 888-368-4689 or <a href=\"https://www.txdmv.gov/\">TXDMV.gov</a>.\n\n<a href=\"/takata-air-bags-recall-information\">Takata Air Bags Recall Information</a>"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "linkText": "Sample letter",
+      "url": "/sites/default/files/body-files/sampleletter.pdf"
+    },
+    {
+      "linkText": "Lease Repurchase Calculations",
+      "url": "/sites/default/files/body-files/Lease-Repurchase_Calculations.xls"
+    },
+    {
+      "linkText": "Lemon Law Repurchase Calculations",
+      "url": "/sites/default/files/body-files/Lemon-Law-Repurchase_Calculations.xls"
+    },
+    {
+      "linkText": "Towable Recreational Vehicle Repurchase Calculations",
+      "url": "/sites/default/files/body-files/TRV-Repurchase_Calculations.XLS"
+    },
+    {
+      "linkText": "Motor Vehicle Dealer Online Complaint System",
+      "url": "https://txdmv.secure.force.com/Complaint/",
+      "target": "_blank"
+    },
+    {
+      "linkText": "Office of Administrative Hearings",
+      "url": "/motorists/consumer-protection/the-office-of-administrative-hearings",
+      "target": "_blank"
+    },
+    {
+      "linkText": "National Highway Traffic Safety Administration",
+      "url": "http://www.nhtsa.gov/recalls",
+      "target": "_blank"
+    },
+    {
+      "linkText": "TXDMV.gov",
+      "url": "https://www.txdmv.gov/"
+    },
+        {
+      "linkText": "Takata Air Bags Recall Information",
+      "url": "/takata-air-bags-recall-information"
+    }
+  ]
+}
+```

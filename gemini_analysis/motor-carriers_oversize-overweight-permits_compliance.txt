@@ -1,0 +1,111 @@
+## Product Requirements Document: TxDMV.gov Compliance Page
+
+**1. Introduction**
+
+This document outlines the content requirements for the Compliance page on the TxDMV.gov website, specifically within the "Motor Carriers > Oversize/Overweight Permits" section. The document specifies the exact text and hierarchical structure necessary to recreate the page content, without any design or stylistic specifications.
+
+**2. Page Title:** Compliance
+
+**3. Breadcrumb Navigation:**
+*   Home
+*   Motor Carriers
+*   Oversize/Overweight Permits
+
+**4. Main Content:**
+
+### Compliance Programs for Oversize/Overweight Vehicles and Loads
+
+Texas roadways and bridges are engineered and constructed to withstand usage within certain size and weight limitations. When these limitations are exceeded, structural damage, excessive road-wear, and road hazards can result. To ensure the safety of the traveling public and to extend the life-cycle of our roadways and structures, restrictions are placed on oversize/overweight loads. When loads exceeding legal size and weight restrictions cannot be reasonably dismantled for shipment, permits should be obtained to allow for their transport over state roadways.
+
+TxDMV is responsible for regulating the transport of oversize/overweight vehicles and loads on Texas public highways by issuing permits and enforcing related vehicle size and weight laws. These activities help maintain public safety and protect the integrity of Texas’ highways and bridges.
+
+### Enforcement Program
+
+The oversize/overweight enforcement program was developed and implemented to meet statutory requirements and to support TxDMV goals. We will use the following approaches to enforce oversize/overweight rules and regulations:
+
+**Education – to encourage openness/cooperation between the industry and TxDMV**
+
+*   Personnel will attend and conduct educational presentations at industry trade shows, meetings, and seminars in an effort to keep motor carriers and shippers well-informed of changes in enforcement and to encourage an atmosphere of openness and cooperation among the industry and TxDMV.
+*   Notices concerning changes in guidelines, regulations, and other important information will also be provided on the Texas Department of Motor Vehicles website, by e-mail, and/or postal mailings.
+*   Staff will conduct and attend conferences with other TxDMV workgroups, local and state agencies, and government organizations to provide information and ensure cooperation in the enforcement of size and weight rules and regulations.
+
+**Monitoring – to ensure compliance with the Transportation Code**
+
+*   An online complaint management system is available to encourage involvement by the public and other organizations in reporting size and weight violations.
+*   Personnel will conduct complaint-driven and routine inspections to ensure carriers and shippers comply with the rules and regulations that govern oversize/overweight vehicles and loads.
+*   Investigations will consist of interviews, physical inspections of vehicles, audits of company records, and examinations of any other relevant materials to ensure compliance.
+
+**Penalties – to enforce compliance with the Transportation Code**
+
+*   Carriers and shippers found to be in violation of Texas size and weight regulations can be subject to written warnings, administrative penalties, and/or revocation/denial of the motor carrier’s certificate of registration and oversize/overweight permits.
+*   Carriers and shippers found to be operating after a court-ordered injunction may be subject to additional sanctions as determined by the judge.
+
+### Compliance Goals
+
+Increased compliance with oversize/overweight regulations will help meet the Texas Department of Motor Vehicles goals to reduce congestion, enhance safety, expand economic opportunity, improve air quality, and increase the value of our transportation assets by producing incentives for shippers and carriers to comply with size and weight laws and, when required, to obtain oversize/overweight permits. Permitted loads are routed to help control their traffic flow on Texas’ roadways, avoid high-traffic areas during peak periods, and ensure that loads do not hinder traffic or create safety hazards by damaging bridges and roadways. Additionally, ensuring compliance with rules and regulations helps create a more level playing field and expands economic opportunities for carriers operating in Texas.
+
+As Texas continues to grow, more demands are placed upon its transportation system. Implementation of this enforcement program is a proactive step toward protecting the state’s roadways from damage by illegal oversize/overweight loads. By implementing a compliance program that incorporates open communication, along with an effective education program, and active monitoring, TxDMV will help ensure compliance with oversize/overweight regulations, thus protecting the public, the transportation system, and transported loads.
+
+**5. Feedback Form**
+
+The page should include a feedback form.
+
+*   **Title:** We Value Your Feedback
+*   **Instructions:** Your message will go to our web team. Thank you for helping us to serve you better! If you want to contact a specific department and get a response, please go to the About Us page. (Link: /about-us)
+*   **Fields:**
+    *   Email (Required, Type: Email, Placeholder: Email)
+    *   Message (Required, Type: Textarea, Placeholder: Your message)
+    *   Middle (Hidden, Type: Text, Label: Leave this field blank)
+*   **Button:** Send message (Type: Submit)
+
+**6. Footer Content**
+
+*Contact:*
+
+**TxDMV Business Hours**
+Mon to Fri, 8AM-5PM (Central Time)
+
+View Detailed Contact Information (Link: /contact-us)
+
+*Resources:*
+
+Cobrowse (Link: /)
+Media (Link: /about-us/txdmv-media)
+Open Records (Link: /open-records)
+Reports & Data (Link: /about-us/reports-and-data)
+Texas.gov (Link: https://www.texas.gov)
+Texas by Texas (TxT) (Link: https://txt.texas.gov/dmv/vehicle-registration-renewal?utm_source=txdmv&utm_medium=footer&utm_campaign=txt)
+Texas by Texas (TxT) - Español (Link: https://txt.texas.gov/es/dmv/renovacion-registro-vehiculo?utm_source=txdmv&utm_medium=footer&utm_campaign=txt)
+Troops & Veterans (Link: /motorists/for-our-troops)
+
+*Work with Us:*
+
+Careers (Link: /careers)
+Contractors/Vendors (Link: /tax-assessor-collectors/contractors-vendors)
+Lienholders (Link: /dealers/lienholders)
+MVCPA Grantees (Link: /about-us/MVCPA/grantees)
+Law Enforcement Data Assistance (Link: /open-records/law-enforcement-data-assistance-processes)
+Regional Service Centers (Link: /regional-service-centers)
+Tax Assessor-Collectors (Link: /tax-assessor-collectors)
+
+*Connect with Us:*
+
+Facebook (Link: http://www.facebook.com/TxDMV)
+Get Email Updates (Link: https://public.govdelivery.com/accounts/TXDMV/subscriber/new)
+@TxDMV (Link: http://x.com/txdmv)
+
+*Footer Links:*
+
+Compact With Texans (Link: /sites/default/files/report-files/TxDMV_Compact_with_Texans.pdf)
+Disclaimer (Link: /site-policies/disclaimer)
+Driver's Privacy Protection Act (Link: /site-policies/drivers-privacy-protection-act)
+Report Fraud, Waste or Abuse (Link: https://sao.fraud.texas.gov/)
+Site Policies (Link: /site-policies)
+Texas Veterans Portal (Link: https://veterans.portal.texas.gov/)
+Border Programs Team (Link: https://gov.texas.gov/organization/hsgd)
+Statewide Search (Link: https://www.tsl.texas.gov/trail/index.html)
+Transparency (Link: https://comptroller.texas.gov/transparency/)
+
+*Copyright:*
+
+© 2025 Texas Department of Motor Vehicles. All rights reserved.

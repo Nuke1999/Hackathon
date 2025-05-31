@@ -1,0 +1,144 @@
+```
+## Product Requirements Document: Complaints Page - TxDMV.gov
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "Complaints" page on the TxDMV.gov website. This document focuses solely on the main content area of the page and will NOT include elements like the header, navigation menus, search bars, language selection, or footer. The intention is to allow an AI implementor to accurately rebuild the page's core content and functionality.
+
+**2. Page Title:** Complaints
+
+**3. Main Content:**
+
+The main content area of the "Complaints" page consists of the following elements:
+
+**3.1 Complaint Source Selection:**
+
+*   **Text:** "What is the source of your complaint?"
+*   **Radio Buttons:**
+    *   **Label:** "Auto Dealer"
+        *   **ID:** dealer
+        *   **Value:** dealer
+    *   **Label:** "Lemon Law / Defective Vehicle"
+        *   **ID:** lemon-law
+        *   **Value:** lemon-law
+    *   **Label:** "Motor Carrier (includes movers and bus companies)"
+        *   **ID:** motor-carrier
+        *   **Value:** motor-carrier
+    *   **Label:** "Customer Service"
+        *   **ID:** customer-service
+        *   **Value:** customer-service
+    *   **Label:** "Fraud, Waste or Abuse"
+        *   **ID:** fraud
+        *   **Value:** fraud
+    *   **Label:** "Other"
+        *   **ID:** other
+        *   **Value:** other
+        *   **Rel:** contact-form, form-item-complaint-about, other-general
+
+**3.2 Complaint Instructions (Conditional Content - Hidden by Default):**
+
+The following content sections should be hidden by default and dynamically displayed based on the selection made in section 3.1.
+
+**3.2.1 Auto Dealer Complaint Instructions (ID: dealer-div):**
+
+*   **Heading:** "Complaints Against Vehicle Dealers"
+*   **Paragraph:** "We investigate complaints against vehicle dealers licensed to sell vehicles in Texas. You can file a complaint whether you are a consumer or a vehicle dealer. For additional information or assistance with enforcement actions, call us at (888) 368-4689."
+*   **Sub-heading:** "Filing a Complaint"
+*   **Paragraph:** "If you have a complaint about a dealer's sales practices, please follow the steps below:"
+*   **Unordered List:**
+    *   List Item: "For the fastest processing of your complaint, go to the [Motor Vehicle Dealer Online Complaint System](https://txdmv.secure.force.com/Complaint/) (link opens in a new tab)."
+    *   List Item: "Following the directions, provide a copy of the sales contract and other documents you may have received from the dealer. For advertising complaints, please provide a copy of the advertisement."
+    *   List Item: "If we find evidence of a violation of the laws we enforce we may initiate administrative action in the name of the TxDMV against the person or entity. Please be advised that any civil penalty collected by the TxDMV is credited to a specified state fund. **The Texas Department of Motor Vehicles cannot pursue a private claim for damages on your behalf**. You may have civil claims against the dealer or person you are complaining about that are separate and apart from our administrative action. We encourage you to seek private legal counsel to assist you in determining your rights, time limits to file civil claims and other options in this matter."
+    *   List Item: "Should you have trouble filing, please contact us at (888) 368-4689."
+
+**3.2.2 Lemon Law Complaint Instructions (ID: lemon-law-div):**
+
+*   **Heading:** "Complaints About Defective Vehicles"
+*   **Paragraph:** "If your complaint is about a defective vehicle, you may be able to receive assistance through the Texas Lemon Law."
+*   **Link with Image:** "Learn About the Texas Lemon Law" - link to "/motorists/consumer-protection/lemon-law"
+
+**3.2.3 Motor Carrier Complaint Instructions (ID: motor-carrier-div):**
+
+*   **Heading:** "Complaints Against a Motor Carrier"
+*   **Paragraph:** "You may submit your complaint against a motor carrier (i.e.- trucking company, moving company or bus company) using our online system. You will be notified via email when the case has been accepted."
+*   **Link with Image:** "Online Complaint Management System" - link to "https://apps.txdmv.gov/APPS/MCCS/cms/ces_main.asp" (link opens in a new tab).
+
+**3.2.4 Customer Service Complaint Instructions (ID: customer-service-div):**
+
+*   **Heading:** "Customer Service Complaint"
+*   **Paragraph:** "Have a complaint? It is helpful for us to know where to start. Please tell us who you were working with and what happened. We really need your plate or complete vehicle identification number (VIN) to do our best job to help you."
+*   **Paragraph:** "We are sorry your experience was not a good one, but rest assured we will do all we can to set things straight."
+*   **Bold Text:** "My experience was with"
+*   **Radio Buttons:**
+    *   **Label:** "My County Tax Office (phone, email, or in-person)"
+        *   **ID:** tac
+        *   **Value:** tac
+        *   **Rel:** contact-form, form-item-tac-county
+    *   **Label:** "My Local TxDMV Office (phone, email, or in-person)"
+        *   **ID:** service-center
+        *   **Value:** service-center
+        *   **Rel:** contact-form, form-item-regional-service-center
+    *   **Label:** "TxDMV Customer Service Department (phone or email)"
+        *   **ID:** call-center
+        *   **Value:** call-center
+        *   **Rel:** contact-form, form-item-phone-number-called
+    *   **Label:** "None of the above/I am unsure"
+        *   **ID:** other
+        *   **Value:** other
+        *   **Rel:** contact-form, form-item-complaint-about
+
+**3.2.5 Fraud, Waste, or Abuse Complaint Instructions (ID: fraud-div):**
+
+*   **Heading:** "Complaints About Fraud, Waste or Abuse"
+*   **Paragraph:** "The State Auditor's Office (SAO) investigates allegations of fraud, waste, or abuse relating to state funds associated with state agencies and institutions of higher education."
+*   **Link with Image:** "https://sao.fraud.texas.gov/ReportFraud/" (link opens in a new tab)
+
+**3.3 Contact Form:**
+
+*   The contact form should ONLY appear when the "Other" radio button is selected under the "What is the source of your complaint?" question, OR when any option is selected under the "My experience was with" question.
+*   **Form Fields:**
+    *   **Name:** (Text field, Required) - Label: "Name"
+    *   **Email:** (Email field, Required) - Label: "Email"
+    *   **What is the Complaint About?:** (Text field) - Label: "What is the Complaint About?"
+    *   **Tax Office:** (Text field with Autocomplete) - Label: "Tax Office"
+    *   **Regional Service Center:** (Select dropdown) - Label: "Regional Service Center"
+        *   Options:
+            *   "- Select -" (default)
+            *   "Abilene Regional Service Center" (value: 3651)
+            *   "Amarillo Regional Service Center" (value: 3663)
+            *   "Austin Regional Service Center" (value: 3652)
+            *   "Beaumont Regional Service Center" (value: 3653)
+            *   "Corpus Christi Regional Service Center" (value: 3654)
+            *   "Dallas Regional Service Center" (value: 3655)
+            *   "El Paso Regional Service Center" (value: 3656)
+            *   "Fort Worth Regional Service Center" (value: 3657)
+            *   "Houston Regional Service Center" (value: 3658)
+            *   "Longview Regional Service Center" (value: 3659)
+            *   "Lubbock Regional Service Center" (value: 3660)
+            *   "Midland-Odessa Regional Service Center" (value: 3661)
+            *   "Pharr Regional Service Center" (value: 3662)
+            *   "San Antonio Regional Service Center" (value: 3664)
+            *   "Waco Regional Service Center" (value: 3665)
+            *   "Wichita Falls Regional Service Center" (value: 3666)
+    *   **Phone Number Called:** (Text field) - Label: "Phone Number Called"
+    *   **Message:** (Textarea, Required) - Label: "Message", Placeholder: "Enter your message here."
+    *   **Submit Button:** - Value: "Send message"
+
+**3.4 Back to Link:**
+*   This will be implemented later.
+
+**3.5 How can we make this page better for you?:**
+*   This is a pop-up feedback form that will be implemented later.
+
+**4.  External Links:**
+
+*   **Motor Vehicle Dealer Online Complaint System:** `https://txdmv.secure.force.com/Complaint/`
+*   **Online Complaint Management System:** `https://apps.txdmv.gov/APPS/MCCS/cms/ces_main.asp`
+*   **State Auditor's Office (SAO):** `https://sao.fraud.texas.gov/ReportFraud/`
+*   **About Us Page:** `/about-us`
+
+**5. Images:**
+
+*   Links
+    *   `assets/img/icon/icon-link.png`
+```

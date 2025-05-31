@@ -1,0 +1,109 @@
+```
+## Product Requirements Document: TxDMV Regional Service Centers Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "Regional Service Centers" page on the TxDMV.gov website.  This document focuses *solely* on the text content and associated links within the main content area of the page.
+
+**2. Goals**
+
+*   Accurately present information about TxDMV Regional Service Centers and their services.
+*   Provide clear instructions for locating and contacting service centers.
+*   Offer users efficient access to related online services and resources.
+
+**3. Content Requirements**
+
+**3.1. Main Page Content**
+
+*   **Title:** Regional Service Centers
+*   **Section:** TxDMV Regional Service Centers
+    *   **Content:** "TxDMV Regional Service Centers provide specific services to the public, including:"
+        *   Replacement Titles
+        *   Bonded Title Rejection Letters
+        *   Apportioned Registration (IRP Credentials and Temporary Operating Authority for Established Accounts)
+        *   Investigating and Resolving Texas Title Errors
+        *   Vehicle Transfer Notifications
+        *   Title History Inquiries
+    *   **Content:** "TxDMV accepts cash, checks, debit/credit cards and money orders as payment."
+*   **Section:** Regional Service Centers Map
+    *   **Content:** Interactive map image of Texas with clickable regions corresponding to Regional Service Center locations.  Each region is an `area` element with `href` attribute pointing to the specific service center page. Coordinates are defined using the `coords` attribute.
+        *   **Abilene:** `/regional-service-centers/abilene`
+        *   **Amarillo:** `/regional-service-centers/amarillo`
+        *   **Austin:** `/regional-service-centers/austin`
+        *   **Beaumont:** `/regional-service-centers/beaumont`
+        *   **Corpus Christi:** `/regional-service-centers/corpuschristi`
+        *   **Dallas:** `/regional-service-centers/dallas`
+        *   **El Paso:** `/regional-service-centers/elpaso`
+        *   **Fort Worth:** `/regional-service-centers/ftworth`
+        *   **Houston:** `/regional-service-centers/houston`
+        *   **Longview:** `/regional-service-centers/longview`
+        *   **Lubbock:** `/regional-service-centers/lubbock`
+        *   **Midland-Odessa:** `/regional-service-centers/midland-odessa`
+        *   **Pharr:** `/regional-service-centers/pharr`
+        *   **San Antonio:** `/regional-service-centers/sanantonio`
+        *   **Waco:** `/regional-service-centers/waco`
+        *   **Wichita Falls:** `/regional-service-centers/wichitafalls`
+*   **Section:** Office Hours and Locations
+    *   **Heading:** Office Hours and Locations
+    *   **Content:** "All regional service centers are open from 8 a.m. to 5 p.m. local time, Monday through Friday, except for holidays when all state agencies are closed."
+        *   Link "holidays when all state agencies are closed" to: `http://www.hr.sao.texas.gov/Holidays/` (opens in new tab)
+    *   **Content:** "Effective March 9, 2022 the Regional Service Centers will be closed from 8 a.m. to 9 a.m. on the second Wednesday of each month to conduct a staff meeting."
+    *   **Content:** "Customers without appointments are eligible for service at all 16 department offices. Customers with appointments will receive priority, so appointments are encouraged. All other customers will receive service on a first come, first serve basis depending on their service request."
+    *   **Content:** "**NEW:** At certain locations, dealers, title service companies, and their runners are eligible to book appointments by selecting ‘Motor Vehicle Dealers’ or ‘Title Companies and Runners’ from the Appointment Type menu on the appointment page."
+    *   **Content:** "At all other locations, dealers, title service companies, and their runners are not eligible to book appointments."
+    *   **Content:** "These entities are eligible for in-person, walk-in services, or may mail or drop off transactions for service. Some offices may limit the quantity of transactions which may be processed at one time by these entities."
+    *   **Call to Action:** Make an Appointment
+        *   **Link text:** "Click Here to Make an Appointment"
+        *   **Link URL:** `https://nqa3.nemoqappointment.com/Booking/Booking/Index/uh5d75sjtv4`
+
+*   **Section:** List of Regional Service Centers
+    *   **Content:** List of links to individual regional service center pages:
+        *   Abilene: `/regional-service-centers/abilene`
+        *   Amarillo: `/regional-service-centers/amarillo`
+        *   Austin: `/regional-service-centers/austin`
+        *   Beaumont: `/regional-service-centers/beaumont`
+        *   Corpus Christi: `/regional-service-centers/corpuschristi`
+        *   Dallas: `/regional-service-centers/dallas`
+        *   El Paso: `/regional-service-centers/elpaso`
+        *   Fort Worth: `/regional-service-centers/ftworth`
+        *   Houston: `/regional-service-centers/houston`
+        *   Longview: `/regional-service-centers/longview`
+        *   Lubbock: `/regional-service-centers/lubbock`
+        *   Midland-Odessa: `/regional-service-centers/midland-odessa`
+        *   Pharr: `/regional-service-centers/pharr`
+        *   San Antonio: `/regional-service-centers/sanantonio`
+        *   Waco: `/regional-service-centers/waco`
+        *   Wichita Falls: `/regional-service-centers/wichitafalls`
+*   **Section:** Find Your Local Tax Office & DMV
+    *   **Content:** This section is a DMV locator using the provided county search form. The form has one field:
+        *County: Drop down with counties (sorted alphabetically). The options are: Anderson, Andrews, Angelina, Aransas, Archer, Armstrong, Atascosa, Austin, Bailey, Bandera, Bastrop, Baylor, Bee, Bell, Bexar, Blanco, Borden, Bosque, Bowie, Brazoria, Brazos, Brewster, Briscoe, Brooks, Brown, Burleson, Burnet, Caldwell, Calhoun, Callahan, Cameron, Camp, Carson, Cass, Castro, Chambers, Cherokee, Childress, Clay, Cochran, Coke, Coleman, Collin, Collingsworth, Colorado, Comal, Comanche, Concho, Cooke, Corpus Christi, Coryell, Cottle, Crane, Crockett, Crosby, Culberson, Dallam, Dallas, Dawson, Deaf Smith, Delta, Denton, Dewitt, Dickens, Dimmit, Donley, Duval, Eastland, Ector, Edwards, El Paso, Ellis, Erath, Falls, Fannin, Fayette, Fisher, Floyd, Foard, Fort Bend, Franklin, Freestone, Frio, Gaines, Galveston, Garza, Gillespie, Glasscock, Goliad, Gonzales, Gray, Grayson, Gregg, Grimes, Guadalupe, Hale, Hall, Hamilton, Hansford, Hardeman, Hardin, Harris, Harrison, Hartley, Haskell, Hays, Hemphill, Henderson, Hidalgo, Hill, Hockley, Hood, Hopkins, Houston, Howard, Hudspeth, Hunt, Hutchinson, Irion, Jack, Jackson, Jasper, Jeff Davis, Jefferson, Jim Hogg, Jim Wells, Johnson, Jones, Karnes, Kaufman, Kendall, Kenedy, Kent, Kerr, Kimble, King, Kinney, Kleberg, Knox, La Salle, Lamar, Lamb, Lampasas, Lavaca, Lee, Leon, Liberty, Limestone, Lipscomb, Live Oak, Llano, Loving, Lubbock, Lynn, Madison, Marion, Martin, Mason, Matagorda, Maverick, McCulloch, Mclennan, McMullen, Medina, Menard, Midland, Milam, Mills, Mitchell, Montague, Montgomery, Moore, Morris, Motley, Nacogdoches, Navarro, Newton, Nolan, Nueces, Ochiltree, Oldham, Orange, Palo Pinto, Panola, Parker, Parmer, Pecos, Polk, Potter, Presidio, Rains, Randall, Reagan, Real, Red River, Reeves, Refugio, Roberts, Robertson, Rockwall, Runnels, Rusk, Sabine, San Augustine, San Jacinto, San Patricio, San Saba, Schleicher, Scurry, Shackelford, Shelby, Sherman, Smith, Somervell, Starr, Stephens, Sterling, Stonewall, Sutton, Swisher, Tarrant, Taylor, Terrell, Terry, Throckmorton, Titus, Tom Green, Travis, Trinity, Tyler, Upshur, Upton, Uvalde, Val Verde, Van Zandt, Victoria, Walker, Waller, Ward, Washington, Webb, Wharton, Wheeler, Wichita, Wilbarger, Willacy, Williamson, Wilson, Winkler, Wise, Wood, Yoakum, Young, Zapata, and Zavala.
+        *   Find Offices Button: When clicked preforms a function that takes user to local tax office (This function isn't in this PRD.)
+*   **Section:** Renew Driver License at Texas Department of Public Safety
+        *   **Call to Action:** Renew Driver License at Texas Department of Public Safety
+            *   **Link text:** Renew Driver License at Texas Department of Public Safety
+            *   **Link URL:** `https://www.dps.texas.gov/DriverLicense/`
+
+**3.2. "How can we make this page better for you?" Feedback Form**
+
+*   **Prompt:**  How can we make this page better for you?
+*   **Form Title:** We Value Your Feedback
+*   **Form Introduction:** "Your message will go to our web team. Thank you for helping us to serve you better!" "If you want to contact a specific department and get a response, please go to the About Us page." (Link to `/about-us`)
+*   **Form Fields:**
+    *   Email: Text input, required.
+    *   Message: Textarea, required.
+    *   Hidden "Middle" Field:  `edit-middle` field with label "Leave this field blank".  This is likely a spam prevention measure. The value of this field MUST be empty on submission.
+*   **Submit Button:** Send message
+*   **Success Message:** (To be confirmed, but typically a thank you message)
+
+**4. Out of Scope**
+
+*   Page layout and visual design
+*   Implementation of the search functionality
+*   Detailed implementation of the DMV Locator form
+*   Server-side processing of the feedback form.
+
+**5. Considerations**
+
+*   Accessibility: All content should adhere to WCAG guidelines.
+*   Mobile Responsiveness: The content should be structured to display correctly on various screen sizes.
+```

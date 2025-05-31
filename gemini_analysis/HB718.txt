@@ -1,0 +1,168 @@
+```
+## Product Requirements Document: TxDMV.gov - House Bill 718 Implementation Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the "House Bill 718 Implementation" page on the TxDMV.gov website. It focuses on accurately representing the information presented on the existing page, ensuring clarity and accessibility for the intended audience.
+
+**2. Goals**
+
+*   Provide clear and concise information about House Bill 718 and its impact.
+*   Offer specific guidance for motor vehicle dealers, county tax assessor-collectors, law enforcement, and the general public.
+*   Ensure stakeholders are aware of key dates and requirements for compliance.
+*   Provide access to relevant resources and training materials.
+
+**3. Target Audience**
+
+*   Motor vehicle dealers
+*   County tax assessor-collectors
+*   Law enforcement personnel
+*   General public (Texas residents buying or selling vehicles)
+
+**4. Scope**
+
+This document covers the content within the main content area of the "House Bill 718 Implementation" page. It excludes elements.
+
+**5. Content Requirements**
+
+### 5.1. Introduction Section
+
+*   **Heading:** House Bill 718 – Replacing Temporary Tags with Metal License Plates
+*   **Subheading:** *Important information for motor vehicle dealers, county tax assessor-collectors, law enforcement, and the public*
+*   **Paragraph 1:** The Texas Legislature enacted House Bill 718 (HB 718) during the 88th Legislative Session in 2023 to address concerns related to the fraudulent use of paper license tags. The new law and associated administrative rules mandate significant operational changes for the Texas motor vehicle industry **effective July 1, 2025**.
+    *   Link "House Bill 718": [https://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=88R&Bill=HB718](https://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=88R&Bill=HB718)
+*   **Paragraph 2:** The Texas Department of Motor Vehicles (TxDMV) is using all available avenues to provide the necessary information on operational changes and resources to support a smooth transition to the new policies, procedures, and logistics affecting motor vehicle dealers, county tax assessor-collectors, front-line law enforcement, and individuals buying or selling a motor vehicle.
+
+### 5.2. Tabbed Content Section
+
+This section contains information organized into tabs.
+
+**5.2.1. Important Dates Tab**
+
+*   **Heading:** April 30, 2025
+    *   **Bullet Point:** Requirement for licensed motor vehicle dealers to complete webDEALER training. Dealers who complete webDEALER training by this date will receive plates in advance of those who have not completed the training.
+*   **Heading:** May 2025
+    *   **Bullet Point:** Licensed dealers with active webDEALER accounts may begin ordering and receiving license plate inventory allocations.
+*   **Heading:** July 1, 2025
+    *   **Bullet Point:** All licensed dealers must issue metal license plates to buyers at the time of sale. Temporary tags will no longer be available to be printed for use.
+    *   **Bullet Point:** All licensed dealers must use webDEALER to process title and registration applications for vehicle sales.
+    *   **Bullet Point:** County Tax Assessor-Collector offices and Regional Service Centers begin issuing Temporary Registration metal plates for 30-Day and One-Trip Permits.
+
+**5.2.2. Dealers Tab**
+
+*   **Paragraph 1:** **webDEALER Requirement:** HB 718 requires Texas motor vehicle dealers to use webDEALER for processing title and registration applications electronically. ***IMPORTANT:*** <u>Dealers without webDEALER accounts on July 1, 2025, will not be able to complete motor vehicle sales transactions</u>. Dealers should coordinate with county tax assessor-collectors' offices for system access to webDEALER ahead of the deadline.
+    *   Link "county tax assessor-collectors' offices": [https://www.txdmv.gov/tax-assessor-collectors/county-tax-offices](https://www.txdmv.gov/tax-assessor-collectors/county-tax-offices)
+*   **Paragraph 2:** **webDEALER Access, Use, and Training Deadline:** Dealers are required by Texas Administrative Code rules to complete webDEALER training by April 30, 2025, unless they have been active webDEALER users for more than six months and submitted more than 100 transactions as of October 1, 2024.
+*   **Paragraph 3:** **webDEALER Training:** To support dealers and county staff in meeting the training requirement, TxDMV offers multiple webDEALER training sessions monthly, available both online and in person. On-demand video training in English and Spanish is also available. Check the TxDMV calendar page at [www.TxDMV.gov/calendar](http://www.txdmv.gov/calendar) for dates and registration information for monthly training sessions.
+    *   Link "on-demand webDEALER training in English": [https://register.gotowebinar.com/register/3976896617031502934](https://register.gotowebinar.com/register/3976896617031502934)
+    *   Link "on-demand webDEALER training in Spanish": [https://register.gotowebinar.com/register/5611149127908024918](https://register.gotowebinar.com/register/5611149127908024918)
+    *   Link "www.TxDMV.gov/calendar": [http://www.TxDMV.gov/calendar](http://www.txdmv.gov/calendar)
+*   **Paragraph 4:** **Metal Plate Implementation Training:**Guidance on the implementation of the new metal license plate requirements is also available in English: [Your Complete Guide to Metal Plate Implementation](https://register.gotowebinar.com/register/3251508116736670808)
+*   **New License Plates: Beginning July 1, 2025, Texas motor vehicle dealers will no longer issue the following from the eTAG system:**
+        *   Buyer Tags
+        *   Internet Down Tags
+        *   Vehicle Specific Tags
+        *   Agent Specific Tags
+*   **Paragraph 5:** Instead of these temporary tags, dealers will issue metal plates at the time of the sale. In most cases, general issue license plates will be issued and registered in the name of the buyer.
+*   **Paragraph 6:** Implementation of HB 718 created four limited-use metal plates to be used by dealers or county offices for specific temporary vehicle registration needs:
+*   **Table:** (See details below)
+*   **Paragraph 7:** These new license plates will not replace current metal dealer license plates or the general issue plates that dealers will most frequently issue. The current dealer metal plates remain permissible for personal use.
+*   **Paragraph 8:** Additionally, HB 718 will modify the process of issuing general issue license plates. Dealers will receive an allocation of general issue license plates directly to their licensed location that will be issued to a vehicle at the time of sale.
+*   **Paragraph 9:** **Plates Remain with Vehicle:** When a consumer sells or trades-in a vehicle to a dealer, the general issue license plates registered to the vehicle will stay with that vehicle. Dealers must store the plates securely and assign them to the next person who purchases the vehicle. Specialty and personalized plates will still be retained by the customer.
+*   **Paragraph 10:** **License Plate Distribution:** For most plates, HB 718 transitions from the current distribution model of license plates delivered to dealers by county offices to a direct-to-dealer model for general issue plates. Plates will be produced by the Texas Department of Criminal Justice (TDCJ) and shipped to a centralized distribution warehouse operated by a TxDMV contractor. A sufficient supply of plates will be maintained in the warehouse for distribution year-round to meet sales demand.
+*   **Paragraph 11:** Dealers will order, track, and assign plates easily and directly through a new web-based, accessible Inventory Management System (IMS).
+*   **Paragraph 12:** ***IMPORTANT:*** Dealers must complete webDEALER training or be active users of webDEALER before they can receive plate shipments.
+*   **Paragraph 13:** Dealers will order Dealer Temporary Plates through the eLICENSING system, just like the current process for existing Dealer Plates distributed by TxDMV. eLICENSING User Guide for Dealer Plate Applications: Standard Dealer Plate & Dealer Temporary Plate
+Link "eLICENSING User Guide for Dealer Plate Applications: Standard Dealer Plate & Dealer Temporary Plate": /sites/default/files/body-files/eLICENSING\_Plate\_App\_Guide-May\_2025.pdf
+*   **Paragraph 14:** **Plate Storage and Security:** Rules adopted by the TxDMV Board in October 2024 require dealers to secure plates in a locked room, closet, or one or more securely locked, substantially constructed safes or steel cabinets bolted to the floor or wall. Dealers must control employee access to the storage location to ensure plates are used only for legitimate sales.
+*   **Paragraph 15:** **Vehicle Transfer Notification:** On the sale or transfer of a motor vehicle to a dealer, the dealer must submit a Vehicle Transfer Notification (VTN). Dealers can submit the VTN online through the department's license plate system, currently known as eTAG.
+*   **Paragraph 16:** **Dealer Compliance:** The new Dealer Compliances Services Section in the TxDMV Enforcement Division will inspect dealer locations to verify compliance with license plate and premises requirements. Staff will offer education and guidance to dealers found non-compliant as they adapt to the new requirements.
+
+**5.2.3. County Tax Offices Tab**
+
+*   **Paragraph 1:** **webDEALER Requirement:** HB 718 requires Texas motor vehicle dealers to use webDEALER to submit title and registration applications to their county tax assessor-collector's office beginning July 1, 2025.
+*   **Paragraph 2:** **webDEALER Training:** To support county tax office staff and dealers, TxDMV offers multiple webDEALER training sessions each month, with online and in-person options. In addition to live training, an on-demand video training option is available in English and Spanish so dealers and their employees can complete the training at their convenience. Look for training dates and registration information on the TxDMV calendar page at [www.TxDMV.gov/calendar](http://www.txdmv.gov/calendar).
+    *   Link "on-demand webDEALER training in English": [https://register.gotowebinar.com/register/3976896617031502934](https://register.gotowebinar.com/register/3976896617031502934)
+    *   Link "on-demand webDEALER training in Spanish": [https://register.gotowebinar.com/register/5611149127908024918](https://register.gotowebinar.com/register/5611149127908024918)
+    *   Link "www.TxDMV.gov/calendar": [http://www.TxDMV.gov/calendar](http://www.txdmv.gov/calendar)
+*   **Paragraph 3:** **One-Trip and 30-Day Permits:** The law eliminates the 30-day and one-trip paper permits issued by county tax offices and TxDMV Regional Service Centers (RSCs). Beginning July 1, 2025, in place of paper permits, counties and RSCs will issue metal Temporary Registration License Plates with an expiration sticker on the plates.
+
+**5.2.4. Law Enforcement Tab**
+
+*   **Paragraph 1:** Combating Crime: The Texas Legislature passed HB 718 to address law enforcement concerns related to the fraudulent use of temporary tags and associated motor vehicle crimes.
+*   **Paragraph 2:** Elimination of Paper Tags: The new law eliminates the following six temporary tags:
+        *   Buyer Tags
+        *   Internet Down Tags
+        *   Vehicle Specific Tags
+        *   Agent Specific Tags
+        *   One-Trip Permits
+        *   30-Day Permits
+*   **Paragraph 3:** New Metal License Plates: Law enforcement personnel should familiarize themselves with the four new metal license plate types effective July 1, 2025:
+*   **Table:** (See details below)
+
+**5.2.5. General Public Tab**
+
+*   **Paragraph 1:** Consumers buying or selling a vehicle in Texas on or after July 1, 2025, may notice changes in how their license plates are issued or transferred.
+*   **Paragraph 2:** **Buying a Vehicle from a Dealer:** Customers who purchase a vehicle from a Texas dealer will receive metal license plates at the time the dealer delivers the vehicle, allowing them to immediately display the plates and operate the vehicle while awaiting their registration window sticker.
+*   **Paragraph 3:** **Trading In a Vehicle to a Dealer:** Effective July 1, 2025, when customers trade-in a vehicle, the dealer will keep the license plates registered to the vehicle (unless they are specialty or personalized plates), store them securely, then assign them to the new buyer when the dealer sells the vehicle at a later date. For Texas-titled vehicles, dealers will be required to submit a Vehicle Transfer Notification (VTN) to TxDMV notifying the department of the date the original customer sold the vehicle so their vehicle record can be updated.
+    *   Link "Vehicle Transfer Notification (VTN)": [https://webdealer.txdmv.gov/title/publicVehicleTransfer](https://webdealer.txdmv.gov/title/publicVehicleTransfer)
+*   **Paragraph 4:** **Buying or Selling a Vehicle in a Private Sale:** In private sales, the buyer will keep the license plates and register the vehicle in their name with their county tax assessor-collector's office. Sellers of Texas-titled vehicles should submit a Vehicle Transfer Notification (VTN) within 30 days of the sale to update their motor vehicle record. To process the VTN the seller is required to submit the buyer’s name and contact information – which should be collected by the seller at the time of sale.
+    *   Link "Vehicle Transfer Notification (VTN)": [https://webdealer.txdmv.gov/title/publicVehicleTransfer](https://webdealer.txdmv.gov/title/publicVehicleTransfer)
+
+**5.2.6. Resources Tab**
+
+*   **Heading:** May 2025
+    *   **Bullet Point:** URGENT: Action Required for Motor Vehicle Dealers
+    *Link: /sites/default/files/body-files/URGENT-Action\_Required\_for\_Motor\_Vehicle\_Dealers.pdf
+    *   **Bullet Point:** URGENTE: Acción Requerida para los Concesionarios de Vehículos Motorizados
+    *Link: /sites/default/files/body-files/URGENTE-Acción\_Requerida\_para\_los\_Concesionarios\_de\_Vehículos\_Motorizados.pdf
+*   **Heading:** April 2025
+    *   **Bullet Point:** House Bill 718 - Frequently Asked Questions (FAQ) About Dealer Plates
+    *Link: /sites/default/files/body-files/Dealer-Plate-FAQs\_HB718.pdf
+*   **Heading:** March 2025
+    *   **Bullet Point:** House Bill 718 - Dealers' Frequently Asked Questions (FAQs)
+    *Link: /sites/default/files/body-files/ENF%20HB%20718%20FAQ%20Dealer%20Handout%20032125.pdf
+    *   **Bullet Point:** Dealer reference brochure
+    *Link: /sites/default/files/body-files/Dealer\_Reference\_Brochure.pdf
+    *   **Bullet Point:** Referencia del concesionario
+    *Link: /sites/default/files/body-files/Referencia\_del\_concecionardio.pdf
+    *   **Bullet Point:** What dealers need to know about House Bill 718
+    *Link: /sites/default/files/body-files/What%20dealers%20need%20to%20know%20about%20House%20Bill%20718.pdf
+*   **Heading:** February 2025
+    *   **Bullet Point:** URGENT ACTION REQUIRED: Motor Vehicle Dealers
+    *Link: /sites/default/files/body-files/URGENT\_ACTION\_REQUIRED\_Motor\_Vehicle\_Dealers.pdf
+    *   **Bullet Point:** ACCIÓN URGENTE REQUERIDA: Concesionarios de Vehículos Motorizados
+    *Link: /sites/default/files/body-files/ACCI%C3%93N\_URGENTE\_REQUERIDA\_Concesionarios\_de\_Veh%C3%ADculos\_Motorizados.pdf
+
+**5.3 Table Format**
+
+The table structure is identical in the "Dealers" and "Law Enforcement" tabs. Recreate only the content:
+
+|  |  |  |
+|---|---|---|
+| **Image:**  [https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2025-02/purple-buyer-provisional-plate.jpg](https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2025-02/purple-buyer-provisional-plate.jpg) | **Plate Name:** Buyer Provisional Plate | **Description:** For short-term use if dealers lack the required plate type for the vehicle in their inventory. |
+| **Image:** [https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2025-02/blue-dealer-temporary-plate.jpg](https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2025-02/blue-dealer-temporary-plate.jpg) | **Plate Name:** Dealer Temporary Plate | **Description:** For dealers’ business-related uses, such as test drives, loaner vehicles, or transporting the vehicle. Personal use of vehicles with these plates is prohibited.<br/><br/>The new Dealer Temporarily Plate does not replace the current metal dealer license plate, which is permissible for dealers’ personal use. *[The secondary phrase only appears in the Law Enforcement Tab]* |
+| **Image:** [https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2025-02/green-out-of-state-buyer-plate.jpg](https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2025-02/green-out-of-state-buyer-plate.jpg) | **Plate Name:** Out-of-State Buyer Plate | **Description:** For vehicles sold to out-of-state buyers. |
+| **Image:** [https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2025-02/red-temp-reg-limited-use-plate.jpg](https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2025-02/red-temp-reg-limited-use-plate.jpg) | **Plate Name:** Temporary Registration Plate | **Description:** For temporary registration, replacing one-trip and 30-day permits (issued by county tax offices and TxDMV regional service centers). |
+
+**5.4. "How can we make this page better for you?" Feedback Form**
+
+Recreate the functionality of the feedback form.
+
+*   **Text:**  We Value Your Feedback
+    Your message will go to our web team. Thank you for helping us to serve you better!
+    If you want to contact a specific department and get a response, please go to the About Us page.
+*   Form Fields:
+    *   Email (required, email input)
+    *   Message (required, textarea)
+    *Leave this field blank (styled as a "honeypot" to deter spam, hidden field)
+*   Button: Send message
+
+**6. General Notes**
+
+*   Pay close attention to links and ensure they are accurate and functional.
+*   Maintain the original text and formatting as closely as possible.
+*   Table must be responsive.
+* The email form must be responsive.
+* This document has all the data needed to recreate the House Bill 718 page.
+```

@@ -1,0 +1,209 @@
+```
+## Product Requirements Document: TxDMV Home Page
+
+**1. Introduction**
+
+This document outlines the content requirements for recreating the TxDMV home page based on the provided HTML. This document will focus solely on content elements, including text, links, and structured data, without regard to specific design or layout.
+
+**2. Goal**
+
+To provide a complete and accurate representation of the TxDMV website home page content, ensuring another implementor can recreate the site.
+
+**3. Main Content Areas**
+
+**3.1. Topics Section**
+
+*   **Title:** How Do I?
+*   **Dropdown Label:** Select a topic
+*   **Dropdown Items:**
+    *   **Text:** File a Lemon Law Complaint?
+        *   **Link:** /motorists/consumer-protection/lemon-law
+        *   **Title Attribute:** How do I file a lemon law complaint
+    *   **Text:** Find the Right Mover for Me?
+        *   **Link:** /motorists/consumer-protection/dont-make-a-move
+        *   **Title Attribute:** Find the Right Mover for Me
+    *   **Text:** Get a Copy of My Title?
+        *   **Link:** /motorists/buying-or-selling-a-vehicle/get-a-copy-of-your-title
+        *   **Title Attribute:** How do I get a copy of my title
+    *   **Text:** Notify The TxDMV That I Sold My Vehicle?
+        *   **Link:** <https://webdealer.txdmv.gov/title/publicVehicleTransfer>
+        *   **Title Attribute:** Notify the TxDMV that I sold my vehicle?
+    *   **Text:** Register My Vehicle with the TxDMV?
+        *   **Link:** /motorists/register-your-vehicle
+        *   **Title Attribute:** How do I register my vehicle
+    *   **Text:** Transfer my license plates?
+        *   **Link:** /motorists/license-plates
+        *   **Title Attribute:** How do I transfer my license plates
+
+**3.2. Logo and Navigation**
+
+*   **Logo:**
+    *   **Alt Text:** Texas Department of Motor Vehicles Logo
+    *   **Link:** /
+    *   **Title:** Home
+
+**3.3. Hero Header (Main Banner)**
+
+*   **Background Image URL:** <https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-02/home-hero_0.jpg>
+*   **Search Placeholder Text:** Search for...
+*   **Search Title Text:** Search field
+*	**Click to submit your search text**: Click to submit your search
+
+**3.4. Emergency Alert**
+
+*   **Text:** TxDMV does not administer toll roads, issue traffic citations, or collect fees via text message. Any messages claiming unpaid fees or fines from TxDMV are fraudulent. You may report these messages to the FBI at [www.ic3.gov](<https://www.ic3.gov>).
+
+**3.5. Highlight Box**
+
+*   **Text:** Check with Your Local County Tax Assessor’s Office for Up-To-Date Closures and Office Hours.
+    *   **Link:** /covid-19
+    *   **Title Attribute:** Tax Assessor/Collectors
+
+**3.6. Popular Services**
+
+*   **Section Title:** Popular Services
+*   **Services:**
+    *   **Service 1:**
+        *   **Alt Text:** Vehicle Registration
+        *   **Image URL:** <https://d3eaozktcyljdh.cloudfront.net/sites/default/files/services/icon/2020-02/vehicle-registration.png>
+        *   **Link:** /motorists/register-your-vehicle
+    *   **Service 2:**
+        *   **Alt Text:** Renew Driver License at DPS
+        *   **Image URL:** <https://d3eaozktcyljdh.cloudfront.net/sites/default/files/services/icon/2020-02/renew-driver-license.png>
+        *   **Link:** /homepage-renew-drivers-license-dps
+    *   **Service 3:**
+        *   **Alt Text:** Buying or Selling a Vehicle
+        *   **Image URL:** <https://d3eaozktcyljdh.cloudfront.net/sites/default/files/services/icon/2020-02/buying-selling.png>
+        *   **Link:** /motorists/buying-or-selling-a-vehicle
+    *   **Service 4:**
+        *   **Alt Text:** Get a Copy of Your Vehicle Title
+        *   **Image URL:** <https://d3eaozktcyljdh.cloudfront.net/sites/default/files/services/icon/2020-02/copy-of-title.png>
+        *   **Link:** /motorists/buying-or-selling-a-vehicle/get-a-copy-of-your-title
+*   **Service 5:**
+    *   **Alt Text:** House Bill 718 Implementation
+    *   **Image URL:** <https://d3eaozktcyljdh.cloudfront.net/sites/default/files/services/icon/2025-02/HB718_home_icon_yellow.png>
+    *   **Link:** /HB718
+*   **Service 6:**
+    *   **Alt Text:** Regional Service Center Appointments
+    *   **Image URL:** <https://d3eaozktcyljdh.cloudfront.net/sites/default/files/services/icon/2020-10/rsc-appointment.png>
+    *   **Link:** /homepage-rsc-appointments
+*   **Service 7:**
+    *   **Alt Text:** Address Change
+    *   **Image URL:** <https://d3eaozktcyljdh.cloudfront.net/sites/default/files/services/icon/2020-02/address-change.png>
+    *   **Link:** /homepage-address-change
+*   **Service 8:**
+    *   **Alt Text:** File a Complaint
+    *   **Image URL:** <https://d3eaozktcyljdh.cloudfront.net/sites/default/files/services/icon/2020-02/complaint.png>
+    *   **Link:** /complaints
+*   **Service 9:**
+    *   **Alt Text:** Frequently Asked Questions
+    *   **Image URL:** <https://d3eaozktcyljdh.cloudfront.net/sites/default/files/services/icon/2023-03/faqs_0.png>
+    *   **Link:** /faqs
+*   **Service 10:**
+    *   **Alt Text:** New Resident
+    *   **Image URL:** <https://d3eaozktcyljdh.cloudfront.net/sites/default/files/services/icon/2023-03/new-resident.png>
+    *   **Link:** /motorists/new-to-texas
+*   **Service 11:**
+    *   **Alt Text:** License Plates
+    *   **Image URL:** <https://d3eaozktcyljdh.cloudfront.net/sites/default/files/services/icon/2025-02/license-plates_home_icon_green.png>
+    *   **Link:** /motorists/license-plates
+*   **Service 12:**
+    *   **Alt Text:** For Our Troops
+    *   **Image URL:** <https://d3eaozktcyljdh.cloudfront.net/sites/default/files/services/icon/2023-03/for-our-troops.png>
+    *   **Link:** /motorists/for-our-troops
+
+**3.7. Helpful Resources**
+
+*   **Section Title:** Helpful Resources
+*   **Vehicle Value Calculator:**
+    *   **Title:** Calculate Your Vehicle's Value
+    *   **IFrame Source:** <https://tools.txdmv.gov/tools/SPV/spv_lookup.php>
+    *   **IFrame Title:** Calculate Your Vehicle's Value
+    *   **More Information Link:** /standard-presumptive-calculator
+    *   **More Information Title:** standard presumptive calculator information
+    *	**More Information Text:** + More Information
+*   **DMV Locator:**
+    *   **Title:** Find Your Local Tax Office & DMV
+    *   **Form County Select Label:** County
+    *   **Form County Select Default Option:** - Select a county -
+        *(Rest of counties are listed as options)*
+        Anderson, Andrews, Angelina, Aransas, Archer, Armstrong, Atascosa, Austin, Bailey, Bandera, Bastrop, Baylor, Bee, Bell, Bexar, Blanco, Borden, Bosque, Bowie, Brazoria, Brazos, Brewster, Briscoe, Brooks, Brown, Burleson, Burnet, Caldwell, Calhoun, Callahan, Cameron, Camp, Carson, Cass, Castro, Chambers, Cherokee, Childress, Clay, Cochran, Coke, Coleman, Collin, Collingsworth, Colorado, Comal, Comanche, Concho, Cooke, Corpus Christi, Coryell, Cottle, Crane, Crockett, Crosby, Culberson, Dallam, Dallas, Dawson, Deaf Smith, Delta, Denton, Dewitt, Dickens, Dimmit, Donley, Duval, Eastland, Ector, Edwards, El Paso, Ellis, Erath, Falls, Fannin, Fayette, Fisher, Floyd, Foard, Fort Bend, Franklin, Freestone, Frio, Gaines, Galveston, Garza, Gillespie, Glasscock, Goliad, Gonzales, Gray, Grayson, Gregg, Grimes, Guadalupe, Hale, Hall, Hamilton, Hansford, Hardeman, Hardin, Harris, Harrison, Hartley, Haskell, Hays, Hemphill, Henderson, Hidalgo, Hill, Hockley, Hood, Hopkins, Houston, Howard, Hudspeth, Hunt, Hutchinson, Irion, Jack, Jackson, Jasper, Jeff Davis, Jefferson, Jim Hogg, Jim Wells, Johnson, Jones, Karnes, Kaufman, Kendall, Kenedy, Kent, Kerr, Kimble, King, Kinney, Kleberg, Knox, La Salle, Lamar, Lamb, Lampasas, Lavaca, Lee, Leon, Liberty, Limestone, Lipscomb, Live Oak, Llano, Loving, Lubbock, Lynn, Madison, Marion, Martin, Mason, Matagorda, Maverick, Mcculloch, Mclennan, McMullen, Medina, Menard, Midland, Milam, Mills, Mitchell, Montague, Montgomery, Moore, Morris, Motley, Nacogdoches, Navarro, Newton, Nolan, Nueces, Ochiltree, Oldham, Orange, Palo Pinto, Panola, Parker, Parmer, Pecos, Polk, Potter, Presidio, Rains, Randall, Reagan, Real, Red River, Reeves, Refugio, Roberts, Robertson, Rockwall, Runnels, Rusk, Sabine, San Augustine, San Jacinto, San Patricio, San Saba, Schleicher, Scurry, Shackelford, Shelby, Sherman, Smith, Somervell, Starr, Stephens, Sterling, Stonewall, Sutton, Swisher, Tarrant, Taylor, Terrell, Terry, Throckmorton, Titus, Tom Green, Travis, Trinity, Tyler, Upshur, Upton, Uvalde, Val Verde, Van Zandt, Victoria, Walker, Waller, Ward, Washington, Webb, Wharton, Wheeler, Wichita, Wilbarger, Willacy, Williamson, Wilson, Winkler, Wise, Wood, Yoakum, Young, Zapata, Zavala
+    *   **Form Submit Button Text:** Find Offices
+*   **Work With Us:**
+    *   **Section Title:** Work with Us
+    *   **Links:** (These link to the *Footer/Work with Us* list
+        *   Careers
+        *   Contractors/Vendors
+        *   Lienholders
+        *   MVCPA Grantees
+        *   Law Enforcement Data Assistance
+        *   Regional Service Centers
+        *   Tax Assessor-Collectors
+
+**3.8. Key Resources**
+
+*   **Section Title:** Key Resources
+*   **Dealer Resources:**
+    *   **Image URL:** <https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-02/home-dealers.jpg>
+    *   **Title:** Dealers
+    *   **System Logins:**
+        *   eLICENSING Login: <https://texasdmv.force.com/customers/lace_login>
+        *   MVInet Login: <https://ssoextprd.txdmv.gov/sso/UI/Login?goto=http%3A%2F%2Fmvinet.txdmv.gov%2Fmvdi%2Fmvdi.html>
+        *   webDEALER Login: <https://webdealer.txdmv.gov/title/login>
+        *   webSALVAGE Login: <https://webdealer.txdmv.gov/title/salvageLogin>
+    *   **Dealer Resources:**
+        *   Dealer Application Status Check: <https://txdmv.force.com/GetWorkItem>
+        *   Dealer Complaints: /complaints
+        *   Title Check: /motorists/buying-or-selling-a-vehicle/title-check-look-before-you-buy
+*   **Motor Carrier Resources:**
+    *   **Image URL:** <https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-02/home-motor-carriers.jpg>
+    *   **Title:** Motor Carriers
+    *   **System Logins:**
+        *   MCCS Login: <https://apps.txdmv.gov/apps/mccs/motorcarrier/>
+        *   TxPROS Login: <https://txpros.txdmv.gov>
+        *   TxFLEET Login: <https://txfleet.txdmv.gov/>
+    *   **Motor Carrier Resources:**
+        *   Carrier License Search: <https://apps.txdmv.gov/apps/mccs/truckstop/>
+        *   eLINC: <https://apps.txdmv.gov/apps/mccs/txelinc/>
+        *   Motor Carrier Complaints: /complaints
+        *   Temporary Permits: /motorists/register-your-vehicle/temporary-permits
+*   **Upcoming Events:**
+    *   **Image URL:** <https://d3eaozktcyljdh.cloudfront.net/sites/default/files/2020-02/home-upcoming-events.jpg>
+    *   **Title:** Upcoming Events
+    *   **Event Data:** (Display a table with the 5 most recent entries)
+        *   May 29: Metal Plate Changes & Processes – House Bill 718 and Inventory Management System (IMS) Training (/calendar/metal-plate-changes-processes-house-bill-718-and-inventory-management-system-ims-7)
+        *   May 29: Metal Plate Changes & Processes – House Bill 718 and Inventory Management System (IMS) Training (/calendar/metal-plate-changes-processes-house-bill-718-and-inventory-management-system-ims-8)
+        *   May 30: Metal Plate & Inventory Management (IMS) Changes and Processes Training (/calendar/metal-plate-inventory-management-ims-changes-and-processes-training-5793)
+        *   Jun 4: Dealer Training Webinar - Part 1 (/calendar/dealer-training-webinar-part-1-5777)
+        *   Jun 5: Dealer Training Webinar - Part 2 (/calendar/dealer-training-webinar-part-2-5778)
+
+    *   **"View All Events" Link:** /calendar
+
+**3.9. FAQs and Popular Forms**
+
+*   **FAQs Section:**
+    *   **Title:** FAQs
+    *   **Link:** /faqs
+*   **Popular Forms Section:**
+    *   **Title:** Popular Forms
+    *   **Forms:**
+        *   Application for Certified Copy of Title (VTR-34): /sites/default/files/form_files/VTR-34.pdf
+        *   Application for Texas Title and/or Registration, Title Transfer (Form-130-U): /sites/default/files/form_files/130-U.pdf
+        *   Change of Address for Texas Motor Vehicle (VTR-146): /sites/default/files/form_files/VTR-146.pdf
+        *   Detailed Instructions for Application for Texas Title and/or Registration (VTR-130-UIF): /sites/default/files/form_files/VTR-130-UIF.pdf
+        *   Texas Motor Vehicle Transfer Notification (VTR-346): /sites/default/files/form_files/VTR-346.pdf
+    *   **"View All Forms" Link:** /forms
+
+**3.10 Feedback Form**
+
+*   **Title:** We Value Your Feedback
+*   **Text:** Your message will go to our web team. Thank you for helping us to serve you better! If you want to contact a specific department and get a response, please go to the [About Us page](/about-us).
+*   **Form Elements:**
+    *   **Email:** (required)
+    *   **Message:** (required)
+    *   **Send message Button Label:** Send message
+
+**4. Footer**
+
+*The document does not require the footer to be written out.*
+```
